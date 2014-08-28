@@ -1,0 +1,42 @@
+---
+layout: post
+status: publish
+published: true
+title: Alți 10 ani
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 4793
+wordpress_url: http://www.rusiczki.net/?p=4793
+date: !binary |-
+  MjAxNC0wOC0yMiAxMDo0MzoxOCArMDIwMA==
+date_gmt: !binary |-
+  MjAxNC0wOC0yMiAwNzo0MzoxOCArMDIwMA==
+categories:
+- Life
+tags: []
+comments: []
+---
+<p><a href="http://www.rusiczki.net/wp-content/uploads/2014/08/P7030435.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2014/08/P7030435-693x462.jpg" alt="Cluj - Bila din Zorilor" width="693" height="462" class="alignnone size-medium wp-image-4812" /></a></p>
+<p>Tocmai am verificat și am observat că în acest an s-au împlinit 10 ani de când mi-am luat zborul din casa părintească <a href="http://www.rusiczki.net/2004/05/18/the-new-home/">mutându-mă pe atunci în chirie</a> într-o garsonieră din Baia Mare. Garsonieră în care am locuit din mai 2004 până fix la sfârșitul lui 2007.</p>
+<p>Cum mi-am adus aminte de asta tocmai acuma? Păi sunt la Cluj în delegație și mi-am uitat gelul de duș acasă. E evident, nu? Nu? Explicația este că îmi amintesc bine mirosurile și le asociez cu anumite lucruri. Și așa îmi amintesc că atunci când m-am mutat la garsonieră mi-am luat un gel de duș Palmolive Aroma Therapy de la Artima (un supermarket ce s-a închis destul de repede în Baia Mare) mirosul căreia mi-a rămas asociat cu acel moment din viață. Același gel de duș l-am luat și de data asta din Billa ce se vede în fotografia de mai sus, aflat foarte aproape de apartamentul firmei unde stau acum. De aici asocierea. Tot așa, de câte ori simt miros de săpun Protex îmi aduc aminte de tabăra de informatică de la Bușteni la care am participat în vacanța de primăvara din clasa a opta. Coincidental asta a fost acu' 20 de ani. E oficial, sunt bătrân.</p>
+<p>Revenind la garsonieră, nu mă leagă tocmai cele mai plăcute amintiri de ea. Calitatea lăsa de dorit. Și când spun că lăsa de dorit înseamă că lăsa mult de dorit. Șeful de scară era un alcoolic notoriu. Vecinii erau bizari. Neavând termopane puteam număra fiecare nuntă ce trecea, fiecare scandal ce se desfășura jos la fel cum putea măsura viteza vântului care trecea pe sub geam. Viața româneasca la bloc. Știu că am fot foarte nostalgic când am împachetat toate și am făcut poze dar de când am plecat de acolo nu mi-a fost dor nici o secundă.</p>
+<p>Cât despre Cluj, m-au tot întrebat colegii ce părere am despre oraș și am cam tras din umeri deoarece chiar dacă nu am făcut facultatea aici, sunt de mult un "regular"... Și culmea că majoritatea timpului m-am învârtit tot prin zona aceasta a Zorilor / Observator. Să facem o scurtă trecere în revistă:</p>
+<ul>
+<li>Cred că am fost într-o excursie în generală pe aici dar e cam neclară amintirea...</li>
+<li>Prima vizită care mi-o amintesc a fost când am venit cu colegii să ne înscriem la facultate prin '98, cu trenul desigur și cu aventura găsirii facultății dar aia a fost o vizită scurtă.</li>
+<li>Apoi am revenit pentru examene care au coincis cu rave-ul de la Hoia despre care citisem atât de multe în TV Satelit. Am fost cazat într-unul din căminele studențești de la Observator și știu că revenind de la party am bătut pe jos tot Clujul ocolind mult pe Calea Turzii. Spoiler: nu am intrat la facultate în Cluj, că am fost prostuț și am încercat doar la UTCN (la Babeș aș fi intrat cu aceași notă) dar am intrat la Baia Mare cu bursă.</li>
+<li>Apoi am revenit pentru tot soiul de party-uri techno și am dormit pe la prieteni în majoritate tot prin Observator. Plus vizitele anuale cu ocazia rave-ului de la Hoia anterior amintit dar alea erau în general fără cazare.</li>
+<li>Întâlnirea cu prietena de pe atunci tot în Cluj s-a desfășurat și tot în Observator am stat.</li>
+<li>Am venit odată cu patronii de la prima firmă la care am lucrat și îmi amintesc că am mâncat la Hubertus și am chefuit cred într-un club situat tocmai în clădirea din fotografia de mai sus - asta a fost ultima revelație ce am avut-o privind poza.</li>
+<li>După ce am cunoscut-o pe Ioana și cât timp era studentă am venit de câteva ori pe la ea, de data asta "cazându-mă" la ea în Căminul 14 din Hașdeu.</li>
+<li>A urmat apoi o scurtă pauză în care vizitele nu au mai fost atât de dese - cam printre printre anii 2005 - 2007, minus <a href="http://www.rusiczki.net/2006/12/31/el-grande-year-end-recap/">aventurile</a> cu maică-mea și Dacia și vizita pentru interviu cu ocazia primei mele angajări la firma la care lucrez momentan.</li>
+<li>Am reînceput apoi să vizităm Clujul cu Ioana pentru tot soiuri de party-uri și cum Club MIDI era în zona asta tot pe aici ne-am găsit pensiuni.</li>
+<li>Iar acum 2 + 1 săptămâni de delegație, care mi-au picat foarte bine, o schimbare de atmosferă, primele mele ture de alergare, și aprofundarea hărții mentale a cartierului Zorilor...</li>
+</ul>
+<p>Cam asta ar fi povestea "relației" mele cu Clujul. :)</p>

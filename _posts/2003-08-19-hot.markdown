@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: Hot
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 173
+wordpress_url: http://www.rusiczki.net/wp/?p=173
+date: !binary |-
+  MjAwMy0wOC0xOSAxNTowOTo0MyArMDIwMA==
+date_gmt: !binary |-
+  MjAwMy0wOC0xOSAxMjowOTo0MyArMDIwMA==
+categories:
+- General
+tags: []
+comments: []
+---
+<p>It's so hot!<br />
+I can't do one thing.<br />
+And that's work.<br />
+So I better go and sleep a little.</p>

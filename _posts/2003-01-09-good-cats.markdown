@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Good cats
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 51
+wordpress_url: http://www.rusiczki.net/wp/?p=51
+date: !binary |-
+  MjAwMy0wMS0wOSAwMjozOToyMSArMDEwMA==
+date_gmt: !binary |-
+  MjAwMy0wMS0wOCAyMzozOToyMSArMDEwMA==
+categories:
+- Life
+tags: []
+comments: []
+---
+<p><a href="http://www.rusiczki.net/blog/blogpics/kittens_in_a_box.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/kittens_in_a_box.php','popup','width=700,height=700,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.rusiczki.net/blog/blogpics/kittens_in_a_box-thumb.jpg" width="200" height="200" border="0" alt="Good cats" class="postimage" /></a> "Many good people fit well in a small space" teaches us a Hungarian saying. I don't know if it works for cats too but judging from this picture it seems so. However saying this is a little exagerated, because that black cat isn't exactly the definition of "good". He's naughty. Really-really naughty.<br />
+And I haven't said anything about how spoiled he is. I discovered that you can observe how your parents are getting older by looking at their attitude regarding domestic animals. 5 years ago the cats were treated like in the army but nowadays they suddenly discovered that those "cute little beings" only like cat food (and not all kinds, only the expensive kinds!) and they can't be put out for the night. Especially in the winter. So the "cute little beings" (I won't argue about the "cute" factor) sleep nicely in our bathroom. I won't say anything about the smell that persists there but it's far from what I would call "nice"...<br />
+It's a "cute" pic though. Shot it yesterday morning ignoring the rush of getting ready to go boarding for a moment. Worth it.</p>

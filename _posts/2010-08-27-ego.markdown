@@ -1,0 +1,57 @@
+---
+layout: post
+status: publish
+published: true
+title: ego++
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 1128
+wordpress_url: http://www.rusiczki.net/?p=1128
+date: !binary |-
+  MjAxMC0wOC0yNyAxMjozMzoxOSArMDIwMA==
+date_gmt: !binary |-
+  MjAxMC0wOC0yNyAwOTozMzoxOSArMDIwMA==
+categories:
+- Technical
+tags: []
+comments:
+- id: 23276
+  author: manu
+  author_email: 
+  author_url: ''
+  date: !binary |-
+    MjAxMS0xMS0wMSAxMzowMToxMiArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMS0xMS0wMSAxMDowMToxMiArMDEwMA==
+  content: mai fa un ego search si acum - o sa ramai surprins ;))
+- id: 23277
+  author: Janos
+  author_email: 
+  author_url: http://rusiczki.net
+  date: !binary |-
+    MjAxMS0xMS0wMSAxMzoxMzozOSArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMS0xMS0wMSAxMDoxMzozOSArMDEwMA==
+  content: Acuma deja e prea complicat algoritmul de la Google. Daca ti-e prieten
+    sau daca a dat cineva din cercul de prieteni share pe G+ apare pe primele locuri
+    si din astea.
+- id: 23278
+  author: manu
+  author_email: 
+  author_url: ''
+  date: !binary |-
+    MjAxMS0xMS0wMSAxMzoxNzozOSArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMS0xMS0wMSAxMDoxNzozOSArMDEwMA==
+  content: da, chiar ..
+---
+<p>Well, I just did <a href="http://www.google.com/search?q=janos">an ego search</a> and guess what...</p>
+<p><img src="http://www.rusiczki.net/wp-content/uploads/2010/08/janos-Google-Search1-500x410.png" alt="janos - Google Search" width="500" height="410" class="alignnone size-medium wp-image-1130" /></p>
+<p>I'M THE FOURTH FREAKIN' JANOS ON THE PLANET!!! At least according to Google.</p>
+<p>Immortality here I come! :)</p>

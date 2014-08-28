@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: Pause
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 306
+wordpress_url: http://www.rusiczki.net/wp/?p=306
+date: !binary |-
+  MjAwNC0wNy0wMiAxNDo1NToxOSArMDIwMA==
+date_gmt: !binary |-
+  MjAwNC0wNy0wMiAxMTo1NToxOSArMDIwMA==
+categories:
+- Life
+tags: []
+comments: []
+---
+<p>Work. Work. Work. And more work.<br />
+No time to post. No time at all for nothing else than work.<br />
+I'm going to Cluj (now) to take a short brake.<br />
+Coming back on Sunday afternoon. Ready to... work.</p>

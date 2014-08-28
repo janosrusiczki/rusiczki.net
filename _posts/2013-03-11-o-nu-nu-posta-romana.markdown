@@ -1,0 +1,42 @@
+---
+layout: post
+status: publish
+published: true
+title: O nu, nu Poșta Română!
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 4402
+wordpress_url: http://www.rusiczki.net/?p=4402
+date: !binary |-
+  MjAxMy0wMy0xMSAxODoyMTowOCArMDEwMA==
+date_gmt: !binary |-
+  MjAxMy0wMy0xMSAxNToyMTowOCArMDEwMA==
+categories:
+- Română
+tags: []
+comments:
+- id: 28834
+  author: Bogdan Bota
+  author_email: 
+  author_url: ''
+  date: !binary |-
+    MjAxMy0wMy0yOCAxNTo0NDowMCArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMy0wMy0yOCAxMjo0NDowMCArMDEwMA==
+  content: Posta se confrunta cu aceleași probleme, peste tot. Aici, de exemplu, nu
+    o sa mai livreze scrisori (ma rog, plicuri, ca 80% e junk) sambata. E ceva normal.
+    Timpurile se schimba, ei trebuie sa se adapteze.
+---
+<p><a href="http://www.rusiczki.net/wp-content/uploads/2013/10/DSC_3307.jpg"><img class="alignnone size-medium wp-image-4562" alt="Cărți poștale" src="http://www.rusiczki.net/wp-content/uploads/2013/10/DSC_3307-693x358.jpg" width="693" height="358" /></a></p>
+<p>Citesc știrile din ultima vreme despre Poșta Română și rămân cu un gust amar în gură. Cuvintele cheie sunt: privatizare, închideri de oficii, angajați lăsați pe drumuri... Nimic bun. Zic că toate astea îmi lasă un gust amar fiindcă eu de multă vreme consider poșta ceva apropiat, un soi de constantă pe care puteam oricând să mă bazez. Nu știu care va fi soarta oficiului din Baia Sprie, dar sper să nu dispară.</p>
+<p>"Relația" noastră a demarat din adolescență, când am început să corespondez cu diferite persoane mai mult ca să am o ocupație, căci de anii de dinainte să-mi cumpere ai mei primul PC îmi amintesc ca de "marea plictiseală"... Și așa am început să schimb scrisori cu diferiți omuleți, în general interesați de aceleași stiluri de muzică ca mine. Îmi amintesc că în culmea plictiselii chiar am plasat un anunț în TV Satelit (revistă de mare circulație la acea vreme) prin care îmi căutam parteneri de corespondență și cum mi-au greșit ăia adresa la tipărire un teanc de scrisori au ajuns la un vecin, care mi le-a predat peste câteva luni când s-au descâlcit ițele încurcăturii. La un moment dat corespondam activ cu vreo 4 persoane așa că umblam pe la poștă destul de des să expediez plicurile cu misivele mele pline de idei geniale. În comentariile la știrile din aceste zile am citit despre angajați plictisiți și obraznici, un lucru de neînțeles pentru mine. Eu nu am dat niciodată de așa ceva. Probabil fiindcă eram și eu, băiatul bine crescut, o gură de aer proaspăt pentru doamnele de la ghișeu care-și petreceau majoritatea zilei zicând a 348-a oara 'nu' cetățenilor de culoare ce-și făceau veacul în incinta poștei în așteptarea ajutoarelor sociale.</p>
+<p>Odată cu apariția PC-ului în viața mea, și în aproximativ același timp a e-mail-ului, cantitatea de scrisori expediate a scăzut. În schimb cum accesul la Internet era limitat, am început să schimb dischete prin poștă și m-am "internaționalizat" corespondând cu un tip din Ungaria care l-am cunoscut explorând CD-ul atașat unei reviste de jocuri care distribuia și conținut creat de cititori, în cazul lui muzică. Îmi amintesc că la un moment dat am primit de la el un pachet și pe vremea aia a fost o adevărată aventură să-l scot de la vamă (vorbim aici de 1999 - 2000). În schimb plicurile doldora de dischete și casete ajungeau direct în căsuța poștală și zilele când primeam câte ceva erau mereu mici sărbătoari pentru mine. Menționez aici ca m-am întâlnit cu Attila după mulți ani, mai precis la sfârșitul lui 2010 când am lucrat pentru 3 luni în Budapesta. A fost o experiență foarte interesantă - nu ne cunoșteam dar totuși ne cunoșteam.</p>
+<p>Încet-încet accesul la Internet a devenit mai facil și cum am putut transfera cantități tot mai mari de date și tot mai multă lume avea adresă de email a apus complet era scrisorilor - chiar și a celor folosite ca paravan pentru transmiterea de date. Însă am început să folosesc <a href="http://www.okazii.ro">okazii.ro</a> și au început să vină pachetele... Perioada aceasta este acoperită deja de blog, de exemplu prin <a href="http://www.rusiczki.net/2004/02/05/damn-army-service-die-die-die/">articolul</a> care menționează cum am primit PlayStation 2-ul mult așteptat împreună cu alte vești mai puțin binevenite. În general din acest moment nu mai așteptam scrisori ci avize. Care au sosit în 99% din cazuri la timp, câteodată chiar mai rapid decât mă așteptam. Îmi amintesc de o excepție notabilă când după prima investiție masivă în aparatură fotografică m-am gândit să economisesc ceva bani la comandarea unor mărunțișuri de la f64, și am ales Poșta Română la transport în loc de curier. Am așteptat atunci o săptămână jumate după un amărât de pachețel. Dar așa cum spuneam aceasta a fost excepția care întărește regula. O vreme pachetele din străinătate soseau haotic, unele direct acasă și altele la vamă dar apoi odată cu intrarea României în Uniunea Europeană s-au definit mai clar regulile: pachetele din EU la poștă din Baia Sprie, restul la vamă.</p>
+<p>Avalanșa de pachete străine a început când România a fost tăiată de pe lista neagră a PayPal și în final se puteau face comenzi de pe eBay. Am profitat foarte mult de eBay, comandându-mi o serie de mărunțișuri de la chinezi (majoritatea timpului la o zecime din prețul românesc) care toate îmi soseau prin poșta obișnuită. Termenul magic era de 2 săptămâni și mă obișnuisem foarte bine cu el, câteodată mergeam înainte să primesc avizul la vamă (mai precis Oficiul Poștal nr. 1), și angajatele de acolo știau deja că trebuie să-l caute pe "domnul din Baia Sprie". Am comandat și din Europa, și aici partea frumoasă a fost că ai mei fiind amândoi în pensie, erau în relații foarte bune cu poștașul și astfel pachetele mai mici îmi erau livrate direct acasă, sărind peste tot procesul de avizare. Recordul a fost undeva la 3 sau 4 zile, între comanda de pe eBay și ajunsul pachetului acasă. Chiar și acuma mă mir cum a fost posibil. Anii au trecut rapid, pachetele au venit, Janos a fost mulțumit.</p>
+<p>Mi-am dat seama că ceva nu e bine pe la începutul acestul an, când am fost nevoit să aștept 3 respectiv 4 săptămâni după două pachete comandate din China. Și din păcate știrile mi-au confirmat temerile. Dar sunt optimist și sper să se stabilizeze situația, să nu ajungă și Poșta Română o amintire a ce a fost, așa cum au ajuns multe alte instituții din România. Din ce am scris mai sus cred că se poate deduce că nu vorbesc în necunoștință de cauză atunci când zic că și-au făcut bine treaba toți anii ăștia și că ar fi un mare păcat. Speranța moare ultima...</p>

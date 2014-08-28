@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Wow!
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 29
+wordpress_url: http://www.rusiczki.net/wp/?p=29
+date: !binary |-
+  MjAwMi0xMi0zMSAwMzo1MjozMCArMDEwMA==
+date_gmt: !binary |-
+  MjAwMi0xMi0zMSAwMDo1MjozMCArMDEwMA==
+categories:
+- General
+tags: []
+comments: []
+---
+<p>Holy Cow! I want this <a href="http://www.copyleft.net/item.phtml?dynamic=1&page=product_642_front.phtml" title="Cool PHP T-Shirt">t-shirt</a>! I need it!<br />
+I want to be a bigger geek than I am right now.<br />
+And this can be achieved partly by buying / making geeky t-shirts.</p>

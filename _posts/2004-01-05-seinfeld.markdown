@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Seinfeld
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 221
+wordpress_url: http://www.rusiczki.net/wp/?p=221
+date: !binary |-
+  MjAwNC0wMS0wNSAyMzo1NTowMiArMDEwMA==
+date_gmt: !binary |-
+  MjAwNC0wMS0wNSAyMDo1NTowMiArMDEwMA==
+categories:
+- Life
+tags: []
+comments: []
+---
+<p>I must fit my TV tuner back into the computer. It's been collecting dust for more than a year anyway. And now it looks like there's finally something worth seeing on local cable: there are two episodes (I think) of <a href="http://www.spe.sony.com/tv/shows/seinfeld/">Seinfeld</a> each night on <a href="http://www.protv.ro" title="What an absolutely crappy site!">Pro TV</a>.</p>

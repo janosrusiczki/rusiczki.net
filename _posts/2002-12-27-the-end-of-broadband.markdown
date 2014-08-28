@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: The end of broadband
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 22
+wordpress_url: http://www.rusiczki.net/wp/?p=22
+date: !binary |-
+  MjAwMi0xMi0yNyAxOTo0OTo0MiArMDEwMA==
+date_gmt: !binary |-
+  MjAwMi0xMi0yNyAxNjo0OTo0MiArMDEwMA==
+categories:
+- General
+tags: []
+comments: []
+---
+<p>I'm so sad. I do not have access to broadband Internet anymore. Here's the full story:<br />
+I worked in an Internet Caf&eacute; starting with the autumn of 1998 til January 2000. This Internet Caf&eacute; belonged to <a href="http://www.ubm.ro" title="ubm.ro">my University</a>. They had (and still have) a 256 kbps ADSL connection which didn't always worked at full capacity (sometimes the connection quality was so shitty that you had to wait half an hour for Yahoo! Mail), but when it worked it worked good and I pretty much abused it as much as I could. 'Abused' here means that I was intensively using it to download MP3s and the alikes. I feel I had the right to do so since the sallary was somewhere next to nothing and I did lots of favours for them (like designing the webpage).<br />
+In 2000 I went to work to a company which looked very nice at the begining. There we had a 64 kbps connection. Which worked much better but since there were 4 computers it was always busy downloading this and that. Mostly my stuff. That's why my collegues called my 'Mr. Downloader'.<br />
+This company ended pretty tragically in January 2001 (yeah, it lasted exactly a year). By that time I had practically no Internet connection. Luckily I had a friend working in another Internet Caf&eacute; so I could read my email and check on the Web Development news and the such.<br />
+In the spring of 2002 I received a call from the University's rector who told me that he hired a new sysadmin and he would like me to go down to discuss the technical problems with the new man. He probably didn't have anyone else to call. Hehe. Anyway, I went. Met the guy. He was nice. We understood each other. It was cool. Of course I couldn't miss the oportunity to access broadband again. So I asked him for the key of the Caf&eacute; and there I was. Downloading again. And this went on all the summer because I made myself a copy of the key. Hehe. When somebody asked me what was I doing there I always said that the Rector asked me and this always worked.<br />
+I went down today, after a pause of more than three months, because I heard that they upgraded the connection. Sadly I found the Caf&eacute; empty. I mean the computers weren't there anymore.<br />
+Looking at 80 CDs full of MP3s that I have (plus lots of stuff on my hard drive which I still have to burn) I'm surely grateful. But it would have been great if it would have lasted just a little more.<br />
+Too bad.</p>

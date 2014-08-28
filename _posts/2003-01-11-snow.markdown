@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Snow
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 56
+wordpress_url: http://www.rusiczki.net/wp/?p=56
+date: !binary |-
+  MjAwMy0wMS0xMSAwNzowMzo0NiArMDEwMA==
+date_gmt: !binary |-
+  MjAwMy0wMS0xMSAwNDowMzo0NiArMDEwMA==
+categories:
+- Life
+tags: []
+comments: []
+---
+<p>It's snowing heavily outside. Really heavily. And yesterday snowed all the day. Good chances to board today! Even in the snowfall.</p>

@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Oh no...
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 82
+wordpress_url: http://www.rusiczki.net/wp/?p=82
+date: !binary |-
+  MjAwMy0wMi0wMyAyMzowNzoxOCArMDEwMA==
+date_gmt: !binary |-
+  MjAwMy0wMi0wMyAyMDowNzoxOCArMDEwMA==
+categories:
+- Web
+tags: []
+comments: []
+---
+<p>[ Mon 02/03/2003 07:43 PM ] Delayed due to customs inspection // Event localization : BUCHAREST<br />
+I see it already. Another week... Stuck. What I don't understand is what the fuck are they inspecting on a cable and a pair of shoes!?<br />
+I hate this country!</p>

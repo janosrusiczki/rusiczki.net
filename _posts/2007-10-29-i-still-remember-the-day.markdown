@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: I still remember the day...
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 479
+wordpress_url: http://www.rusiczki.net/wp/?p=479
+date: !binary |-
+  MjAwNy0xMC0yOSAxNzoxMjozMyArMDEwMA==
+date_gmt: !binary |-
+  MjAwNy0xMC0yOSAxNDoxMjozMyArMDEwMA==
+categories:
+- Web
+- Technical
+tags: []
+comments: []
+---
+<p>... when my blog used to have PageRank 5. It now stands at a shameful 3. Apparently there are <a href="http://seo2.0.onreact.com/the-day-pagerank-died">no reasons</a> to panic. And what to do with all the money gained from selling those Google shares? Invest in <a href="http://www.apple.com/macosx/">Apple</a>! Although Ars Technica would <a href="http://arstechnica.com/reviews/os/mac-os-x-10-5.ars">disagree</a>. Hmmm. Decisions - decisions.</p>

@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Slow days
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 174
+wordpress_url: http://www.rusiczki.net/wp/?p=174
+date: !binary |-
+  MjAwMy0wOC0yMSAxNDoyNzoxMyArMDIwMA==
+date_gmt: !binary |-
+  MjAwMy0wOC0yMSAxMToyNzoxMyArMDIwMA==
+categories:
+- General
+tags: []
+comments: []
+---
+<p>Not much happening.<br />
+Hot, late-summer days go by. I should work but instead I stare most of the time at my computer's monitor. Doing various stuff. Nothing really important. Moving MP3s from one folder to another and other challenging stuff like this.<br />
+There should be some camping action during the weekend. But there are some factors. Because we (they) don't know exactly when they want to go. Friday or Saturday. I go if we go Friday but I better go to the disco if they go on Saturday. I hope we go Friday though because I really feel the need to burn my throat with some tequilla or some other dangerous beverages. The call of the wild.<br />
+I think I'll do some work now, though. Because I have some dreams. And to fulfill your dreams you need money. At least <em>I</em> need money to fulfill <em>my</em> dreams. Yeah. So, let's fire up <a href="http://www.editplus.com">EditPlus</a>.<br />
+<em>Written while listening to: Goldenscan - Of Our Times (Burufunk Remix)</em></p>

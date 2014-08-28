@@ -1,0 +1,34 @@
+---
+layout: post
+status: publish
+published: true
+title: Cavnic - 3 years later
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 443
+wordpress_url: http://www.rusiczki.net/wp/?p=443
+date: !binary |-
+  MjAwNy0wMS0yOCAxMzowNTozOCArMDEwMA==
+date_gmt: !binary |-
+  MjAwNy0wMS0yOCAxMDowNTozOCArMDEwMA==
+categories:
+- Life
+- Snowboard
+tags: []
+comments: []
+---
+<p><img src="http://www.rusiczki.net/blog/blogpics/cavnic_night_lighting.jpg" width="500" height="148" alt="The slopes at Icoana now featuring night lighting!" class="image" /><br />
+As yesterday night I barely had the energy to upload <a href="http://www.flickr.com/photos/janos/archives/date-taken/2007/01/27/">a few photos</a> to Flickr (one of which you can see above) the <a href="http://www.rusiczki.net/blog/archives/2007/01/26/the_weather_as_it_should_be">promised review</a> for this season's real opener was postponed for today. Here it comes...<br />
+I first visited the slopes at Cavnic about <a href="http://www.rusiczki.net/blog/archives/2004/02/21/snowboarding_trip">3 years ago</a> and back then the place made quite an impression on me. So I had rather high expectations after hearing that the guys at Icoana now had night lighting on the slopes. Unfortunately I was in for one sour disappointment...<br />
+But let's take it step by step. First of all, driving on snowed in roads is quite a challenge. I'm not going into details but I'm not exaggerating much when I say that driving to and from <a href="http://en.wikipedia.org/wiki/Cavnic">Cavnic</a> was at least as soliciting as the snowboarding itself. But it's not that surprising if we consider that this was my first driving session on snow. <a href="http://www.flickr.com/photos/janos/270080029/">The car</a> performed surprisingly good although when we returned home and I cleared it before putting it in the garage I saw that it had tons of ice stuck on every imaginable exposed part. The weather didn't exactly offer what one would call the optimal functioning parameters but it still worked out well. It brought us up there, not without emotions but hey, at least it had the adrenaline rushing in the four of us (as in <a href="http://astateofmind.pluto.ro">Cristi</a>, Steve, <a href="http://www.flickr.com/photos/ioana/">Ioana</a> and your's truly) even before we got the boards under our feet. And I didn't even had to put on the wheel chains I bought for a small fortune thanks to the fact that they kept the roads quite clean up in the steepest parts of Cavnic...<br />
+So far so good. But not so from now on. The place and especially slope itself was disappointing. First of all, I don't think they ever repaired or revised the <a href="http://en.wikipedia.org/wiki/Platter_lift">ski lift</a> since it was first put in place 3 years ago. I'm saying this because there are frequent pauses in operation and it's not really pleasant when you sit for a few minutes half hanging from a cable halfway up the slope. Many of the vertical poles that hang from the cable are also deteriorated and lots of buttons that you put between your legs are missing or broken (resulting in nice scratches on your upper legs if you try to ride one - as I did). The tracks on which the ski lift was pulling us up were also in rather bad shape although this would have been easily fixable with a few shovelfuls of snow. Oh, and you had to buy tickets for the ski lift inside the mushroom like building as opposed to the past years when you could get them through a small window on the side. And it was chaotic and time consuming as the tickets were sold by two persons who were also serving drinks and snacks to a bar full of people.<br />
+On to the main slope itself. It was bad. Very bad. Resembling Mogosa a lot. Actually resembling the reason why I hate Mogosa so much. Snowbumps after snowbumps with ice or simply bare land between them and lots of rocks sticking out. I took a look at the back of my board when we got home and I was horrified of what I saw. I don't think the <a href="http://en.wikipedia.org/wiki/Snowcat">snowcat</a> was ever started up this year. And when I think about it, this was one of the prime factors why I loved the slope at Icoana. I remember one time back in 2003 when we arrived just after it just finished doing it's job and the less ridden slope on the left (which wasn't even operational this time) was like, wow, dream like! That's when I learned to ride properly. Just thinking back gives me the goosebumps: alone on a freshly plowed slope I could do whatever I wanted, I could try whatever I wanted and I wasn't getting on anyone's nerves. A "privilege" I won't get this year...<br />
+On the positive side: the night lighting is one very nice addition and as you can see from <a href="http://www.flickr.com/photos/janos/archives/date-taken/2007/01/27/">the photos</a> it gives the whole place a fairytale-ish vibe once it gets dark and it's turned on.<br />
+I did eleven rounds which I feel in my muscles today and I can't say I didn't have my share of fun but I left the place quite disappointed. I just hope they'll get their heads out of the snow and their services won't go down the typical Romanian way - we're here for your money and in exchange we'll offer you next to nothing. I really hope. Fingers crossed.<br />
+<b>UPDATE:</b> Steve, a friend who went there yesterday (Sunday) too reported that there weren't any improvements. Actually he said many people took off their skis / snowboards on the last part of the slope which was basically rocks and ice and just walked down... Now this just sucks!</p>

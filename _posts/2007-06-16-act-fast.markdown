@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: Act fast!
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 470
+wordpress_url: http://www.rusiczki.net/wp/?p=470
+date: !binary |-
+  MjAwNy0wNi0xNiAxNjozODowOSArMDIwMA==
+date_gmt: !binary |-
+  MjAwNy0wNi0xNiAxMzozODowOSArMDIwMA==
+categories:
+- Web
+- Fun
+tags: []
+comments: []
+---
+<p><a href="http://www.rusiczki.net/blog/blogpics/ioangavrilrusiczki-is-available.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/ioangavrilrusiczki-is-available.php','popup','width=648,height=83,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.rusiczki.net/blog/blogpics/ioangavrilrusiczki-is-available-thumb.gif" width="500" height="64" alt="ioan-gavrilrusiczki.com is available for registration" border="0" class="image" /></a></p>
+<p>Yeah, I bet the domain sharks are stepping on each others toes to grab this easy to remember domain name. How could they have missed it?</p>
+<p>In other news: I just renewed this domain. You won't be getting rid of me yet. Hehe.</p>

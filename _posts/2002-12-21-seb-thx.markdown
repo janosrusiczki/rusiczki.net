@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Seb - Thx
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 9
+wordpress_url: http://www.rusiczki.net/wp/?p=9
+date: !binary |-
+  MjAwMi0xMi0yMSAyMTowNjoyNCArMDEwMA==
+date_gmt: !binary |-
+  MjAwMi0xMi0yMSAxODowNjoyNCArMDEwMA==
+categories:
+- General
+tags: []
+comments: []
+---
+<p><a href="http://www.drumandbass.ro/dnb/mp3/seb/" title="yeah!">Here's the mix.</a></p>

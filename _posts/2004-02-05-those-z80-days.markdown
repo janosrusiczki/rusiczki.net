@@ -1,0 +1,37 @@
+---
+layout: post
+status: publish
+published: true
+title: Those Z80 days
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 239
+wordpress_url: http://www.rusiczki.net/wp/?p=239
+date: !binary |-
+  MjAwNC0wMi0wNSAyMjo1MDoxMiArMDEwMA==
+date_gmt: !binary |-
+  MjAwNC0wMi0wNSAxOTo1MDoxMiArMDEwMA==
+categories:
+- Technical
+tags: []
+comments:
+- id: 44
+  author: kit
+  author_email: sorry@no-mails.please
+  author_url: http://homepage.mac.com/cpaul/iblog/index.html
+  date: !binary |-
+    MjAwNC0wMi0wNiAwMTozOToyOSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNC0wMi0wNSAyMjozOToyOSArMDEwMA==
+  content: ! 'I also did graphics in Art Studio, he he '
+---
+<p>Reading a post in the <a href="http://homepage.mac.com/cpaul/iblog/index.html">Kit.blog</a> about <a href="http://homepage.mac.com/cpaul/iblog/C1156848003/E1870687037/index.html" title="Google celebrating Gaston Maurice Julia">fractals</a> and more specifically about trying to create fractals on a ZX Spectrum brought some quite nice memories into my head. And not about fractals because I was never fascinated by them (maybe because I never studied them more closely or because I was much too young when the fractal craze was on) but about the "creative work" I was doing at about the same time as Cristian was making software to generate fractal images on that less than 1MHz Z80 processor.</p>
+<p><a href="http://www.rusiczki.net/blog/blogpics/electronica_cip.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/electronica_cip.php','popup','width=640,height=439,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.rusiczki.net/blog/blogpics/electronica_cip-thumb.jpg" width="120" height="82" border="0" alt="My trusty old CIP (CPU dead)"/></a></p>
+<p>I was, like everyone who ever owned a Spectrum clone, badly into games. But I was always trying to create stuff and as I never learned the assembly language I was programming little games in Basic. I never finished any of them of course but I remember that the first part in creating any game was drawing it's screen in Art Studio. Pheeew. I'm getting all nostalgic thinking about that piece of software and all the hours, the afternoons in fact, I spent in it. Drawing screens. And designing "fonts" fitting into 8 by 8 pixel grids. Even now I remember the POKE instruction which I had to use to switch the default font in Basic to the custom one created in Art Studio. So there I was, pimpin' around in Spectrum Basic "modded" with my custom font. Who cared?</p>
+<p>I wish I had the tapes with all those small proggies and most importantly those fonts and screens... But I was stupid and borrowed them after my Z80 died. Never saw them again... But obviously I never thought back then that there'll come a day when I'll be nostalgic over them...</p>

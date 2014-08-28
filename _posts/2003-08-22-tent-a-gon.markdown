@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Tent-a-gon
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 175
+wordpress_url: http://www.rusiczki.net/wp/?p=175
+date: !binary |-
+  MjAwMy0wOC0yMiAxOToxNjo1NSArMDIwMA==
+date_gmt: !binary |-
+  MjAwMy0wOC0yMiAxNjoxNjo1NSArMDIwMA==
+categories:
+- General
+tags: []
+comments: []
+---
+<p>Yep. It looks like there'll be some tent action tonight.<br />
+Yippie. And I don't even need to carry my heavy tent. Double yippie.<br />
+<em>Written while listening to: Chrissie D & Beenie Man - Ohh Lah Lah Lah</em></p>

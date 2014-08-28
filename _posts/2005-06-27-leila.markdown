@@ -1,0 +1,120 @@
+---
+layout: post
+status: publish
+published: true
+title: Leila
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 365
+wordpress_url: http://www.rusiczki.net/wp/?p=365
+date: !binary |-
+  MjAwNS0wNi0yNyAyMDo0NzowNSArMDIwMA==
+date_gmt: !binary |-
+  MjAwNS0wNi0yNyAxNzo0NzowNSArMDIwMA==
+categories:
+- Life
+tags: []
+comments:
+- id: 243
+  author: SCORPIO-P
+  author_email: PETI_B
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wNi0yNyAyMDo1ODoxNyArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNi0yNyAxNzo1ODoxNyArMDIwMA==
+  content: ! 'R.I.P. man, sorry to hear it
+
+'
+- id: 244
+  author: ioana
+  author_email: 
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wNi0yNyAyMTowNDoxMiArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNi0yNyAxODowNDoxMiArMDIwMA==
+  content: ! 'irreplaceable! sorry....
+
+'
+- id: 245
+  author: seb
+  author_email: 
+  author_url: http://www.infamous.ro
+  date: !binary |-
+    MjAwNS0wNi0yNyAyMTozMzoyMSArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNi0yNyAxODozMzoyMSArMDIwMA==
+  content: ! 'sorry mate. :(
+
+'
+- id: 246
+  author: auggie
+  author_email: 
+  author_url: http://artifex.uv.ro/wp/
+  date: !binary |-
+    MjAwNS0wNi0yNyAyMzoyMTowMyArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNi0yNyAyMDoyMTowMyArMDIwMA==
+  content: ! 'r.i.p.
+
+'
+- id: 247
+  author: KooKooL
+  author_email: 
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wNi0yNyAyMzo1ODowNSArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNi0yNyAyMDo1ODowNSArMDIwMA==
+  content: ! 'Remember just the good moments... :(
+
+'
+- id: 248
+  author: vlad
+  author_email: 
+  author_url: http://www.expresso.lx.ro/blog/
+  date: !binary |-
+    MjAwNS0wNi0yOCAxNjowNzozMSArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNi0yOCAxMzowNzozMSArMDIwMA==
+  content: ! 'sorry. i have a <a href="http://www.expresso.lx.ro/blog/?p=20" rel="nofollow">cat</a>  that
+    bears the same name - Layla -and well I am very attached to her. sorry again...
+
+'
+- id: 249
+  author: evil_boarder
+  author_email: 
+  author_url: http://evilboarder.blogspot.com
+  date: !binary |-
+    MjAwNS0wNi0zMCAxNTowMjoxOSArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNi0zMCAxMjowMjoxOSArMDIwMA==
+  content: ! 'RIP dude .. very sorry to hear this
+
+'
+- id: 250
+  author: LEILA
+  author_email: LLINK1@ATLAS.VALENCIACC.EDU
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wNy0yNCAyMjo1NTo0NCArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNy0yNCAxOTo1NTo0NCArMDIwMA==
+  content: ! 'So was yours dog born on Aug 5, it is so wierd cause i was born on Aug,
+    5
+
+    and my name is Leila!! SORRY ABOUT YOUR DOG!!
+
+'
+---
+<p><img src="http://www.rusiczki.net/blog/blogpics/leila.jpg" width="490" height="369" class="image" style="background: #000;" alt="Leila" /><br />
+August 5, 1994 - June 26, 2005.<br />
+She will be dearly missed.<br />
+RIP.</p>

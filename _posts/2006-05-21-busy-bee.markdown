@@ -1,0 +1,37 @@
+---
+layout: post
+status: publish
+published: true
+title: Busy bee
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 402
+wordpress_url: http://www.rusiczki.net/wp/?p=402
+date: !binary |-
+  MjAwNi0wNS0yMSAyMDo0MToyMCArMDIwMA==
+date_gmt: !binary |-
+  MjAwNi0wNS0yMSAxNzo0MToyMCArMDIwMA==
+categories:
+- Life
+tags: []
+comments:
+- id: 306
+  author: yo
+  author_email: 
+  author_url: ''
+  date: !binary |-
+    MjAwNi0wNi0wOSAxODo1OTozMyArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNi0wOSAxNTo1OTozMyArMDIwMA==
+  content: ! 'and im the lucky owner of the bee muhaha
+
+'
+---
+<p><a href="http://www.flickr.com/photos/janos/150467498/"><img src="http://static.flickr.com/52/150467498_3dfe8b72f2.jpg" alt="Busy bee" width="500" height="358" border="0" class="image" /></a></p>
+<p>This entry's title could explain the lack of posts lately. I'm on overdrive mode at work, working at home on private projects, trying to squeeze in some sleep and a little PS2...</p>

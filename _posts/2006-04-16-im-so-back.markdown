@@ -1,0 +1,63 @@
+---
+layout: post
+status: publish
+published: true
+title: I'm so back!
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 392
+wordpress_url: http://www.rusiczki.net/wp/?p=392
+date: !binary |-
+  MjAwNi0wNC0xNiAyMTo0NDoyNyArMDIwMA==
+date_gmt: !binary |-
+  MjAwNi0wNC0xNiAxODo0NDoyNyArMDIwMA==
+categories:
+- General
+tags: []
+comments:
+- id: 299
+  author: Gabriel Radic
+  author_email: 
+  author_url: http://www.timbru.com
+  date: !binary |-
+    MjAwNi0wNC0yMSAwMDozOTowNyArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNC0yMCAyMTozOTowNyArMDIwMA==
+  content: ! 'Damn... trebuie să instalez linkul ăla pentru afilierea Dreamhost.
+
+'
+- id: 300
+  author: Alex
+  author_email: 
+  author_url: http://alexbrie.net
+  date: !binary |-
+    MjAwNi0wNC0yMiAxMTozMjoyOCArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNC0yMiAwODozMjoyOCArMDIwMA==
+  content: ! 'Ei, Gabriel, don''t worry too much, nu e ca si cum din afilierea Dreamhost
+    as castiga cine stie ce...; dar cat de cat ajuta cand vine factura mai mica la
+    hosting...
+
+    Cel mai mult ma bucur ca am reusit sa mai ajut ceva oameni sa plateasca m putin,
+    precum Janos, sau Ovidiu Scarlat, si pe cine altcineva mai doreste... :D
+
+    PS. In loc de referral link, iti recomand sa o pui de un cod promotional, e mai
+    simplu de utilizat si mai avantajos pentru noii dreamhosteri :D
+
+    Janos, mult succes cu dreamhost, iti urez sa fii cat mai multumit cu dumnealui!
+
+'
+---
+<p>Thought you got rid of me? You were so wrong! :-)</p>
+<p>The story goes like this: I got myself a hosting at <a href="http://www.totalchoicehosting.com">Total Choice</a> a while ago right when I bought rusiczki.net. If I give it a thought and with a little help from <a href="http://www.ajaxwhois.com">AjaxWhois</a> that was more than 2 years ago. I opted for a monthly payment plan because it was convenient for me and back then my personal site wasn't that important and I thought, hey, what the heck, if I get bored I could just stop paying and they'll kick me out.</p>
+<p>A few months passed and I payed each month as the good boy that I am but then a month came when they caught me offguard without any money on my card. As much as I remember, two notifications came and I rushed to the bank to transfer money to my virtual card (back then BancPost's card system <a href="http://www.rusiczki.net/2003/02/19/ready-to-shop-til-i-drop/">was much more complicated</a>) which I did and then sat peacefully seeing that my website is still working. The surprise came at the end of the month when I received the transaction list from the bank and there was no sign of the hosting payment. And there wasn't any ever since.</p>
+<p>The only explanation I could come up with is that right when I had to make that last payment they moved their payment processing to another system and I think I somehow got in a glitch and was forgotten about. And so for 2 years I had free hosting. Nice, huh? I never wrote about this on the blog for obvious reasons but I put up their badge on the left as a sign of silent gratitude.</p>
+<p>Fast forward to one evening last weekend when I'm checking my e-mail night and rusiczki.net gives me an error. I check the details and see an error message saying that my account has been suspended. I gulped knowing the last time I made a full backup was quite a long time ago and then with some sweat on my forehead I headed for Total Choice's support section. I submitted a ticket to the customer service and some kind fellow reactivated my account and said that I have to contact their billing department. As soon as I saw my website working the first reflex was to rush into the control panel section and do a full backup. After I made sure that it was downloading I contacted billing. They told me I have to pay $55, a year's worth of hosting and they'll reactivate my account. And the site went inaccessible again. I patiently waited for the backup to finish downloading praying for my Internet connection to hold and after I saw that everything was OK and made a few copies of the file to each of my hard drives I went to sleep smiling.</p>
+<p>And this week I started looking for solutions. In fact I didn't look very hard because I remembered quite a few people praising <a href="http://www.dreamhost.com">DreamHost</a> and their cutting edge features (Ruby on Rails, CVS / SVN repository, shell access, etc). I also remembered that <a href="http://www.alexbrie.net">Alex</a> had a promo code listed on his blog's pages and to make a long story short a few days and minus $120 after I have secured a cool hosting plan for 2 years.</p>
+<p>So here I am now, dreaming on DreamHost. And the future looks nice once again knowing that I'm a fully privileged paying customer not a pest riding some payment system glitch... :-)</p>

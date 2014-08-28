@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Finally
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 13
+wordpress_url: http://www.rusiczki.net/wp/?p=13
+date: !binary |-
+  MjAwMi0xMi0yMyAxMDozODoxNCArMDEwMA==
+date_gmt: !binary |-
+  MjAwMi0xMi0yMyAwNzozODoxNCArMDEwMA==
+categories:
+- General
+tags: []
+comments: []
+---
+<p>It's snooowing.<br />
+"I'm dreaming of a white Christmas..."<br />
+Weee!</p>

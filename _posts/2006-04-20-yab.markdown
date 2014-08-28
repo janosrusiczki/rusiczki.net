@@ -1,0 +1,51 @@
+---
+layout: post
+status: publish
+published: true
+title: YAB
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 395
+wordpress_url: http://www.rusiczki.net/wp/?p=395
+date: !binary |-
+  MjAwNi0wNC0yMCAxMTo0MzoxMiArMDIwMA==
+date_gmt: !binary |-
+  MjAwNi0wNC0yMCAwODo0MzoxMiArMDIwMA==
+categories:
+- Life
+tags: []
+comments:
+- id: 301
+  author: Tina
+  author_email: 
+  author_url: http://perfectlyimperfect.blogspot.com
+  date: !binary |-
+    MjAwNi0wNC0yMCAyMTo1Njo1MyArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNC0yMCAxODo1Njo1MyArMDIwMA==
+  content: ! 'If it wasn''t for the glitch in commenting, I wouldn''t be the first
+    to tell you Happy Birthday... :)
+
+'
+- id: 302
+  author: ioana
+  author_email: 
+  author_url: http://snowboard.colonies.com/members/ioana
+  date: !binary |-
+    MjAwNi0wNC0yMiAxOTowMTo0NiArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNC0yMiAxNjowMTo0NiArMDIwMA==
+  content: ! 'thanks for the free advertising :-)
+
+'
+---
+<p>As in Yet Another Birthday. It came and went as it always does and here I am one year older. If it's the number you're curious about, check out the <a href="http://www.rusiczki.net/about/">about page</a> (at least my site will get some traffic you RSS freaks).<br />
+Actually the birthday itself was divided in two because Monday the 17th, the day itself, was Easter Monday - a holiday for me and so at the company I was celebrated on Friday. Oh, and this year I interrupted a kind of tradition as there was no miniparty (with pizza and drinks for everybody) at my place. I blame my budget. Which is on low side for the moment...<br />
+Anyway, here's the present list: a Philips hair trimmer from my work collegues and boss, a bottle of vine and a Kinder egg from the extended company members, a pair of comfortable shoes and a nice shirt from <a href="http://snowboard.colonies.com/members/ioana/">Ioana</a>, a shiny pillow from my Mum, some money from <a href="http://www.lucianmarin.ro">my partner in crime</a> and a <a href="http://www.beatport.com">BeatPort</a> giftcard from the <a href="http://www.infamous.ro">infamous</a> Seb which I yet have to spend. Plus many kind words from many other people either personally, by SMS or via Yahoo! Messenger. And I would like to take this opportunity to thank everyone for all those warm wishes. It felt really nice and in a way you made me forget how dangerously close I'm getting to that round number which starts with a 3...<br />
+Thanks.</p>

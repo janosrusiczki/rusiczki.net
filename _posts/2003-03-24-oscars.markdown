@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Oscars
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 125
+wordpress_url: http://www.rusiczki.net/wp/?p=125
+date: !binary |-
+  MjAwMy0wMy0yNCAwMzozNTowOSArMDEwMA==
+date_gmt: !binary |-
+  MjAwMy0wMy0yNCAwMDozNTowOSArMDEwMA==
+categories:
+- General
+tags: []
+comments: []
+---
+<p>Yes. I'm awake. And I'm watching them.<br />
+As usual.</p>

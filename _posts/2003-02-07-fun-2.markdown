@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: Fun!
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 89
+wordpress_url: http://www.rusiczki.net/wp/?p=89
+date: !binary |-
+  MjAwMy0wMi0wNyAyMDo1MjoxMiArMDEwMA==
+date_gmt: !binary |-
+  MjAwMy0wMi0wNyAxNzo1MjoxMiArMDEwMA==
+categories:
+- Life
+tags: []
+comments: []
+---
+<p>Got the package!<br />
+Ok this was quite fast actually. I was at somebody's (kind of the boss of my father) place who just bought a computer and needed a chess game installed, when my phone rang and this guy from Fan Curier told me that he's got a package for me but my street is inaccesible and his collegue will leave it at somebody. He asked me if I know that somebody. And yes I know that family quite well.<br />
+So I went and collected my package. I came home. I eagerly opened it to find the pair of shoes I was expecting. Or was I expecting those? I suddenly remembered somebody (a quite important somebody in my life actually) told me once that she saw an episode from 'Married with Children' in which Kelly suddenly got smart and then she fell back being the usual stupido. Well when she fell back she saw a pair of shoes and said 'shiny shoes!' and this is what clicked in my mind when I saw that <a href="http://www.rusiczki.net/blog/blogpics/shiny_shoes.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/shiny_shoes.php','popup','width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">pair of Nikes</a>. Because they <b>do</b> are shiny.<br />
+There was also this Nokia accessory string to hang it in my neck. Which I first thought he had mistaken for the shoulder strap (I thought it was called a shoulder pant...) I asked him to send me for the bag in which he sent me my digital camera a while ago. As I use that bag for school. So I showed Mr. French Connection this <a href="http://www.rusiczki.net/blog/blogpics/shoulder_strap.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/shoulder_strap.php','popup','width=300,height=300,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">very descriptive drawing</a> I made of what I actually wanted.<br />
+And I found THE CABLE. Yes, the cable. Which works absolutely perfect! So the fun began on Tuesday. And still lasts. I discovered I made one REALLY good move by buying this Palm... I'm the most happy because I'm already at part 3 of Hearts In Atlantis by Stephen King. And you can't compare reading from the Palm in bed with the lights out with reading from your computer screen. And you can't compare the price of a book downloaded for free with that of a traditional one bought from Amazon or whatever... The feeling is not the same but the sparings are visible.<br />
+And I only talked about the e-books part. I can compose and send SMS, I can read news with <a href="http://www.avantgo.com" title="Great FREE Service!">AvantGO</a>, I can play silly but fun games (not to mention The Holy Solitaire), could use it as a remote control, I could send / receive mail through WAP if I'd have the money to support this luxury... And this is only part of what it can do. The part I discovered.<br />
+Yeah, yeah. I know I am a geek.</p>

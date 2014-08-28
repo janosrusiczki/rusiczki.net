@@ -1,0 +1,75 @@
+---
+layout: post
+status: publish
+published: true
+title: Another edition is over - The late part 2
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+excerpt: ! 'So after <a href="http://www.rusiczki.net/blog/archives/2004/10/19/another_edition_is_over_part_1"
+  title="Kitsched - Another edition is over - Part 1">all those bad experiences</a>
+  I was out to party. With some 4 hours of sleep or something like this. It couldn''t
+  turn out well... But it did. Much better than I expected.
+
+
+'
+wordpress_id: 330
+wordpress_url: http://www.rusiczki.net/wp/?p=330
+date: !binary |-
+  MjAwNC0xMC0yOCAxNzo1OTo0NCArMDIwMA==
+date_gmt: !binary |-
+  MjAwNC0xMC0yOCAxNDo1OTo0NCArMDIwMA==
+categories:
+- Life
+tags: []
+comments:
+- id: 154
+  author: even
+  author_email: 
+  author_url: ''
+  date: !binary |-
+    MjAwNC0xMC0zMCAxMDo0MDowNCArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNC0xMC0zMCAwNzo0MDowNCArMDIwMA==
+  content: ! 'Hey Rev!
+
+    Ai putea sa imi dai si mie muzica care ai inregistrat-o la tm base? I would really
+    apreciate it. Multumesc :-)
+
+'
+- id: 155
+  author: Janos
+  author_email: 
+  author_url: http://www.rusiczki.net/blog/
+  date: !binary |-
+    MjAwNC0xMS0wMSAxMTo1NzoyMyArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNC0xMS0wMSAwODo1NzoyMyArMDEwMA==
+  content: ! 'Deocamdata nu am primit inregistrarile ca le-am lasat la Timisoara ca
+    sa nu patim ca anul trecut, cand am adus minidiscurile acasa si am tot intarziat
+    sa le inregistrez pe calculator ca apoi la insistentele celor de la TMBase sa
+    le trimit inapoi sa le inregistreze ei...
+
+    Asa ca momentan astept si eu CD-urile cu stuff de la Timisoara, si dupa cate am
+    inteles voi mai astepta o vreme. Oricum chiar daca le primesc nu prea am dreptul
+    sa distribui decat in cazul in care-si dau si artistii acordul... Iar in acest
+    caz vom pune cred pe DnB.RO.
+
+'
+---
+<p>So after <a href="http://www.rusiczki.net/blog/archives/2004/10/19/another_edition_is_over_part_1" title="Kitsched - Another edition is over - Part 1">all those bad experiences</a> I was out to party. With some 4 hours of sleep or something like this. It couldn't turn out well... But it did. Much better than I expected.</p>
+<p><a id="more"></a><a id="more-330"></a><br />
+I arrived to the party place a littlebit earlier to have time to set up the minidisc recorder. Which I did. After getting one of the organizers to introduce me because I couldn't just go to the mixing table and stick my cables around... People started arriving and time passed quicker as I found some chatting partners.<br />
+<a href="http://www.rusiczki.net/blog/blogpics/tm04base_flyer.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/tm04base_flyer.php','popup','width=640,height=337,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.rusiczki.net/blog/blogpics/tm04base_flyer-thumb.jpg" width="120" height="63" border="0" class="postimage" alt="TM04Base Flyer" /></a> To begin I have to note that there were 2 scenes, the first one dedicated to DJs and the second (smaller) one ready for the live acts. This was mostly respected but there were also DJs at scene 2 (S2) and live acts at S1. On the left of scene 1 there was a nice big projection screen which was showing the visuals during the two nights. Truly professional visuals this time not just a screening of Akira, Ghost In The Shell or some other hip anime...<br />
+<a href="http://www.rusiczki.net/blog/blogpics/tm04base_turntable_science.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/tm04base_turntable_science.php','popup','width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.rusiczki.net/blog/blogpics/tm04base_turntable_science-thumb.jpg" width="120" height="90" border="0" alt="Turntable Science" class="postimage" /></a> Over at scene 1 friday night started out with Guerilla Outernational's DuBase vs. Leizaboy of anonimTM playing breakbeats back to back. The funkier flavour of breakbeats and that's why I went over to S2 where Marika was also playing breakbeats but these were of the edgier / techier kind which I very much like. After 1 hour and a half of music listening, feet tapping but mostly socializing with people who I know from the Internet it was time for an artist switch at both scenes. Turntable Science (a bunch of Romanian hip hop DJs namely: Dox, Undoo, Faibo X, Swamp, Paul) came to S1 to scratch their fingers off and produce a very nice show, playing a few drum'n'bass tracks surprising much of the public and also themselves I think. It was nice and truely entertaining to see 5 guys who were scratching those records apparently randomly but who were in fact united by the music they were playing / producing right on the spot. In the meantime S2 featured P-Nal who fuse breakbeats with a nervous guitar and an even more nervous singer. I watched them in 2001, 2002 and 2003. This time I just took some photos and headed back to S1 to let my mouth gape for a while watching all that scratch action.<br />
+<a href="http://www.rusiczki.net/blog/blogpics/tm04base_suie_paparude.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/tm04base_suie_paparude.php','popup','width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.rusiczki.net/blog/blogpics/tm04base_suie_paparude-thumb.jpg" width="120" height="90" border="0" alt="Miki and Cezar from Suie Paparude" class="postimage" /></a> After the Turntable Scientists descended it was time for the all time Romanian favorites, Suie Paparude, to climb in the spotlights and produce themselves. And the madness started: the crowd was jumping, waving, screaming... The guys from Suie produced a really nice show, playing almost exclusively tracks from their forthcoming album mixed with the few unmissable classics. Cezar singed his lyrics, MCed, shouted, animated the crowd as best as he could and as I already mentioned the answer from the latter was overwhelming. I went forward, between the scene and the fence that was hardly holding back the public and clicked my camera, clicked and clicked because I believe in the rule of big numbers: some of the shots turned out great. And all this was just the beginning...<br />
+<a href="http://www.rusiczki.net/blog/blogpics/tm04base_the_ragga_twins.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/tm04base_the_ragga_twins.php','popup','width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.rusiczki.net/blog/blogpics/tm04base_the_ragga_twins-thumb.jpg" width="120" height="90" border="0" alt="The Ragga Twins" class="postimage" /></a> For the sake of a few shots I ran over to S2 where Makunouchi Bento were laying down their experimentalness seconded by a lovely keyboard player girl and the guitarist from P-Nal. Didn't stay too long though as S1 was about to feature the guy who <a href="http://www.rusiczki.net/blog/archives/2004/03/24/ssx_3_game_footage_deekline_live_at_timisoara.php" title="A post with some videos I filmed at that party">rocked a TMBase party so hard earlier this year</a>: Deekline. And he didn't let nobody down this time either. Fresh breaks straight from the UK, but at the begining of his set the crowd was a bit exhausted after the Suie performance and the feedback wasn't so great but all this changed in an instant when the Ragga Twins stepped up. The two MCs were a bit tired and at the begining this was clearly visible but after the crowd went wild again for their performance they just lost it and the real madness for that night started. Words are really useless because I can't describe what went on there, I think the pictures I posted on DrumAndBass.RO do some justice but that atmosphere can't really be reproduced... You had to be there to know what I'm talking about. It's enough to say that they were on the mics for about 3 hours and some... The funny fact is that when Ed Solo went up to replace Deekline at the decks nobody really noticed. But the beats changed and it was time for some crisp drum and bass action. The Twins retreated together with Mr. Solo leaving the crowd wanting more. And they got some more from Roli Breaker. He played that Underworld remix which everybody instantly noticed and which made everybody stand up and dance for the last time for that night. At a moment there was Roli, Down and Seb up on the scene and I thought: "Hey, about 2 or 3 more and it would be the whole Romanian breaks scene..."<br />
+<a href="http://www.rusiczki.net/blog/blogpics/tm04base_friday_crowd.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/tm04base_friday_crowd.php','popup','width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.rusiczki.net/blog/blogpics/tm04base_friday_crowd-thumb.jpg" width="120" height="90" border="0" alt="The Crowd at Scene 1" class="postimage" /></a> I'm really sorry I can't relate too much about what went on over at scene number two because I got caught in the atmosphere at S1 and I went over just a few times to click some pics and be amazed over the size of the crowd that was having a hell of a time there too. If I think about it, two scenes are bad from one point of view because I'd like to see all the artists who perform at the festival and this is impossible because I can't phisically be in two places at a given moment but are good from the other point of view because there's always something for each and every taste. The artists who performed at S2 and who I mostly missed were BAU aka Brigada Artistica Urbana featuring live percution from Tavi, a guy labeled by many as mad as he keeps up with the wildest drum'n'bass beats, Mesmer with some own breakbeat productions, D Laid who also played their own productions which I sound incredibly good and Donna Dee who was appreciated by most of the guys for her playing technique and her good looks... Plus at the early hours of the morning Sensorship kept the scene alive.<br />
+Also as an excuse I could mention that I was pretty tied to S1 because I had to keep my MD recorder under control.<br />
+And so at 7:20 I packed my things and headed for the train station to pick up Ioana.<br />
+To be continued... I hope part 3 will not come after a week. :-)</p>

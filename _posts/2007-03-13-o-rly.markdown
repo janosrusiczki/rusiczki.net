@@ -1,0 +1,40 @@
+---
+layout: post
+status: publish
+published: true
+title: O RLY?
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 455
+wordpress_url: http://www.rusiczki.net/wp/?p=455
+date: !binary |-
+  MjAwNy0wMy0xMyAwMjoyODozOCArMDEwMA==
+date_gmt: !binary |-
+  MjAwNy0wMy0xMiAyMzoyODozOCArMDEwMA==
+categories:
+- Fun
+tags: []
+comments:
+- id: 417
+  author: duuuuuddeee
+  author_email: 
+  author_url: ''
+  date: !binary |-
+    MjAwNy0wOS0xMiAyMToxMTo0MiArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNy0wOS0xMiAxODoxMTo0MiArMDIwMA==
+  content: ! 'how do i make the entire animation be like a spray for counterstrike??
+
+'
+---
+<p><img src="http://www.rusiczki.net/blog/blogpics/o-rly.gif" width="317" height="312" alt="O RLY?" title="O RLY?" class="image" style="background: black;" /><br />
+Animated GIF version.<br />
+81 frames of classic owl fun.<br />
+Credits belong to the original author(s).<br />
+<a href="http://www.orlyowl.com/">Want more?</a></p>

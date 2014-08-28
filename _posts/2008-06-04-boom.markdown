@@ -1,0 +1,36 @@
+---
+layout: post
+status: publish
+published: true
+title: Boom!
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 530
+wordpress_url: http://www.rusiczki.net/wp/?p=530
+date: !binary |-
+  MjAwOC0wNi0wNCAxNToyOTozMyArMDIwMA==
+date_gmt: !binary |-
+  MjAwOC0wNi0wNCAxMjoyOTozMyArMDIwMA==
+categories:
+- Technical
+tags: []
+comments: []
+---
+<p>Just my luck. One month after <a href="http://www.rusiczki.net/blog/archives/2008/05/10/the_end_of_a_hosting_era">I get</a> a dedicated server the data center that's hosting it <a href="http://forums.theplanet.com/index.php?showtopic=90185">goes boom</a>. To be more precise:</p>
+<blockquote><p>Sunday evening at 4:55 in our H1 data center, electrical gear shorted, creating an explosion and fire that knocked down three walls surrounding our electrical equipment room Thankfully, no one was injured. In addition, no customer servers were damaged or lost.</p></blockquote>
+<p>Unfortunately my server was on the first floor, where the explosion was. They got the second floor back online quite fast and then started working on the first floor (Phase 1). And so, yesterday morning my server came back online, I cheered a little, but shortly after it went down again. Boo. Cause:</p>
+<blockquote><p>This morning at approximately 2:45 a.m. CST, the temporary generator supplying power to the servers and environmental control systems located in Phase 1 of our H1 facility shut down. This was caused by some faulty current sensors in the output breaker. The sensors detected an out of balance current condition that did not exist.</p></blockquote>
+<p>Shortly after an e-mail came in saying that I could request my server to be moved to their other Houston data center. Which I did. So the computer that's serving you this very page was loaded in truck along with many others (in an update they mentioned that they had to move around 500 servers). The support ticket was updated a few short hours ago, saying that it has arrived and it's powered on. I logged in, fixed the IP address issues in Plesk, set up the DNS and here we are! ON-freakin'-LINE.<br />
+I'm just thankful that there wasn't anything mission critical on this server and I hope it wasn't too close to the explosion and the hardware isn't phisically affected. I'll back up everything in a moment but I'll still be keeping my fingers crossed for a while...<br />
+Oh, and to top everything, the following communication from them just rolled in (via a ticket):</p>
+<blockquote><p>Dear Ioan Gavril Rusiczki,<br />
+On behalf of our team at The Planet, we want to thank you for choosing our company as your hosting provider. It has been thirty days since you have joined us, and we sincerely hope that you have had a fantastic experience thus far.<br />
+We have earned an excellent industry reputation for our world-class support, state-of-the art data centers, and our fast, reliable network.</p></blockquote>
+<p>Can't say it wasn't good as their support is excellent but the last few days of these 30 days were a little "bumpy". However, I think they've dealt with the situation really promptly and professionally and I can only praise the open attitude and the fact that they've kept everyone posted by frequent public updates. The worst that can happen is when a company leaves you in the dark, guessing what the Hell happened. Well, <a href="http://www.theplanet.com">The Planet</a> is not one of those companies.<br />
+As a conclusion I can only say: great work guys and I hope this whole incident haven't dented the business too badly.</p>

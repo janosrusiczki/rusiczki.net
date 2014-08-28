@@ -1,0 +1,37 @@
+---
+layout: post
+status: publish
+published: true
+title: 5 things you didn't know about me
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 441
+wordpress_url: http://www.rusiczki.net/wp/?p=441
+date: !binary |-
+  MjAwNy0wMS0yNiAxNjozMjo1MiArMDEwMA==
+date_gmt: !binary |-
+  MjAwNy0wMS0yNiAxMzozMjo1MiArMDEwMA==
+categories:
+- Life
+tags: []
+comments: []
+---
+<p>Here we go:</p>
+<ul>
+<li>I figured out how cars' direction works when I was around 6. And this without actually seeing one. A true technical prodigy, hehe.</li>
+<li>First "serious" girlfriend at 25. We're still together and we have no plans of breaking up anytime soon.</li>
+<li>Roxette was my favorite band for a long time. I even had some nostalgic times while working at SoftZone which resulted in the duo taking the first place in <a href="http://www.last.fm/user/kitsched/">my last.fm</a> overall top artists chart.</li>
+<li>I have really bad teeth. I neglected my oral hygiene for way too long and now I'm suffering the consequences.</li>
+<li>If I hadn't become a programmer, I would probably have been an architect. However this occurred to me after I finished my computer sciences studies.</li>
+</ul>
+<p>Bonus:</p>
+<ul>
+<li>Closely related to the last "thing" from the previous list: I used to love to draw. Back in the times when I had no computer I was filling notebooks with sketches. Mostly technical stuff obviously. Airplanes, helicopters, spaceships, cars, robots, you name it, I drew them all.</li>
+</ul>
+<p>This was the first tag I responded to... I have childhood traumas relating to these things. Namely, I never was the popular kid in the class. I remember that back in primary school girls had these things called "oracole" (translated as oracles) which were wildly decorated notebooks featuring tricky questions which you had to answer. And while some guys had queues of them on their desks I was never invited to fill one. Oh, the envy! So, now I'm having my sweet revenge by NOT responding to tags. Hah!</p>

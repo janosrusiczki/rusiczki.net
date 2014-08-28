@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Free Gigi
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 727
+wordpress_url: http://www.rusiczki.net/?p=727
+date: !binary |-
+  MjAwOS0wNC0wOSAxMDoyNDo0OCArMDIwMA==
+date_gmt: !binary |-
+  MjAwOS0wNC0wOSAwNzoyNDo0OCArMDIwMA==
+categories:
+- Web
+- Fun
+tags: []
+comments: []
+---
+<p><img src="http://www.rusiczki.net/wp-content/uploads/2009/04/free-gigi-arieseni.jpg" alt="Free Gigi @ Arieseni" title="Free Gigi @ Arieseni" width="500" height="376" class="alignnone size-full wp-image-726" /></p>
+<p>I know this is at least 3 days old (that's antiquity in Internet time), and I even <a href="http://twitter.com/kitsched/status/1475373281">posted it to Twitter</a> yesterday, but I still find it funny and I wanted to post it before it melts away. Image grabbed from <a href="http://www.jurnalul.ro/">Jurnalul National</a>'s <a href="http://www.jurnalul.ro/webcam/arieseni-62.html">Arieseni webcam</a> (if it isn't obvious).</p>

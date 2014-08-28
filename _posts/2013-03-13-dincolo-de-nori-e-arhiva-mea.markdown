@@ -1,0 +1,92 @@
+---
+layout: post
+status: publish
+published: true
+title: Dincolo de nori, e arhiva mea
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 4424
+wordpress_url: http://www.rusiczki.net/?p=4424
+date: !binary |-
+  MjAxMy0wMy0xMyAxODowNzozNyArMDEwMA==
+date_gmt: !binary |-
+  MjAxMy0wMy0xMyAxNTowNzozNyArMDEwMA==
+categories:
+- Technical
+- Română
+tags: []
+comments:
+- id: 28820
+  author: Andrei Albu
+  author_email: 
+  author_url: ''
+  date: !binary |-
+    MjAxMy0wMy0xNCAxMzoxOTowMCArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMy0wMy0xNCAxMDoxOTowMCArMDEwMA==
+  content: Foarte inspirat titlul :)
+- id: 28821
+  author: Janos
+  author_email: 
+  author_url: http://rusiczki.net
+  date: !binary |-
+    MjAxMy0wMy0xNCAxMzozMzoxNSArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMy0wMy0xNCAxMDozMzoxNSArMDEwMA==
+  content: Mulțumesc, inspirația a venit dintr-un comentariu primit de la domnul Stanescu
+    la articolul cu NAS-ul. :)
+- id: 28822
+  author: János
+  author_email: 
+  author_url: http://www.rusiczki.net/
+  date: !binary |-
+    MjAxMy0wMy0xNCAxMzozNTowMCArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMy0wMy0xNCAxMDozNTowMCArMDEwMA==
+  content: Mulțumesc. Inspirația a venit dintr-un comentariu adăugat de domnul Stănescu
+    la articolul cu NAS-ul.
+- id: 28829
+  author: Gabriel R.
+  author_email: ''
+  author_url: http://twitter.com/timbru
+  date: !binary |-
+    MjAxMy0wMy0yMCAxMDowMjowMCArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMy0wMy0yMCAwNzowMjowMCArMDEwMA==
+  content: ! "Thanks for the tip! Caut și eu un norișor fiabil și ieftin pentru arhivat
+    poze. \nFastGlacier pare exact ce-mi trebuia :-) "
+- id: 28831
+  author: Gabriel Radic
+  author_email: ''
+  author_url: http://twitter.com/gr
+  date: !binary |-
+    MjAxMy0wMy0yMSAxNjo1NzowMCArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMy0wMy0yMSAxMzo1NzowMCArMDEwMA==
+  content: FastGlacier e Windows only, dar voi încerca asta pt. Mac http://www.haystacksoftware.com/arq/
+- id: 28852
+  author: Cata
+  author_email: 
+  author_url: ''
+  date: !binary |-
+    MjAxMy0xMC0wNiAxMzozOTowMCArMDIwMA==
+  date_gmt: !binary |-
+    MjAxMy0xMC0wNiAxMDozOTowMCArMDIwMA==
+  content: Ce memorie am... Imi aminteam eu c-ai scris de Glacier, asa ca am sapat
+    dupa articol, m-am documentat si am instalat. Multam.
+---
+<p><a href="http://www.rusiczki.net/wp-content/uploads/2013/10/Google-Chrome.png"><img class="alignnone size-medium wp-image-4560" alt="Captură de ecran Amazon Glacier" src="http://www.rusiczki.net/wp-content/uploads/2013/10/Google-Chrome-693x160.png" width="693" height="160" /></a></p>
+<p>Pe parcursul timpului am fost întrebat prin IM, mail și prin comentarii despre ce soi de backup folosesc. În general le recomand oamenilor serviciile Amazon în care eu am mare încredere.</p>
+<p>Și după ce am început direct cu concluzia am să prezint, așa cum obișnuiesc să fac, istorioara mea legată de serviciile de backup.</p>
+<p>Mai pe la începutul carierei mele de deținător de PC conceptul de backup însemna golirea HDD-ului de materialul colecționat din diferite surse pe CD-uri și mai târziu DVD-uri. A fost epoca în care consumam topuri întregi de discuri pe lună, majoritatea cărora n-au mai vizitat în veci drive-ul. Asta până în momentul în care am realizat că le scriu cam degeaba și spațiul de hard disc a devenit într-atât de ieftin încât puteam păstra o colecție serioasă de date non critice pe HDD și abia chestiile importante le mai inscripționam. Și apoi din comoditate am început să nu le mai scriu nici alea ci făceam tot soiul de rocade între diferite HDD-uri - dar mereu auzeam parcă drăcușorul care-mi șoptea că nu e bine ce fac și ce se întâmplă dacă apare un crash? În acel moment însă backup-ul masiv de date pe Internet nu era încă o alternativă viabilă, datorită în primul rând vitezei scăzute de upload și desigur a prețului prohibitiv, serviciile de genul fiind orientate pe vremea aia aproape exclusiv spre segmentul enterprise.</p>
+<p>Nu-mi mai amintesc ce servicii am încercat pe la început în afara de <a href="http://www.box.net">Box</a>, dar știu că primele backup-uri mai serioase "în nor" le-am pus pe <a href="http://aws.amazon.com/s3/">Amazon S3</a> începând de prin 2006 / 2007. Îmi amintesc că în perioada aia, încurajat de Seb, am început să-mi cumpăr muzică de pe <a href="http://www.beatport.com/">Beatport</a> și cum piesele odată descărcate nu se puteau redescărca prea ușor m-am gândit să am o copie ușor accesibilă în caz de nevoie sau dezastru. Era și un prilej de a-mi satisface "the inner geek", S3 fiind pe atunci un serviciu proaspăt lansat. Plus că Amazon era o companie cu tradiție, nu un startup care să dea faliment în scurt timp după ce m-am spetit să încarc o căruță de date la ei. A, era să uit, un motiv deloc neglijabil pentru care am decis să mă bazez pe acest serviciu a fost că S3 a fost șocant de ieftin pentru acea perioadă.</p>
+<p>În perioada în care am lucrat de acasă am folosit <a href="https://www.jungledisk.com/">JungleDisk</a> (un serviciu care păstra datele tot pe S3) pentru backup incremental al directoarelor esențiale - liniștea sufletească căpătată a fost supremă. Chiar m-am gafat la un moment dat și am șters un fișier vital dintr-un proiect, dar nu a fost nici o problemă, l-am recuperat aproape instant. Apoi pentru cod am folosit mai mulți ani <a href="http://beanstalkapp.com/">Beanstalk</a> dar după o schimbare de ofertă au devenit cam prea scumpi pentru ce aveam eu nevoie așa că mai nou folosesc <a href="https://github.com">GitHub</a> și dau lunar 7 dolari pentru cel mai ieftin cont plătit ca să pot avea câteva repozitorii private.</p>
+<p>Problema a fost că nu găsisem nimic potrivit pentru a-mi arhiva pozele. Am făcut câteva calcule pe parcursul timpului și de fiecare dată am considerat că salvarea întregii colecții pe S3 ar fi fost prea costisitoare. Prin 2009 sau 2010 am dat o raită printre serviciile de arhivare recomandate de un articol care-l citisem pe <a href="http://lifehacker.com/">LifeHacker</a> cred, și știu că am testat pentru câteva zile <a href="http://mozy.com/">Mozy</a> și <a href="http://www.carbonite.com/">Carbonite</a> dar mi s-au părut în continuare scumpe și viteza de upload era un deal breaker, practic trebuia să stau câteva săptămâni cu calculatorul deschis constant până să-mi încarce toată arhiva. Și bottleneck-ul nu era la mine ci la ei - practic foloseau o fracțiune din viteza de upload ce o aveam la dispoziție. Prețurile de la <a href="https://www.dropbox.com/">Dropbox</a> mi se păreau și ele cam mari și oricum Dropbox mi se părea nepotrivit pentru acest gen de backup masiv. Așa că am continuat să fac rocade și să împrăștii colecția pe diferite drive-uri externe, în caz că... (bat în lemn).</p>
+<p>Asta până pe la sfârșitul lunii August a anului trecut când a venit de la Amazon email-ul care-l așteptam de mult: cel prin care anunțau lansarea serviciului <a href="http://aws.amazon.com/glacier/">Amazon Glacier</a>. 1 cent / giga / lună fără limită de capacitate. Se presupune că în spatele cortinelor datele sunt salvate pe casete care sunt duse apoi în depozite. Reversul medaliei este că prețul recuperării datelor poate deveni extrem de piperat dacă ai nevoie să le ai pronto. Dar cum eu nu intenționam să le încarc și să le și șterg imediat de pe HDD-ul local serviciul mi s-a potrivit ca o mânușă. A mai fost nevoie să aștept câteva luni să apară și software-urile client pentru acest serviciu și în noiembrie s-a întâmplat și asta. După câteva teste m-am hotărât pe <a href="http://fastglacier.com/">FastGlacier</a>, care după o scurtă perioadă de teste l-am și cumpărat și m-am pus pe centralizat arhiva să am ce încărca. Ce am observat aproape imediat a fost că în sfârșit puteam profita de viteza de upload din plin, cu câteva fișiere încărcate concomitent țeava a fost ocupată complet și astfel timpul estimat pentru a transfera ditamai colecția s-a redus la câteva zile.</p>
+<p>Pentru ceea ce vedeți mai sus în captura de ecran plătesc momentan 44 de cenți pe lună plus TVA, ceea ce mi se pare deosebit de rezonabil. Și da, deocamdată doar atâtă am încărcat pentru că pentru anii ulteriori a fost nevoie de culegerea datelor de pe nenumărate HDD-uri externe - o consecință neplăcută a împrăștierii voite ce o menționam mai sus. Dar odată cu acest articol am cam reușit să termin colectarea și în curând finalizez și aranjarea (inclusiv a anului 2012) așa că păzea RDS, va începe foarte curând un exod masiv de date de la mine. :-)</p>

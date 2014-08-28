@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Featured!
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 296
+wordpress_url: http://www.rusiczki.net/wp/?p=296
+date: !binary |-
+  MjAwNC0wNi0wNiAxMjoxMTozNCArMDIwMA==
+date_gmt: !binary |-
+  MjAwNC0wNi0wNiAwOToxMTozNCArMDIwMA==
+categories:
+- Web
+tags: []
+comments: []
+---
+<p>Wow!<br />
+Studying my referers I noticed quite a few incoming hits from <a href="http://mattwelch.com/warblog.html">Matt Welch's weblog</a> and upon checking the site I found his post named '<a title="What Are Your Favorite Romanian Websites?" href="http://www.mattwelch.com/archives/week_2004_05_30.html#2655">What Are Your Favorite Romanian Websites?</a>' which is a short list of Romanian weblogs. I'm featured alongside sites like Dragos Novac's <a href="http://www.argumente.ro">@rgumente</a>, Douglas and Claudia Muir's <a href="http://www.bookcase.com/~claudia/mt/">Halfway Down the Danube</a> and Christian Paul's <a href="http://homepage.mac.com/cpaul/iblog/index.html">Kit Blog</a> just to name the Romanian weblogs I already knew about, read and respect. As usual I also found some new bookmarks which will probably appear shortly in my left sidebar. <a href="http://perfectlyimperfect.blogspot.com/">Perfectly Imperfect</a> for example looks like quite a good read.<br />
+Anyway I'm really happy that I got my blog mentioned.</p>

@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Cold
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 60
+wordpress_url: http://www.rusiczki.net/wp/?p=60
+date: !binary |-
+  MjAwMy0wMS0xMyAyMjoxNTo0OSArMDEwMA==
+date_gmt: !binary |-
+  MjAwMy0wMS0xMyAxOToxNTo0OSArMDEwMA==
+categories:
+- Life
+tags: []
+comments: []
+---
+<p>It's cold. It's really cold. I'm not complaining since I wanted this so much. But I'm sitting in my room. The stove is right beside me (about 1 meter). It's so hot I can't touch it. Still my feet are freezing.<br />
+Well I guess tomorrow I could celebrate the cold again. On the slopes. Hehe.</p>

@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: Party!!!
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 34
+wordpress_url: http://www.rusiczki.net/wp/?p=34
+date: !binary |-
+  MjAwMi0xMi0zMSAxMzozNjo1NiArMDEwMA==
+date_gmt: !binary |-
+  MjAwMi0xMi0zMSAxMDozNjo1NiArMDEwMA==
+categories:
+- General
+tags: []
+comments: []
+---
+<p><img src="http://www.rusiczki.net/blog/blogpics/beer_20_pack.jpg" width="200" height="150" border="0" alt="Will it be enough?" class="postimage" /> That last <a href="http://www.rusiczki.net/blog/archives/2002/12/31/the_new_years_eve_party">party rant</a> begins to lose sense when I take a peek at that 20 pack I have waiting for me on the hallway. It really gives me courage for the two nights ahead. Two and a half hours and I'm gone.<br />
+Oh. Forgot to mention that it's going to be the same old sausage party as usual. Like 10 guys and 4 girls. Great.<br />
+But I'm still optimist.<br />
+Again, looking at that beer pack makes me even a bigger optimist!</p>

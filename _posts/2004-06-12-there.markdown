@@ -1,0 +1,60 @@
+---
+layout: post
+status: publish
+published: true
+title: There...
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 302
+wordpress_url: http://www.rusiczki.net/wp/?p=302
+date: !binary |-
+  MjAwNC0wNi0xMiAxNzozNTo1OCArMDIwMA==
+date_gmt: !binary |-
+  MjAwNC0wNi0xMiAxNDozNTo1OCArMDIwMA==
+categories:
+- Web
+tags: []
+comments:
+- id: 100
+  author: kit
+  author_email: sorry@no-mails.please
+  author_url: http://homepage.mac.com/cpaul/iblog/
+  date: !binary |-
+    MjAwNC0wNi0xMiAyMToyNjozOCArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNC0wNi0xMiAxODoyNjozOCArMDIwMA==
+  content: ! 'There''s even a name for searching your name on the net: vanity search.
+    Btw, I like A9''s interface.
+
+'
+- id: 101
+  author: J
+  author_email: 
+  author_url: http://www.rusiczki.net
+  date: !binary |-
+    MjAwNC0wNi0xMyAwMjowNzo0NiArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNC0wNi0xMiAyMzowNzo0NiArMDIwMA==
+  content: ! 'Hehe he ehe. :-)
+
+    So if there''s a term I can be sure I''m not the only one doing it. Phew!
+
+'
+---
+<p>I'm so used to searching with Google that sometimes when I use other search engines I have great surprises. Like today. I went to <a href="http://www.amazon.com">Amazon</a> to check some reviews about the music I was listening and noticed that they changed their searchbox on the frontpage from Google to <a href="http://www.a9.com" title="The provider of surprises!">A9</a>. Obviously I had to try it out and the egoist I am I always type my own last name in the searchbox of any new search engine I discover. And what do I notice at the end of the list? A link to <a href="http://www.websters-online-dictionary.org/">Webster's Online Dictionary's</a> definition of the word '<a href="http://www.websters-online-dictionary.org/definition/english/th/there.html">there</a>'. I loaded the page, scrolled down, and yes, there it was: <a href="http://www.sxc.hu/browse.phtml?f=view&id=18371" title="Fire was there">a photo</a> I uploaded a while ago to <a href="http://www.sxc.hu/">stock.xchng</a>.<br />
+After the initial joy I remembered I actually received an email concerning something like this a while ago. I quickly looked it up and it turned out I received the following from a certain Philip M. Parker on the 6th of February:</p>
+<blockquote><p>Dear Janos,<br />
+I am writing to ask for permission to use your photographs posted in stock.xchng. I am the editor of Webster's Online Dictionary - The Rosetta Edition, and I want to add higher quality, more contemporary images. The dictionary is a non-commercial multilingual project (www.websters-online-dictionary.org). If selected for a given word, your pictures will be fully credited to you, using the title and description you used in posting to stock.xchng. I will let you know when the photos are posted and to which words etc. (this may take a few weeks). The photos will not be used for any other purposes. The project will not sell or receive money for your photos. If this is fine with you, please let me know. I really think your pictures will be well received by our visitors.<br />
+Kind regards,<br />
+Philip M. Parker<br />
+Eli Lilly Chair Professor of Innovation, Business and Society<br />
+Editor, Websters' Online Dictionary - The Rosetta Edition</p></blockquote>
+<p>I responded affirmatively asking only for the proper credits. The confirmation mail never came but I'm still very happy that they selected one of my shots. And for such an important word!<br />
+Later I checked and saw that this result comes up on <a href="http://www.google.com/search?q=rusiczki&start=10">page number two</a> of the Google <a href="http://www.google.com/search?q=rusiczki">search for my name</a> and the results on A9.com are in fact identical with those provided by Google. But I'm bored of searching for my name on Google...<br />
+No matter what but I'll still have a big smile on my face all of today that's one sure thing. As I'm the one featured in Webster's. :-)</p>

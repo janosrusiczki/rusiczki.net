@@ -1,0 +1,55 @@
+---
+layout: post
+status: publish
+published: true
+title: Quoted!
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 541
+wordpress_url: http://www.rusiczki.net/wp/?p=541
+date: !binary |-
+  MjAwOC0xMC0yOCAwOTowMToxNCArMDEwMA==
+date_gmt: !binary |-
+  MjAwOC0xMC0yOCAwNjowMToxNCArMDEwMA==
+categories:
+- Web
+- Technical
+tags: []
+comments:
+- id: 521
+  author: Vlad
+  author_email: 
+  author_url: http://vlad.bailescu.ro/
+  date: !binary |-
+    MjAwOC0xMC0yOCAxMToyMzo0NiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMC0yOCAwODoyMzo0NiArMDEwMA==
+  content: ! 'Google dixit: <a href="http://digg.com/software/A_real_on_line_photoshop_express_contender?t=17921329#c17921329"
+    rel="nofollow"><a href="http://digg.com/software/A_real_on_line_photoshop_express_contender?t=17921329#c17921329"
+    rel="nofollow">http://digg.com/software/A_real_on_line_photoshop_express_contender?t=17921329#c17921329</a></a>
+
+'
+- id: 522
+  author: Janos
+  author_email: 
+  author_url: http://www.rusiczki.net/blog/
+  date: !binary |-
+    MjAwOC0xMC0yOCAxMTo0Nzo1NiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMC0yOCAwODo0Nzo1NiArMDEwMA==
+  content: ! 'Internetz, better enjoyed with friends.
+
+    Thanks! :)
+
+'
+---
+<p>Wow, I'm such a web celebrity! Look, I'm quoted on the main page of <a href="http://www.pixlr.com">Pixlr</a>:</p>
+<p><img alt="Screenshot of my quote on Pixlr" src="http://www.rusiczki.net/blog/blogpics/pixlr-screenshot-quoted.png" width="500" height="66" class="image"/></p>
+<p>Here's the <a href="http://www.rusiczki.net/blog/blogpics/pixlr-screenshot-full.png">full screenshot</a>. As much as I remember I left the said comment on some blog around the web (can't remember exactly which one, I just checked <a href="http://www.downloadsquad.com">Download Squad</a> and it looks like it's not that) and it seems like I struck a cord with the guys. Well, I'm glad I created a warm fuzzy feeling for someone, even if when it comes to web based image editors I'm a <a href="http://www.piknic.com">Picnik</a> user as it has all the tools I need plus it's integrated with <a href="http://www.flickr.com">Flickr</a>.</p>
+<p>Thanks for the find Moebius.</p>

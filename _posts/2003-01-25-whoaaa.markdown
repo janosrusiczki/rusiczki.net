@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: Whoaaa!
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 69
+wordpress_url: http://www.rusiczki.net/wp/?p=69
+date: !binary |-
+  MjAwMy0wMS0yNSAwOToyMjo0NyArMDEwMA==
+date_gmt: !binary |-
+  MjAwMy0wMS0yNSAwNjoyMjo0NyArMDEwMA==
+categories:
+- Life
+tags: []
+comments: []
+---
+<p>I slept most of yesterday (I mean it still belongs to today as I'm still awake... but I'm getting confused here). Late in the afternoon / early in the evening I had a visitor of the opposite sex (quite a rare thing to happen to me) and we had a nice chat. Well, kind of. In the meantime I got some great news from my french 'partner'. He told me that he sold one site I made back in the summer and he sold it for a nice amount of money. I don't really get surprised anymore about sums of money in the web development / design business but this amount was big. Really big. For my usual standards at least. We decided to split it fifty-fifty. And it's still a lot. I have no ideea what will I do with that amount of money... It won't make me too happy that's one sure thing. But I can't say that I'm sad either. ;-)<br />
+After chatting for a while with 'the french connection' I walked my guest home. I got back to found one of my so called 'friends' waiting for me. He probably had nothing else to do and nobody else to visit so he turned to me. Or maybe he just wanted to visit me. Why do I always have to make things sooo complicated!? Heh.<br />
+We came in and did nothing for a while, until '<a href="http://us.imdb.com/Title?0250687" title="IMDB Link">Rat Race</a>' started on one of the channels and so we sat and watched. Not before I put good ol' SoulSeek to work. After 'Rat Race' another surprise-like movie started. It was '<a href="http://us.imdb.com/Title?0203755" title="IMDB Link">One Night at McCool's</a>'. And just like as with 'Sweet November' out of the accident I saw another great movie. Note: Liv Tyler is one superb chick.<br />
+Talking about movies, I must say that I missed yesterday's / today's (What the hell!? I'm talking about the 24th of January!) programmed movie, '<a href="http://us.imdb.com/Title?0206275" title="IMDB Link">Save the Last Dance</a>'. But I reprogrammed it and I hope to see it next Tuesday. Programming means that I take a look at the program guide and I enter the movie's start time in my Palm, setting the alarm five minutes before it starts to have time to finish what I happen to do then and take a confortable position in front of the monitor...<br />
+After watching the movies I concluded that SoulSeek was a good boy and did his job well. It downloaded a bunch of MP3s. I must say that the Wireless Remix of Force Mass Motion's <i>Hold Back</i> is a BOMB. Just this: a BOMB.<br />
+Yesterday (calendaristically) I took some pics for the local newspaper of an old lady who just turned 98... Or was it 97? Nobody knew for sure. And who happens to be the oldest inhabitant of our city. Makes you think... 98 years on this planet. Is a little too much.</p>

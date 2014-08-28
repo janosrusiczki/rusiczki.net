@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Uhoh!
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 33
+wordpress_url: http://www.rusiczki.net/wp/?p=33
+date: !binary |-
+  MjAwMi0xMi0zMSAxMzozNDoxOSArMDEwMA==
+date_gmt: !binary |-
+  MjAwMi0xMi0zMSAxMDozNDoxOSArMDEwMA==
+categories:
+- General
+tags: []
+comments: []
+---
+<p>I received Muzik.<br />
+What's next? Daylight by night?<br />
+Or am I a brainwashed spy?</p>

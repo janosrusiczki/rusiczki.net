@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Firefox 3
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 497
+wordpress_url: http://www.rusiczki.net/wp/?p=497
+date: !binary |-
+  MjAwOC0wNC0wNCAwMTo1MzowNyArMDIwMA==
+date_gmt: !binary |-
+  MjAwOC0wNC0wMyAyMjo1MzowNyArMDIwMA==
+categories:
+- Technical
+tags: []
+comments: []
+---
+<p>... is incredibly fast.<br />
+It looks like the thousand dollar "investment" in this Intel Core 2 Duo rig last February wasn't in vain after all. I can finally browse around without strange second long hangs during which my CPU would strangely whistle to me from the case. I can feel the speed baby.<br />
+Can't wait for the final release and for my favorite (AdBlock, S3Fox) and work critical (Firebug) extensions to become compatible with it so I can install it on my Mac (the machine on which I'm doing all the work at home) and over at work too.</p>

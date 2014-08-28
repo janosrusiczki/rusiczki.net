@@ -1,0 +1,54 @@
+---
+layout: post
+status: publish
+published: true
+title: 300th blog entry
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 303
+wordpress_url: http://www.rusiczki.net/wp/?p=303
+date: !binary |-
+  MjAwNC0wNi0xMyAyMjoyMzoyMyArMDIwMA==
+date_gmt: !binary |-
+  MjAwNC0wNi0xMyAxOToyMzoyMyArMDIwMA==
+categories:
+- Web
+tags: []
+comments:
+- id: 102
+  author: lucian
+  author_email: 
+  author_url: http://www.supermagnet.ro
+  date: !binary |-
+    MjAwNC0wNi0xNCAxMDozMzoxNCArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNC0wNi0xNCAwNzozMzoxNCArMDIwMA==
+  content: ! 'very emotional moment indeed :)
+
+'
+- id: 103
+  author: kit
+  author_email: sorry@no-mails.please
+  author_url: http://homepage.mac.com/cpaul/iblog/
+  date: !binary |-
+    MjAwNC0wNi0xNSAxMToyOToyMSArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNC0wNi0xNSAwODoyOToyMSArMDIwMA==
+  content: ! 'Now, at your 300th post is a good moment to confess, Janos. I cheat:
+    I am using 2 different IPs.
+
+    Kidding!
+
+    Congratulations!
+
+'
+---
+<p>I just wanted to mark this important event. Ummm...<br />
+Hehe, not that anyone except me really cares but 300 entries are something... Mostly lots and lots of J&aacute;nos' yakkety - yak. There are 82 comments in the current database (there would be hundreds if I'd approve <a href="http://www.rusiczki.net/blog/archives/2004/06/07/hello_there">comment spam</a> but for obvious reasons I choose not to) and many were lost when I migrated from the old domain. The site in its whole averages about 50 unique visitors per day, of which I know about 10 (some personally and some by exchanging emails or talking via various chat proggies).<br />
+My constant readers, who I would here like to thank for their visits and interest.</p>

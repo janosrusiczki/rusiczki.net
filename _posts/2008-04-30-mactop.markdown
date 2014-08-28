@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Mactop
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 519
+wordpress_url: http://www.rusiczki.net/wp/?p=519
+date: !binary |-
+  MjAwOC0wNC0zMCAwMDowNjozOCArMDIwMA==
+date_gmt: !binary |-
+  MjAwOC0wNC0yOSAyMTowNjozOCArMDIwMA==
+categories:
+- Technical
+- Mac
+tags: []
+comments: []
+---
+<p>After putting my paws on a Mini-DVI to VGA adapter today this is the first post edited using my 19" Samsung LCD as a display as well as an external keyboard and mouse. And it feels damn nice. My MacBook just turned into a desktop computer. Yey!</p>

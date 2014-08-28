@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: The brand spanking new link blog
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 324
+wordpress_url: http://www.rusiczki.net/wp/?p=324
+date: !binary |-
+  MjAwNC0xMC0wMiAxMjo0MzowMyArMDIwMA==
+date_gmt: !binary |-
+  MjAwNC0xMC0wMiAwOTo0MzowMyArMDIwMA==
+categories:
+- Web
+tags: []
+comments: []
+---
+<p>OK, so after five days of using and loving it and two days after promising I fully integrated del.icio.us into my site.<br />
+I sacrificed the links section, which never got filled anyway and added the <a href="http://www.rusiczki.net/linkblog/" title="Link Blog">link blog</a> section which is sort of a side blog. It works like this: I surf the Net and when I see a site that's worth mentioning (in my humble opinion) I press the bookmarklet on my browser's toolbar which posts the bookmark to del.icio.us. Then, I made a script which gets my bookmarks for that day each 30 minutes via the del.icio.us API. These are recorded in my local database and then listed on the link blog page, which is in early beta stage for now, but I'll have to work on it soon as there'll be too many links and days to list on one page.<br />
+All this means that when a visitor checks the page the latest links listed there are pages I visited and bookmarked at most 30 minutes before. That's almost <i>live</i>, I'd say.<br />
+How funny that now as I'm writing this, <a href="http://del.icio.us" title="del.icio.us - The social bookmark manager">del.icio.us</a> is temporarily down... :-(</p>

@@ -1,0 +1,66 @@
+---
+layout: post
+status: publish
+published: true
+title: The masterpiece is (almost) complete!
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 457
+wordpress_url: http://www.rusiczki.net/wp/?p=457
+date: !binary |-
+  MjAwNy0wMy0xNCAxMTowNzoxMSArMDEwMA==
+date_gmt: !binary |-
+  MjAwNy0wMy0xNCAwODowNzoxMSArMDEwMA==
+categories:
+- Technical
+tags: []
+comments:
+- id: 420
+  author: RS
+  author_email: 
+  author_url: ''
+  date: !binary |-
+    MjAwNy0wMy0xNSAwNjowMTozMiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNy0wMy0xNSAwMzowMTozMiArMDEwMA==
+  content: ! 'You have nearly the same machine as I...I use Nvidia and not ATI and
+    upgraded my drive to SATA. Linux or Windows?
+
+'
+- id: 421
+  author: Janos
+  author_email: 
+  author_url: http://www.rusiczki.net/blog/
+  date: !binary |-
+    MjAwNy0wMy0xNSAwODoxMTo0MiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNy0wMy0xNSAwNToxMTo0MiArMDEwMA==
+  content: ! 'Windows. But running Linux often inside VMware.
+
+'
+- id: 422
+  author: RS
+  author_email: 
+  author_url: ''
+  date: !binary |-
+    MjAwNy0wMy0xNiAxMDoyMDo1NiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNy0wMy0xNiAwNzoyMDo1NiArMDEwMA==
+  content: ! 'And I Linux, running Windows within VMWare. :D Dual core really, really
+    helps! Great for testing code. And I can compile a kernel and play warcraft at
+    the same time! :)
+
+'
+---
+<p><img src="http://www.rusiczki.net/blog/blogpics/corsair_memory.jpg" width="500" height="148" alt="1 gigabyte of Corsair memory" class="image" /><br />
+I haven't written any updates about the hardware situation around here. Although a lot has changed. But it's never too late...<br />
+To make it short at the beginning of February I received the missing puzzle pieces from my new computer. These were the CPU (Intel Core 2 Duo E6600) and the motherboard (<a href="http://www.asus.com/products.aspx?l1=3&l2=11&l3=307&model=1399&modelmenu=2">ASUS P5B-E Plus</a>) picked after friend's recommendation, tedious research and review munching. As you might know I had the rest of the components <a href="http://www.rusiczki.net/blog/archives/2006/12/31/el_grande_year_end_recap">since December</a> and I was kind of forced to order these remaining parts a little earlier than I wanted to and my budget permitted because my old computer gave in one evening after <a href="http://www.rusiczki.net/blog/archives/2007/01/23/need_for_hardware_upgrade_painfully_felt">performing sluggishly</a> for several weeks. And this happened of course while I was in the middle of a project. The next day after the nasty brake down I borrowed some serious funds from where I could (respect Ioana and my parents) and passed an order on <a href="http://www.emag.ro">eMag</a>. <a href="http://www.flickr.com/photos/janos/377548291/">The box arrived</a> a little late because they didn't have the motherboard I ordered stocked but I remember receiving it on a Friday morning. So I fetched some tools and put everything together with a smile on my face. And it was a real joy working on it given the excellent quality of the case and motherboard. Everything just fit.<br />
+The first surprise came when I booted up. The case and the power supply I got in December were advertised as silent computing solutions and as they were both Antec products I had great confidence that they really were silent. So I pushed the power button for the first time and voooooooom the cooler on the video card ruined my day. As it was one noisy fellow. I later tried starting up without the video card plugged in and the noise level difference was HUGE. From "I can't hear whether my computer is turned on" to "oh shit, shut it down, I'm going deaf!"... Next disappointment was the time it took Windows to boot up. It was longer than I expected. So one of the first things I downloaded was <a href="http://www.sisoftware.net/">SiSoftware</a>'s Sandra Lite. And the next shock came! My computer was performing at half of the expected speed. Panic mode on! I quickly got ahold of a "hardware expert" friend and called him over. I tried tweaking some stuff by myself using the otherwise excellent ASUS overclocking utilities but I had no luck whatsoever in pushing the performance up - I didn't overclock 1 MHz though. The funny thing was that games were working perfectly smooth. Anyway, the next day my friend came over and after fiddling for a while he noticed something. Turns out that I was comparing my dual core computer's performance to quad cores. Eeek! Of course it was halved... I felt like some ears will suddenly grow on my head and I'll start making <a href="http://www.georgetown.edu/faculty/ballc/animals/donkey.html">donkey sounds</a>. After some proper comparing it looks like it actually performs a tad better than the comparison systems from Sandra. Yey!<br />
+So I calmed down and started installing the usual tools and working on it. And I must say that it works great. Lightning fast actually. At least compared with my old system. The one problem that still remained was the VGA cooler which wasn't performing too well despite all the noise it was making. I've been eying an aftermarket Zalman cooler (the <a href="http://www.zalman.co.kr/eng/product/view.asp?idx=192&code=013">VF900CU</a>) but I just didn't have the money to buy it (I forgot to mention that I went through the biggest personal financial crisis after I bought the new components - I survived thanks to Ioana). Until yesterday that is, when I finally got it, mounted it and sat down and enjoyed the silence. Now I have a powerful yet very silent system. Yuppy! I'm happy!<br />
+There's still room for improvement obviously. What it still needs is a spacious and fast SATA hard drive as I have 6 + 1 SATA ports and only one IDE port on the motherboard and I'm using 2 hard drives plugged into an IDE cable and no SATA drives at all... And one more gig of RAM. In this order. As my budget will permit.</p>

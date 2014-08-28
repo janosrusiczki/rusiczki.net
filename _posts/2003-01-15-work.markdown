@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Work...
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 64
+wordpress_url: http://www.rusiczki.net/wp/?p=64
+date: !binary |-
+  MjAwMy0wMS0xNSAyMzo1OTo0NyArMDEwMA==
+date_gmt: !binary |-
+  MjAwMy0wMS0xNSAyMDo1OTo0NyArMDEwMA==
+categories:
+- Work
+tags: []
+comments: []
+---
+<p>Another day of work. Now I'm even considering myself extreme. 'Cause I'm working on two projects simultaneously... Hehe. Hope it will show. At least financially. Anyway, I'm flat tired. Can barely wait to jump into bed.</p>

@@ -1,0 +1,53 @@
+---
+layout: post
+status: publish
+published: true
+title: ReStart
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 4
+wordpress_url: http://www.rusiczki.net/wp/?p=4
+date: !binary |-
+  MjAwMi0xMi0yMCAxMjo0NjowMiArMDEwMA==
+date_gmt: !binary |-
+  MjAwMi0xMi0yMCAwOTo0NjowMiArMDEwMA==
+categories:
+- General
+tags: []
+comments:
+- id: 2
+  author: RazvraTina
+  author_email: 
+  author_url: http://razvratina.blogspot.com
+  date: !binary |-
+    MjAwNi0xMS0wNyAxMjowMDoyMCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0xMS0wNyAwOTowMDoyMCArMDEwMA==
+  content: ! 'Why don''t you import the old entries here?
+
+'
+- id: 3
+  author: Janos
+  author_email: 
+  author_url: http://www.rusiczki.net/blog/
+  date: !binary |-
+    MjAwNi0xMS0wNyAxMzoyNTo1NCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0xMS0wNyAxMDoyNTo1NCArMDEwMA==
+  content: ! 'Well, if I didn''t do it back then I sure won''t do it now. I''d break
+    the time / space continuum... :)
+
+'
+---
+<p>Well, here I am. Blogging.</p>
+<p>Starting off the I-REALLY-DONT-KNOW-TH time.</p>
+<p>I hope this will be a more persistent blogging experience since my previous ones ended quite abruptly. Anyway <a href="http://www.geocities.com/rusiczkij/weblog/blogger.html" title="my 2001-ish blog">my last blog</a> ended too fast because my Internet connection was suddenly cut. I mean I had some troubles because my phone line by that time was an antique one, meaning that my family's phone line was <i>locked</i> together with one of a neighbour's, and all the dial-up costs showed up on his bill.</p>
+<p>Pretty funny actually. From my point of view of course... And so to avoid more trouble I couldn't connect any more from home and I just can't blog from Internet caf&eacute;s.</p>
+<p>Too bad. Because re-reading that blog brings up nice memories. And I actually love writing journals because of this. Because they help dig up things that you'd think you've forgotten a long long time ago. Actually all is there. Locked safely. And a journal makes it all pop out of the haze. And it's nice. I guess I love living on memories...</p>
+<p>Well, enough intro. Here I am. Posting again...</p>

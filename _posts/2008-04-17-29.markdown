@@ -1,0 +1,54 @@
+---
+layout: post
+status: publish
+published: true
+title: '29'
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 512
+wordpress_url: http://www.rusiczki.net/wp/?p=512
+date: !binary |-
+  MjAwOC0wNC0xNyAwODo0MTo1MSArMDIwMA==
+date_gmt: !binary |-
+  MjAwOC0wNC0xNyAwNTo0MTo1MSArMDIwMA==
+categories:
+- Life
+tags: []
+comments:
+- id: 494
+  author: pax
+  author_email: 
+  author_url: http://pax.mioritics.ro/
+  date: !binary |-
+    MjAwOC0wNC0xNyAyMTowNDo0NiArMDIwMA==
+  date_gmt: !binary |-
+    MjAwOC0wNC0xNyAxODowNDo0NiArMDIwMA==
+  content: ! 'You''re getting old and bragging about that? :)
+
+    Happy b''day, happy karma dude.
+
+'
+- id: 495
+  author: Cosmonova
+  author_email: 
+  author_url: http://www.cosmonova.ro
+  date: !binary |-
+    MjAwOC0wNC0xOCAxMjoxMDoyOSArMDIwMA==
+  date_gmt: !binary |-
+    MjAwOC0wNC0xOCAwOToxMDoyOSArMDIwMA==
+  content: ! 'Happy Birsday.
+
+'
+---
+<p><a href="http://flickr.com/photos/janos/2421694914/"><img src="http://farm4.static.flickr.com/3132/2421694914_e025690f21.jpg" width="500" height="334" border="0" class="image"/></a></p>
+<p>No. This isn't entry number 29. Neither is the 29th day. Not even 29 months.</p>
+<p>It's 29 years. Since I'm on this planet.</p>
+<p>Yey. Happy birthday to me!</p>
+<p><strong>Update:</strong> The Mac-Forums <a href="http://www.rusiczki.net/blog/blogpics/mac-forums-multiple-birthday-wish.php" onclick="window.open('http://www.rusiczki.net/blog/archives/mac-forums-multiple-birthday-wish.php','popup','width=500,height=143,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">made sure</a> I get their wishes. Btw, it's kind of depressing to get the same greeting from tens of <a href="http://www.vbulletin.com">vBulletin</a> based forums the only thing changing being the forum's name and occasionally the username.</p>
+<p><strong>Yet another update:</strong> Illustrative image added.</p>

@@ -1,0 +1,67 @@
+---
+layout: post
+status: publish
+published: true
+title: Un an!
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 4604
+wordpress_url: http://www.rusiczki.net/?p=4604
+date: !binary |-
+  MjAxMy0xMC0yOSAyMDoxMzowNCArMDEwMA==
+date_gmt: !binary |-
+  MjAxMy0xMC0yOSAxNzoxMzowNCArMDEwMA==
+categories:
+- Română
+tags: []
+comments:
+- id: 28855
+  author: Anda
+  author_email: 
+  author_url: ''
+  date: !binary |-
+    MjAxMy0xMC0yOSAyMTo0ODowMCArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMy0xMC0yOSAxODo0ODowMCArMDEwMA==
+  content: Ca sa vezi de ce e(ra) bine sa mergi la discoteca :)  Urarile de bine le-am
+    facut deja, asa ca nu mai scriu si aici, ca oricum, stiti voi ce va doresc.
+- id: 28856
+  author: János
+  author_email: 
+  author_url: http://www.rusiczki.net/
+  date: !binary |-
+    MjAxMy0xMC0yOSAyMTo1ODowMCArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMy0xMC0yOSAxODo1ODowMCArMDEwMA==
+  content: Binidităt! :)
+- id: 28857
+  author: alexbrie
+  author_email: 
+  author_url: ''
+  date: !binary |-
+    MjAxMy0xMC0yOSAyMjo1NjowMCArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMy0xMC0yOSAxOTo1NjowMCArMDEwMA==
+  content: Felicitari si casa de piatra la 1 an post factum va urez!
+- id: 28858
+  author: János
+  author_email: 
+  author_url: http://www.rusiczki.net/
+  date: !binary |-
+    MjAxMy0xMC0zMCAxNzozNzowMCArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMy0xMC0zMCAxNDozNzowMCArMDEwMA==
+  content: Mersi Alex. Multa sanatate voua si bebeului. :)
+---
+<p><a href="http://www.rusiczki.net/wp-content/uploads/2013/10/oficial.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2013/10/oficial-693x460.jpg" alt="Noi doi, cu inele pe degete." width="693" height="460" class="alignnone size-medium wp-image-4605" /></a></p>
+<p>Nu am scris anul trecut despre marele eveniment, fiindcă eram într-o pauză de postat cauzată de nu-știu-precis-ce, dar voi scrie anul acesta.</p>
+<p>Așadar alaltăieri, pe 27 octombrie 2013, am aniversat un an de căsnicie cu Ioana.</p>
+<p>Anul trecut imediat după eveniment m-au întrebat mulți "cum e?" și le răspundeam în glumă că s-a schimbat totul radical. Având în vedere că ne știm și am fost împreuna cu Ioana 9 ani înainte de pronunțarea marelui 'Da', e clar că nu s-a schimbat nimic. Atât doar că suntem oficial, în acte, soț și soție. Și nu se poate zice despre noi că ne-am fi hazardat să luăm decizii pripite. :)</p>
+<p>Problema cea mare este că nu știm data exactă în care ne-am întâlnit. Anul trecut când aveam deja plănuit evenimentul am săpat puțin prin arhive și am găsit <a href="http://www.rusiczki.net/wp-content/uploads/2013/10/ioana-in-tren.jpg">prima poză ce o am cu ea</a>, datată 17 august 2003, dar știu că a fost făcută în tren în drum spre <a href="http://ro.wikipedia.org/wiki/Apa,_Satu_Mare">Apa</a>, după concediul meu din Bușteni din acel an, concediu în care deja comunicam de zor prin SMS-uri. De fapt, ne-am întâlnit cu puțin timp înainte de aia (în iunie sau iulie 2003), la, atenție mare, discotecă și am fost împreună neîntrerupt de atunci. Dar am scăpat și de formalități și le-am dat prilej de bucurie părinților și prietenilor care au avut ocazia să ne vadă odată în viață la costum. Hehe.</p>
+<p>În jurul aniversării am primit cadou cetățenia maghiară (pe 25 octombrie 2013) și de la natură o toamnă lungă și frumoasă.</p>

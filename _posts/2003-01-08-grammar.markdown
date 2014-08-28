@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Grammar...
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 48
+wordpress_url: http://www.rusiczki.net/wp/?p=48
+date: !binary |-
+  MjAwMy0wMS0wOCAwMDo1NzozNCArMDEwMA==
+date_gmt: !binary |-
+  MjAwMy0wMS0wNyAyMTo1NzozNCArMDEwMA==
+categories:
+- General
+tags: []
+comments: []
+---
+<p><img src="http://www.rusiczki.net/blog/blogpics/notes.jpg" width="300" height="145" border="0" alt="Grammar notes" class="image" /><br />
+I'll write these down 100 times. Until I get them.<br />
+Thanks you know who. :-)</p>

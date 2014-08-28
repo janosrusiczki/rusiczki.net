@@ -1,0 +1,71 @@
+---
+layout: post
+status: publish
+published: true
+title: Aventuri în fotografia digitală
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 1514
+wordpress_url: http://www.rusiczki.net/?p=1514
+date: !binary |-
+  MjAxMi0wNS0xNyAyMjozMTowMSArMDIwMA==
+date_gmt: !binary |-
+  MjAxMi0wNS0xNyAxOTozMTowMSArMDIwMA==
+categories:
+- Technical
+- Photos
+- Română
+tags:
+- fotografie
+- nikon
+- canon
+- nikon d60
+- nikon d90
+- nikon d70
+- canon powershot a20
+- canon powershot a60
+- canon powershot s2 is
+comments:
+- id: 28572
+  author: lucian
+  author_email: 
+  author_url: http://blog.lucianstanescu.eu
+  date: !binary |-
+    MjAxMi0wNS0yMCAxMTo0NDo1MiArMDIwMA==
+  date_gmt: !binary |-
+    MjAxMi0wNS0yMCAwODo0NDo1MiArMDIwMA==
+  content: ! "La mai mare, stimate domn!\r\n\r\nIar teleul ăla, schimbă-l. La cum
+    descrii situația, nu-ți aduce decât stress, și asta nu-i bine :)"
+- id: 28793
+  author: János
+  author_email: 
+  author_url: http://www.rusiczki.net/
+  date: !binary |-
+    MjAxMi0wNS0yMyAwOTo1MjowMCArMDIwMA==
+  date_gmt: !binary |-
+    MjAxMi0wNS0yMyAwNjo1MjowMCArMDIwMA==
+  content: Deocamdata din lipsa de fonduri raman cu el - pe D700 am micro adjustments
+    si cand va voi avea o zi relaxata o sa ma apuc de tunat. Acuma ochesc un 24 -
+    70 / 2.8 delicios, insa habar nu am de unde sa scot banetul necesar. Ar trebui
+    sa ma bag in ceva gigs care sa aduca niste cashalot.
+---
+<p>Totul a început în 2002 când din primii bani caștigati ca "freelancer" mi-am luat un Canon PowerShot A20. Era să fie un Kodak EasyShare dar m-am razgândit după ce am adăgat o postare pe <a href="http://forum.computergames.ro/">forumul Computergames</a> în care mi-am prezentat alegerea și am primit o contra-recomandare foarte călduroasă pentru Canon. În perspectivă o alegere foarte inspirată, dar cine ar fi crezut pe atunci că în 10 ani Kodak va da faliment... L-am rugat pe clientul meu francez să mi-l cumpere de acolo, mi l-a trimis prin curier, am plătit vamă, ce mai, a fost o adevărată aventură pentru acele vremuri. Atât de trigger happy cum am fost în perioada imediat următoare nu cred că voi mai fi niciodată. Oricum lumea mea nu era foarte larga pe atunci: excursii cu prietenii pe munte, războaie tuberman, snowboard pe dealul din apropierea casei, ieșiri la chefuri în Baia Mare, Timișoara, București... Fun fact of the day: această camera i-a fost împrumutată lui <a href="http://www.wphoto.ro/">Vasi Văsuț</a> pentru a-și imortaliza vacanța estivală. Moment traumatizant: la un moment dat mi-am pus aparatul în buzunarul de la piept a unei cămăși, am sărit în sus dintr-o prostie, aparatul a luat viteză și a aterizat pe beton. Au rămas niște urme pe carcasa dar nici vorbă de probleme la capitolul funcționare. Nu am mai trecut printr-o experiență asemănătoare, dar tind sa cred că pe vremea aia se făceau aparate!</p>
+<p>Apoi după ce am devenit ușor obsedat de okazii.ro <a href="http://www.rusiczki.net/2004/01/30/digital-camera-upgrade/">am făcut upgrade</a> în 2004 la un Canon PowerShot A60. Nu a fost un pas foarte mare dar aparatul ăsta știa deja filma, și chiar am câteva filmări din acea perioadă care au ajuns de-a dreptul celebre în cercul de prieteni.</p>
+<p>În Decembrie 2005, mutat fiind deja la oraș (hehe), după ce am încasat niște bani de la un client american am reușit <a href="http://www.rusiczki.net/2005/12/02/santa-came-early-this-year/">să-mi cumpăr</a> un Canon PowerShot S2 IS de la același Vasi care în acel moment făcuse upgrade la DSLR. Știu ca am devenit obsedat la un moment dat de niște pixeli morți și am trimis aparatul în service (avea încă garanție) și cred ca în timp ce S2-ul era "plecat" m-am ambiționat să scot tot ce se poate din A60 și am făcut <a href="http://www.rusiczki.net/2006/06/08/stairs-from-a-blue-lake/">celebra poză cu Lacul Albastru</a> precum și <a href="http://www.flickr.com/photos/janos/150467498/">o poză mai puțin cunoscută</a> cu o albină, care e printre preferatele mele până în acest moment. Tot pe vremea S2 IS-ului am reușit să ne "tragem" mașina și am început să umblăm încoace și încolo. Am tras poze la Bârsana, Sinaia dar mai ales pe pârtia de la Cavnic. Orizontul meu începea încet - încet să se lărgească. Am început sa am probleme de la un moment dat cu bateriile și suspectam ca aparatul ar consuma excesiv curent, dar cred că de vină au fost tocmai bateriile sau încărcătorul meu de pe atunci. Mi-a plăcut foarte mult acest aparat, mai precis pozele care le făcea - a alimentat cu instantanee epoca de glorie pe <a href="http://www.flickr.com/photos/janos">Flickr</a>, asta pe vremea când Flickr-ul era încă Flickr și nu un oraș al fantomelor... Acum 2 ani, după ce a stat aproximativ un an și ceva pe raft l-am dat în folosință lui nepotu' care îl folosește până în ziua de azi.</p>
+<p>În 2008 după ce am încasat un teanc de bani de la același francez care mi-a finanțat pe vremuri achiziția A20-ului (și a A60-ului) mi s-a concretizat un vis mai vechi după cumpărarea primului meu DSLR, un Nikon D60 care a venit la pachet cu un bliț SB600, o geanta Crumpler, card SD de 4 giga și un abonament de un an la revista National Geographic. Cum ar zice englezu': am descoperit <a href="http://www.f64.ro">f64</a> with a bang! Am mai fost întrebat cum de am schimbat brandul după 6 ani și 3 aparate Canon. Simplu! În primul rând din cauza acestei promoții care mi s-a părut irezistibilă la acea vreme și în al doilea rând fiindcă aparatele anterioare nu erau DSLR-uri așa că nu apucasem încă să investesc în obiective și alte accesorii care să mă țină la o anumită marcă. Zic că era un vis mai vechi, deoarece încă de pe vremea A20-ului am început să fac poze la chefuri și începusem să râvnesc după un bliț extern care sa înlocuiască chiștocul integrat în aparat. Salivam imaginându-mi poze luminate uniform cum vedeam eu ca fac băieții cool. Și în sfârșit am obținut ceea la ce am râvnit de atâta vreme. Desigur habar n-aveam eu pe atunci de white balance și "prostii" de astea. Îndreptam blițul către tavan (nu conta ce culoare avea) și dă-i să pută! În scurt timp am mai cumpărat câteva accesorii esențiale: filtru UV (adică protecție pentru obiectiv), parasolar, kit de curățare. Și după asta am uitat de achizițiile în domeniul fotografiei și am intrat în...</p>
+<p>Pauza de RC și apoi de bicicletă. Trebuie menționat că în acest moment eram în faza adoptării de hobby-uri fără număr, realizând prea târziu ca nu voi avea timp sa ma bucur de toate. Nu m-am oprit din fotografiat dar m-am limitat la obiectivul kit, care s-a întâmplat să fie foarte bine "împerecheat" cu D60-ul, pozele rezultate mulțumindu-mă pe deplin.</p>
+<p>Apoi cum datorită pasiunii pentru datul pe zăpada eram în timpul iernii aproape în fiecare weekend 2 zile pe pârtie, de obicei cu aparatul în buzunar sau torpedoul mașinii, am început mai mult sau mai puțin accidental să fotografiez băieții veseli încălțați cu plăci sau schiuri care făceau giumbușlucuri pe trambuline, bare sau cutii. Și așa, după publicarea unui set de poze reușite de la ediția 2009 a concursului Five-O desfășurat la Cavnic am ajuns să fiu invitat ca fotograf la ediția din 2010. După ce că era să dau pe afară de mândrie ăla a fost locul în care Janos s-a întâlnit pentru prima oara cu domnii fotografi de sporturi extreme <a href="http://www.hila.ro">Tibi Hila</a>, Alex Prepeliță și echipamentul lor. Și a rămas gură cască. Eu eram echipat cu unicul meu obiectiv kit, dar vremea a fost favorabila și mi-au ieșit, chiar și acum zic, niște poze extraordinare. L-am contactat pe Hila ulterior pe Facebook și am început să-l frec la cap cu diferite întrebări despre obiective și aparatura fotografică și am primit răspunsuri care le-am pus bine să le pot consulta "la nevoie". Cred ca în jurul acestui moment a început să se concretizeze în capul meu idea că aș vrea să ma ocup mai serios de acest hobby și că aș vrea sa pozez sporturi fie ele mai mult sau mai puțin extreme. Și tot pe atunci mi-am consolidat prietenia cu <a href="http://hajdutamas.blogspot.com/">Tamas</a>, pe care l-am stresat ulterior cu alte întrebări care mai de care mai tâmpe. Ce să-i faci, unii învață din experiență, cărți și de pe Net, alții învață stresându-și prietenii. :)</p>
+<p>Pe la mijlocul verii lui 2010 m-am hotărât că nu se mai poate cu D60-ul și că-mi trebuie ceva mai mult. Așadar am țintit spre următorul body în gamă, Nikon D90, și l-am luat. Apoi urgent-urgent, la nici o lună după achiziția D90-ului, mi-am luat și primul obiectiv non-kit, obiectivul pentru care am făcut de fapt schimbarea de body pentru ca D60-ul nu știa să facă autofocus cu el: Nikkor AF-D 50mm f1.8. Tam tam taaam! Nu ca as deține multe, dar ăsta e până în ziua de azi obiectivul meu preferat. Bine, fiind un măgar jumate, inițial nu mi-a plăcut deloc și chiar am ajuns să-l vând în primăvara lui 2011 - eu fiind convins că e un obiectiv pentru portrete și cam atât. În plus a fost primul meu contact cu un obiectiv fix, unde zoom-ul este egal cu piciorul fotografului. Dar l-am răscumpărat în vreo lună și ceva și am făcut câteva poze foarte reușite cu el la un concurs de biciclete ținut în Aprilie 2011. Și mi-am dat seama că nu, nu este un obiectiv (doar) pentru portrete.  Doh!</p>
+<p>Dar să continuăm povestea reluând din momentul achiziționării 50-ului. A urmat "deportarea" mea în Budapesta (din interes de serviciu) în ultimul sfert a lui 2010 și cu banii economisiți, după citirea a nenumărate review-uri, întrebat în stânga și-n dreapta, am făcut investiția cea mare într-un obiectiv dedicat sporturilor, și anume un Sigma 70-200mm f2.8. Cu obiectivul ăsta am o relație love / hate până în acest moment, dar asta e oarecum normal având în vedere că-l țin destul de mult pe aparat și mă "trădează" la fel de des. Unul dintre aspecte e legat de faptul că e cam "moale" de la jumătatea focalei în sus. Celălalt aspect este focalizarea și aici sunt de fapt doua probleme: la temperaturi joase refuză complet să facă autofocus și, mai des și indiferent de temperatura ambientala, focusează adesea pe lângă. Am mai zis ca e soft? Da, am zis. Dar mai zic odată: e soft. Soft! :) Dar toate astea fac parte din riscul de a plăti pentru un obiectiv third party o treime din prețul Nikon-ului echivalent.</p>
+<p>A urmat o geantă Tamrac încăpătoare, în primul rând pentru tun (Sigma) cât și pentru ce aveam și ce urma să-mi iau. La început îmi încapeau toate, chiar ambele aparate și "arsenalul" de obiective dar apoi m-a apucat nebunia cu lumina, mai precis cea artificială, controlata cu precizie. Am apelat mai mult la eBay și prietenii chinezi care mi-au trimis nenumărate accesorii de luminat, montat blițuri, cleme, cabluri, umbrele, softbox, un bliț Yongnuo ieftin și bun de folosit în condiții extreme dar și la f64 pentru un al doilea Speedlight SB-600, declanșatoare de la distanță pentru bliț, stative de lumina și altele.</p>
+<p>A mai venit un obiectiv fisheye (Nikkor 10.5mm f2.8) pe la capăt de martie, tocmai la timp pentru ediția 2011 a concursului care m-a urnit înspre toată nebunia asta fotografică.</p>
+<p>În vara Ioana și-a luat un Nikkor 35mm f1.8 care l-am încercat și eu binențeles, dar parca nu a reușit să mă prindă cum m-a prins 50-ul. Pe la capătul verii începusem să devin frustrat ca am observat că după ce prelucram pozele acasă, aceleași poze vizualizate la serviciu aveau cu totul alte culori, așa că am făcut un upgrade de major la monitor către un HP ZR24w. La care de la momentul cumpărării încoace nu m-am atins de setări. Și-s perfect mulțumit.</p>
+<p>Anul acesta am luat întâi un cap de trepied pe bila Manfrotto 496RC2 de la un coleg de serviciu apoi un trepied Manfrotto 190XPROB de la f64 dacă tot a fost promoție. Am folosit pentru prima oara trepiedul la concursul cross country desfășurat pe Dealul Minei din Baia Sprie, locul unde redescoperisem 50-ul anul trecut. Mare revelație și trepiedul - odată prins un unghi bun, aparatul rămâne în poziție și e gata să surprindă alte cadre. Asta a fost primul concurs de unde am venit acasă nu cu două sau trei poze utilizabile, ci cu 30. Performanță repetată cu o săptămână mai târziu la maratonul Preluca. Începe oare perseverența să dea roade?</p>
+<p>În final alaltăieri am făcut pasul cel mare: Nikon D700. Aparat full frame, pe care am dat de aproape doua ori mai mult decât pe orice alt item fotografic ce l-am luat pana acum - a detronat Sigma. Și asta e doar un body. Obiective am două care le pot folosi la adevăratul lor potențial pe el: 50-ul, adică vedeta incontestabila a acestei însemnări și rău-famatul Sigma, antagonistul principal. Restul funcționează, dar numai în mod DX, ceea ce înseamnă că rezoluția finală a pozelor e mai mica decât pe D90, cele 2 aparate având același număr de megapixeli. Nu am avut timp de comparații până acum dar am o bănuială legată de calitate, și anume că aceasta ar fi mai buna chiar și cu handicapul de megapixeli. Aparatul cel nou, mare și greu l-am luat de la un coleg, că mi-a făcut o ofertă irezistibilă și e un lucru cunoscut că eu nu prea pot rezista la de astea. Tocmai acuma când controalele de la D90 începeau să-mi intre în reflex, trebuie sa ma antrenez cu chestii noi... Probabil vor avea de suferit imaginile în viitorul apropiat dar promit ca încerc să-mi re-intru în mână cât se poate de repede.</p>
+<p>Și acum surpriza surprizelor de la final: de la Canon A60 încoace, inclusiv, dețin incă toate aparatele. Dar nu pentru mult timp, întrucât aș vrea să dau D60-ul.</p>

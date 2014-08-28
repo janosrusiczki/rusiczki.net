@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: Kojak
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 72
+wordpress_url: http://www.rusiczki.net/wp/?p=72
+date: !binary |-
+  MjAwMy0wMi0wMyAwMToyNDo1MSArMDEwMA==
+date_gmt: !binary |-
+  MjAwMy0wMi0wMiAyMjoyNDo1MSArMDEwMA==
+categories:
+- Life
+tags: []
+comments: []
+---
+<p>Almost...<br />
+I cut my hair a few days ago. And it's weird. Because as long as I can remember I had longer (not long but not short either) hair. And now down to 1 cm (or something around it) is quite weird. I'm often forgetting about it. I had / have the habit of putting my hand through my hair. But now my hand doesn't find any resistance up on my head. Because the resistance is lying now somewhere in a trash can.<br />
+The first thought when I first saw myself in the mirror after I came home was that I look like some crude soldier. Soldier... Even the thought of being a soldier gives me the shrieks.<br />
+Anyway I'm happy with it. It's more comfortable than the "long" hair. And I did wanted a change.</p>

@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: El grande year end recap
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 434
+wordpress_url: http://www.rusiczki.net/wp/?p=434
+date: !binary |-
+  MjAwNi0xMi0zMSAxMDo0MzoxMCArMDEwMA==
+date_gmt: !binary |-
+  MjAwNi0xMi0zMSAwNzo0MzoxMCArMDEwMA==
+categories:
+- Life
+- Technical
+tags: []
+comments: []
+---
+<p>OK, so if you read this blog you might wonder what the hell happened after I posted <a href="http://www.rusiczki.net/2006/11/23/hospitals-and-surprise-travels/">that entry</a> saying that I'm going after my Mum in my first longer driving session...</p>
+<p>It was fun going there, at least the first part of it until the dark fell and I reached the road segment between Dej and Cluj which is in heavy reparation. Well, that wore me out a bit. I reached Cluj anyway and drove into the town during the crazy afternoon rush hour. Picked up my Mum and headed back. All was fine until a few kilometers before Gherla where my Dacia decided it was enough and broke down. Imagine me, having next to no experience with the car and my Mum just coming back from a heart related hospitalization looking at each other and wondering just what the FUCK happened... And what the hell should we do. Somehow we reached Gherla and due to some kind of miracle we found a service open at 9 PM. And the guy made the car work (at least 3 out of 4 pistons) for free. (Note to self: next time when in Gherla visit him with some presents.) We got home somehow, mostly in 3rd shift because the 4th was shaking the car like crazy and when it did take it (the 4th shift that is) I did my best to keep the car going at over 70 km/h driving through empty towns and villages well over the legal speed limit... A real adventure, that REALLY WASN'T NEEDED. Turns out some essential spring broke inside the engine, a truly rare defect according to most technicians I asked. Of course it had to happen to Janos.</p>
+<p>But fortunately this is really the only bad news. I mean this and the lack of snow since that blitz at the beginning of November. But we're kind of used to that, by now. I had some problems with the car since then, most notably that <a href="http://www.flickr.com/photos/janos/326253146/">broken direction incident</a> which really scared the shit out of me. But now, since a while, it's working OK. Touch wood.</p>
+<p>Good things happened after then. I got a Pro account on Flickr and immediately after a photographer's block kicked in. I felt that now that I have an upgraded account I should only post really artistic pictures. Complete bullshit of course. :-) In a short time I realized that I'll just continue posting as I did before. Oh, and talking about Flickr. A while ago I made <a href="http://www.flickr.com/groups/baia-mare/">a group</a> dedicated to Baia Mare and since it had some success (23 members and 120 photos as of writing this) and a small and really nice community formed around it I decided to move my focus and created <a href="http://www.flickr.com/groups/baia-sprie/">a group</a> for my home town of Baia Sprie. Unfortunately there's only me and <a href="http://astateofmind.pluto.ro/">Evil Boarder</a> posting there for now... And to be honest, I'm not expecting too many new members. But I created <a href="http://www.flickr.com/groups/maramures/">another group</a>, a bit broader, dedicated to the beautiful county of Maramures. And spammed a few members that had photos tagged with 'maramures' to send them over to the group. Which some did. So this last group started out pretty strong and I hope it'll continue like this.</p>
+<p><a href="http://www.rusiczki.net/2006/09/15/the-last-day/">I did mention</a> that I've quit my job in the second part of the year. For a while I did some contract based work for <a href="http://www.vodanet.ro">Vodanet</a> the result of which was the XHTML / CSS skeleton of <a href="http://www.acasa.ro">acasa.ro</a> (the second most visited Romanian portal if I'm not mistaken, hehe). Yep that's your truly's handy work. Nowadays I'm working with my life long French partner (haha) on a really cool mobile related project. Can't say more for now, but never fear, details are coming soon. To this very blog... :-)</p>
+<p>And last but not least, I'm in the process of upgrading my computer. And that means a complete makeover because the one I'm writing this entry from dates back before I moved into this apartment. And as you can imagine it's not the fastest. The funny thing is that I've started to buy the new computer from the outside to the inside so now I have the case (Antec P160), a power block (Antec TruePowerTrio 430-EC), video card (Asus ATI RX1650XT) and a gig of Corsair RAM. And no money left. To be continued sometime at the end of January - start of February with an Intel Core2 Duo processor and a matching motherboard...</p>
+<p>OK, really long post. If you came this far, congratulations!</p>
+<p>Well, that's it, boys and girls, have a Very Happy New Year and take care. :-)</p>

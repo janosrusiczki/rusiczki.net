@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: The epic weekend in review
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 773
+wordpress_url: http://www.rusiczki.net/?p=773
+date: !binary |-
+  MjAwOS0wNC0yMiAyMjowNjo1OCArMDIwMA==
+date_gmt: !binary |-
+  MjAwOS0wNC0yMiAxOTowNjo1OCArMDIwMA==
+categories:
+- Life
+- RC
+tags: []
+comments: []
+---
+<p>What's the word that best describes a weekend starting on Friday at 1 PM and from which you return to work only on Wednesday? Plus it contains your birthday. I think <em>epic</em> will do.</p>
+<p>On Friday (my birthday) after serving the whole office and whoever happened to drop by with cookies and soda we couldn't leave at 1 sharp as we expected because of some usual problems (imagine accounting department vs IT department and builders finishing our office door) but at around 13:30 or 13:45 we were indeed off and into the weekend. I dropped off my colleagues at various points along the way and finally arrived home where I got the first present of the day from Ioana: an awesome Lib Tech hoodie! A good afternoon's sleep was in order and after that I fixed some stuff around the house. I finished and it was time for the festive dinner (all hail Ioana's Grandmother!) and for me to drink some champagne and to receive some more presents (chocolate, perfume and a 16 gig USB stick) - hooray birthday! Then we headed out, first to a terrace where we met with some friends, had a few beers and chips. I got a funny present from my friend Steve: a t-shirt that spells "Congratulations you're now level 30" - for those not in the loop, it's a World of Warcraft reference. After the beers and chips we packed ourselves in a taxi and visited a skater / boarder's party, but it sort of sucked so at around 2 AM we were home.</p>
+<p>The next day I awoke with a nice headache which kept me company throughout the day. Thank you beers. I proceeded to clean the air filters of my Traxxas RC truck tuned this and that and I was off to meet some friends and head out to the football field I scouted a week ago as a nice spot to run the truck. Actually right next to the field I discovered a perfect rockless path in the forest which we then abused with various speed runs, drifts and donuts. We had heaps of fun, the proof being <a href="http://www.rusiczki.net/2009/04/18/4-x-4/">the videos I posted</a> right after I returned home.</p>
+<p>On Sunday it was time for a walk with Cristi and Steve and our dog Ina. We went to the Blue Lake and around the place where I ran the truck a day ago. After a chat we returned home and later visited the same terrace as on Friday for a beer and a half and some unwanted table buddies. We went home early because...</p>
+<p>Monday was the trip day. At 7 AM we were off to <a href="http://en.wikipedia.org/wiki/Debrecen">Debrecen</a> (Hungary) to do some shopping and spend most of the day in the <a href="http://www.aquaticum.hu/">Aquaticum</a> baths. I programmed the GPS a few days before with 2 addresses of some model shops plus the approximate address of the Intersport sports equipment shop. The first model shop turned out to be a joke (very small and very limited in RC stuff) and so we went to the second one on foot with the GPS in my hand only to find it closed. It was time for <a href="http://www.intersport.hu">Intersport</a> where we spent some serious cash but in exchange we upgraded ourselves with various nice stuff. For me it was a Columbia hat, a pair of Nike sneakers and a short sleeved shirt (actually this last one was acquired from New Yorker). I'm most happy about the hat, because I had one since around 2000, lost it a while ago, and since then I was lusting for a new one. After all it's sooo nice to keep your head hidden from the sun. :-) After the shopping was done I realized that I haven't programmed the GPS with Aquaticum's address so I asked a random person for directions and she suggested a street which I entered in the GPS and after some spiraling we found it. Of course, given the fact that it was Easter Monday in Romania, 80% of the cars around the baths were Romanian and so was the crowd inside. But we had great fun by trying each and every pool, the slides and even the saunas. Because by accident we entered the hottest sauna Ioana only resisted about a minute but I turned out to be a winner with over 10 minutes of endurance. When I exited water was dripping from me in a way I have never seen before. It was quite an experience! :-) We ate, took pictures, bathed some more and then returned home. Only when I got off the car in the yard and felt my legs numb did I realize that I drove in one shot.</p>
+<p>Tuesday was a chill day. We went out with Steve, his girlfriend and the dogs for a delicious BBQ and some nitro burning but my RC car gave up on me and refused to work properly from the second tank onwards. I was pretty disappointed because I'm not really in the mood of going through the fuel needle settings once again.</p>
+<p>We returned home at around 7:30 PM. And that was it, the epic extended weekend.</p>

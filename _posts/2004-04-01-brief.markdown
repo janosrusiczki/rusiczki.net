@@ -1,0 +1,49 @@
+---
+layout: post
+status: publish
+published: true
+title: Brief
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 267
+wordpress_url: http://www.rusiczki.net/wp/?p=267
+date: !binary |-
+  MjAwNC0wNC0wMSAyMzoyMzo0MCArMDIwMA==
+date_gmt: !binary |-
+  MjAwNC0wNC0wMSAyMDoyMzo0MCArMDIwMA==
+categories:
+- General
+tags: []
+comments:
+- id: 49
+  author: kit
+  author_email: sorry@no-mails.please
+  author_url: http://homepage.mac.com/cpaul/iblog/
+  date: !binary |-
+    MjAwNC0wNC0wMiAxODozMTo0NyArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNC0wNC0wMiAxNTozMTo0NyArMDIwMA==
+  content: ! 'Garfield phone cover rules, I agree. Now prepare for the movie:
+
+    <a href="http://www.apple.com/trailers/fox/garfield/trailer/" rel="nofollow">http://www.apple.com/trailers/fox/garfield/trailer/</a>
+
+'
+- id: 50
+  author: J
+  author_email: 
+  author_url: http://www.rusiczki.net/
+  date: !binary |-
+    MjAwNC0wNC0wMyAwNTo1Mjo0NyArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNC0wNC0wMyAwMjo1Mjo0NyArMDIwMA==
+  content: ! 'June, please come quick! :-)
+
+'
+---
+<p>My new iPod battery rules. STOP. It lasts a lot. STOP. My C: partition went to the moon today. STOP. Thank God for <a href="http://www.symantec.com/sabu/ghost/ghost_personal/">Norton Ghost</a>. STOP. My new <a href="http://www.rusiczki.net/blog/blogpics/garfield_phone.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/garfield_phone.php','popup','width=720,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">Garfield themed phone cover</a> rules. STOP. As of today I'm the proud owner of a spankin' new <a href="http://www.cdrinfo.com/Sections/Articles/Specific.asp?ArticleHeadline=Teac+DV%2DW58G&Series=0">Teac DVD writer</a>. STOP. Which also... rules. STOP.</p>

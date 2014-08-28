@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: MacHeist 3
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 675
+wordpress_url: http://www.rusiczki.net/?p=675
+date: !binary |-
+  MjAwOS0wNC0wNyAwODozNjoxMCArMDIwMA==
+date_gmt: !binary |-
+  MjAwOS0wNC0wNyAwNTozNjoxMCArMDIwMA==
+categories:
+- Technical
+- Mac
+tags: []
+comments: []
+---
+<p>Do you have a Mac? Do you want to support Mac shareware? Need a great todo list management app, a web editor from the guys who wrote CSSEdit, two image editors, a couple of games and much - much more for just $39 from which 25% will go to the charity of your choice? Then check out the <a href="http://www.macheist.com">MacHeist 3 Bundle</a> now!</p>
+<p>As I'm writing this there are only 22 hours left to fetch all this at this incredible price. I've been one of the early buyers (bought it in the first day) and payed only $31 because I participated in every mission in heist (even from my ski holidays in Austria) then bit my nails off waiting for stuff to unlock. Luckily everything unlocked in time, just as it was predicted in the forums so now it's time to sit back and enjoy the software.</p>
+<p>Please note that I didn't even use my referral link here because I managed to get the extra apps by referring not only the needed two but 9 (nine, NINE!) people via <a href="http://digg.com/apple/MacHeist_3_bundle_unveiled?t=24423735#c24423735">a "funny" comment on Digg</a>. 9 people! I'll repeat this: I managed to refer 9 people. I still can't believe this as I couldn't ever convince people to buy something. So I even went back to leave <a href="http://digg.com/apple/MacHeist_3_bundle_unveiled?t=24423735#c24491836">a thank you comment</a>.</p>
+<p>Hey, don't wait! Go buy shareware! :)</p>
+<p><strong>Edit:</strong> 11 people bought using my referral link. This is amazing!</p>
+<p><strong>Edit 2:</strong> 12 users...</p>
+<p><strong>Edit 3:</strong> Last hours or maybe minutes and almost $850,000 raised for charity. And when you think that a few short days ago they were struggling to get to $400k. All hail <a href="http://www.acrylicapps.com/times/">Times</a> for getting the sales going again and boo the freakin' fence sitters! Of course after Boinx TV unlocked and the bar for The Hit List and Espresso was set to $500k everyone started buying realizing that indeed, they will get unlocked. Freakin' fence sitters... :-)</p>

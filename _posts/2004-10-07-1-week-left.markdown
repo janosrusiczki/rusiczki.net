@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: 1 week left
+author:
+  display_name: Janos
+  login: janos
+  email: 
+  url: http://rusiczki.net
+author_login: janos
+author_email: 
+author_url: http://rusiczki.net
+wordpress_id: 325
+wordpress_url: http://www.rusiczki.net/wp/?p=325
+date: !binary |-
+  MjAwNC0xMC0wNyAxMjozNToyNyArMDIwMA==
+date_gmt: !binary |-
+  MjAwNC0xMC0wNyAwOTozNToyNyArMDIwMA==
+categories:
+- Life
+tags: []
+comments: []
+---
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="468" height="60" id="tm04base_banner" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param name="movie" value="http://www.rusiczki.net/blog/blogstuff/tm04base.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="http://www.rusiczki.net/blog/blogstuff/tm04base.swf" quality="high" bgcolor="#ffffff" width="490" height="63" name="ticker" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object><br />
+Absolutely undoubtedly this will be <b>the party</b> of the year. Thursday come quick!</p>

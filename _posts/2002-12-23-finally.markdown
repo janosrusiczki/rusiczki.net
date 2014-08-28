@@ -22,6 +22,6 @@ categories:
 tags: []
 comments: []
 ---
-<p>It's snooowing.<br />
-"I'm dreaming of a white Christmas..."<br />
-Weee!</p>
+It's snooowing.
+"I'm dreaming of a white Christmas..."
+Weee!

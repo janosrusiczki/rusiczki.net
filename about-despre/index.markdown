@@ -2,14 +2,14 @@
 layout: page
 status: publish
 published: true
-title: About
+title: About / Despre
 author:
   display_name: admin
   login: admin
-  email: accounts.one@gmail.com
+  email:
   url: http://
 author_login: admin
-author_email: accounts.one@gmail.com
+author_email:
 author_url: http://
 wordpress_id: 2
 wordpress_url: http://www.rusiczki.net/wp/?page_id=2

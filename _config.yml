@@ -15,3 +15,4 @@ markdown: kramdown
 
 # Added configuration
 permalink: /:year/:month/:day/:title/
+disqus_username: kitsched

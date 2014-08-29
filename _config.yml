@@ -17,3 +17,5 @@ markdown: kramdown
 permalink: /:year/:month/:day/:title/
 disqus_username: kitsched
 exclude: ['README.md']
+paginate: 10
+paginate_path: "page/:num"

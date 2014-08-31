@@ -1,3 +1,10 @@
+---
+layout: post
+title: Then vs. Now
+author: Janos
+categories:
+- Life
+---
 Nevastă-mea mă acuză că trăiesc în trecut de fiecare dată când îi arăt câte un post aici pe blog și o invit să ne amintim împreună cum a fost "atunci". Și are dreptate, căci recunosc: sunt un nostalgic incurabil.
 
 Dar poftim, după ce la începutul lui 2009 ne-am inaugurat plimbările la zăpadă în străinătate în Zell am See / Kaprun iată-ne întorși tot aici pentru inaugarea vacanțelor de vară în străinătate.

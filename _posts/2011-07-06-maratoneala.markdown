@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Maratoneala
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 1397
 wordpress_url: http://www.rusiczki.net/?p=1397
 date: !binary |-
@@ -34,7 +27,7 @@ comments:
     primii lucreaza si ei de nebuni, dar se antreneaza - probabil- mult mai dur ca
     tine ( si aici includ si partea de alimentatie)'
 - id: 20663
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-
@@ -71,7 +64,7 @@ comments:
     mă întreb și eu ce fel de oameni sunt ăia de pe primele locuri.\r\n\r\nne vedem
     în august aici? http://www.banatmaraton.ro/ro/home.html"
 - id: 20667
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-

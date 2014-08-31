@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Code Monkey not crazy, just proud
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 452
 wordpress_url: http://www.rusiczki.net/wp/?p=452
 date: !binary |-

@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Română
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 1144
 wordpress_url: http://www.rusiczki.net/?p=1144
 date: !binary |-
@@ -32,7 +25,7 @@ comments:
     MjAxMC0wOC0zMCAyMDo1NToyMSArMDIwMA==
   content: un motiv bun ca sa trec mai des pe aici :D
 - id: 13136
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-
@@ -88,7 +81,7 @@ comments:
     MjAxMS0wMi0wMSAwOTo0MDoyMyArMDEwMA==
   content: Nu tu insistai pe comentarii strict în engleză?
 - id: 16752
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net
   date: !binary |-

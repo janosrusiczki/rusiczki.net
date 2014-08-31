@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Postmark library for CodeIgniter
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 1065
 wordpress_url: http://www.rusiczki.net/?p=1065
 date: !binary |-
@@ -34,7 +27,7 @@ comments:
   content: ! "Hey, János,\r\n\r\nMind posting the code to github? Or letting me post
     it? I'm sure some PHP masters would start some crazy forking :-)\r\n\r\nHristo"
 - id: 7535
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-
@@ -54,7 +47,7 @@ comments:
   content: ! "Done. It is available at:\r\n\r\nhttp://github.com/hdeshev/postmark-codeigniter\r\n\r\nThanks
     for contributing this code. Much appreciated.\r\n\r\nHristo"
 - id: 7538
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-
@@ -92,7 +85,7 @@ comments:
     MjAxMC0xMC0yNyAxNjozMToyMCArMDIwMA==
   content: What's the license on this thing?
 - id: 14022
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net
   date: !binary |-
@@ -110,7 +103,7 @@ comments:
     MjAxMS0wOS0wNSAxODo0NDo1MiArMDIwMA==
   content: You have a closing quote missing after 'To Name
 - id: 21837
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-

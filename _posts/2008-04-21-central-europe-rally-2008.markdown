@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Central Europe Rally 2008
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 515
 wordpress_url: http://www.rusiczki.net/wp/?p=515
 date: !binary |-
@@ -36,7 +29,7 @@ comments:
 
 '
 - id: 498
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net/blog/
   date: !binary |-

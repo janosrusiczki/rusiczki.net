@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Zen Pinball
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 1500
 wordpress_url: http://www.rusiczki.net/2011/12/19/1500/
 date: !binary |-
@@ -48,7 +41,7 @@ comments:
     MjAxMS0xMi0xOSAxMzo0OToxMyArMDEwMA==
   content: Go go iOs :)). Btw, cum vezi tu noutatile pe Game Center ?
 - id: 24155
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-
@@ -61,7 +54,7 @@ comments:
     jocurile \"imprastiate\" pe ecranul de welcome in jurul numelui. De fapt nu mai
     sunt sigur de unde am ochit jocul, poate o fi fost in AppStore?"
 - id: 24677
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-

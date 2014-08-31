@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: ! 'The Helilog - Crash #2'
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 935
 wordpress_url: http://www.rusiczki.net/?p=935
 date: !binary |-
@@ -41,7 +34,7 @@ comments:
     I'm hoping to take it with me camping this weekend and have finally accumulated
     all the parts. Many the same as you. Good luck with the left turns!
 - id: 2509
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-

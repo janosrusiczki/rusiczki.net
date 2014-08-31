@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: 2008 - 2009 Winter season
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 637
 wordpress_url: http://www.rusiczki.net/?p=637
 date: !binary |-
@@ -32,7 +25,7 @@ comments:
     MjAwOS0wNC0wNiAxMjo0MjoxMiArMDIwMA==
   content: noice
 - id: 596
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-

@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: 2009 - My year in pictures
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 excerpt: ! "On one of the evenings at the start of December I got nostalgic looking
   at my Flickr photos taken this year and this idea popped in my mind: how about a
   blog post like this? Since then this post has been brewing as a draft and it turned
@@ -56,7 +49,7 @@ comments:
   content: ! "Nice one, dude.\r\nBe kind and explain me how do I subscribe to RSS.
     It's nice to read some stuff you don't know about people you know."
 - id: 7014
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-

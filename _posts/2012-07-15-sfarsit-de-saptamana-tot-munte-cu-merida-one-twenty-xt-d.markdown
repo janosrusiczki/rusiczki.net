@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Sfârșit de săptămână tot munte cu Merida One-Twenty XT-D
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 1583
 wordpress_url: http://www.rusiczki.net/?p=1583
 date: !binary |-

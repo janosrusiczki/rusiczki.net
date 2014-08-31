@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Wow, now that's a climb!
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 199
 wordpress_url: http://www.rusiczki.net/wp/?p=199
 date: !binary |-

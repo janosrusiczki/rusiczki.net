@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Installing a new battery into a 2nd generation iPod
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 excerpt: ! 'So, I did it! As <a href="http://www.rusiczki.net/blog/archives/2004/04/01/brief"
   title="Kitsched - Brief">I already said</a> I have a new battery providing power
   for my G2 (that''s second generation) iPod. And this one is not dying on me daily

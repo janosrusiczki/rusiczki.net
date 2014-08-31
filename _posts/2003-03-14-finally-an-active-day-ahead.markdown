@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Finally, an active day ahead
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 121
 wordpress_url: http://www.rusiczki.net/wp/?p=121
 date: !binary |-

@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Film, ca la Baia Mare
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 1172
 wordpress_url: http://www.rusiczki.net/?p=1172
 date: !binary |-
@@ -47,7 +40,7 @@ comments:
   content: ahahahahahaha...u failed...romantic valentine outing turned into neanderthal
     spotting in the cinema =))
 - id: 17090
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-
@@ -77,7 +70,7 @@ comments:
     MjAxMS0wNi0wOCAxMzoxNjoxMCArMDIwMA==
   content: ! 'Recomandare: http://beta.news.yahoo.com/blogs/lookout/texas-movie-theater-makes-example-psa-texting-audience-170925090.html'
 - id: 20135
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-

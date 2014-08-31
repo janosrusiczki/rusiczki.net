@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: One last TM04Base related entry
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 335
 wordpress_url: http://www.rusiczki.net/wp/?p=335
 date: !binary |-
@@ -34,7 +27,7 @@ comments:
 
 '
 - id: 160
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net/blog/
   date: !binary |-

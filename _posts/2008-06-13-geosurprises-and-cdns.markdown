@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Geosurprises and CDNs
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 535
 wordpress_url: http://www.rusiczki.net/wp/?p=535
 date: !binary |-

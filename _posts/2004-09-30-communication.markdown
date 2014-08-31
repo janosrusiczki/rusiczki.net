@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Communication
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 322
 wordpress_url: http://www.rusiczki.net/wp/?p=322
 date: !binary |-
@@ -33,7 +26,7 @@ comments:
 
 '
 - id: 146
-  author: Janos
+  author: János
   author_email: 
   author_url: http://htt://www.rusiczki.net/blog/
   date: !binary |-

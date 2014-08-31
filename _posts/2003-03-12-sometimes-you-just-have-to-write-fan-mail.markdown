@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Sometimes you just HAVE to write fan mail
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 119
 wordpress_url: http://www.rusiczki.net/wp/?p=119
 date: !binary |-

@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Backup - Coming to a Mac near me
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 523
 wordpress_url: http://www.rusiczki.net/wp/?p=523
 date: !binary |-
@@ -38,7 +31,7 @@ comments:
 
 '
 - id: 502
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net/blog/
   date: !binary |-
@@ -49,7 +42,7 @@ comments:
 
 '
 - id: 503
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net/blog/
   date: !binary |-

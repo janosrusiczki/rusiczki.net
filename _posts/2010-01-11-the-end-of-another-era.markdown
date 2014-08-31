@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: The end of another era
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 1046
 wordpress_url: http://www.rusiczki.net/?p=1046
 date: !binary |-
@@ -31,7 +24,7 @@ comments:
     MjAxMC0wMS0xMSAxNDowOToyNiArMDEwMA==
   content: Songbird, anyone?
 - id: 7263
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-

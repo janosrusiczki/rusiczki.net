@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: IRBA 2004
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 346
 wordpress_url: http://www.rusiczki.net/wp/?p=346
 date: !binary |-
@@ -31,7 +24,7 @@ comments:
     MjAwNC0xMi0zMCAxMjo0Nzo1NCArMDEwMA==
   content: ! 'Hey, I thought you are a DJ '
 - id: 194
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net/blog/
   date: !binary |-
@@ -70,7 +63,7 @@ comments:
 
 '
 - id: 197
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net/blog/
   date: !binary |-

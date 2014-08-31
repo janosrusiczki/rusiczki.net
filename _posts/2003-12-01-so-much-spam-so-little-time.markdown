@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: So much spam so little time...
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 207
 wordpress_url: http://www.rusiczki.net/wp/?p=207
 date: !binary |-

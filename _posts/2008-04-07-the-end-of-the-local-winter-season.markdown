@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: The end of the local winter season
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 504
 wordpress_url: http://www.rusiczki.net/wp/?p=504
 date: !binary |-

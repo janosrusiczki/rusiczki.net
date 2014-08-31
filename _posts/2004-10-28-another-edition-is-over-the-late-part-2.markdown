@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Another edition is over - The late part 2
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 excerpt: ! 'So after <a href="http://www.rusiczki.net/blog/archives/2004/10/19/another_edition_is_over_part_1"
   title="Kitsched - Another edition is over - Part 1">all those bad experiences</a>
   I was out to party. With some 4 hours of sleep or something like this. It couldn''t
@@ -43,7 +36,7 @@ comments:
 
 '
 - id: 155
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net/blog/
   date: !binary |-

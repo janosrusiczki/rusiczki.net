@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Make Flickr work with your Movable Type blog
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 373
 wordpress_url: http://www.rusiczki.net/wp/?p=373
 date: !binary |-

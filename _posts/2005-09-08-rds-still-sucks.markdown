@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: RDS still sucks
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 368
 wordpress_url: http://www.rusiczki.net/wp/?p=368
 date: !binary |-
@@ -37,7 +30,7 @@ comments:
 
 '
 - id: 255
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net/blog/
   date: !binary |-

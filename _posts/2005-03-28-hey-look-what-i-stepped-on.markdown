@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Hey, look what I stepped on!
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 355
 wordpress_url: http://www.rusiczki.net/wp/?p=355
 date: !binary |-
@@ -34,7 +27,7 @@ comments:
 
 '
 - id: 210
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net/blog/
   date: !binary |-
@@ -57,7 +50,7 @@ comments:
 
 '
 - id: 212
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net/blog/
   date: !binary |-

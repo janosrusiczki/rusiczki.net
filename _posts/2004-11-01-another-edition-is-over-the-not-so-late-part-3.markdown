@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Another edition is over - The not so late part 3
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 excerpt: ! 'After <a href="http://www.rusiczki.net/blog/archives/2004/10/19/another_edition_is_over_part_1">feeling
   bad</a> because of the lack of sleep and proper accomodation and good because of
   the <a href="http://www.rusiczki.net/blog/archives/2004/10/28/another_edition_is_over_the_late_part_2">first

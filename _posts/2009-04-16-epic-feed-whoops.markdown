@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Epic feed whoops
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 761
 wordpress_url: http://www.rusiczki.net/?p=761
 date: !binary |-

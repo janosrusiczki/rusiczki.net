@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Trail-uri de Baia Mare
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 1415
 wordpress_url: http://www.rusiczki.net/?p=1415
 date: !binary |-
@@ -33,7 +26,7 @@ comments:
     MjAxMS0wOS0xOSAwODo0MjoxOCArMDIwMA==
   content: Spune-mi te rog ce camera ai folosit pentru filmarea traseului?
 - id: 22028
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-

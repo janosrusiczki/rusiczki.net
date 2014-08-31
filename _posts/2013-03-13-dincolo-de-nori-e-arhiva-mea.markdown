@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Dincolo de nori, e arhiva mea
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 4424
 wordpress_url: http://www.rusiczki.net/?p=4424
 date: !binary |-
@@ -32,7 +25,7 @@ comments:
     MjAxMy0wMy0xNCAxMDoxOTowMCArMDEwMA==
   content: Foarte inspirat titlul :)
 - id: 28821
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-

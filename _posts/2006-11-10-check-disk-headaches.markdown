@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Check disk headaches
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 427
 wordpress_url: http://www.rusiczki.net/wp/?p=427
 date: !binary |-
@@ -90,7 +83,7 @@ comments:
 
 '
 - id: 343
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net/blog/
   date: !binary |-
@@ -299,7 +292,7 @@ comments:
 
 '
 - id: 355
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net/blog/
   date: !binary |-
@@ -344,7 +337,7 @@ comments:
 
 '
 - id: 357
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net/blog/
   date: !binary |-
@@ -559,7 +552,7 @@ comments:
     MjAwOS0wNC0wNSAxMTo0Njo1OSArMDIwMA==
   content: nice,I found the solution which others not mention. Big thanks
 - id: 583
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net/
   date: !binary |-
@@ -771,7 +764,7 @@ comments:
     since I've been slapped around by Microshaft enough to know running the program
     might do more harm than good."
 - id: 6113
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net/
   date: !binary |-
@@ -858,7 +851,7 @@ comments:
     Did not use safe mode and my OS is windows 7.\r\n\r\nThanks for the post man,
     made my night."
 - id: 12620
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net
   date: !binary |-

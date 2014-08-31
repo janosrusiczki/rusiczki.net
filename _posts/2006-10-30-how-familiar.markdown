@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: How familiar
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 420
 wordpress_url: http://www.rusiczki.net/wp/?p=420
 date: !binary |-

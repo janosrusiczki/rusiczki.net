@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Baia Mare on Google Maps
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 542
 wordpress_url: http://www.rusiczki.net/wp/?p=542
 date: !binary |-

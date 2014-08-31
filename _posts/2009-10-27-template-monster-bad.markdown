@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Template Monster = Bad
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 983
 wordpress_url: http://www.rusiczki.net/2009/10/27/template-monster-bad/
 date: !binary |-
@@ -34,7 +27,7 @@ comments:
   content: Can I add a plus? I also hate their TABLE templates. Now everbody is working
     with CSS, only TM with tables.
 - id: 21224
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net
   date: !binary |-

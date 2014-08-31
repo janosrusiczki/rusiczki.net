@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Pe dealurile de deasupra Plopisului
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 excerpt: ! "Sau cum am ajuns din greseala la premierea maratonului de la Preluca...\r\n\r\nDar
   inainte de a ma lansa in ditamai romanul, o scurta introducere: ma gandeam mai de
   de mult sa ma apuc sa descriu pe undeva turele noastre de bicicleta fiindca sunt
@@ -59,7 +52,7 @@ comments:
   content: ! "well, primu baton pe macului! :)\r\nBuna citirea pt relaxat inainte
     de editat poze :)"
 - id: 19948
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net
   date: !binary |-
@@ -78,7 +71,7 @@ comments:
   content: Inca un baton... si din cate am auzit ai mai fost din nou prin zona, deci
     daca mai scri mai citesc.
 - id: 19956
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-
@@ -97,7 +90,7 @@ comments:
     MjAxMS0wOS0wMSAxNDowMDo1MiArMDIwMA==
   content: Si relatarea nu a mai venit ....
 - id: 21836
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-

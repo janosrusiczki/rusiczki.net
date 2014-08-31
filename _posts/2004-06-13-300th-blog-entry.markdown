@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: 300th blog entry
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 303
 wordpress_url: http://www.rusiczki.net/wp/?p=303
 date: !binary |-

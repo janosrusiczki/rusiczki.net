@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Online routable map of Romania
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 505
 wordpress_url: http://www.rusiczki.net/wp/?p=505
 date: !binary |-
@@ -33,7 +26,7 @@ comments:
 
 '
 - id: 478
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net/blog/
   date: !binary |-
@@ -99,7 +92,7 @@ comments:
 
 '
 - id: 483
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net/blog/
   date: !binary |-
@@ -122,7 +115,7 @@ comments:
     decat ruta aleasa de ei ca ii naspa drumu pe acolo.\r\n\r\nSau nu am vazut eu
     aceasta optiune ? :-/"
 - id: 693
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-

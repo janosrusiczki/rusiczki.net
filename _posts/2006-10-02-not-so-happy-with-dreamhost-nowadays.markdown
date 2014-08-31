@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Not so happy with DreamHost nowadays
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 409
 wordpress_url: http://www.rusiczki.net/wp/?p=409
 date: !binary |-
@@ -34,7 +27,7 @@ comments:
 
 '
 - id: 323
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net/blog/
   date: !binary |-

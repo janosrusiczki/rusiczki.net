@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Back from THE Festival
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 excerpt: ! '<img alt="My badge with the site''s name messed up..." src="http://www.rusiczki.net/blog/blogpics/tm03base_badge.jpg"
   width="112" height="150" border="0" class="postimage" /> Now this last one was one
   <b>TIGHT</b> weekend. The most intense of this year that''s for sure! And one of

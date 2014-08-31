@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Another edition is over - Part 1
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 excerpt: ! 'I''m back home since Sunday night but I had to catch my breath before
   writing anything about the massiveness that TM04Base was. I''m sad that it''s over
   and that all that''s left to wait for this year is Christmas because basically nothing

@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Smarty License
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 157
 wordpress_url: http://www.rusiczki.net/wp/?p=157
 date: !binary |-

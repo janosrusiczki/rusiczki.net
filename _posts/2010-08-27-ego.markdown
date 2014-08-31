@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: ego++
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 1128
 wordpress_url: http://www.rusiczki.net/?p=1128
 date: !binary |-
@@ -31,7 +24,7 @@ comments:
     MjAxMS0xMS0wMSAxMDowMToxMiArMDEwMA==
   content: mai fa un ego search si acum - o sa ramai surprins ;))
 - id: 23277
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-

@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: MT 3.121, dynamic pages and the return of the blacklist
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 332
 wordpress_url: http://www.rusiczki.net/wp/?p=332
 date: !binary |-

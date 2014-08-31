@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Impletirea pasiunilor
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 1358
 wordpress_url: http://www.rusiczki.net/?p=1358
 date: !binary |-
@@ -36,7 +29,7 @@ comments:
     lucruri).\r\n\r\n\r\nAltfel, faptul ca ai scris denota bucurie si pasiune. And
     that can only be a good thing :) La cat mai multe poze si pedalat!"
 - id: 20311
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-
@@ -64,7 +57,7 @@ comments:
   content: Or avea ei chilot cu burete si buzunare super practice, dar ai grija unde
     bagi Galaxy-ul data viitoare :)
 - id: 20335
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-

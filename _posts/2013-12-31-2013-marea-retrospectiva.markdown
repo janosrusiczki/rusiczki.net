@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: 2013 - Marea retrospectivă
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 excerpt: ! "Am mai încercat soiul ăsta de însemnare <a href=\"http://www.rusiczki.net/2009/12/31/2009-my-year-in-pictures/\">la
   capăt de 2009</a> și cum îmi face deosebită plăcere să recitesc acel articol m-am
   gândit că dacă tot sunt pe acasă în vacanță să încerc să scriu ceva asemănător și

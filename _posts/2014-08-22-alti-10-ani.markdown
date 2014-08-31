@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Alți 10 ani
-author: Janos
+author: János
 wordpress_id: 4793
 wordpress_url: http://www.rusiczki.net/?p=4793
 date: !binary |-

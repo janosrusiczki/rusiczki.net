@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Starting a Ruby on Rails project from existing data
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 4592
 wordpress_url: http://www.rusiczki.net/?p=4592
 date: !binary |-

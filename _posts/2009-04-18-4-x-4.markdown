@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: 4 x 4
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 770
 wordpress_url: http://www.rusiczki.net/?p=770
 date: !binary |-
@@ -40,7 +33,7 @@ comments:
     MjAwOS0wNC0xOSAwNTozMTowNCArMDIwMA==
   content: Super rondele.... ultimul vid e grozav.
 - id: 1325
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-
@@ -59,7 +52,7 @@ comments:
     MjAwOS0wNC0yNSAwODo1ODozOCArMDIwMA==
   content: ! "esti nebun de legat! :)\r\n\r\nda' unde-i elicopteru?"
 - id: 1605
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-

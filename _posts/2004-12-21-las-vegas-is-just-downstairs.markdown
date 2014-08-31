@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Las Vegas is just downstairs
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 344
 wordpress_url: http://www.rusiczki.net/wp/?p=344
 date: !binary |-

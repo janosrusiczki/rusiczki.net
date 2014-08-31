@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: The last day...
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 405
 wordpress_url: http://www.rusiczki.net/wp/?p=405
 date: !binary |-
@@ -33,7 +26,7 @@ comments:
 
 '
 - id: 314
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net/blog/
   date: !binary |-

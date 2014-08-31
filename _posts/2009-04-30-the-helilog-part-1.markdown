@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: The Helilog - Part 1
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 919
 wordpress_url: http://www.rusiczki.net/?p=919
 date: !binary |-

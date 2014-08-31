@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Careful! Work in progress
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 653
 wordpress_url: http://www.rusiczki.net/?p=653
 date: !binary |-
@@ -31,7 +24,7 @@ comments:
     MjAwOS0wNC0wNiAxMDozNDo0MCArMDIwMA==
   content: New theme's hawt-hawt-hawt!
 - id: 591
-  author: janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-

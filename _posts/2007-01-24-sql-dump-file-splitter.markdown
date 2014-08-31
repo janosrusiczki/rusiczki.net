@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: SQL Dump File Splitter
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 438
 wordpress_url: http://www.rusiczki.net/wp/?p=438
 date: !binary |-
@@ -93,7 +86,7 @@ comments:
 
 '
 - id: 383
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net/blog/
   date: !binary |-
@@ -444,7 +437,7 @@ comments:
   content: What about a 2GB SQL file and up?  I can't seem to use it and it keeps
     crashing.
 - id: 5461
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-
@@ -665,7 +658,7 @@ comments:
     MjAxMC0wNy0wNSAwNjo1NDo1NyArMDIwMA==
   content: Nive
 - id: 12137
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-
@@ -820,7 +813,7 @@ comments:
     MjAxMS0wOC0wNSAwODo0ODoyNiArMDIwMA==
   content: Broke when try to split sql file with size 4GB.
 - id: 21240
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net
   date: !binary |-

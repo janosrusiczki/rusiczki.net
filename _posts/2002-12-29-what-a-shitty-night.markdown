@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: What a shitty night
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 26
 wordpress_url: http://www.rusiczki.net/wp/?p=26
 date: !binary |-

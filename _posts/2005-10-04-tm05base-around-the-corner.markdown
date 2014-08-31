@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: TM05Base around the corner
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 372
 wordpress_url: http://www.rusiczki.net/wp/?p=372
 date: !binary |-

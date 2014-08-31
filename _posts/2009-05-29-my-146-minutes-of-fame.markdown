@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: My 1:46 minutes of fame
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 946
 wordpress_url: http://www.rusiczki.net/?p=946
 date: !binary |-
@@ -46,7 +39,7 @@ comments:
     la tine pe blog despre eveniment, o sa pui o, vorba aia, caramida intru propovaduirea
     culturii :)\r\nte astept"
 - id: 2868
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-

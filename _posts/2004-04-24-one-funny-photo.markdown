@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: One funny photo
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 281
 wordpress_url: http://www.rusiczki.net/wp/?p=281
 date: !binary |-

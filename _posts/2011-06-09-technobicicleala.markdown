@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: Technobicicleala
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 1306
 wordpress_url: http://www.rusiczki.net/?p=1306
 date: !binary |-
@@ -70,7 +63,7 @@ comments:
     informatiile in real time si eu nu mi-as monta un telefon fragil de 300-400 de
     euro pe ghidonul mountainbike-ului.
 - id: 20317
-  author: Janos
+  author: János
   author_email: 
   author_url: http://rusiczki.net
   date: !binary |-

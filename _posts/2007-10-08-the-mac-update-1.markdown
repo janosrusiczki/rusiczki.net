@@ -3,14 +3,7 @@ layout: post
 status: publish
 published: true
 title: ! 'The Mac update #1'
-author:
-  display_name: Janos
-  login: janos
-  email: 
-  url: http://rusiczki.net
-author_login: janos
-author_email: 
-author_url: http://rusiczki.net
+author: János
 wordpress_id: 477
 wordpress_url: http://www.rusiczki.net/wp/?p=477
 date: !binary |-
@@ -41,7 +34,7 @@ comments:
 
 '
 - id: 443
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net/blog/
   date: !binary |-
@@ -68,7 +61,7 @@ comments:
 
 '
 - id: 445
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net/blog/
   date: !binary |-
@@ -91,7 +84,7 @@ comments:
 
 '
 - id: 447
-  author: Janos
+  author: János
   author_email: 
   author_url: http://www.rusiczki.net/blog/
   date: !binary |-

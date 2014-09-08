@@ -11,3 +11,7 @@ După ce ne-am împachetat majoritatea lucrurilor vineri dupămasa după servici
 Ieșim din țară pe la 10:30 (în loc de 9) și oprim la Mateszalka pentru cumpărături conform planului. Îmi amintesc că am observat că am ajuns la Budapesta destul de târziu. GPS-ul a hotărât să ne scoată pe M0 (centura Budapestei) și făcând înconjurul am mai pierdut ceva timp. Căldura mare în Ungaria dar vremea se închide în jurul graniței cu Austria unde începe ploaia care ne dă de furcă după lăsarea întunericului, condusul devenind foarte solicitant mai ales după ce am părăsit autostrada. Recunosc că în multe locuri habar nu aveam pe unde e drumul.
 
 Ajungem la Viehhofen târziu de tot depășind și cele mai pesimiste estimări ale GPS-ului. Ajunși în curtea cazării mă relaxez și îmi dau seama că am stat atât de încordat încât mă dor mușchii gâtului.
+
+Mulți arabi.
+
+Papa bun seara făcută de Ioana din carnați picanți și pireu de cartofi instant de la benzinărie.

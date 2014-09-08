@@ -1,18 +1,18 @@
-Idea de concediu de vară o aveam de mult dar nu a fost pusă în aplicare din varii motive. Eu aveam planuri mari cu un roadtrip prin țările baltice dar din estimări părea să coste prea mult așa că am abandonat idea. Iar acum dacă tot am primit concediu estival sincronizat ne-am hotărât să venim într-o țară care ne e familiară (4 + 2 concedii de schii) și care nu costă exagerat de mult. Ne-am gândit să stăm jumate de timp la Zell am See și restul la Innsbruck.
+Concediu de vară... Idea o aveam de mult dar nu a fost pus în aplicare din varii motive. Eu aveam planuri mari cu un roadtrip prin țările baltice dar din estimări părea să coste prea mult așa că am abandonat idea. Dar acum dacă tot am primit concediu estival (mai precis tomnatic) sincronizat ne-am hotărât să mergem într-o țară care ne e familiară (4 + 2 concedii de schii) și care nu costă exagerat de mult: Austria. Ne-am gândit să stăm jumate de timp la Zell am See și restul la Innsbruck.
 
-Făcut rezervări cu nici două săptămâni înainte dar am găsit relativ simplu fiind off season. Booking.com și nu Interchalet că acolo se puteau face doar pe o săptămână. Proprietara apartamentului din Viehhofen (un sat din apropierea Zell am See) pare foarte comunicativă și mă anunță de niște blocaje de drum prilejuite de concursul Iron Man. 
+Am făcut rezervările cu nici două săptămâni înainte dar am găsit relativ simplu cazare fiind off season - a fost parfum comparativ cu rezervările de iarnă care trebuie făcute cu minim 2 sau 3 luni înainte. Am folosit Booking.com și nu Interchalet unde ne uitam de obicei căci pe acesta din urmă se puteau face doar rezervări pe o săptămână. Proprietara apartamentului din Viehhofen (un sat din apropierea Zell am See) a părut foarte comunicativă și ne-a anunțat în engleză de niște blocaje de drum prilejuite de concursul Iron Man. Dar cum majoritatea blocajelor erau duminică iar noi ajungeam sămbătă seara, credeam că nu ne prea afectează.
 
-Am tot verificat meteo să decidem dacă să ne aducem bicicletele au ba. În penultima zi înainte de plecare am decis să nu le aducem, vremea anunțându-se în majoritate ploioasă, cel puțin cât am fi stat la Zell am See.
+Am tot verificat prognoza meteo ca să putem decide dacă să ne ducem bicicletele au ba. În penultima zi înainte de plecare am decis să nu le ducem, vremea anunțându-se în majoritate ploioasă, cel puțin cât am fi stat la Zell am See unde vroiam să facem tura lacului și eventual niște coborâri de pe Kitzsteinhorn.
 
-Pornit lejer sâmbătă dimineață că este timp fiind vară. 
+Am pornit lejer sâmbătă dimineața pe la 8 că este timp fiind vară.
 
-În vamă o rog pe Ioana să facă poze la coada de mașini de care nu am văzut niciodată și ea zice nu scot aparatul din care eu îmi dau seama că am uitat geanta cu aparatul acasă cu totul . După niște mormăieli hotărâm să ne întoarcem după el și ne sunăm prietenii până găsim pe cineva dispus să ne-o aducă jumate de drum. 
+În vamă o rog pe Ioana să facă poze la coada de mașini de care nu am văzut niciodată și ea zice nu scot aparatul din care eu îmi dau seama că am uitat geanta cu aparatul acasă cu totul. După niște mormăieli hotărâm să ne întoarcem după el și ne sunăm prietenii pe rând până găsim pe cineva dispus să ni-l aducă jumate de drum. Găsim omul, aranjăm să ia geanta foto uitată cu toul pe pat, ne întâlnim cu el pe la Iojib, îi mulțumim și ne întoarcem către vamă.
 
 Oprim la Mateszalka pentru cumpărături conform planului. 
 
 Observ că ajungem în Budapesta destul de târziu. 
 
-Căldură mare în Ungaria dar vremea se închide în jurul graniței cu Austria și începe ploaia care ne dă de furcă după lăsarea întunericului, condusul devenind foarte solicitant.
+Căldură mare în Ungaria dar vremea se închide în jurul graniței cu Austria și începe ploaia care ne dă de furcă după lăsarea întunericului, condusul devenind foarte solicitant. În multe locuri habar nu aveam efectiv pe unde e drumul.
 
 Ajungem într-un târziu depășind și cele mai pesimiste estimări ale GPS-ului. Ajunși în curtea cazării mă relaxez și simt cum mă doare gâtul de la atâta stat încordat. 
 

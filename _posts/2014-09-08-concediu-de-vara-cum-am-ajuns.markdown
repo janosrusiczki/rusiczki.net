@@ -1,6 +1,6 @@
-Concediu de vară...
+Concediu. De. Vară. Trei cuvinte cu rezonanță mitică. Haha, nici chiar așa, dar tocmai bune de introducere.
 
-Idea o aveam de mult dar nu a fost pusă în aplicare din motive variate. Acum vreo doi sau trei ani aveam planuri mari cu un roadtrip prin țările baltice dar din estimări părea să coste prea mult așa că am abandonat idea. Dar acum dacă tot am primit concediu tomnatic sincronizat cu nevasta ne-am hotărât să mergem într-o țară care ne e familiară (am avut timp s-o cunoaștem în 4 + 2 concedii de schii) și care nu costă exagerat de mult: Austria.
+Idea de concediu de vară o aveam de mult dar nu a fost pusă în aplicare din motive variate. Cel mai recent acum vreo doi sau trei ani aveam planuri mari cu un roadtrip prin țările baltice dar din estimări părea să coste prea mult așa că am abandonat idea. Dar acum dacă tot am primit concediu tomnatic sincronizat cu nevasta ne-am hotărât să mergem într-o țară care ne e familiară (am avut timp s-o cunoaștem în 4 + 2 concedii de schii) și care nu costă exagerat de mult: Austria.
 
 Planul a fost să stăm jumate din timp la [Zell am See](http://wikitravel.org/en/Zell_am_See) iar restul la [Innsbruck](http://wikitravel.org/en/Innsbruck). Zell am See l-am ales fiindcă [așa cum am mai zis](http://www.rusiczki.net/2014/08/31/then-vs-now/) acolo ne-am început "cariera" concediilor de schii în străinătate iar pe lângă Innsbruck am trecut de câteva ori, ni s-a părut un oraș frumos în inima munților și ne-a fost ciudă că nu am avut ocazia să-l vizităm.
 

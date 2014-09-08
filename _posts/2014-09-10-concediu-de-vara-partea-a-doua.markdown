@@ -7,3 +7,7 @@ De plictisit nu ne-am plictisit că treceau constant concurenți pe bicicletă p
 Ajungem la lac și îi vedem pe cei care aleargă deja, Iron Man fiind alcătuit din 3 probe: înot, bicicletă și în final alergare. Distanțe?
 
 După ce ne holbăm o vreme la colțul lacului intrăm în Zell am See la pas și dăm de un punct de alimentare al concursului. Apoi ne facem niște cumpărături de la supermarket-ul din cadrul unei benzinării, singurul magazin deschis (fiind duminică). Ajungem și la destinația finală a zilei, stația gondolei [cityXpress](https://goo.gl/maps/R4OcR). Ne întoarcem și la o calvarie urcăm abrupt în pădure, admirând priveliștea care se deschide asupra lacului și puțin mai sus dând peste un drum destinat plimbărilor (wanderweg) care ne aduce înapoi în vale în scurt timp.
+
+Merită să menționez că pe drum am întâlnit destul de mulți arabi cu nevestele acoperite aproape în totalitate de voal negru. Mă amuza să observ cum dedesubt aveau pantofi de alergat super confortabili sau cum erau vopsite foarte frumos la ochi, practic singura parte vizibilă la nivelul feței. Poze nu am făcut că nu am vrut să declanșez din greșeală un jihad. Am dezbătut în schimb pe larg subiectul cu Ioana dar tot nu știm cum de Austria e o destinație de vară atât de populară pentru ei. Că de populară e populară, asta ni s-a confirmat când am completat formularul de cazare și răsfoindu-l am văzut că jumate dintre musafiri erau din țările arabe.
+
+Papa bun seara făcută de Ioana din carnați picanți și pireu de cartofi instant de la benzinărie.

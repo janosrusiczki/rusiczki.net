@@ -12,6 +12,6 @@ Ieșim din țară pe la 10:30 (în loc de 9) și oprim la Mateszalka pentru cump
 
 Ajungem la Viehhofen târziu de tot depășind și cele mai pesimiste estimări ale GPS-ului. Ajunși în curtea cazării mă relaxez și îmi dau seama că am stat atât de încordat încât mă dor mușchii gâtului.
 
-Mulți arabi.
+Merită să menționez că pe drum am întâlnit destul de mulți arabi cu nevestele acoperite aproape în totalitate de voal negru. Mă amuza să observ cum dedesubt aveau pantofi de alergat super confortabili sau cum erau vopsite foarte frumos la ochi, practic singura parte vizibilă la nivelul feței. Poze nu am făcut că nu am vrut să declanșez din greșeală un jihad. Am dezbătut în schimb pe larg subiectul cu Ioana dar tot nu știm cum de Austria e o destinație de vară atât de populară pentru ei. Că de populară e populară, asta ni s-a confirmat când am completat formularul de cazare și răsfoindu-l am văzut că jumate dintre musafiri erau din țările arabe.
 
 Papa bun seara făcută de Ioana din carnați picanți și pireu de cartofi instant de la benzinărie.

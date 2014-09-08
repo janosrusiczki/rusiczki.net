@@ -11,9 +11,3 @@ După ce ne-am împachetat majoritatea lucrurilor vineri dupămasa după servici
 Ieșim din țară pe la 10:30 (în loc de 9) și oprim la Mateszalka pentru cumpărături conform planului. Îmi amintesc că am observat că am ajuns la Budapesta destul de târziu. GPS-ul a hotărât să ne scoată pe M0 (centura Budapestei) și făcând înconjurul am mai pierdut ceva timp. Căldura mare în Ungaria dar vremea se închide în jurul graniței cu Austria unde începe ploaia care ne dă de furcă după lăsarea întunericului, condusul devenind foarte solicitant. Recunosc că în multe locuri habar nu aveam efectiv pe unde e drumul.
 
 Ajungem la Viehhofen târziu de tot depășind și cele mai pesimiste estimări ale GPS-ului. Ajunși în curtea cazării mă relaxez și îmi dau seama că am stat atât de încordat încât mă dor mușchii gâtului.
-
-A doua zi ne pornim cu mult curaj către Grossglockner Hochalpinstrasse dar nu ajungem foarte departe, drumul spre Zell am See fiind blocat cu ocazia concursului Iron Man. Exact cum am fost anunțați. Parcăm mașina și coborâm să facem câteva poze nerealizând că cei ce trec prin fața noastră sunt de fapt la creme de la creme. Ne învârtim prin zonă iar concurenții tot vin și eu îmi dau cu părerea despre câți ar fi, 200 - 300?
-
-Ajunși înapoi la mașină constat că am acces la atașamentul din Gmail ce l-am primit de la proprietara cazării și citesc stupefiat câteva date: peste 2000 de participanți, buget de 7.5 milioane de euro. De asemenea observ că și dacă s-ar deschide bucata de drum după care așteptam tot nu am putea avansa către destinația noastră fiind blocată o altă parte din sudul Zell am See-ului până târziu. După ce cugetăm puțin în mașină ne decidem să o luăm la pas către Zell am See.
-
-De plictisit nu ne-am plictisit ca treceau constant concurenți pe bicicletă pe lângă noi.

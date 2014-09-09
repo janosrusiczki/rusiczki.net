@@ -18,6 +18,6 @@ Ieșim din țară pe la 10:30 (în loc de 9) și oprim la Tesco-ul din [Mátész
 
 Gândit și făcut, dar din păcate nu foarte inspirat pentru că ploaia ne-a dat de furcă după lăsarea întunericului, condusul devenind foarte solicitant mai ales pe porțiunile de drum național care erau mai dese pe aceasta variantă. Recunosc că în multe locuri habar nu aveam pe unde e drumul și frânam până îmi dadeam seama. Nu prea îmi place condusul nocturn și urăsc condusul nocturn pe ploaie.
 
-Am sunat proprietara din timp s-o anunțăm de întârziere, deci cel puțin din punctul ăsta de vedere eram liniștiți dar am ajuns la Viehhofen târziu de tot depășind și cele mai pesimiste estimări ale GPS-ului. Găsim cazarea destul de complicat, copiind coordinatele din aplicația booking.com în GPS. Ajunși într-un final în curtea cazării mă relaxez și îmi dau seama că am condus atât de încordat încât mă dor mușchii gâtului.
+Am sunat gazda din timp s-o anunțăm de întârziere, deci cel puțin din punctul ăsta de vedere eram liniștiți dar am ajuns la Viehhofen târziu de tot depășind și cele mai pesimiste estimări ale GPS-ului. Găsim cazarea destul de complicat, copiind coordinatele din aplicația booking.com în GPS. Ajunși într-un final în curtea cazării mă relaxez și îmi dau seama că am condus atât de încordat încât mă dor mușchii gâtului.
 
 Dar era bine, am ajuns și putea să înceapă concediul! Dar despre asta într-o însemnare viitoare (care va avea și poze, promit).

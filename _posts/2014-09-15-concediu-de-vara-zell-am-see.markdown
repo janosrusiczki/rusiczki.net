@@ -1,4 +1,4 @@
-A doua zi ne trezim reînvigorați în camera obscură. Zic asta deorece dormitorul în apartamentul din Viehhofen era o încăpere izolată a cărei singur geam dădea înspre casa scărilor a cărui geamuri la rândul lor dădeau spre pădurea din spatele casei. Vremea fiind destul de mohorâtă nu mi-am putut da seama ce oră era, în cameră fiind beznă totală.
+În prima zi de concediu, ne trezim reînvigorați în camera obscură. Zic asta deorece dormitorul în apartamentul din Viehhofen era o încăpere izolată a cărei singur geam dădea înspre casa scărilor a cărui geamuri la rândul lor dădeau spre pădurea din spatele casei. Vremea fiind destul de mohorâtă nu mi-am putut da seama ce oră era, în cameră fiind beznă totală.
 
 Chiar dacă vremea era destul de mohorâtă ne pornim cu mult curaj către [Grossglockner Hochalpenstraße](http://www.grossglockner.at/en/) dar nu ajungem foarte departe căci în Maishofen drumul spre Zell am See este blocat cu ocazia concursului Iron Man. Exact cum am fost anunțați. Parcăm mașina și coborâm să facem câteva poze concurenților, nerealizând că cei ce trec prin fața noastră sunt de fapt la crème de la crème - cei de pe primele locuri. Ne învârtim prin zonă iar concurenții tot vin și eu îmi dau cu părerea despre cam câți ar fi, 150 - 200 - 300? Începe să plouă și ne întoarcem la mașină unde constat că am acces la pliantul PDF ce l-am primit de la proprietara cazării și citesc stupefiat câteva date: peste 2000 de concurenți din 60 de țări și buget de 4,5 milioane de euro. De asemenea văd pe pliant că și dacă s-ar deschide bucata de drum după care așteptam tot nu am putea avansa către destinația noastră șoseaua fiind blocată într-o altă parte din sudul Zell am See-ului până mai târziu. După ce cugetăm puțin în mașină ne decidem să o luăm la pas către Zell am See.
 
@@ -10,4 +10,29 @@ După ce ne holbăm o vreme continuăm spre în Zell am See la pas și dăm de u
 
 Merită să menționez că pe drum am întâlnit destul de mulți arabi cu nevestele acoperite aproape în totalitate de voal negru. Mă amuza să observ cum dedesubt aveau pantofi de alergat super confortabili sau cum erau vopsite foarte frumos la ochi, practic singura parte vizibilă la nivelul feței. Poze nu am făcut că nu am vrut să declanșez din greșeală un jihad. Am dezbătut în schimb pe larg subiectul cu Ioana dar tot nu știm cum de Austria e o destinație de vară atât de populară pentru ei. Că de populară e populară, asta ni s-a confirmat când am completat formularul de cazare și răsfoindu-l am văzut că jumate dintre musafiri erau din țările arabe.
 
-Ne-am reprogramat turul șoselei Grossglocker pe ziua "transfer" între cele 2 locații. Seara, fiind la apartament și având la dispoziție toate ustensilele bucătăricești, Ioana a făcut o mâncare foarte bună din carnați picanți cumpărați de la Tesco-ul din Mateszalka și pireul de cartofi instant de la benzinărie.
+Prin oraș am văzut și prețurile de închiriere pentru biciclete așa că am renunțat la a face turul lacului pe bicicletă și ne-am reprogramat șoseaua Grossglocker pe ziua "transfer" între cele 2 locații. Seara, fiind la apartament și având la dispoziție toate ustensilele bucătăricești, Ioana a făcut o mâncare foarte bună din cremvuștii cu ardei iute cumpărați de la Tesco-ul din Mateszalka și pireul de cartofi instant de la benzinărie.
+
+- Ioana ochise spa-ul din Kaprun încă de acasă
+- ne ploua pe față
+- după spa rodelbaum - rollecoaster (îi spune cineva montagne rousse?) alpin - o mare revelație. Nu știam dacă e necesară frână, ajuns acasă am văzut că sunt filmări în care îi dau fără, trebuie să fie o senzație extrem de faină.
+- aveam cumpărături în plan așa întrăm într-un Lidl dar cum văzusem un Adeg mare aproape de cazarea noastră ne răzgândim, trecem pe sub Zell am See prin tunel, ratăm intrarea la Adeg, ne întoarcem folosindu-ne de intrarea în curtea unui om, intrăm la Adeg dar îl găsim închis, ne întoarcem iar prin curtea omului, trecem prin tunel înapoi, ne facem cumpărăturile dintr-o Billa, trecem prin tunel și ajungem acasă.
+- pe lângă Kitzsteinhorn tv-ul ce mi-l aminteam din 2009 am găsit la televizor leogang tv, grossglockner tv și încă vreo 5 canale care transmiteau toată ziua imagini de pe camerele îndreptate asupra stațiunilor
+
+Ziua a treia era zi de mutare. Grossglockner pare cât de cât curat așa că împachetăm rapid toate în mașină și ne urnim la drum.
+- gopro-ul nostru antic cedează și pică de pe geam dar oricum nu a filmat decât ceață pe prima parte a urcării
+- sus viscol mare
+- pe partea ailaltă vremea devine acceptabilă, chiar avem priveliște și vedem pentru prima oară soare pe un vârf îndepărtat
+- ajungem la grossglockner, lăsăm mașina și o luăm la plimbare
+- marmotă sub pod, senzația
+- glaciarul
+- urcăm prin parcarea gigantică supraetajată și mergem spre turnul swarovski unde avem binoclu gratuit de mare calitate, regretăm moneda de 1 euro introdusă degeaba într-un binoclu cu câteva minute înainte
+- nu reușim să vedem ibex
+- coborâm înapoi la mașină și lăsăm în urmă
+- o vale foarte frumoasă și parcă suntem într-o altă zi
+- trecem prin Flattach și vizităm casa unde am stat de două ori prin 2011 și 2012
+- mallnitz, urcăm mașina în tren și trecem dealul înapoi
+- cercul se închide la Zell am See și de data asta ne facem poze și la apartamentul din Kaprun unde am stat în 2009, ba mai mult, și în stația unde așteptam autobusul de ski care ne ducea la pârtii, gratuit
+- continuăm dar nu o luăm pe autostradă
+- greșeală din cauză că se stricase alimentatorul și bateria era pe terminate, am închis gps-ul rezultă într-un toll aiurea în jurul cascadei Krimml
+- coborâm în valea Zill-ului care-l vizitasem tocmai în această primăvară
+- din păcate nu am mai vizitat Mayrhofen-ul fiindcă era cam mult să urcăm pe dealul unde am fost cazați în iarnă

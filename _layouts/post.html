@@ -20,6 +20,26 @@ var disqus_shortname = '{{ site.disqus.username }}';
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
+<div class="previous-next">
+  <h2>Navigate</h2>
+  <ul class="previous-next-posts">
+    {% if page.previous.url %}
+      <li>
+      <h3>
+        <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+      </h3>
+      </li>
+    {% endif %}
+    {% if page.next.url %}
+      <li>
+      <h3>
+        <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+      </h3>
+      </li>
+    {% endif %}
+  </ul>
+</div>
+
 <div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">

@@ -24,5 +24,8 @@ plugins:
 github:
   repo:           https://github.com/poole/hyde
 
+disqus:
+  username: kitsched
+
 exclude:
   - README.md

@@ -15,6 +15,8 @@ GEM
     ffi (1.9.18)
     filesize (0.1.1)
     forwardable-extended (2.6.0)
+    htmlbeautifier (1.3.1)
+    htmlcompressor (0.4.0)
     httpclient (2.8.3)
     jekyll (3.6.2)
       addressable (~> 2.4)
@@ -41,6 +43,10 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.1)
       sass (~> 3.4)
+    jekyll-tidy (0.2.2)
+      htmlbeautifier
+      htmlcompressor
+      jekyll
     jekyll-watch (1.5.1)
       listen (~> 3.0)
     jekyll_asset_pipeline (0.6.0)
@@ -81,6 +87,7 @@ DEPENDENCIES
   jekyll-algolia (~> 1.0)
   jekyll-feed (~> 0.6)
   jekyll-paginate
+  jekyll-tidy
   jekyll_asset_pipeline
 
 BUNDLED WITH

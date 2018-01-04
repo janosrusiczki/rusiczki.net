@@ -21,6 +21,7 @@ version:          2.1.0
 plugins:
   - jekyll-paginate
   - jekyll_asset_pipeline
+  - jekyll-tidy
 
 github:
   repo:           https://github.com/poole/hyde

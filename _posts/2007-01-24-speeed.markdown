@@ -5,4 +5,5 @@ date: 2007-01-24 16:45:30 +0100
 categories:
 - Technical
 ---
-<p>Hey! What is this? What's happening!? Am I really downloading with one megabit per second? And it's not 6 PM! It's not even the weekend! The service is working as advertised! I am actually getting what I'm paying for! Wow!!! I'm sure this must be some kind of glitch. <a href="http://www.rdslink.ro">They</a> will fix it soon and it'll be back to good ol' 256 kbps for the day.</p>
+Hey! What is this? What's happening!? Am I really downloading with one megabit per second? And it's not 6 PM! It's not even the weekend! The service is working as advertised! I am actually getting what I'm paying for! Wow!!! I'm sure this must be some kind of glitch. <a href="http://www.rdslink.ro">They</a> will fix it soon and it'll be back to good ol' 256 kbps for the day.
+

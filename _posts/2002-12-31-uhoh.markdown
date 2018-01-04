@@ -5,6 +5,9 @@ date: 2002-12-31 13:34:19 +0100
 categories:
 - General
 ---
-<p>I received Muzik.<br />
-What's next? Daylight by night?<br />
-Or am I a brainwashed spy?</p>
+I received Muzik.
+
+What's next? Daylight by night?
+
+Or am I a brainwashed spy?
+

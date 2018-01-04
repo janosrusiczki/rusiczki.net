@@ -5,7 +5,8 @@ date: 2003-10-14 17:00:08 +0200
 categories:
 - General
 ---
-<p>Here are some tidbits which I consider <i>news</i>:</p>
+Here are some tidbits which I consider <i>news</i>:
+
 <ul>
 <li>When I got home yesterday found a letter on the table in which <a href="http://www.ipc.co.uk/">IPC Media</a> informed me that <a href="http://www.clubbing-uk.com/muzik_magazine_closed.htm">Muzik Magazine closed</a> and there'll be no further issues. This is sad. Very sad. I really enjoyed reading Muzik.</li>
 <li><a href="http://www.napster.com">Napster</a> is about to relaunch as a pay-per-download service. I don't think it'll have the same success as the first version (no payed service will have as much success as a free one, ever!) although it's backed by an agressive advertising campaign.</li>
@@ -14,4 +15,5 @@ categories:
 <li>I'm enjoying James Holden's <a href="http://www.stomp.com.au/eq/viewProduct.asp?intProductID=513311">Balance 005</a> mix more than a lot! It <i>balances</i> between quite a number of electronic music styles and sub-styles, while still managing to keep Holden's trademark sound signature. Great 2 CD set!</li>
 <li>There's <a href="http://www.apple.com/trailers/sony_pictures/big_fish/">a trailer available</a> for one of my favorite directors' new movie. I'm talking about Tim Burton's <a href="http://www.imdb.com/title/tt0319061/">Big Fish</a>. I'm really looking forward to see it as Burton always succeeds in creating hunting visual worlds...</li>
 </ul>
-<p>That's about it for now.</p>
+That's about it for now.
+

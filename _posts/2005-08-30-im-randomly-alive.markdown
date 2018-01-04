@@ -5,7 +5,8 @@ date: 2005-08-30 21:26:48 +0200
 categories:
 - General
 ---
-<p>Stuff worth mentioning (in no particular order, as usual):</p>
+Stuff worth mentioning (in no particular order, as usual):
+
 <ul>
 <li>This entry is being posted using the shiny new <a href="http://www.sixapart.com/movabletype/news/2005/08/movable_type_3_2.html">Movable Type 3.2</a> and the coluorful background of the site is now officially back after two months of mourning - hit refresh if it doesn't show;</li>
 <li>I'm number 26 in <a href="http://www.timsoft.ro/weblog/index.php?title=un_top_al_weblogurilor_romanesti_avem_we&amp;more=1&amp;c=1&amp;tb=1&amp;pb=1">a top of the Romanian weblogs</a> made by Carmen @ Timsoft - this is nice, considering that I'm posting about 1 entry per month...</li>
@@ -18,4 +19,5 @@ categories:
 <li><a href="http://www.timbru.com">Timbru</a> more or less closed - too bad, I liked Gabi's entries a lot;</li>
 <li>My next dog (if it'll be a female) will be called Dashenka.</li>
 </ul>
-<p>That's all folks. At least for now...</p>
+That's all folks. At least for now...
+

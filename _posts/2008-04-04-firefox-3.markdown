@@ -5,6 +5,9 @@ date: 2008-04-04 01:53:07 +0200
 categories:
 - Technical
 ---
-<p>... is incredibly fast.<br />
-It looks like the thousand dollar "investment" in this Intel Core 2 Duo rig last February wasn't in vain after all. I can finally browse around without strange second long hangs during which my CPU would strangely whistle to me from the case. I can feel the speed baby.<br />
-Can't wait for the final release and for my favorite (AdBlock, S3Fox) and work critical (Firebug) extensions to become compatible with it so I can install it on my Mac (the machine on which I'm doing all the work at home) and over at work too.</p>
+... is incredibly fast.
+
+It looks like the thousand dollar "investment" in this Intel Core 2 Duo rig last February wasn't in vain after all. I can finally browse around without strange second long hangs during which my CPU would strangely whistle to me from the case. I can feel the speed baby.
+
+Can't wait for the final release and for my favorite (AdBlock, S3Fox) and work critical (Firebug) extensions to become compatible with it so I can install it on my Mac (the machine on which I'm doing all the work at home) and over at work too.
+

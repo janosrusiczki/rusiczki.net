@@ -6,4 +6,5 @@ categories:
 - Web
 - Fun
 ---
-<p>Luci <a href="http://grafic.lucianmarin.ro/2007/03/06/spam/">gives spammers a chance</a> to express themselves. But there's a funny catch. So funny that I didn't get it at first... :)</p>
+Luci <a href="http://grafic.lucianmarin.ro/2007/03/06/spam/">gives spammers a chance</a> to express themselves. But there's a funny catch. So funny that I didn't get it at first... :)
+

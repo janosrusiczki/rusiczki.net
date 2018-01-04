@@ -5,4 +5,5 @@ date: 2006-11-01 07:50:16 +0100
 categories:
 - Life
 ---
-<p>Yep. Stage 2. The driving test itself.</p>
+Yep. Stage 2. The driving test itself.
+

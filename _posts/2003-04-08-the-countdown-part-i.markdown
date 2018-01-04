@@ -5,5 +5,7 @@ date: 2003-04-08 10:01:43 +0200
 categories:
 - General
 ---
-<p>Nine days 'til my birthday.<br />
-And just four until Saturday when I'll celebrate it. :-)</p>
+Nine days 'til my birthday.
+
+And just four until Saturday when I'll celebrate it. :-)
+

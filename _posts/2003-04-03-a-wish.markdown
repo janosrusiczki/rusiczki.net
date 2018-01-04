@@ -5,7 +5,11 @@ date: 2003-04-03 03:08:38 +0200
 categories:
 - General
 ---
-<p>Oh, how I wish I would have PHP on my Palm. But then again. If I think about it...<br />
-What's given: The 8 Megs of RAM of the Palm m500.<br />
-Which are the requirements: Squeeze a web server, MySQL, PHP and a browser into <b>that</b>. It might not be impossible. But a laptop is a much more straightforward solution.<br />
-Time for another, more realistic, wish... :-)</p>
+Oh, how I wish I would have PHP on my Palm. But then again. If I think about it...
+
+What's given: The 8 Megs of RAM of the Palm m500.
+
+Which are the requirements: Squeeze a web server, MySQL, PHP and a browser into <b>that</b>. It might not be impossible. But a laptop is a much more straightforward solution.
+
+Time for another, more realistic, wish... :-)
+

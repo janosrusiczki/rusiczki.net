@@ -5,4 +5,5 @@ date: 2002-12-21 21:06:24 +0100
 categories:
 - General
 ---
-<p><a href="http://www.drumandbass.ro/dnb/mp3/seb/" title="yeah!">Here's the mix.</a></p>
+<a href="http://www.drumandbass.ro/dnb/mp3/seb/" title="yeah!">Here's the mix.</a>
+

@@ -5,5 +5,7 @@ date: 2006-05-21 20:41:20 +0200
 categories:
 - Life
 ---
-<p><a href="http://www.flickr.com/photos/janos/150467498/"><img src="http://static.flickr.com/52/150467498_3dfe8b72f2.jpg" alt="Busy bee" width="500" height="358" border="0" class="image" /></a></p>
-<p>This entry's title could explain the lack of posts lately. I'm on overdrive mode at work, working at home on private projects, trying to squeeze in some sleep and a little PS2...</p>
+<a href="http://www.flickr.com/photos/janos/150467498/"><img src="http://static.flickr.com/52/150467498_3dfe8b72f2.jpg" alt="Busy bee" width="500" height="358" border="0" class="image" /></a>
+
+This entry's title could explain the lack of posts lately. I'm on overdrive mode at work, working at home on private projects, trying to squeeze in some sleep and a little PS2...
+

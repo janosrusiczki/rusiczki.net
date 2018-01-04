@@ -5,4 +5,5 @@ date: 2003-01-11 07:03:46 +0100
 categories:
 - Life
 ---
-<p>It's snowing heavily outside. Really heavily. And yesterday snowed all the day. Good chances to board today! Even in the snowfall.</p>
+It's snowing heavily outside. Really heavily. And yesterday snowed all the day. Good chances to board today! Even in the snowfall.
+

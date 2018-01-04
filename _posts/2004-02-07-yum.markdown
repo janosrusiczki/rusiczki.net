@@ -5,4 +5,5 @@ date: 2004-02-07 15:55:20 +0100
 categories:
 - Life
 ---
-<p>Vanilla Coke rulez. I think I'm going to switch from my "religion" which is Pepsi Twist...</p>
+Vanilla Coke rulez. I think I'm going to switch from my "religion" which is Pepsi Twist...
+

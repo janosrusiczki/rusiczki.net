@@ -5,7 +5,11 @@ date: 2003-08-19 15:09:43 +0200
 categories:
 - General
 ---
-<p>It's so hot!<br />
-I can't do one thing.<br />
-And that's work.<br />
-So I better go and sleep a little.</p>
+It's so hot!
+
+I can't do one thing.
+
+And that's work.
+
+So I better go and sleep a little.
+

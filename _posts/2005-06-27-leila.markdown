@@ -5,7 +5,11 @@ date: 2005-06-27 20:47:05 +0200
 categories:
 - Life
 ---
-<p><img src="http://www.rusiczki.net/blog/blogpics/leila.jpg" width="490" height="369" class="image" style="background: #000;" alt="Leila" /><br />
-August 5, 1994 - June 26, 2005.<br />
-She will be dearly missed.<br />
-RIP.</p>
+<img src="http://www.rusiczki.net/blog/blogpics/leila.jpg" width="490" height="369" class="image" style="background: #000;" alt="Leila" />
+
+August 5, 1994 - June 26, 2005.
+
+She will be dearly missed.
+
+RIP.
+

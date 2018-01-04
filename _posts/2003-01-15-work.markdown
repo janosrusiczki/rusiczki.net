@@ -5,4 +5,5 @@ date: 2003-01-15 23:59:47 +0100
 categories:
 - Work
 ---
-<p>Another day of work. Now I'm even considering myself extreme. 'Cause I'm working on two projects simultaneously... Hehe. Hope it will show. At least financially. Anyway, I'm flat tired. Can barely wait to jump into bed.</p>
+Another day of work. Now I'm even considering myself extreme. 'Cause I'm working on two projects simultaneously... Hehe. Hope it will show. At least financially. Anyway, I'm flat tired. Can barely wait to jump into bed.
+

@@ -19,14 +19,25 @@ excerpt: ! "Am mai încercat soiul ăsta de însemnare <a href=\"http://www.rusi
 date: 2013-12-31 20:20:27 +0100
 categories:
 - Photos
----</p>
-<p>Cam asta ar fi retrospectiva.</p>
-<p>Mă gândeam să mai menționez una alta așa la sfârșit în ordine non-cronologică.</p>
-<p><a href="http://www.rusiczki.net/wp-content/uploads/2013/12/ina-pe-ignis.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2013/12/ina-pe-ignis-693x519.jpg" alt="Ina pe Igniș" width="693" height="519" class="alignnone size-medium wp-image-4729" /></a></p>
-<p>În primul rând marea absentă de mai sus. Nu am uitat-o, nu am neglijat-o, a fost cu noi în excursii dar nu e atât de băgăreață...</p>
-<p>Mi-am luat CD-uri: albumul lui Henry Saiz, albumul de debut a celor de la CHVRCHES, compilația Versus de la Bedrock și un disc cu Luiza Borac interpretând Enescu.</p>
-<p>Am primit tricouri nerdish cadou de la New Relic (pentru că le-am instalat scula de monitorizare pe Tweetsparks) și de la Git Tower (asta am câștigat-o pe Twitter).</p>
-<p>Am vost prins de radar în vara, s-a lăsat cu amendă și în toamnă am rămas fără carnet pentru o lună din cauza unui amețit care apucase să impingă o jumate de roată de bicicletă pe o trecere de pietoni și a unui echipaj care stătatea la pândă la locul (ne)potrivit.</p>
-<p>A da, și am zburat pentru prima oară în viața mea...</p>
-<p><a href="http://www.rusiczki.net/wp-content/uploads/2013/12/aripa-de-avion.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2013/12/aripa-de-avion-693x389.jpg" alt="Aripă de avion" width="693" height="389" class="alignnone size-medium wp-image-4720" /></a></p>
-<p>Vă și las cu poza asta în speranța unui an mai bun decât cel care a fost!</p>
+---
+
+Cam asta ar fi retrospectiva.
+
+Mă gândeam să mai menționez una alta așa la sfârșit în ordine non-cronologică.
+
+<a href="http://www.rusiczki.net/wp-content/uploads/2013/12/ina-pe-ignis.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2013/12/ina-pe-ignis-693x519.jpg" alt="Ina pe Igniș" width="693" height="519" class="alignnone size-medium wp-image-4729" /></a>
+
+În primul rând marea absentă de mai sus. Nu am uitat-o, nu am neglijat-o, a fost cu noi în excursii dar nu e atât de băgăreață...
+
+Mi-am luat CD-uri: albumul lui Henry Saiz, albumul de debut a celor de la CHVRCHES, compilația Versus de la Bedrock și un disc cu Luiza Borac interpretând Enescu.
+
+Am primit tricouri nerdish cadou de la New Relic (pentru că le-am instalat scula de monitorizare pe Tweetsparks) și de la Git Tower (asta am câștigat-o pe Twitter).
+
+Am vost prins de radar în vara, s-a lăsat cu amendă și în toamnă am rămas fără carnet pentru o lună din cauza unui amețit care apucase să impingă o jumate de roată de bicicletă pe o trecere de pietoni și a unui echipaj care stătatea la pândă la locul (ne)potrivit.
+
+A da, și am zburat pentru prima oară în viața mea...
+
+<a href="http://www.rusiczki.net/wp-content/uploads/2013/12/aripa-de-avion.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2013/12/aripa-de-avion-693x389.jpg" alt="Aripă de avion" width="693" height="389" class="alignnone size-medium wp-image-4720" /></a>
+
+Vă și las cu poza asta în speranța unui an mai bun decât cel care a fost!
+

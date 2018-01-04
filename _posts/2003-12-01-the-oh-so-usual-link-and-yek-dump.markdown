@@ -5,7 +5,8 @@ date: 2003-12-01 00:56:51 +0100
 categories:
 - General
 ---
-<p>Here comes <i>stuff</i>!</p>
+Here comes <i>stuff</i>!
+
 <ul>
 <li><a href="http://retrospec.sgn.net/games/hoh/">Head Over Heels for Windows</a> - Windows remake of an old ZX Spectrum game I liked featuring some extra cool graphics!</li>
 <li><a href="http://www.winsupersite.com/showcase/windowsxp_tips.asp">Windows XP Tips & Tricks</a></li>

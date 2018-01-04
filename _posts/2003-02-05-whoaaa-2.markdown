@@ -5,4 +5,5 @@ date: 2003-02-05 03:11:56 +0100
 categories:
 - Web
 ---
-<p>A <a href="http://www.drumandbass.ro/dnb/forum/profile.php?mode=viewprofile&u=111" title="It's Vali... :-)">real VIP</a> on the <a href="http://www.drumandbass.ro/dnb/forum/index.php">drumandbass.ro forum</a>!</p>
+A <a href="http://www.drumandbass.ro/dnb/forum/profile.php?mode=viewprofile&u=111" title="It's Vali... :-)">real VIP</a> on the <a href="http://www.drumandbass.ro/dnb/forum/index.php">drumandbass.ro forum</a>!
+

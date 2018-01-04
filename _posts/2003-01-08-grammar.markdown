@@ -5,6 +5,9 @@ date: 2003-01-08 00:57:34 +0100
 categories:
 - General
 ---
-<p><img src="http://www.rusiczki.net/blog/blogpics/notes.jpg" width="300" height="145" border="0" alt="Grammar notes" class="image" /><br />
-I'll write these down 100 times. Until I get them.<br />
-Thanks you know who. :-)</p>
+<img src="http://www.rusiczki.net/blog/blogpics/notes.jpg" width="300" height="145" border="0" alt="Grammar notes" class="image" />
+
+I'll write these down 100 times. Until I get them.
+
+Thanks you know who. :-)
+

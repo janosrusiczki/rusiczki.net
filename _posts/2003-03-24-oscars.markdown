@@ -5,5 +5,7 @@ date: 2003-03-24 03:35:09 +0100
 categories:
 - General
 ---
-<p>Yes. I'm awake. And I'm watching them.<br />
-As usual.</p>
+Yes. I'm awake. And I'm watching them.
+
+As usual.
+

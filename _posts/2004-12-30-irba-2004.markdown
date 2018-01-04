@@ -5,9 +5,12 @@ date: 2004-12-30 10:39:46 +0100
 categories:
 - Web
 ---
-<p>Gabriel of <a href="http://www.individualism.ro">individualism.ro</a> is running the IRBA 2004 aka the <a href="http://www.individualism.ro/archives/2004/12/individualism_romanian_blogging_awards_2004.php">Individualism Blogging Romanian Awards 2004</a>. Go there now and post a comment to nominate your favorite bloggers in 7 categories.<br />
-As of writing this I've been nominated twice for 'Most Alternative'... Well, I had no ideea this blog is so alternative, however the term itself brings a smile to my face. I like being called 'alternative'. Hehe.<br />
-And here are my nominations:</p>
+Gabriel of <a href="http://www.individualism.ro">individualism.ro</a> is running the IRBA 2004 aka the <a href="http://www.individualism.ro/archives/2004/12/individualism_romanian_blogging_awards_2004.php">Individualism Blogging Romanian Awards 2004</a>. Go there now and post a comment to nominate your favorite bloggers in 7 categories.
+
+As of writing this I've been nominated twice for 'Most Alternative'... Well, I had no ideea this blog is so alternative, however the term itself brings a smile to my face. I like being called 'alternative'. Hehe.
+
+And here are my nominations:
+
 <ul>
 <li>Most Professional - <a href="http://www.argumente.ro">@rgumente</a>;</li>
 <li>Most Amusing - <a href="http://deea.supermagnet.ro" title="That'll be her new address">Deea</a>, <a href="http://www.timbru.com">Timbru</a>;</li>
@@ -17,4 +20,5 @@ And here are my nominations:</p>
 <li>Best Stories - <a href="http://perfectlyimperfect.blogspot.com">Perfectly Imperfect</a>;</li>
 <li>Best Photography - <a href="http://www.kitblog.com">Kit.blog</a>, <a href="http://www.tase.ro">Tase</a>, <a href="http://www.troniu.dk">Troniu</a>, <a href="http://www.paginiweb.com/blog/">TTL</a>.</li>
 </ul>
-<p>PS. DJ my ass... :-)</p>
+PS. DJ my ass... :-)
+

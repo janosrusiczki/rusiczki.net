@@ -5,5 +5,7 @@ date: 2004-04-10 19:43:02 +0200
 categories:
 - General
 ---
-<p>Happy Easter everyone.<br />
-Whooo-hooo! I'm off to celebrate. :-)</p>
+Happy Easter everyone.
+
+Whooo-hooo! I'm off to celebrate. :-)
+

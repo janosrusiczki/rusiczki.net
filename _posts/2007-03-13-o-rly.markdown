@@ -5,8 +5,13 @@ date: 2007-03-13 02:28:38 +0100
 categories:
 - Fun
 ---
-<p><img src="http://www.rusiczki.net/blog/blogpics/o-rly.gif" width="317" height="312" alt="O RLY?" title="O RLY?" class="image" style="background: black;" /><br />
-Animated GIF version.<br />
-81 frames of classic owl fun.<br />
-Credits belong to the original author(s).<br />
-<a href="http://www.orlyowl.com/">Want more?</a></p>
+<img src="http://www.rusiczki.net/blog/blogpics/o-rly.gif" width="317" height="312" alt="O RLY?" title="O RLY?" class="image" style="background: black;" />
+
+Animated GIF version.
+
+81 frames of classic owl fun.
+
+Credits belong to the original author(s).
+
+<a href="http://www.orlyowl.com/">Want more?</a>
+

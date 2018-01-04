@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Traian by night
-author: János
-wordpress_id: 295
-wordpress_url: http://www.rusiczki.net/wp/?p=295
-date: !binary |-
-  MjAwNC0wNi0wNSAyMzozNTo0NyArMDIwMA==
-date_gmt: !binary |-
-  MjAwNC0wNi0wNSAyMDozNTo0NyArMDIwMA==
+date: 2004-06-05 23:35:47 +0200
 categories:
 - Photos
-tags: []
-comments: []
 ---
 <p><img alt="View from my window" src="http://www.rusiczki.net/blog/blogpics/view_from_my_window.jpg" width="488" height="263" border="0" class="image" /><br />
 This is it. Staying in alone on Saturday night makes me melancholic. And as I looked out the window on my way to a nightly shower I thought the street underneath looked pretty melancholic too. So I took a shot...<br />

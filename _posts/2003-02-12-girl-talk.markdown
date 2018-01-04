@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Girl talk
-author: János
-wordpress_id: 93
-wordpress_url: http://www.rusiczki.net/wp/?p=93
-date: !binary |-
-  MjAwMy0wMi0xMiAyMzozNToyOCArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMi0xMiAyMDozNToyOCArMDEwMA==
+date: 2003-02-12 23:35:28 +0100
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>This week I really started going to school. Well except today, which I skipped because of being awake far too long last night. Anyway our first class today wasn't held (at least these were the previsions, and I hope they came true) and there was a math class after that. So I said: no thank you. I'm not quite ready for maths. Yet.<br />
 Monday was the funniest day since a long time. Theoretically I had school starting at 13:00. I arrived at 14:40... Right in the middle of some computers related class. In which we learn the secrets of those two fantastic Microsoft softs called Word & Excel. I managed somehow to stay awake for an hour. Last semester I was excused from this kind of classes because the teacher realised that I probably knew the stuff better than he did. I'm waiting for his decision again.<br />

@@ -1,19 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'The Mac update #1'
-author: János
-wordpress_id: 477
-wordpress_url: http://www.rusiczki.net/wp/?p=477
-date: !binary |-
-  MjAwNy0xMC0wOCAxMjo0MzoyMyArMDIwMA==
-date_gmt: !binary |-
-  MjAwNy0xMC0wOCAwOTo0MzoyMyArMDIwMA==
+date: 2007-10-08 12:43:23 +0200
 categories:
 - Technical
 - Mac
-tags: []
 ---
 <p>Hopefully this will be the first of a series written by a recent switcher... :)</p>
 <p>I've installed the Perian extension for movies right after I reinstalled OSX but the sound was desynchronized in several movies so I got rid of it pretty fast and installed good ol' <a href="http://www.videolan.org/vlc/">VLC</a> instead. In case of problems there's one more alternative on the list, <a href="http://www.mplayerhq.hu/">MPlayer</a>, but for the moment VLC works flawlessly so there's no reason for another change. I'm missing the sweet QT Player interface, but oh well.</p>

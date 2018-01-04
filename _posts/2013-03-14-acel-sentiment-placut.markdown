@@ -1,66 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Acel sentiment plăcut...
-author: János
-wordpress_id: 4443
-wordpress_url: http://www.rusiczki.net/?p=4443
-date: !binary |-
-  MjAxMy0wMy0xNCAxNjoxMzozMCArMDEwMA==
-date_gmt: !binary |-
-  MjAxMy0wMy0xNCAxMzoxMzozMCArMDEwMA==
+date: 2013-03-14 16:13:30 +0100
 categories:
 - Technical
 - Română
-tags: []
-comments:
-- id: 28825
-  author: Mark
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAxMy0wMy0xNCAxNjozNzowMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMy0wMy0xNCAxMzozNzowMCArMDEwMA==
-  content: daca voiai sa le multumesti puteai trimitandu-le un mail cu "thanx!" nu
-    cumparand un amarat de cod 2-300 euro :)
-- id: 28826
-  author: János
-  author_email: 
-  author_url: http://www.rusiczki.net/
-  date: !binary |-
-    MjAxMy0wMy0xNCAxNjozOTowMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMy0wMy0xNCAxMzozOTowMCArMDEwMA==
-  content: haters gonna hate :)
-- id: 28827
-  author: pax
-  author_email: 
-  author_url: http://pax.mioritics.ro
-  date: !binary |-
-    MjAxMy0wMy0xNSAwNjoxMzowMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMy0wMy0xNSAwMzoxMzowMCArMDEwMA==
-  content: in ritmul asta maine-poimaine o sa-ncepi sa cumperi porn legit...
-- id: 28828
-  author: János
-  author_email: 
-  author_url: http://www.rusiczki.net/
-  date: !binary |-
-    MjAxMy0wMy0xNSAwODo0MzowMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMy0wMy0xNSAwNTo0MzowMCArMDEwMA==
-  content: Hahaha :-)
-- id: 28830
-  author: Gabriel R.
-  author_email: ''
-  author_url: http://twitter.com/timbru
-  date: !binary |-
-    MjAxMy0wMy0yMSAxMjo1MjowMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMy0wMy0yMSAwOTo1MjowMCArMDEwMA==
-  content: ! 'Nu e evident cine-i băiat rău și cine-i bun :-)  It''s complicated. '
 ---
 <p><a href="http://www.rusiczki.net/wp-content/uploads/2013/03/20130313_210751.jpg"><img class="alignnone size-medium wp-image-4568" alt="Windows!" src="http://www.rusiczki.net/wp-content/uploads/2013/03/20130313_210751-693x519.jpg" width="693" height="519" /></a></p>
 <p>Ce vi se pare în neregulă cu imaginea de mai sus?</p>

@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: XBMC - My media center of choice
-author: János
-wordpress_id: 553
-wordpress_url: http://www.rusiczki.net/wp/?p=553
-date: !binary |-
-  MjAwOS0wMi0wOSAxMTo0Mjo1NiArMDEwMA==
-date_gmt: !binary |-
-  MjAwOS0wMi0wOSAwODo0Mjo1NiArMDEwMA==
+date: 2009-02-09 11:42:56 +0100
 categories:
 - Technical
-tags: []
-comments: []
 ---
 <p><a href="http://xbmc.org/">XBMC Media Center</a> or XBox Media Center to avoid the recurssion.</p>
 <p>A program I started using heavily lately mostly to forget <a href="http://www.rusiczki.net/blog/archives/2009/02/05/the_drama_update">the misery I'm in</a>. Why would I need a media center you might ask. And I'll respond.</p>

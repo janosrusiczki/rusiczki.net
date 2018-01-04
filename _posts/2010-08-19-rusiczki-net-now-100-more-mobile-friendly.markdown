@@ -1,20 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: rusiczki.net - now 100% more mobile friendly
-author: János
-wordpress_id: 1122
-wordpress_url: http://www.rusiczki.net/2010/08/19/rusiczki-net-now-100-more-mobile-friendly/
-date: !binary |-
-  MjAxMC0wOC0xOSAxNTo1NzoyMSArMDIwMA==
-date_gmt: !binary |-
-  MjAxMC0wOC0xOSAxMjo1NzoyMSArMDIwMA==
+date: 2010-08-19 15:57:21 +0200
 categories:
 - Technical
 - Android
-tags: []
-comments: []
 ---
 <p>Oh yeah, since last Friday I'm a proud smartphone owner. You might even ask what took me so long and you'd be quite right. Well, I considered that I don't really need a smartphone since 80% of the day I'm sitting in front of the computer but I sort of got the gadget lust after <a href="http://www.flickr.com/ioana">Ioana</a> bought herself a <a href="http://galaxys.samsungmobile.com">Samsung Galaxy S</a>. She got hers on Tuesday and Friday I had mine. Go figure... I just sat there Thursday night and decided it's way too nice and good value for the money and that I need one.</p>
 <p>Since then I've been playing with it constantly, installing and trying out apps, browsing and checking out everything. Proper gadget fever, I haz it.</p>

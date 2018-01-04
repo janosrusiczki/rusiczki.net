@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Ough!
-author: János
-wordpress_id: 54
-wordpress_url: http://www.rusiczki.net/wp/?p=54
-date: !binary |-
-  MjAwMy0wMS0xMCAxOToxNzoyMyArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMS0xMCAxNjoxNzoyMyArMDEwMA==
+date: 2003-01-10 19:17:23 +0100
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>I don't have the power to start learning economics now.<br />
 I spent all day writing code for three administration sections of an upcoming site. My brain is smoked out. Dead. I'm reading that stuff. But it's just as I would be looking at the empty, white, paper.<br />

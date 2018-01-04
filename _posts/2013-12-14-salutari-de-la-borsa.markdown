@@ -1,55 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Salutări de la Borșa!
-author: János
-wordpress_id: 4657
-wordpress_url: http://www.rusiczki.net/?p=4657
-date: !binary |-
-  MjAxMy0xMi0xNCAxNjo0Njo1NiArMDEwMA==
-date_gmt: !binary |-
-  MjAxMy0xMi0xNCAxMzo0Njo1NiArMDEwMA==
+date: 2013-12-14 16:46:56 +0100
 categories:
 - General
-tags: []
-comments:
-- id: 28869
-  author: Andrei Albu
-  author_email: 
-  author_url: http://andreialbu.com/
-  date: !binary |-
-    MjAxMy0xMi0xNCAxOToxMDowMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMy0xMi0xNCAxNjoxMDowMCArMDEwMA==
-  content: Minunat. Bravo, stimabile!
-- id: 28870
-  author: János
-  author_email: 
-  author_url: http://www.rusiczki.net/
-  date: !binary |-
-    MjAxMy0xMi0xNiAxMDoyNjowMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMy0xMi0xNiAwNzoyNjowMCArMDEwMA==
-  content: Mersi Andriușa. :-)
-- id: 28871
-  author: Cornel Les
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAxMy0xMi0xNiAxMTo0NzowMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMy0xMi0xNiAwODo0NzowMCArMDEwMA==
-  content: In sticla aia verde ii apa minerala sau palinca?
-- id: 28872
-  author: János
-  author_email: 
-  author_url: http://www.rusiczki.net/
-  date: !binary |-
-    MjAxMy0xMi0xNiAxMTo0NzowMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMy0xMi0xNiAwODo0NzowMCArMDEwMA==
-  content: In asta era apa minerala. :D
 ---
 <p><a style="line-height: 1.5em;" href="http://www.rusiczki.net/wp-content/uploads/2013/12/20131214_111027.jpg"><img class="alignnone size-medium wp-image-4658" alt="Vedere de pe pârtia Borșa" src="http://www.rusiczki.net/wp-content/uploads/2013/12/20131214_111027-693x389.jpg" width="693" height="389" /></a></p>
 <p>Poza de mai sus a fost făcută cu abia câteva ore în urmă. La capitolul snow report se putea să fie mai multă zăpada și mai puține pietre dar până la urmă am găsit varianta optimă și ne-am dat mai mult decât acceptabil. Păcat de buctul din prima tură când am reușit să ne zgăriem plăcile aproape imaculate, atât eu cât mai ales Ioana a cărei snowboard e de abia la a treia ieșire.</p>

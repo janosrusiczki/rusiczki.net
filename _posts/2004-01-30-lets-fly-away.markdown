@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Let's fly away!
-author: János
-wordpress_id: 236
-wordpress_url: http://www.rusiczki.net/wp/?p=236
-date: !binary |-
-  MjAwNC0wMS0zMCAxOTowOToyMyArMDEwMA==
-date_gmt: !binary |-
-  MjAwNC0wMS0zMCAxNjowOToyMyArMDEwMA==
+date: 2004-01-30 19:09:23 +0100
 categories:
 - Technical
-tags: []
-comments: []
 ---
 <p>And there's one more thing I can barely wait for. And this one is much more entertainment oriented: a <a href="http://europe.thrustmaster.com/products/d_prd.php?p=T63&fam=6">Thrustmaster Top Gun Fox 2 Pro</a> joystick.<br />
 I always loved sims. I even played Microsoft Train Simulator for long winter hours even if everybody I knew said that it's the most boring game they ever saw. I suppose I like these kind of games because I love everything that's technology. I remember that being a kid I spent hours watching an excavator digging or a working crane, getting some good scares out of my Grandma as she had no ideea where I am. Even nowadays trains fascinate me and I never got too close to see a real airplane but I'm sure my jaw would drop and I'd spend quite some time examining it. Taking me to an air parade would be dangerous! I don't really think we have real air parades in Romania, but I might be mistaken...<br />

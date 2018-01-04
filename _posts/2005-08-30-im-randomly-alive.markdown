@@ -1,31 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: I'm randomly alive
-author: János
-wordpress_id: 367
-wordpress_url: http://www.rusiczki.net/wp/?p=367
-date: !binary |-
-  MjAwNS0wOC0zMCAyMToyNjo0OCArMDIwMA==
-date_gmt: !binary |-
-  MjAwNS0wOC0zMCAxODoyNjo0OCArMDIwMA==
+date: 2005-08-30 21:26:48 +0200
 categories:
 - General
-tags: []
-comments:
-- id: 253
-  author: Tina
-  author_email: 
-  author_url: http://perfectlyimperfect.blogspot.com
-  date: !binary |-
-    MjAwNS0wOC0zMSAyMjo1ODozNiArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOC0zMSAxOTo1ODozNiArMDIwMA==
-  content: ! 'I didn''t know "Tina revealing herself" would be the main course on
-    a Bloggers'' meeting. Next time I''ll have you talk to my agent first :)
-
-'
 ---
 <p>Stuff worth mentioning (in no particular order, as usual):</p>
 <ul>

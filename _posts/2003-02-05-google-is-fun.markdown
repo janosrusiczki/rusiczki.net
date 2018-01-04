@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Google is FUN
-author: János
-wordpress_id: 85
-wordpress_url: http://www.rusiczki.net/wp/?p=85
-date: !binary |-
-  MjAwMy0wMi0wNSAwMjo1NDowNiArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMi0wNCAyMzo1NDowNiArMDEwMA==
+date: 2003-02-05 02:54:06 +0100
 categories:
 - Web
-tags: []
-comments: []
 ---
 <p>And I'm a geek!<br />
 Anyway. Searching for your name is always fun. Even more fun if you have an uncommon name.<br />

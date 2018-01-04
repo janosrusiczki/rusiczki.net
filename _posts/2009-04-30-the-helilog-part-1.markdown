@@ -1,25 +1,15 @@
 ---
 layout: post
-status: publish
-published: true
 title: The Helilog - Part 1
-author: János
-wordpress_id: 919
-wordpress_url: http://www.rusiczki.net/?p=919
-date: !binary |-
-  MjAwOS0wNC0zMCAwOTowNjozNyArMDIwMA==
-date_gmt: !binary |-
-  MjAwOS0wNC0zMCAwNjowNjozNyArMDIwMA==
+date: 2009-04-30 09:06:37 +0200
 categories:
 - Helicopter
-tags:
 - rc helicopter
 - RC
 - Helicopter
 - align t-rex 450se v2
 - align trex
 - align trex 450se v2
-comments: []
 ---
 <p>Since I have a few new contacts (mostly on Twitter) interested in the subject I thought that now and then I'll post a few words about my flights. It'll also be interesting for me too to re-read later on, to see how I progressed. It was the same with the snowboarding experience...</p>
 <p>Yesterday after work I went directly to the so called flying field - which is only about a kilometer away from where I waste my precious life 8 to 5 (lunchbreak included) - but found nobody from the gang. The problem was that the moment I placed my heli's case on the grass the wind started blowing or I started feeling it blowing... I was quite frustrated because I checked my <a href="http://vremea.meteoromania.ro/digiweather/help.html">weather widget</a> of choice all day, and it was showing winds alternating between 3 and 10 km/h but I'm guessing that there were 15 km/h or more there as it's an open field. So I made a longer preflight check, called a few people and then when I felt the wind calming down a bit I set up and lifted the heli into the air. It was awkward at first because my collective management seems to have vanished during the winter. But after calming down and with a bit of self control I managed to keep it in the air without any major effort. Unfortunately the wind gusts started again and I was feeling them but it was all for the good because I realized an important thing.</p>

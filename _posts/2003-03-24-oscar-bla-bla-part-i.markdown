@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Oscar Bla Bla - Part I
-author: János
-wordpress_id: 126
-wordpress_url: http://www.rusiczki.net/wp/?p=126
-date: !binary |-
-  MjAwMy0wMy0yNCAwNDowMDo1NiArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMy0yNCAwMTowMDo1NiArMDEwMA==
+date: 2003-03-24 04:00:56 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Steve Martin:<br />
 "I loved Lord Of The Rings. That was a great download."<br />

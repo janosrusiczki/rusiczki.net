@@ -1,46 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Upgrading PHP on a Cobalt RaQ 550
-author: János
-wordpress_id: 228
-wordpress_url: http://www.rusiczki.net/wp/?p=228
-date: !binary |-
-  MjAwNC0wMS0xNiAxNDoyMDoxNSArMDEwMA==
-date_gmt: !binary |-
-  MjAwNC0wMS0xNiAxMToyMDoxNSArMDEwMA==
+date: 2004-01-16 14:20:15 +0100
 categories:
 - Technical
-tags: []
-comments:
-- id: 41
-  author: steve wright
-  author_email: 
-  author_url: http://www.youthspace.net
-  date: !binary |-
-    MjAwNC0wMi0yNCAwMDo1Mjo1MSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNC0wMi0yMyAyMTo1Mjo1MSArMDEwMA==
-  content: ! 'the link to the upgrading php in a raq550 is gone.  Any chance you saved
-    it somewhere?
-
-'
-- id: 42
-  author: J
-  author_email: 
-  author_url: http://www.rusiczki.net
-  date: !binary |-
-    MjAwNC0wMi0yNCAxMTozNDoxMyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNC0wMi0yNCAwODozNDoxMyArMDEwMA==
-  content: ! 'No I haven''t saved it. But check the main page of that site. It says:
-    "I have switched away from PhpWiki to UseMod Wiki. It''s much simpler - a single
-    .pl script runs the whole thing! I am starting to migrate the content across from
-    the old wiki. Please forgive any broken links; I will try to repair them as soon
-    as possible." So I think the link will be up again soon.
-
-'
 ---
 <p>So, after the success of <a href="http://www.rusiczki.net/blog/archives/2004/01/16/starting_mysql_at_boot_time_on_a_cobalt_raq_550" title="Starting MySQL at boot time on a Cobalt RaQ 550">getting MySQL to work properly</a> on the server I installed <a href="http://www.phpmyadmin.net" title="THE PHP based MySQL admin tool of choice">phpMyAdmin</a>. It didn't work at first but I changed something in php.ini (described later) and then it did but it was complaining and suggesting a PHP upgrade. So I checked the version and my jaw nearly dropped when I saw the spanking new RaQ 550 was running stone age old PHP 4.0.6. Argh. It was time to search for a guide on upgrading PHP on RaQ 550. <a href="http://www.cobaltfaqs.com/wiki/index.php/Upgrade%20PHP%20on%20RaQ%20550" title="PhpWiki - Upgrade PHP on RaQ 550">I found it quick.</a><br />
 That guide is very well written and so it's easy to follow but I had to do a few things differently on my client's appliance. First of all as 4.3.4 is the latest stable version of PHP at the time of writing this I obviously used this version and not 4.3.3 as stated in the guide. It looked like I didn't have IMAP and libmcrypt installed and I didn't bother to install them (maybe I'll need them in the future, and I'll have to install them and recompile PHP, grrr!) so I dropped the following three lines from my ./configure command:<br />

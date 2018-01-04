@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 title: Another edition is over - Part 1
-author: János
 excerpt: ! 'I''m back home since Sunday night but I had to catch my breath before
   writing anything about the massiveness that TM04Base was. I''m sad that it''s over
   and that all that''s left to wait for this year is Christmas because basically nothing
@@ -15,28 +12,9 @@ excerpt: ! 'I''m back home since Sunday night but I had to catch my breath befor
 
 
 '
-wordpress_id: 329
-wordpress_url: http://www.rusiczki.net/wp/?p=329
-date: !binary |-
-  MjAwNC0xMC0xOSAwOTowMzozMiArMDIwMA==
-date_gmt: !binary |-
-  MjAwNC0xMC0xOSAwNjowMzozMiArMDIwMA==
+date: 2004-10-19 09:03:32 +0200
 categories:
 - Life
-tags: []
-comments:
-- id: 153
-  author: SCORPIO-P
-  author_email: PETI_B
-  author_url: ''
-  date: !binary |-
-    MjAwNC0xMC0yOCAwNTo0ODo0NSArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNC0xMC0yOCAwMjo0ODo0NSArMDIwMA==
-  content: ! 'Whoa waiting for episode 2 coming to a site near you... bring your Yoda
-    hat muahahaha
-
-'
 ---
 <p>I'm back home since Sunday night but I had to catch my breath before writing anything about the massiveness that TM04Base was. I'm sad that it's over and that all that's left to wait for this year is Christmas because basically nothing related to drum'n'bass, breaks or generally any quality electronic music will happen here in Baia Mare. Even less since our much loved and hated bar, Cuba (aka Upstairs), closed. And Christmas is so far away...<br />
 But let's see what I remember of what happened at the fest.</p>

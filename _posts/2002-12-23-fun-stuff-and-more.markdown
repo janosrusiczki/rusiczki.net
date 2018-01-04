@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Fun stuff and more
-author: János
-wordpress_id: 11
-wordpress_url: http://www.rusiczki.net/wp/?p=11
-date: !binary |-
-  MjAwMi0xMi0yMyAwMjozNDo0NCArMDEwMA==
-date_gmt: !binary |-
-  MjAwMi0xMi0yMiAyMzozNDo0NCArMDEwMA==
+date: 2002-12-23 02:34:44 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Here's some Christmas fun:<br />
 <a href="http://www.miniworldgames.co.uk/index.cfm?page=games.game&game=12" title=":)">Not your average Santa.</a> (He's sober. Not!)<br />

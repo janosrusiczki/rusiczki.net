@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Winamp 5 rocks
-author: János
-wordpress_id: 198
-wordpress_url: http://www.rusiczki.net/wp/?p=198
-date: !binary |-
-  MjAwMy0xMC0yMSAwMTozMzoyNiArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0xMC0yMCAyMjozMzoyNiArMDIwMA==
+date: 2003-10-21 01:33:26 +0200
 categories:
 - Technical
-tags: []
-comments: []
 ---
 <p><img alt="Winamp 5 Beta" src="http://www.rusiczki.net/blog/blogpics/winamp_5.gif" width="354" height="147" border="0" /><br />
 Yep! It simply does. Even if it's a beta.<br />

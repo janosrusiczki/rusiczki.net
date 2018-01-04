@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: No more Muzik and other facts
-author: János
-wordpress_id: 193
-wordpress_url: http://www.rusiczki.net/wp/?p=193
-date: !binary |-
-  MjAwMy0xMC0xNCAxNzowMDowOCArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0xMC0xNCAxNDowMDowOCArMDIwMA==
+date: 2003-10-14 17:00:08 +0200
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Here are some tidbits which I consider <i>news</i>:</p>
 <ul>

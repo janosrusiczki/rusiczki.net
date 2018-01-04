@@ -1,20 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: The end of a (hosting) era
-author: János
-wordpress_id: 520
-wordpress_url: http://www.rusiczki.net/wp/?p=520
-date: !binary |-
-  MjAwOC0wNS0xMCAwOTo0MTowMSArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wNS0xMCAwNjo0MTowMSArMDIwMA==
+date: 2008-05-10 09:41:01 +0200
 categories:
 - Web
 - Technical
-tags: []
-comments: []
 ---
 <p>Just got this by e-mail:</p>
 <blockquote><p>Hello,<br />

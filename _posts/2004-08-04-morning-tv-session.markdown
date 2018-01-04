@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Morning TV session
-author: János
-wordpress_id: 311
-wordpress_url: http://www.rusiczki.net/wp/?p=311
-date: !binary |-
-  MjAwNC0wOC0wNCAxMzo1NTozOSArMDIwMA==
-date_gmt: !binary |-
-  MjAwNC0wOC0wNCAxMDo1NTozOSArMDIwMA==
+date: 2004-08-04 13:55:39 +0200
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>Yesterday night I went to Baia Sprie and I slept over at my parents house. This morning I woke up really early as it was 7:41 when I checked the time right after getting out of the bed. Well, what should I do awake at 8 in the morning? I quickly bagged a few sandwiches because actually it was my empty stomach that woke me up and then I glanced at the TV and reached for the remote...<br />
 Tuned in just in time for the <a href="http://www.protv.ro" title="Under construction for a TV station's site? Nice...">ProTV</a> news which I always liked and will always like. But I think I will post another entry about my fascination with ProTV because I don't want to ruin this one...<br />

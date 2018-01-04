@@ -1,67 +1,16 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'The Helilog - Crash #2'
-author: János
-wordpress_id: 935
-wordpress_url: http://www.rusiczki.net/?p=935
-date: !binary |-
-  MjAwOS0wNS0yMSAwODo0MTozMSArMDIwMA==
-date_gmt: !binary |-
-  MjAwOS0wNS0yMSAwNTo0MTozMSArMDIwMA==
+date: 2009-05-21 08:41:31 +0200
 categories:
 - Helicopter
 - RC
-tags:
 - rc helicopter
 - RC
 - Helicopter
 - align t-rex 450se v2
 - align trex
 - align trex 450se v2
-comments:
-- id: 2508
-  author: HeliGeek
-  author_email: 
-  author_url: http://heigeek.com
-  date: !binary |-
-    MjAwOS0wNS0yMSAxNDoyNjoxOCArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOS0wNS0yMSAxMToyNjoxOCArMDIwMA==
-  content: Sorry to hear about your crash! I put my 450 into the concrete street a
-    few months ago and it's been siting on the bench waiting to be fixed ever since.
-    I'm hoping to take it with me camping this weekend and have finally accumulated
-    all the parts. Many the same as you. Good luck with the left turns!
-- id: 2509
-  author: János
-  author_email: 
-  author_url: http://rusiczki.net
-  date: !binary |-
-    MjAwOS0wNS0yMSAxNDozODo1NiArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOS0wNS0yMSAxMTozODo1NiArMDIwMA==
-  content: There's an update! :)
-- id: 2510
-  author: HeliGeek
-  author_email: 
-  author_url: http://heligeek.com
-  date: !binary |-
-    MjAwOS0wNS0yMSAxNDo1MzozMCArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOS0wNS0yMSAxMTo1MzozMCArMDIwMA==
-  content: Very cool! I'm running the HS65 servos with the Karbonite gears, but I
-    bought three metal gear rebuild kits for my spares box so when I crash and strip
-    one, I rebuild it better than it was.
-- id: 3104
-  author: Hairy Poker
-  author_email: 
-  author_url: http://wwwu
-  date: !binary |-
-    MjAwOS0wNi0xOSAxMTowNzoyNSArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOS0wNi0xOSAwODowNzoyNSArMDIwMA==
-  content: Uat ar iu toching ah baut?
 ---
 <p>Whoops I did it again!</p>
 <p>Yesterday evening, after taking care of some errands I went to the field where we usually fly. A phonecall later I discovered that I'll be alone but that was OK, it meant I will be able to concentrate on my flying. There were some gusts of wind when I arrived there but when I started flying it got calm. Perfect conditions!</p>

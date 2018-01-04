@@ -1,37 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
 title: '30'
-author: János
-wordpress_id: 768
-wordpress_url: http://www.rusiczki.net/?p=768
-date: !binary |-
-  MjAwOS0wNC0xNyAxNDo1NDozMSArMDIwMA==
-date_gmt: !binary |-
-  MjAwOS0wNC0xNyAxMTo1NDozMSArMDIwMA==
+date: 2009-04-17 14:54:31 +0200
 categories:
 - Life
-tags: []
-comments:
-- id: 1334
-  author: yo
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAwOS0wNC0yMyAxMzoxNzoyMyArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOS0wNC0yMyAxMDoxNzoyMyArMDIwMA==
-  content: Happy Bday to yooooouuuuu !
-- id: 3106
-  author: Hairy Poker
-  author_email: 
-  author_url: http://wwwu
-  date: !binary |-
-    MjAwOS0wNi0xOSAxMToyNzoxNSArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOS0wNi0xOSAwODoyNzoxNSArMDIwMA==
-  content: hepi bhardei misthar prezidhant!!! hepi bhard e i   tuuuuuuuuuuuuuuuuuuuuuu
-    iuuuuuuuuuuuuuuuuuuu! huhu                                hu                      bhu
 ---
 <p>No comment.</p>

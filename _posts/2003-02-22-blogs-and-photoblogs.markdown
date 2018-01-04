@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Blogs and photoblogs
-author: János
-wordpress_id: 104
-wordpress_url: http://www.rusiczki.net/wp/?p=104
-date: !binary |-
-  MjAwMy0wMi0yMiAxNDoyNjo1NyArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMi0yMiAxMToyNjo1NyArMDEwMA==
+date: 2003-02-22 14:26:57 +0100
 categories:
 - Web
-tags: []
-comments: []
 ---
 <p>I received a mail from <a href="http://www.triggerfinger.ro/lmarin/" title="He gave up having his personal space on the Web. Wanker! :-)">a friend</a> telling me that '<a href="http://www.iamgeneric.com/">I Am Generic</a>' is the best weblog of them all.<br />
 Why??? I don't get it!<br />

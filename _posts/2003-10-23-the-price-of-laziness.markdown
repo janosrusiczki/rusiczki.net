@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: The price of laziness
-author: János
-wordpress_id: 200
-wordpress_url: http://www.rusiczki.net/wp/?p=200
-date: !binary |-
-  MjAwMy0xMC0yMyAyMTo0NjoxNCArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0xMC0yMyAxODo0NjoxNCArMDIwMA==
+date: 2003-10-23 21:46:14 +0200
 categories:
 - Technical
-tags: []
-comments: []
 ---
 <p>Where can my lazyness lead I ask?<br />
 Here's the story. I bought a 40 gig hard drive sometime in the spring of 2002. Because the original 4 gig one I had plus a 6 gig one I "borrowed" from my job were getting dangerously small. I thought then, as I thought in fact when I bought the 4 gig one in the autumn of '98, that I'll never fill it up. But eventually I filled it. And I'm keeping it filled. Because as soon as I write some CDs, new stuff comes and it's full again. So now I have around 38 - 39 gigs of data laying around waiting to be burned.<br />

@@ -1,20 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: The epic weekend in review
-author: János
-wordpress_id: 773
-wordpress_url: http://www.rusiczki.net/?p=773
-date: !binary |-
-  MjAwOS0wNC0yMiAyMjowNjo1OCArMDIwMA==
-date_gmt: !binary |-
-  MjAwOS0wNC0yMiAxOTowNjo1OCArMDIwMA==
+date: 2009-04-22 22:06:58 +0200
 categories:
 - Life
 - RC
-tags: []
-comments: []
 ---
 <p>What's the word that best describes a weekend starting on Friday at 1 PM and from which you return to work only on Wednesday? Plus it contains your birthday. I think <em>epic</em> will do.</p>
 <p>On Friday (my birthday) after serving the whole office and whoever happened to drop by with cookies and soda we couldn't leave at 1 sharp as we expected because of some usual problems (imagine accounting department vs IT department and builders finishing our office door) but at around 13:30 or 13:45 we were indeed off and into the weekend. I dropped off my colleagues at various points along the way and finally arrived home where I got the first present of the day from Ioana: an awesome Lib Tech hoodie! A good afternoon's sleep was in order and after that I fixed some stuff around the house. I finished and it was time for the festive dinner (all hail Ioana's Grandmother!) and for me to drink some champagne and to receive some more presents (chocolate, perfume and a 16 gig USB stick) - hooray birthday! Then we headed out, first to a terrace where we met with some friends, had a few beers and chips. I got a funny present from my friend Steve: a t-shirt that spells "Congratulations you're now level 30" - for those not in the loop, it's a World of Warcraft reference. After the beers and chips we packed ourselves in a taxi and visited a skater / boarder's party, but it sort of sucked so at around 2 AM we were home.</p>

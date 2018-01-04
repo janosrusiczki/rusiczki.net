@@ -1,43 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Still breathing
-author: János
-wordpress_id: 307
-wordpress_url: http://www.rusiczki.net/wp/?p=307
-date: !binary |-
-  MjAwNC0wNy0yOSAxNzozMDo0NiArMDIwMA==
-date_gmt: !binary |-
-  MjAwNC0wNy0yOSAxNDozMDo0NiArMDIwMA==
+date: 2004-07-29 17:30:46 +0200
 categories:
 - Life
-tags: []
-comments:
-- id: 104
-  author: Dragos
-  author_email: 
-  author_url: http://www.argumente.ro
-  date: !binary |-
-    MjAwNC0wNy0zMCAxMTowMzozMyArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNC0wNy0zMCAwODowMzozMyArMDIwMA==
-  content: ! 'heh, welcome to the club :)
-
-'
-- id: 105
-  author: Ioana
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAwNC0wNy0zMCAxNDoyMjoyMiArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNC0wNy0zMCAxMToyMjoyMiArMDIwMA==
-  content: ! 'i''m in (the club)
-
-    what a cruel summer!
-
-'
 ---
 <p>Yes, I'm still here and I feel really guilty because <a href="http://www.weblog.ro/deea/" title="Deea's 'My Addictions'">people</a> who I read are linking me and I'm not posting anything. And the front page looks really empty and sad without posts.<br />
 This summer didn't turn out as I wanted to. Not the least. Because at this moment it doesn't look like I'll be going on any holidays in the near future, I'm basically doomed to sit and work in this overheated appartment for the rest of this summer. And I really-really want some holiday. A break. No work. Some fresh air, water and a bathing suit...<br />

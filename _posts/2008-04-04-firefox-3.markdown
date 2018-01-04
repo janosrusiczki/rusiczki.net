@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Firefox 3
-author: János
-wordpress_id: 497
-wordpress_url: http://www.rusiczki.net/wp/?p=497
-date: !binary |-
-  MjAwOC0wNC0wNCAwMTo1MzowNyArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wNC0wMyAyMjo1MzowNyArMDIwMA==
+date: 2008-04-04 01:53:07 +0200
 categories:
 - Technical
-tags: []
-comments: []
 ---
 <p>... is incredibly fast.<br />
 It looks like the thousand dollar "investment" in this Intel Core 2 Duo rig last February wasn't in vain after all. I can finally browse around without strange second long hangs during which my CPU would strangely whistle to me from the case. I can feel the speed baby.<br />

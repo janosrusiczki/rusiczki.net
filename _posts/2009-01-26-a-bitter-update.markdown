@@ -1,30 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: A bitter update
-author: János
-wordpress_id: 548
-wordpress_url: http://www.rusiczki.net/wp/?p=548
-date: !binary |-
-  MjAwOS0wMS0yNiAxMDo1NDoyNSArMDEwMA==
-date_gmt: !binary |-
-  MjAwOS0wMS0yNiAwNzo1NDoyNSArMDEwMA==
+date: 2009-01-26 10:54:25 +0100
 categories:
 - Life
-tags: []
-comments:
-- id: 525
-  author: kit
-  author_email: 
-  author_url: http://kitblog.com
-  date: !binary |-
-    MjAwOS0wMS0yNiAxNTo0NzowMiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwOS0wMS0yNiAxMjo0NzowMiArMDEwMA==
-  content: ! 'So sorry to hear that.
-
-'
 ---
 <p>The new year came. And with it one of the worst things in my life.</p>
 <p>Not exactly on the new year's eve but on the 11th of January we hospitalized my mother. Diagnosis: stroke. She got out of the hospital last Friday (the 23rd of January) and now she's home again. What makes me very sad is that I don't know how well she'll recover. From what I read and have been told I know that there are no full recoveries for stroke victims and I'm not expecting a miracle either but I'm sort of holding on to the hope that she'll be better than she is now, 2 weeks after that unfortunate day.</p>

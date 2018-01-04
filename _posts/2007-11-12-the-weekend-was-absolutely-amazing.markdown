@@ -1,43 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: The weekend was absolutely amazing
-author: János
-wordpress_id: 485
-wordpress_url: http://www.rusiczki.net/wp/?p=485
-date: !binary |-
-  MjAwNy0xMS0xMiAxNDozMjoxMyArMDEwMA==
-date_gmt: !binary |-
-  MjAwNy0xMS0xMiAxMTozMjoxMyArMDEwMA==
+date: 2007-11-12 14:32:13 +0100
 categories:
 - Life
 - Snowboard
-tags: []
-comments:
-- id: 462
-  author: Alina
-  author_email: 
-  author_url: http://www.bilzone.ro
-  date: !binary |-
-    MjAwNy0xMS0yNiAyMzozNTowMSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNy0xMS0yNiAyMDozNTowMSArMDEwMA==
-  content: ! 'Nice pics, i love the snow!
-
-'
-- id: 463
-  author: Béla
-  author_email: 
-  author_url: http://www.speopixel.hu
-  date: !binary |-
-    MjAwNy0xMS0yOCAwMDowOToyOSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNy0xMS0yNyAyMTowOToyOSArMDEwMA==
-  content: ! 'Nice to see your personal page, I like it! The pictures are nice, like
-    on your flickr page :) Have a nice day!
-
-'
 ---
 <p><a href="http://www.flickr.com/photos/janos/sets/72157603067576867/"><img src="http://www.rusiczki.net/blog/blogpics/first-boarding-session-2007-2008.jpg" width="471" height="315" border="0" alt="First boarding session for the 2007 - 2008 season" class="image"/></a><br />
 Oh boy, what a weekend it was! I can only wish to have half the fun I've had during this weekend in the weekends that will follow and I promise that I'll be completely satisfied.<br />

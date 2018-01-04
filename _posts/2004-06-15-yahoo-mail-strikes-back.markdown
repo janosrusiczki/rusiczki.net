@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Yahoo! Mail strikes back!
-author: János
-wordpress_id: 304
-wordpress_url: http://www.rusiczki.net/wp/?p=304
-date: !binary |-
-  MjAwNC0wNi0xNSAxNTozNjozOCArMDIwMA==
-date_gmt: !binary |-
-  MjAwNC0wNi0xNSAxMjozNjozOCArMDIwMA==
+date: 2004-06-15 15:36:38 +0200
 categories:
 - Web
-tags: []
-comments: []
 ---
 <p>It's always great to receive stuff like this in your email:</p>
 <blockquote><p>Dear Yahoo! Mail POP Access and Forwarding Subscriber,<br />

@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Oscar Bla Bla - Part IV
-author: János
-wordpress_id: 129
-wordpress_url: http://www.rusiczki.net/wp/?p=129
-date: !binary |-
-  MjAwMy0wMy0yNCAwNjo1OTowNCArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMy0yNCAwMzo1OTowNCArMDEwMA==
+date: 2003-03-24 06:59:04 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Peter O'Toole. Oh. He's, well, old. But a great actor nonetheless.<br />
 The 'Bowling for Columbine' speech is up. Here it goes.</p>

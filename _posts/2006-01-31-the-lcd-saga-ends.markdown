@@ -1,40 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: The LCD saga ends
-author: János
-wordpress_id: 391
-wordpress_url: http://www.rusiczki.net/wp/?p=391
-date: !binary |-
-  MjAwNi0wMS0zMSAyMToyOTozMCArMDEwMA==
-date_gmt: !binary |-
-  MjAwNi0wMS0zMSAxODoyOTozMCArMDEwMA==
+date: 2006-01-31 21:29:30 +0100
 categories:
 - Technical
-tags: []
-comments:
-- id: 298
-  author: Vlad
-  author_email: 
-  author_url: http://www.expresso.lx.ro/blog/
-  date: !binary |-
-    MjAwNi0wMi0wMSAyMzo1NTowMiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0wMi0wMSAyMDo1NTowMiArMDEwMA==
-  content: ! 'Hi Janos. Congratulations on your new LCD. It''s a good piece of equipment,
-    I own one too. There are four months now since I''ve bought it and I am pleased
-    with it. The only thing that bothers me a little is the fact that it seems to
-    me that it doesn''t show neutral greys (the grays look very "colorful", if you
-    know what I mean). And the effect is more visible at wider angles of visibility.
-
-    I didn''t succeed to come around this problems through the monitor''s settings.
-    And oh my god!!! The lcd adjustments settings are imposible!!!
-
-    *whisper*: The next time you want to buy some stuff, call eMag. I would put a
-    good word for you cause I work there :) *whisper*
-
-'
 ---
 <p><img src="http://www.rusiczki.net/blog/blogpics/syncmaster_913n.jpg" width="510" height="139" alt="SyncMaster 913N upper left corner" class="image" /><br />
 [ Context: <a href="http://www.rusiczki.net/blog/archives/2005/12/29/lcd_suggestions_anyone">one</a> and <a href="http://www.rusiczki.net/blog/archives/2006/01/19/technically_frustrated">two</a>. ]<br />

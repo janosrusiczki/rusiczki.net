@@ -1,52 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Goodbye MySpace account
-author:
-  display_name: admin
-  login: admin
-  email: 
-  url: http://
-author_login: admin
-author_email: 
-author_url: http://
-wordpress_id: 596
-wordpress_url: http://www.rusiczki.net/wp/?p=596
-date: !binary |-
-  MjAwOS0wNC0wMiAxMjoxNTozMCArMDIwMA==
-date_gmt: !binary |-
-  MjAwOS0wNC0wMiAwOToxNTozMCArMDIwMA==
+date: 2009-04-02 12:15:30 +0200
 categories:
 - Web
-tags: []
-comments:
-- id: 569
-  author: lucian
-  author_email: 
-  author_url: http://flickr.com/photos/stanescoo
-  date: !binary |-
-    MjAwOS0wNC0wNiAwMTowMDo0MSArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOS0wNC0wNSAyMjowMDo0MSArMDIwMA==
-  content: ! 'you are so close, my dear friend...i can see it coming :) you''ll be
-    leaving facebook soon, and who needs hi5 when you got a (nice!) girlfriend anyway,
-    so we''ll meet on last.fm and talk about important thinks via email, or even better:
-    on the phone! landline of course :))'
-- id: 582
-  author: kitsched
-  author_email: 
-  author_url: http://www.rusiczki.net
-  date: !binary |-
-    MjAwOS0wNC0wNiAwNTo1MzoxNyArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOS0wNC0wNiAwMjo1MzoxNyArMDIwMA==
-  content: ! 'I do have my doubts I&#039;ll give up all the social networks, but slowly
-    and surely I&#039;ll minimize the big timewasters. Be aware though that I don&#039;t
-    consider games as timewasters (I can blew away an afternoon in Team Fortress 2).
-    Hmmm, actually I don&#039;t *want* to consider them as timewasters because I still
-    feel guilty while playing. You know, the little voice in my head saying: &quot;you
-    could be working now&quot;... '
 ---
 <p>I deleted my <a href="http://www.myspace.com" title="Do I really need to link this!?">MySpace</a> account today. (Notice how funny "my MySpace" sounds?)</p>
 <p>The reason? Way too many e-mail notifications announcing friend requests from random "friend collector" people... I just felt guilty to press the Deny button so many times. Anyway for me MySpace was only useful from one point of view: finding new releases from my favorite artists (which were all my "friends"). But I haven't had much time to look around lately and I'm not really in the mood to discover new music nowadays (I mostly listen to <a href="http://www.friskyradio.com">web radio</a> when I want to entertain myself) so I put things in balance and decided it'll be better for me to just let go.</p>

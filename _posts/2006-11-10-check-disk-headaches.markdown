@@ -1,19 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Check disk headaches
-author: János
-wordpress_id: 427
-wordpress_url: http://www.rusiczki.net/wp/?p=427
-date: !binary |-
-  MjAwNi0xMS0xMCAwMDowMzoxNCArMDEwMA==
-date_gmt: !binary |-
-  MjAwNi0xMS0wOSAyMTowMzoxNCArMDEwMA==
+date: 2006-11-10 00:03:14 +0100
 categories:
 - Technical
 - Windows
-tags: []
 ---
 "Inserting an index entry into index $0 of file 25" - the message I feared for a week...
 

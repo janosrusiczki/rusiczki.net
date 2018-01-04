@@ -1,18 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Logitech H390 USB headset - quick review
-author: János
-wordpress_id: 4611
-wordpress_url: http://www.rusiczki.net/?p=4611
-date: !binary |-
-  MjAxMy0xMC0yOSAxNjozNToxMiArMDEwMA==
-date_gmt: !binary |-
-  MjAxMy0xMC0yOSAxMzozNToxMiArMDEwMA==
+date: 2013-10-29 16:35:12 +0100
 categories:
 - Technical
-tags:
 - blue yeti
 - blue microphones
 - yeti
@@ -20,7 +11,6 @@ tags:
 - h390
 - logitech h390
 - hum
-comments: []
 ---
 <p>In a nutshell: <strong>do not buy</strong> this headset.</p>
 <p>That being said, here's some context: I was (and actually still am) a big fan of Logitech, considering their products top quality, so this particular case was a big disappointment.</p>

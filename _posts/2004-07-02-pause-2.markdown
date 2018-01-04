@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Pause
-author: János
-wordpress_id: 306
-wordpress_url: http://www.rusiczki.net/wp/?p=306
-date: !binary |-
-  MjAwNC0wNy0wMiAxNDo1NToxOSArMDIwMA==
-date_gmt: !binary |-
-  MjAwNC0wNy0wMiAxMTo1NToxOSArMDIwMA==
+date: 2004-07-02 14:55:19 +0200
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>Work. Work. Work. And more work.<br />
 No time to post. No time at all for nothing else than work.<br />

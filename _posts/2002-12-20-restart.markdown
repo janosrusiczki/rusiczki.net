@@ -1,42 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: ReStart
-author: János
-wordpress_id: 4
-wordpress_url: http://www.rusiczki.net/wp/?p=4
-date: !binary |-
-  MjAwMi0xMi0yMCAxMjo0NjowMiArMDEwMA==
-date_gmt: !binary |-
-  MjAwMi0xMi0yMCAwOTo0NjowMiArMDEwMA==
+date: 2002-12-20 12:46:02 +0100
 categories:
 - General
-tags: []
-comments:
-- id: 2
-  author: RazvraTina
-  author_email: 
-  author_url: http://razvratina.blogspot.com
-  date: !binary |-
-    MjAwNi0xMS0wNyAxMjowMDoyMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0xMS0wNyAwOTowMDoyMCArMDEwMA==
-  content: ! 'Why don''t you import the old entries here?
-
-'
-- id: 3
-  author: János
-  author_email: 
-  author_url: http://www.rusiczki.net/blog/
-  date: !binary |-
-    MjAwNi0xMS0wNyAxMzoyNTo1NCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0xMS0wNyAxMDoyNTo1NCArMDEwMA==
-  content: ! 'Well, if I didn''t do it back then I sure won''t do it now. I''d break
-    the time / space continuum... :)
-
-'
 ---
 <p>Well, here I am. Blogging.</p>
 <p>Starting off the I-REALLY-DONT-KNOW-TH time.</p>

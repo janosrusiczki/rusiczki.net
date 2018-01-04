@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Work
-author: János
-wordpress_id: 73
-wordpress_url: http://www.rusiczki.net/wp/?p=73
-date: !binary |-
-  MjAwMy0wMi0wMyAwMToyNTowOSArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMi0wMiAyMjoyNTowOSArMDEwMA==
+date: 2003-02-03 01:25:09 +0100
 categories:
 - Work
-tags: []
-comments: []
 ---
 <p>I'm overwhelmed of it. For the moment I have to do a <a href="http://www.zonegsm.com/logger.php" title="Will be available here shortly...">pretty complicated system</a> for my french partner in crime. This new assignment pissed me off a little because I had to interrupt work on a <a href="http://www.ma-soiree.com/" title="Party and fun in the south of France">current project</a> which wasn't the funniest work either. And it also pissed me off because it was GSM related. Again. GSM. Yuk. It seems that all my life I've been doing GSM sites.<br />
 But I did other things too. Recently we finished and put online <a href="http://www.netu.ro" title="The official site of a Romanian TV show">netu.ro</a>. It's a nice site. Was simple to implement. But the payement isn't huge either. Actually I'm rather disappointed of the sum I'm getting out of it. I used the word we. It looks like soon I'll be part of a new company. As an associate. Now, if this happens it'll be an interesting and new type of business experience. Working with two people as associates. And these people will be located at the other end of the country... I have plans to move. But also plans to stay. I don't know what will happen. But I don't really see myself still here in 3 years because of the University. I really don't know.</p>

@@ -1,37 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Time for a switch?
-author: János
-wordpress_id: 476
-wordpress_url: http://www.rusiczki.net/wp/?p=476
-date: !binary |-
-  MjAwNy0xMC0wNCAxMjo1Mjo0MyArMDIwMA==
-date_gmt: !binary |-
-  MjAwNy0xMC0wNCAwOTo1Mjo0MyArMDIwMA==
+date: 2007-10-04 12:52:43 +0200
 categories:
 - Technical
 - Mac
-tags: []
-comments:
-- id: 441
-  author: pax
-  author_email: 
-  author_url: http://pax.mioritics.ro
-  date: !binary |-
-    MjAwNy0xMC0wNyAxMDoyMzo1MiArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNy0xMC0wNyAwNzoyMzo1MiArMDIwMA==
-  content: ! 'Yesterday I was in the blue moscheea in Istanbul. Behind it there is
-    a court with a little bazaar mostly with religious items, beads/marbles, photos.
-    dusty books etc Strong noises, women with covered faces, ''balamuc''. On a corner
-    there was a little  space where a guy was showing a somehow multimedia CD with
-    writings of the coran (I presume). The machine the presentation was made on? A
-    shiny looking Mac Pro. This must imlpy that the muslim churchgoers are mostley
-    apple users? :) There was no PC there.
-
-'
 ---
 <p>Since last Thursday (that's exactly one week ago) I'm the proud (half) owner of a 13" white MacBook.</p>
 <p>I know the above declaration will make some people reading this blog "proud" of me but believe me, I'm really proud of myself too. I've been wanting a Mac as a gadget the moment I discovered Macs and even more so since they switched to Intel. And later when I saw all those yummy screencasts of Ruby on Rails and PHP development with <a href="http://macromates.com/">TextMate</a> the real craving started... So when my good friend <a href="http://www.lucianmarin.ro" title="Yeah, yeah, the graphic designer! :)">Luci</a> offered his mostly unused Mac as part of a deal I didn't hesitate for a moment. And there I was a few days later, the proud owner of a barely used laptop.</p>

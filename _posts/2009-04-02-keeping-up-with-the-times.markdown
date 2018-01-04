@@ -1,35 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Keeping up with the times
-author:
-  display_name: admin
-  login: admin
-  email: 
-  url: http://
-author_login: admin
-author_email: 
-author_url: http://
-wordpress_id: 577
-wordpress_url: http://www.rusiczki.net/wp/?p=577
-date: !binary |-
-  MjAwOS0wNC0wMiAxMjoxNTowNCArMDIwMA==
-date_gmt: !binary |-
-  MjAwOS0wNC0wMiAwOToxNTowNCArMDIwMA==
+date: 2009-04-02 12:15:04 +0200
 categories:
 - Technical
-tags: []
-comments:
-- id: 532
-  author: Vlad
-  author_email: 
-  author_url: http://vlad.bailescu.ro/
-  date: !binary |-
-    MjAwOS0wNC0wMyAyMToxMzo0NiArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOS0wNC0wMyAxODoxMzo0NiArMDIwMA==
-  content: Bun lucru!
 ---
 <p>Yep, I finally migrated this blog to <a href="http://wordpress.com">WordPress</a>.</p>
 <p>I'm saying finally because this should have happened a good few years ago, when Wordpress started to get largely adopted by bloggers around the web or at least later when I started to get fed up with the sluggishness of <a href="http://www.movabletype.org">Movable Type</a>. But I never came around doing it because of the lack of time and partly because MT had it's own special PERL-ish flavor plus I liked certain aspects of the admin interface. And I was sort of against the tide with my decision to stick to MT, since I earn a living by writing PHP code while I have next to no experience with PERL - so hacking WordPress should be easy while tempering with <a href="http://www.sixapart.com">Six Apart</a>'s product was next to impossible.</p>

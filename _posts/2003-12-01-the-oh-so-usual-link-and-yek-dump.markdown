@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: The oh-so-usual link and yek dump
-author: János
-wordpress_id: 206
-wordpress_url: http://www.rusiczki.net/wp/?p=206
-date: !binary |-
-  MjAwMy0xMi0wMSAwMDo1Njo1MSArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0xMS0zMCAyMTo1Njo1MSArMDEwMA==
+date: 2003-12-01 00:56:51 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Here comes <i>stuff</i>!</p>
 <ul>

@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Finally cable!
-author: János
-wordpress_id: 229
-wordpress_url: http://www.rusiczki.net/wp/?p=229
-date: !binary |-
-  MjAwNC0wMS0xNiAxNToxMjowMyArMDEwMA==
-date_gmt: !binary |-
-  MjAwNC0wMS0xNiAxMjoxMjowMyArMDEwMA==
+date: 2004-01-16 15:12:03 +0100
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>First came <a href="http://www.rusiczki.net/blog/archives/2004/01/05/seinfeld">the will</a>: "I want to re-install my TV card to be able to watch Seinfeld!"<br />
 Three days passed in a row, Seinfeld was already airing each night but I wasn't watching it. Why? Because I always forgot to reconnect the cable in the splitter up in the attic.<br />

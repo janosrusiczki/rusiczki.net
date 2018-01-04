@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: The genius scam teacher
-author: János
-wordpress_id: 712
-wordpress_url: http://www.rusiczki.net/?p=712
-date: !binary |-
-  MjAwOS0wNC0wOCAxMToxOTowMCArMDIwMA==
-date_gmt: !binary |-
-  MjAwOS0wNC0wOCAwODoxOTowMCArMDIwMA==
+date: 2009-04-08 11:19:00 +0200
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>You might remember I had a post about scamming people on eBay - it was one of the most popular ones posted to this blog, judging by the keywords people search for and then pop in here from Google. Actually, it was an anti-post, calling the scammers idiots because back then I was very pissed off about not being able to buy from <a href="http://www.ebay.com">the small e</a>, but it seems that many did not get that. I was getting e-mails and IMs from time to time, asking me to teach them scamming and then...</p>
 <p>First he called while I was at work. When I saw the number I knew something is not right and I didn't answer. Then he sent me this message:</p>

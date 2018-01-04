@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: No fun
-author: János
-wordpress_id: 90
-wordpress_url: http://www.rusiczki.net/wp/?p=90
-date: !binary |-
-  MjAwMy0wMi0wNyAyMDo1NDoyNSArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMi0wNyAxNzo1NDoyNSArMDEwMA==
+date: 2003-02-07 20:54:25 +0100
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>I'm sick. My neck hurts. I hate to be sick.<br />
 I'm not yet in the 'down to bed' position even if I should stay in bed for the medication I took to be effective. But I just can't. I lay there 'til 4PM anyway... So now I'm staying in front of my 'puter bloggin' some eating some yummy cookies. I took this 'bad on stomach' tablets and they're bad on my stomach. Really powerful antibiotics. So I need to eat constantly or else my tummy will begin to ache.<br />

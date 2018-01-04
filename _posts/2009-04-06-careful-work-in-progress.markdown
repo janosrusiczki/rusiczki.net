@@ -1,38 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Careful! Work in progress
-author: János
-wordpress_id: 653
-wordpress_url: http://www.rusiczki.net/?p=653
-date: !binary |-
-  MjAwOS0wNC0wNiAxMzoxMToyNiArMDIwMA==
-date_gmt: !binary |-
-  MjAwOS0wNC0wNiAxMDoxMToyNiArMDIwMA==
+date: 2009-04-06 13:11:26 +0200
 categories:
 - Technical
-tags: []
-comments:
-- id: 590
-  author: Gabriel Radic
-  author_email: 
-  author_url: http://www.timbru.com/
-  date: !binary |-
-    MjAwOS0wNC0wNiAxMzozNDo0MCArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOS0wNC0wNiAxMDozNDo0MCArMDIwMA==
-  content: New theme's hawt-hawt-hawt!
-- id: 591
-  author: János
-  author_email: 
-  author_url: http://rusiczki.net
-  date: !binary |-
-    MjAwOS0wNC0wNiAxMzo1NjoxNSArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOS0wNC0wNiAxMDo1NjoxNSArMDIwMA==
-  content: Thanks Gabriel, it's one of the slickest I found. There are some usability
-    issues, but I'm slowly but surely ironing them out... :)
 ---
 <p>Don't mind me please while I try out some stuff.</p>
 <p>I briefly installed the <a href="http://intensedebate.com/">IntenseDebate</a> comment enhancer plug-in only to realize that while I liked the added functionality of threaded comments and the whole shebang of other functionality it brought along, I strongly disliked the fact that from the <a href="http://www.google.com">almighty G</a>'s point of view the comments were not on my blog's pages. So I uninstalled it to find that the two test comments I added while the plug-in was installed were stored in my local database too. Very nice and userfriendly touch, not the usual lock-in you find around the web. So, the fancy IntenseDebate got replaced with the much simpler <a href="http://txfx.net/code/wordpress/subscribe-to-comments/">Subscribe to Comments plug-in</a>, which, while age old, does its job admirably well.</p>

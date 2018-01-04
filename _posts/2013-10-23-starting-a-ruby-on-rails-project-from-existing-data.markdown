@@ -1,29 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Starting a Ruby on Rails project from existing data
-author: János
-wordpress_id: 4592
-wordpress_url: http://www.rusiczki.net/?p=4592
-date: !binary |-
-  MjAxMy0xMC0yMyAxMjoxMDo0NSArMDIwMA==
-date_gmt: !binary |-
-  MjAxMy0xMC0yMyAwOToxMDo0NSArMDIwMA==
+date: 2013-10-23 12:10:45 +0200
 categories:
 - Technical
 - Ruby on Rails
-tags: []
-comments:
-- id: 28854
-  author: johnson
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAxMy0xMC0yMyAxNTozMzowMCArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMy0xMC0yMyAxMjozMzowMCArMDIwMA==
-  content: good stuff!
 ---
 <p>Ideally when you are starting a Ruby on Rails project you're starting from scratch and most tutorials and guides you'll find on the Internet assume this. I found very little information about starting a project from existing data and I thought I'd share the solution which I found and consider the simplest.</p>
 <p>So, we're supposing the already existing database is called <em>library_development</em> and you can access it with the <em>joe</em> user having password <em>secret</em> and that you have created a new rails app which should be able to connect to a mysql database.</p>

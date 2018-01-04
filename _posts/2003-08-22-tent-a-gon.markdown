@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Tent-a-gon
-author: János
-wordpress_id: 175
-wordpress_url: http://www.rusiczki.net/wp/?p=175
-date: !binary |-
-  MjAwMy0wOC0yMiAxOToxNjo1NSArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0wOC0yMiAxNjoxNjo1NSArMDIwMA==
+date: 2003-08-22 19:16:55 +0200
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Yep. It looks like there'll be some tent action tonight.<br />
 Yippie. And I don't even need to carry my heavy tent. Double yippie.<br />

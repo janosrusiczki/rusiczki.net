@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 title: Installing a new battery into a 2nd generation iPod
-author: János
 excerpt: ! 'So, I did it! As <a href="http://www.rusiczki.net/blog/archives/2004/04/01/brief"
   title="Kitsched - Brief">I already said</a> I have a new battery providing power
   for my G2 (that''s second generation) iPod. And this one is not dying on me daily
@@ -15,29 +12,9 @@ excerpt: ! 'So, I did it! As <a href="http://www.rusiczki.net/blog/archives/2004
 
 
 '
-wordpress_id: 268
-wordpress_url: http://www.rusiczki.net/wp/?p=268
-date: !binary |-
-  MjAwNC0wNC0wMiAxNTo1ODozOSArMDIwMA==
-date_gmt: !binary |-
-  MjAwNC0wNC0wMiAxMjo1ODozOSArMDIwMA==
+date: 2004-04-02 15:58:39 +0200
 categories:
 - Technical
-tags: []
-comments:
-- id: 51
-  author: steven
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAwNC0wNy0yMSAyMDoxNTo0MCArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNC0wNy0yMSAxNzoxNTo0MCArMDIwMA==
-  content: ! 'well, I wish I had read your remark on not killing the ribbon at the
-    bottom before I did so! Was trying to transplant a HD & unless anyone has a way
-    to repair that ribbon, forget it all!
-
-'
 ---
 <p>So, I did it! As <a href="http://www.rusiczki.net/blog/archives/2004/04/01/brief" title="Kitsched - Brief">I already said</a> I have a new battery providing power for my G2 (that's second generation) iPod. And this one is not dying on me daily because it's brand new! Seeing some topics over at the forums of <a href="http://www.ipodlounge.com">ipodlounge.com</a> I realized that some people out there are scared to do the replacement themselves. That's why I decided to post this and provide the "experience" I accumulated by replacing the battery myself. It's not hard but if you read this mini guide please read it fully before starting and also check out the pictures at the bottom.</p>
 <p><a id="more"></a><a id="more-268"></a><br />

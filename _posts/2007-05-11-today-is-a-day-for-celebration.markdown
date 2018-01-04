@@ -1,20 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Today is a day for celebration
-author: János
-wordpress_id: 463
-wordpress_url: http://www.rusiczki.net/wp/?p=463
-date: !binary |-
-  MjAwNy0wNS0xMSAwOToxNDoxOSArMDIwMA==
-date_gmt: !binary |-
-  MjAwNy0wNS0xMSAwNjoxNDoxOSArMDIwMA==
+date: 2007-05-11 09:14:19 +0200
 categories:
 - Web
 - Life
-tags: []
-comments: []
 ---
 <p><a href="http://www.paypal.com">Paypal</a> is <a href="http://www.seopedia.org/seo-news/paypal-for-romania-now-available-send-only/">finally available in Romania</a>.<br />
 While this is great news for all those wannabe eBay users, those who wanted a Pro account on Flickr and many others, there's a down side:</p>

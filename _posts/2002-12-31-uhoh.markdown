@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Uhoh!
-author: János
-wordpress_id: 33
-wordpress_url: http://www.rusiczki.net/wp/?p=33
-date: !binary |-
-  MjAwMi0xMi0zMSAxMzozNDoxOSArMDEwMA==
-date_gmt: !binary |-
-  MjAwMi0xMi0zMSAxMDozNDoxOSArMDEwMA==
+date: 2002-12-31 13:34:19 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>I received Muzik.<br />
 What's next? Daylight by night?<br />

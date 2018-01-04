@@ -1,34 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: The lost holiday
-author: János
-wordpress_id: 309
-wordpress_url: http://www.rusiczki.net/wp/?p=309
-date: !binary |-
-  MjAwNC0wOC0wMiAyMjowMDo1MSArMDIwMA==
-date_gmt: !binary |-
-  MjAwNC0wOC0wMiAxOTowMDo1MSArMDIwMA==
+date: 2004-08-02 22:00:51 +0200
 categories:
 - Life
-tags: []
-comments:
-- id: 109
-  author: Ioana
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAwNC0wOC0wMiAyMjowODoyNyArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNC0wOC0wMiAxOTowODoyNyArMDIwMA==
-  content: ! 'well this is partly dedicated to ME :-)))
-
-    so hmmm....blast! just half of Human Traffic
-
-    but i was kind of lost without translation....british accent just kills me
-
-'
 ---
 <p>Oh joy!<br />
 Yesterday Ioana and me recovered part of the holiday we never had this summer. As she is stuck in front of her computer because of her looming graduation which is coming to a university near you (if you live in Cluj-Napoca, Romania, that is) sometime by the end of this August. And I'm stuck in front of mine with work. Lots of work. I'm just about finished with one project, but I'm already starting another one. And it's not a small one. We're both stressed to the max and this is certainly not good. Ugh!<br />

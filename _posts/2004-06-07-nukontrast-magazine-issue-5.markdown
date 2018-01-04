@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Nukontrast Magazine Issue 5
-author: János
-wordpress_id: 300
-wordpress_url: http://www.rusiczki.net/wp/?p=300
-date: !binary |-
-  MjAwNC0wNi0wNyAyMjoyOTo0MiArMDIwMA==
-date_gmt: !binary |-
-  MjAwNC0wNi0wNyAxOToyOTo0MiArMDIwMA==
+date: 2004-06-07 22:29:42 +0200
 categories:
 - Web
-tags: []
-comments: []
 ---
 <p><img src="http://www.rusiczki.net/blog/blogpics/nukontrast_5.jpg" width="490" height="90" border="0" alt="Nukontrast 5 clip" class="image" /></p>
 <p>Hey, I want to be the first to blog about it!</p>

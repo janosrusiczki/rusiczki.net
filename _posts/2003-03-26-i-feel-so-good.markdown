@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: I feel so good!
-author: János
-wordpress_id: 131
-wordpress_url: http://www.rusiczki.net/wp/?p=131
-date: !binary |-
-  MjAwMy0wMy0yNiAwMTo0NDozMyArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMy0yNSAyMjo0NDozMyArMDEwMA==
+date: 2003-03-26 01:44:33 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <blockquote><i>Dear Ioan Rusiczki<br />
 Please accept our heartfelt appreciation for your contribution in support of the International Federation of Red Cross and Red Crescent Societies.<br />

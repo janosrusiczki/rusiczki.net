@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Best piece of hardware, ever
-author: János
-wordpress_id: 1098
-wordpress_url: http://www.rusiczki.net/?p=1098
-date: !binary |-
-  MjAxMC0wNi0yOSAwODozOTo0MCArMDIwMA==
-date_gmt: !binary |-
-  MjAxMC0wNi0yOSAwNTozOTo0MCArMDIwMA==
+date: 2010-06-29 08:39:40 +0200
 categories:
 - Technical
-tags: []
-comments: []
 ---
 <p><img src="http://www.rusiczki.net/wp-content/uploads/2010/06/M-Audio-FireWire-Audiophile.png" alt="" title="M-Audio FireWire Audiophile" width="500" height="368" style="background:none"/><br />
 <a href="http://www.soundonsound.com/sos/may04/articles/maudiofirewireap.htm">M-Audio FireWire Audiophile</a> - bought second hand back in 2006, still rocking my ears finely.</p>

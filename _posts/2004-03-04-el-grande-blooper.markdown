@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: El grande blooper
-author: János
-wordpress_id: 258
-wordpress_url: http://www.rusiczki.net/wp/?p=258
-date: !binary |-
-  MjAwNC0wMy0wNCAwMzozNTo1MiArMDEwMA==
-date_gmt: !binary |-
-  MjAwNC0wMy0wNCAwMDozNTo1MiArMDEwMA==
+date: 2004-03-04 03:35:52 +0100
 categories:
 - Web
-tags: []
-comments: []
 ---
 <p>A quote from the <a href="http://www.dol.ro">Diverta Online</a> newsletter I received yesterday (translated):</p>
 <blockquote><p>[...] The motion picture based on the book "Cold Mountain" (shot in Romania) won the Oscar for Actress in a Leading Role - Nicole Kidman</p></blockquote>

@@ -1,59 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Trail-uri de Baia Mare
-author: János
-wordpress_id: 1415
-wordpress_url: http://www.rusiczki.net/?p=1415
-date: !binary |-
-  MjAxMS0wOC0yOSAxMTowNDoxNiArMDIwMA==
-date_gmt: !binary |-
-  MjAxMS0wOC0yOSAwODowNDoxNiArMDIwMA==
+date: 2011-08-29 11:04:16 +0200
 categories:
 - Video
 - Bike
 - Română
-tags: []
-comments:
-- id: 22027
-  author: Andrei
-  author_email: 
-  author_url: http://www.hm-andrei.ro
-  date: !binary |-
-    MjAxMS0wOS0xOSAxMTo0MjoxOCArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMS0wOS0xOSAwODo0MjoxOCArMDIwMA==
-  content: Spune-mi te rog ce camera ai folosit pentru filmarea traseului?
-- id: 22028
-  author: János
-  author_email: 
-  author_url: http://rusiczki.net
-  date: !binary |-
-    MjAxMS0wOS0xOSAxMzowMDowMiArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMS0wOS0xOSAxMDowMDowMiArMDIwMA==
-  content: GoPro HD montata pe o casca "tare" Bern.
-- id: 28709
-  author: Norbert
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAxMi0wNS0yMiAwNzo0MjoxMyArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMi0wNS0yMiAwNDo0MjoxMyArMDIwMA==
-  content: ! "Salut\r\n\r\nFoarte frumos articolul poienita despre care vorbesti (ceea
-    la care se ajunge din campingul de la baraj) se numeste valea Varatec.  Aici candva
-    s-a organizat si un concurs de Mountainbike, cross-country, dar asta se intampla
-    prin 1996, cand participam si eu la cross-country :)\r\n\r\nIar denumiriile precum
-    Dakar I,  Dakar II, Route 66 si multe altele au luat viata tot pe atunci, in anii
-    90, cand eram doar cativa ciclisti in oras cu MTB-uri,\"Putyu, Treger Oszkar,
-    Toth Zoltan, Vladimir Brezovski, Robi Csoki, Gyura Eisele, Zoli Specialized si
-    eu Norbert Popovic\" (sper ca nu am uitat de nimeni)\r\n\r\nPe vremea aceea concursuriile
-    de mountainbike se organizau de catre BALDI si era o regula ca daca e concurs
-    sigur ploua (ori inainte cu o zi ori chiar in ziua concursului).\r\n\r\nTotul
-    era distractie, prieteni si vremuri bune, iar de aceste lucruri mi-am adus aminte
-    eu citind articolul tau :)"
 ---
 <p>Poate că e ușor exagerat să le numesc trail-uri dar oricum se apropie de definiție. În alte cuvinte: dacă asta avem, cu asta ne mândrim.</p>
 <p>Idea de filmare mi-a venit acum câteva săptămâni după ce am descoperit relativ aleator că dacă fac în sens invers decât cel obișnuit una dintre potecile apropiate de oraș iese un traseu chiar interesant și totodată antrenant. Pornisem într-o după masă către Pleștioare, însa fiind destul de târziu am început sa am îndoieli ca voi ajunge pe lumină și cum eram și singur, am decis sa zic pas traseului plănuit, să o iau la stânga chiar după fostul motel Usturoiu și sa fac un traseu care-l mai făcusem de vreo două ori, dar doar în direcție inversă. M-am simțit deosebit de bine și pomenind unui prieten de aventură am aflat că poteca se numește "Dakar" și că e unul dintre cele mai vechi și cele mai cunoscute trasee din jurul Băii Mari. A doua zi eram cu camera pe cap...</p>

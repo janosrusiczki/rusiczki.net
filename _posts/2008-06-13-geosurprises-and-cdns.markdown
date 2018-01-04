@@ -1,31 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Geosurprises and CDNs
-author: János
-wordpress_id: 535
-wordpress_url: http://www.rusiczki.net/wp/?p=535
-date: !binary |-
-  MjAwOC0wNi0xMyAwODozNzozMyArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wNi0xMyAwNTozNzozMyArMDIwMA==
+date: 2008-06-13 08:37:33 +0200
 categories:
 - Web
 - Technical
-tags: []
-comments:
-- id: 517
-  author: Gabriel Radic
-  author_email: gr+
-  author_url: http://www.timbru.com/
-  date: !binary |-
-    MjAwOC0wNi0xNyAxMzowNjo0MyArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOC0wNi0xNyAxMDowNjo0MyArMDIwMA==
-  content: ! 'Netvibes imi vine din Germania :-)
-
-'
 ---
 <p><img src="http://www.rusiczki.net/blog/blogpics/firefox-status-bar.png" width="500" height="53" border="0" alt="Firefox Status Bar with Flagfox" class="image"/></p>
 <p>A few days ago, out of sheer geek / webmaster / wannabe server administrator curiosity I installed the <a href="https://addons.mozilla.org/en-US/firefox/addon/5791">Flagfox add-on</a> for Firefox which shows the flag of the country where the server that's hosting the displayed site is located.</p>

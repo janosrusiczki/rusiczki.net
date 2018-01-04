@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Videos
-author: János
-wordpress_id: 17
-wordpress_url: http://www.rusiczki.net/wp/?p=17
-date: !binary |-
-  MjAwMi0xMi0yNiAwMzoxMzo0NiArMDEwMA==
-date_gmt: !binary |-
-  MjAwMi0xMi0yNiAwMDoxMzo0NiArMDEwMA==
+date: 2002-12-26 03:13:46 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Warning! Watching the new Bj&ouml;rk video while eating can be dangerous for those with weaker stomachs. Same as Layo & Bushcwacka!'s <i>Love Story</i>. The tunes are great in both cases. As a note, Bj&ouml;rk seems to love having shocking videos. I remember <i>Pagan Poetry</i> and those hooks in her back. Yayks!<br />
 At least these videos are different from the boring average.<br />

@@ -1,18 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
 title: I'm evil!
-author: János
-wordpress_id: 140
-wordpress_url: http://www.rusiczki.net/wp/?p=140
-date: !binary |-
-  MjAwMy0wNC0wNCAwMjoxODo1MyArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0wNC0wMyAyMzoxODo1MyArMDIwMA==
+date: 2003-04-04 02:18:53 +0200
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>I love blowing the cover of <a href="http://www.spinform.ro/ofld/" title="Our Friendly Linkdump">secret sites</a>. [ <b>UPDATE</b> This was moved <a href="http://drumandbass.ro">here</a> and it got password protected after some spam appeared. Heh. ]</p>

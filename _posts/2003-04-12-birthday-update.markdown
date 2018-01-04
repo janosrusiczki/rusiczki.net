@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Birthday update
-author: János
-wordpress_id: 159
-wordpress_url: http://www.rusiczki.net/wp/?p=159
-date: !binary |-
-  MjAwMy0wNC0xMiAyMToyNDoyOSArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0wNC0xMiAxODoyNDoyOSArMDIwMA==
+date: 2003-04-12 21:24:29 +0200
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Oh, and I'm not celebrating my birthday today, since the bar where I wanted to take the gang to get everybody happy by getting them drunk is taken by somebody else for tonight... I found out about this Wednesday in the evening and I was quite disappointed plus I had to announce everyone in time that it's not today.<br />
 So the <b>updated</b> countdown looks like this: 5 days until I turn 24 and 7 days until we celebrate this huuuge event. Hehe.<br />

@@ -1,31 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Lucian Marin, graphic designer
-author: János
-wordpress_id: 550
-wordpress_url: http://www.rusiczki.net/wp/?p=550
-date: !binary |-
-  MjAwOS0wMS0zMCAwOTowMzo0MCArMDEwMA==
-date_gmt: !binary |-
-  MjAwOS0wMS0zMCAwNjowMzo0MCArMDEwMA==
+date: 2009-01-30 09:03:40 +0100
 categories:
 - Work
 - Portofolio
-tags: []
-comments:
-- id: 529
-  author: Lucian Marin
-  author_email: 
-  author_url: http://www.lucianmarin.ro/
-  date: !binary |-
-    MjAwOS0wMS0zMCAwOTo1NjoxNSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwOS0wMS0zMCAwNjo1NjoxNSArMDEwMA==
-  content: ! 'thanks for the help mate
-
-'
 ---
 <p>The title is obviously a pun, as <em>someone</em> is so obsessed with SEO... :-)</p>
 <p>I helped my friend <a href="http://www.lucianmarin.ro">Luci</a> with his site's redesign. As in XHTML & CSS by your's truly. It was a simple and pleasant job, unfortunately interrupted several times by <a href="http://www.rusiczki.net/blog/archives/2009/01/26/a_bitter_update">my recent problems</a> and inherent laziness. But the good news is that it's ready now. At least the homepage...</p>

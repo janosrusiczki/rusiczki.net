@@ -1,18 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
 title: Yum
-author: János
-wordpress_id: 242
-wordpress_url: http://www.rusiczki.net/wp/?p=242
-date: !binary |-
-  MjAwNC0wMi0wNyAxNTo1NToyMCArMDEwMA==
-date_gmt: !binary |-
-  MjAwNC0wMi0wNyAxMjo1NToyMCArMDEwMA==
+date: 2004-02-07 15:55:20 +0100
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>Vanilla Coke rulez. I think I'm going to switch from my "religion" which is Pepsi Twist...</p>

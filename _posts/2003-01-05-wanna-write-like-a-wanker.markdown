@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Wanna write like a wanker?
-author: János
-wordpress_id: 39
-wordpress_url: http://www.rusiczki.net/wp/?p=39
-date: !binary |-
-  MjAwMy0wMS0wNSAwNTozNjozNSArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMS0wNSAwMjozNjozNSArMDEwMA==
+date: 2003-01-05 05:36:35 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Found this guideline on <a href="http://www.infernus.net/rants/write_like_a_wanker.html" title="Hilarious!">How to Write Like A Wanker</a>. Really amusing but also sad somehow, as are all these satirical writings.<br />
 Just a quote, which applied in "real life" really annoys the shit out of me:</p>

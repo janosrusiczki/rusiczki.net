@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: What to do with some excess money
-author: János
-wordpress_id: 134
-wordpress_url: http://www.rusiczki.net/wp/?p=134
-date: !binary |-
-  MjAwMy0wMy0yOSAwNjoyMDo1MCArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMy0yOSAwMzoyMDo1MCArMDEwMA==
+date: 2003-03-29 06:20:50 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p><a title="The Gulf War Drinking Game" href="http://www.gulfwardrinkinggame.com/">The Gulf War Drinking Game</a><br />
 They buy a domain for a page of text nowadays. I'm still amazed by these kind of examples.<br />

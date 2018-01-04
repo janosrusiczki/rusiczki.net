@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Tired
-author: János
-wordpress_id: 156
-wordpress_url: http://www.rusiczki.net/wp/?p=156
-date: !binary |-
-  MjAwMy0wNC0xMCAyMTozNDoyMCArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0wNC0xMCAxODozNDoyMCArMDIwMA==
+date: 2003-04-10 21:34:20 +0200
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>I wanted to post a long entry about what happened yesterday and today (pretty busy days) but I'm so tired that my head hurts. And my head hurts 3 or 4 times a year. And when it does hurt it means that I've crossed the line. 4 and 6 hours of sleeping / night is not much.... Not enough.<br />
 Bed time again.</p>

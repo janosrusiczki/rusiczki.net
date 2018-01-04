@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Return to Cavnic
-author: János
-wordpress_id: 352
-wordpress_url: http://www.rusiczki.net/wp/?p=352
-date: !binary |-
-  MjAwNS0wMi0xNCAxMjo0ODo0MSArMDEwMA==
-date_gmt: !binary |-
-  MjAwNS0wMi0xNCAwOTo0ODo0MSArMDEwMA==
+date: 2005-02-14 12:48:41 +0100
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>Oh yeah. Monday morning or noon, or whatever it is. I'm sitting in front of my computer trying to do some work, my joints hurt and there's a nice blue spot on my left leg where the ski lift dragged me from... Just the usual symptoms showing that this weekend we spent some quality time on the slopes at Cavnic.<br />
 Saturday was a really event packed day: Ioana worked in the morning (til 12:30), a friend came and picked us up from Baia Mare, we made a short stop at my parent's house in Baia Sprie to pick up our stuff, arrived to the slopes at 14:30, snowboarded our ass off, returned to Baia Sprie at around five o'clock, went to the birthday of my cousin's kid, ate well, drank well, fought sleepiness, finally arrived back to Baia Mare at about 22:30, little detour to my place to manage those download jobs, then back to Ioana's place and bed.<br />

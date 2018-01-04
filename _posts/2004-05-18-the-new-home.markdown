@@ -1,67 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: The new home...
-author: János
-wordpress_id: 290
-wordpress_url: http://www.rusiczki.net/wp/?p=290
-date: !binary |-
-  MjAwNC0wNS0xOCAxNjozODo1NyArMDIwMA==
-date_gmt: !binary |-
-  MjAwNC0wNS0xOCAxMzozODo1NyArMDIwMA==
+date: 2004-05-18 16:38:57 +0200
 categories:
 - Life
-tags: []
-comments:
-- id: 84
-  author: lucian
-  author_email: 
-  author_url: http://www.rola.ro
-  date: !binary |-
-    MjAwNC0wNS0xOCAxNjo0NzowOCArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNC0wNS0xOCAxMzo0NzowOCArMDIwMA==
-  content: ! 'move your ass to the new place and get that perm done :)
-
-'
-- id: 85
-  author: clumsy
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAwNC0wNS0xOCAxNzowNDo1NyArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNC0wNS0xOCAxNDowNDo1NyArMDIwMA==
-  content: ! 'the place looks nice in the pictures
-
-    it''s more i''ve expected
-
-    uau!
-
-'
-- id: 86
-  author: Rocky Gratiano
-  author_email: 
-  author_url: http://no.com
-  date: !binary |-
-    MjAwNC0wNS0xOCAxNzozNzozMSArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNC0wNS0xOCAxNDozNzozMSArMDIwMA==
-  content: ! 'RESPECT
-
-'
-- id: 87
-  author: SCORPIO-P
-  author_email: PETI_B
-  author_url: ''
-  date: !binary |-
-    MjAwNC0wNS0xOSAwMToyNDoxMSArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNC0wNS0xOCAyMjoyNDoxMSArMDIwMA==
-  content: ! 'sooo, where''s my room ? and when do we party ? :D
-
-'
 ---
 <p><a href="http://www.rusiczki.net/blog/blogpics/new_appartment_1.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/new_appartment_1.php','popup','width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.rusiczki.net/blog/blogpics/new_appartment_1-thumb.jpg" width="155" height="116" border="0" class="image" alt="View towards the window" /></a><a href="http://www.rusiczki.net/blog/blogpics/new_appartment_3.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/new_appartment_3.php','popup','width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.rusiczki.net/blog/blogpics/new_appartment_3-thumb.jpg" width="155" height="116" border="0" class="image" alt="View of the TV table with the TV on it" /></a><a href="http://www.rusiczki.net/blog/blogpics/new_appartment_2.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/new_appartment_2.php','popup','width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.rusiczki.net/blog/blogpics/new_appartment_2-thumb.jpg" width="155" height="116" border="0" class="image" alt="View from the window" /></a><br />
 I want to thank all those that <a href="http://www.rusiczki.net/blog/archives/2004/05/12/offline_browsing#comments" title="Kitsched - Offline browsing">wished me luck</a> in finding myself a cool appartment. As you can see I succeeded. It's got one nice room, one bathroom and one kitchen for 80 Euros a month in a quite central part of Baia Mare. It's more than enough for me. Now let's see about that permanent Internet connection...</p>

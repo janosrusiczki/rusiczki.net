@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Re
-author: János
-wordpress_id: 170
-wordpress_url: http://www.rusiczki.net/wp/?p=170
-date: !binary |-
-  MjAwMy0wOC0xNSAyMDo0NjowNCArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0wOC0xNSAxNzo0NjowNCArMDIwMA==
+date: 2003-08-15 20:46:04 +0200
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Well, starting again. For the 3rd or 4th time I guess...<br />
 I hope this will go well.<br />

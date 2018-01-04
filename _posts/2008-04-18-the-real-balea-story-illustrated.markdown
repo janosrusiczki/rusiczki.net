@@ -1,32 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: The real Balea story - Illustrated!
-author: János
-wordpress_id: 513
-wordpress_url: http://www.rusiczki.net/wp/?p=513
-date: !binary |-
-  MjAwOC0wNC0xOCAyMzoyMDoxNyArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wNC0xOCAyMDoyMDoxNyArMDIwMA==
+date: 2008-04-18 23:20:17 +0200
 categories:
 - Life
 - Photos
 - Snowboard
-tags: []
-comments:
-- id: 496
-  author: Cristi
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAwOC0wNC0xOCAyMzozNTozMSArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOC0wNC0xOCAyMDozNTozMSArMDIwMA==
-  content: ! 'This is quite an adventure
-
-'
 ---
 <a href="http://www.flickr.com/photos/janos/2414480484/"><img src="http://farm3.static.flickr.com/2062/2414480484_38179bf2eb.jpg" width="500" height="334" border="0" class="image"/></a>
 

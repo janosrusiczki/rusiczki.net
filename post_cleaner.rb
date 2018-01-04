@@ -19,5 +19,8 @@ Dir['_posts/*'].each do |path|
     contents.gsub!(/date\:.*\n.*\=\=/, 'date: ' + publish_date)
   end
 
+  file.reopen(path, 'w')
+  file.write(contents)
+
   puts contents
 end

@@ -1,21 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Getting friskier
-author: János
-wordpress_id: 510
-wordpress_url: http://www.rusiczki.net/wp/?p=510
-date: !binary |-
-  MjAwOC0wNC0xNSAxNjoxNjoyNiArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wNC0xNSAxMzoxNjoyNiArMDIwMA==
+date: 2008-04-15 16:16:26 +0200
 categories:
 - Web
 - Life
 - Music
-tags: []
-comments: []
 ---
 <p><a href="http://www.friskyradio.com/store/item4/">friskySubscription</a>++;<br />
 myPayPalBalance--;<br />

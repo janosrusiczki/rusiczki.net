@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Click and unlock
-author: János
-wordpress_id: 271
-wordpress_url: http://www.rusiczki.net/wp/?p=271
-date: !binary |-
-  MjAwNC0wNC0xMiAxNTozNDozNyArMDIwMA==
-date_gmt: !binary |-
-  MjAwNC0wNC0xMiAxMjozNDozNyArMDIwMA==
+date: 2004-04-12 15:34:37 +0200
 categories:
 - Work
-tags: []
-comments: []
 ---
 <p><a href="http://www.clik-et-deblok.com">Clik-et-Deblok.Com</a><br />
 Yes. As we all know it's fun to create something out of nothing. A project is finished. I mean almost finished because as always there's a lot of polishing to do. As the QA team is me and my client it's practically inexistent and this causes pretty much trouble because of the lurking bugs... But no complaints today. I've been payed so I should shut up and do my job.<br />

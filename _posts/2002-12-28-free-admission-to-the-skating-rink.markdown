@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Free admission to the skating rink
-author: János
-wordpress_id: 25
-wordpress_url: http://www.rusiczki.net/wp/?p=25
-date: !binary |-
-  MjAwMi0xMi0yOCAxNTo0MzozNiArMDEwMA==
-date_gmt: !binary |-
-  MjAwMi0xMi0yOCAxMjo0MzozNiArMDEwMA==
+date: 2002-12-28 15:43:36 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>What do you get mixing sleet with ice? If you know something more slippery than the result please tell me. I went down to buy something about an hour ago... Holy cow. Older people are doomed. They have 2 choices: stay in the house or go out and break a bone or two...<br />
 I remember some images I saw a few days ago on TV. Some german TV was filming an "on-the-site" report about the streets which were in the same condition as they are now here (slippery as hell). And while the reporter was talking somebody was crossing in the background. And that somebody went flat right there.<br />

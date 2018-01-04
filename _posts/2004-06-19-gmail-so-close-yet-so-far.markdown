@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Gmail, so close yet so far!
-author: János
-wordpress_id: 305
-wordpress_url: http://www.rusiczki.net/wp/?p=305
-date: !binary |-
-  MjAwNC0wNi0xOSAxMzo1MDozNyArMDIwMA==
-date_gmt: !binary |-
-  MjAwNC0wNi0xOSAxMDo1MDozNyArMDIwMA==
+date: 2004-06-19 13:50:37 +0200
 categories:
 - Web
-tags: []
-comments: []
 ---
 <p>I had some luck and saw someone giving away free <a href="http://www.gmail.com">Gmail</a> invites on a forum. And I actually requested one and the guy said he sent it. But stupid me, I gave a very unstable email account for the contact address because it's a rather public forum (a newsgroup in fact) and that account is full of spam anyway. But now, just to raise my adrenaline level I can't login to that account.<br />
 Heeelp! I'm biting my fingernails off.<br />

@@ -1,21 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: RC Helicopter Wiki
-author: János
-wordpress_id: 543
-wordpress_url: http://www.rusiczki.net/wp/?p=543
-date: !binary |-
-  MjAwOC0xMC0zMCAxMzozOTo0NSArMDEwMA==
-date_gmt: !binary |-
-  MjAwOC0xMC0zMCAxMDozOTo0NSArMDEwMA==
+date: 2008-10-30 13:39:45 +0100
 categories:
 - Life
 - Helicopter
 - RC
-tags: []
-comments: []
 ---
 <p>I rarely promote other projects of mine around here, a notable exception being the left sidebar, but this time I'll make an exception as it's something which I very much like.</p>
 <p>But first, some introduction. You might or might not know, depending on whether you're following <a href="http://www.flickr.com/photos/janos/">my Flickr photos</a> or not, that I've got myself a radio controlled helicopter around the end of June. Actually, now that I think of it, I remember that I've recently posted <a href="http://www.rusiczki.net/blog/archives/2008/09/29/good_times">two good times videos</a> right to this blog. Anyway, this was the culmination of my RC helicopter project which I dreamed of since the start of last year and which actually debuted in March with the acquision of a transmitter and 2 battery packs together with the matching charger and later various accessories. Later here means in between the acquisition of the transmitter and the helicopter kit itself.</p>

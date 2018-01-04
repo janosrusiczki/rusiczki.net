@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Oscar Bla Bla - Part II
-author: János
-wordpress_id: 127
-wordpress_url: http://www.rusiczki.net/wp/?p=127
-date: !binary |-
-  MjAwMy0wMy0yNCAwNTowOTozMCArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMy0yNCAwMjowOTozMCArMDEwMA==
+date: 2003-03-24 05:09:30 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Mickey Mouse was great!<br />
 It's so sad that there's nothing on <a href="http://www.daypop.com">Daypop.com</a> about the Oscars. It seems that the whole weblog community is concentrating on the war. Fortunately a <a href="http://www.feedster.com/search.php?hl=en&ie=ISO-8859-1&q=oscar&btnG=Search">search</a> on <a href="http://www.feedster.com">Feedster</a> doesn't show such sad results...<br />

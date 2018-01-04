@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 title: Another edition is over - The late part 2
-author: János
 excerpt: ! 'So after <a href="http://www.rusiczki.net/blog/archives/2004/10/19/another_edition_is_over_part_1"
   title="Kitsched - Another edition is over - Part 1">all those bad experiences</a>
   I was out to party. With some 4 hours of sleep or something like this. It couldn''t
@@ -11,49 +8,9 @@ excerpt: ! 'So after <a href="http://www.rusiczki.net/blog/archives/2004/10/19/a
 
 
 '
-wordpress_id: 330
-wordpress_url: http://www.rusiczki.net/wp/?p=330
-date: !binary |-
-  MjAwNC0xMC0yOCAxNzo1OTo0NCArMDIwMA==
-date_gmt: !binary |-
-  MjAwNC0xMC0yOCAxNDo1OTo0NCArMDIwMA==
+date: 2004-10-28 17:59:44 +0200
 categories:
 - Life
-tags: []
-comments:
-- id: 154
-  author: even
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAwNC0xMC0zMCAxMDo0MDowNCArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNC0xMC0zMCAwNzo0MDowNCArMDIwMA==
-  content: ! 'Hey Rev!
-
-    Ai putea sa imi dai si mie muzica care ai inregistrat-o la tm base? I would really
-    apreciate it. Multumesc :-)
-
-'
-- id: 155
-  author: János
-  author_email: 
-  author_url: http://www.rusiczki.net/blog/
-  date: !binary |-
-    MjAwNC0xMS0wMSAxMTo1NzoyMyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNC0xMS0wMSAwODo1NzoyMyArMDEwMA==
-  content: ! 'Deocamdata nu am primit inregistrarile ca le-am lasat la Timisoara ca
-    sa nu patim ca anul trecut, cand am adus minidiscurile acasa si am tot intarziat
-    sa le inregistrez pe calculator ca apoi la insistentele celor de la TMBase sa
-    le trimit inapoi sa le inregistreze ei...
-
-    Asa ca momentan astept si eu CD-urile cu stuff de la Timisoara, si dupa cate am
-    inteles voi mai astepta o vreme. Oricum chiar daca le primesc nu prea am dreptul
-    sa distribui decat in cazul in care-si dau si artistii acordul... Iar in acest
-    caz vom pune cred pe DnB.RO.
-
-'
 ---
 <p>So after <a href="http://www.rusiczki.net/blog/archives/2004/10/19/another_edition_is_over_part_1" title="Kitsched - Another edition is over - Part 1">all those bad experiences</a> I was out to party. With some 4 hours of sleep or something like this. It couldn't turn out well... But it did. Much better than I expected.</p>
 <p><a id="more"></a><a id="more-330"></a><br />

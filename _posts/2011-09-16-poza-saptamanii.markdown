@@ -1,29 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Poza saptamanii
-author: János
-wordpress_id: 1479
-wordpress_url: http://www.rusiczki.net/?p=1479
-date: !binary |-
-  MjAxMS0wOS0xNiAxMjo0MToyOSArMDIwMA==
-date_gmt: !binary |-
-  MjAxMS0wOS0xNiAwOTo0MToyOSArMDIwMA==
+date: 2011-09-16 12:41:29 +0200
 categories:
 - Photos
 - Română
-tags: []
-comments:
-- id: 22015
-  author: Gabriel R.
-  author_email: 
-  author_url: http://timbru.com
-  date: !binary |-
-    MjAxMS0wOS0xOCAxMTo1ODowOCArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMS0wOS0xOCAwODo1ODowOCArMDIwMA==
-  content: ! "Bine ai revenit!\r\nfaina poza!"
 ---
 <p><a href="http://www.flickr.com/photos/janos/6148748455/"><img src="http://www.rusiczki.net/wp-content/uploads/2011/09/nora-robi.jpg" alt="" title="nora-robi" width="500" height="752" class="alignnone size-full wp-image-1480"/></a></p>
 <p>Recunosc. Navighez adesea nostalgic printre <a href="http://www.flickr.com/photos/janos">pozele mele de pe Flickr</a> fiindca reprezinta un soi de istorie personala, mai ales in perioada 2006 - 2009. In timpul unei asemenea sesiuni acum doua saptamani mi-a venit idea sa pornesc o campanie personala intitulata "o poza pe zi" care s-a concretizat prin promovarea zilnica a unei poze gazduite pe Flickr pe Facebook si Twitter. Am inceput cu selectii din poze mai vechi, apoi saptamana asta am plusat cu publicarea a 4 poze noi-noute.</p>

@@ -1,76 +1,14 @@
 ---
 layout: post
-status: publish
-published: true
 title: 2009 - My year in pictures
-author: János
 excerpt: ! "On one of the evenings at the start of December I got nostalgic looking
   at my Flickr photos taken this year and this idea popped in my mind: how about a
   blog post like this? Since then this post has been brewing as a draft and it turned
   out huge. So grab a pack of popcorn and here we go!\r\n\r\n"
-wordpress_id: 1002
-wordpress_url: http://www.rusiczki.net/?p=1002
-date: !binary |-
-  MjAwOS0xMi0zMSAwMToyOTo1MCArMDEwMA==
-date_gmt: !binary |-
-  MjAwOS0xMi0zMCAyMjoyOTo1MCArMDEwMA==
+date: 2009-12-31 01:29:50 +0100
 categories:
 - Life
 - Photos
-tags: []
-comments:
-- id: 6942
-  author: kit
-  author_email: 
-  author_url: http://kitblog.com
-  date: !binary |-
-    MjAxMC0wMS0wMiAyMDo0NjozNyArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMC0wMS0wMiAxNzo0NjozNyArMDEwMA==
-  content: Awesome! Thanks for sharing.
-- id: 6984
-  author: KOokOoL
-  author_email: V
-  author_url: http://www.kookool.ro
-  date: !binary |-
-    MjAxMC0wMS0wMyAyMjoyNDo0NiArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMC0wMS0wMyAxOToyNDo0NiArMDEwMA==
-  content: ! "Sweet post ! \r\n\r\nI'll try to copy your ideea for 2010 ! .... if
-    you don't mind ...."
-- id: 7012
-  author: Bogdan
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAxMC0wMS0wNCAxOTo0NzowNyArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMC0wMS0wNCAxNjo0NzowNyArMDEwMA==
-  content: ! "Nice one, dude.\r\nBe kind and explain me how do I subscribe to RSS.
-    It's nice to read some stuff you don't know about people you know."
-- id: 7014
-  author: János
-  author_email: 
-  author_url: http://rusiczki.net
-  date: !binary |-
-    MjAxMC0wMS0wNCAyMDoxMTozMiArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMC0wMS0wNCAxNzoxMTozMiArMDEwMA==
-  content: ! "@kit: Thanks for reading! :)\r\n\r\n@Vlad: Go ahead.\r\n\r\n@Bogdan:
-    Disappointingly enough I didn't do any SEO this year nor did my car got towed
-    away in Vienna. I'm sorry for this complete lack of thrill. RSS wise I'd recommend
-    <a href=\"http://reader.google.com\" rel=\"nofollow\">Google Reader</a>. Hit the
-    'Add a subscription' button in the upper left corner then paste in http://www.rusiczki.net
-    and you're all set."
-- id: 12299
-  author: freya
-  author_email: 
-  author_url: http://hjemme
-  date: !binary |-
-    MjAxMC0wNy0xNyAxNDo0MjoyOSArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMC0wNy0xNyAxMTo0MjoyOSArMDIwMA==
-  content: hvad skal jeg skive
 ---
 <p>On one of the evenings at the start of December I got nostalgic looking at my Flickr photos taken this year and this idea popped in my mind: how about a blog post like this? Since then this post has been brewing as a draft and it turned out huge. So grab a pack of popcorn and here we go!</p>
 <p><a id="more"></a><a id="more-1002"></a><a href="http://www.flickr.com/photos/janos/3183781359/" title="The base of Stiol by rev, on Flickr"><img src="http://farm4.static.flickr.com/3393/3183781359_14594ca95a.jpg" width="500" height="334" alt="The base of Stiol" /></a></p>

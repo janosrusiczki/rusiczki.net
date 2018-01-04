@@ -1,18 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: SQL Dump File Splitter
-author: János
-wordpress_id: 438
-wordpress_url: http://www.rusiczki.net/wp/?p=438
-date: !binary |-
-  MjAwNy0wMS0yNCAxNDowMjozOSArMDEwMA==
-date_gmt: !binary |-
-  MjAwNy0wMS0yNCAxMTowMjozOSArMDEwMA==
+date: 2007-01-24 14:02:39 +0100
 categories:
 - Technical
-tags: []
 ---
 Scenario: You are a conscious user and you back up your site's database every once in a while. And you sit smiling and content knowing that your precious data is safe. Just to discover after disaster strikes that you can't restore the contents of the SQL dump file because of upload size limitations or because <a href="http://www.phpmyadmin.net/">phpMyAdmin</a> would run out of memory while decompressing the gzip / zip file.
 

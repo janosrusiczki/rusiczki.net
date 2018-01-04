@@ -1,43 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: '29'
-author: János
-wordpress_id: 512
-wordpress_url: http://www.rusiczki.net/wp/?p=512
-date: !binary |-
-  MjAwOC0wNC0xNyAwODo0MTo1MSArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wNC0xNyAwNTo0MTo1MSArMDIwMA==
+date: 2008-04-17 08:41:51 +0200
 categories:
 - Life
-tags: []
-comments:
-- id: 494
-  author: pax
-  author_email: 
-  author_url: http://pax.mioritics.ro/
-  date: !binary |-
-    MjAwOC0wNC0xNyAyMTowNDo0NiArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOC0wNC0xNyAxODowNDo0NiArMDIwMA==
-  content: ! 'You''re getting old and bragging about that? :)
-
-    Happy b''day, happy karma dude.
-
-'
-- id: 495
-  author: Cosmonova
-  author_email: 
-  author_url: http://www.cosmonova.ro
-  date: !binary |-
-    MjAwOC0wNC0xOCAxMjoxMDoyOSArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOC0wNC0xOCAwOToxMDoyOSArMDIwMA==
-  content: ! 'Happy Birsday.
-
-'
 ---
 <p><a href="http://flickr.com/photos/janos/2421694914/"><img src="http://farm4.static.flickr.com/3132/2421694914_e025690f21.jpg" width="500" height="334" border="0" class="image"/></a></p>
 <p>No. This isn't entry number 29. Neither is the 29th day. Not even 29 months.</p>

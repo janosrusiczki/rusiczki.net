@@ -1,29 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Baia Sprie seen from a paraglider
-author: János
-wordpress_id: 1089
-wordpress_url: http://www.rusiczki.net/?p=1089
-date: !binary |-
-  MjAxMC0wNC0yMiAxNTowMDowOCArMDIwMA==
-date_gmt: !binary |-
-  MjAxMC0wNC0yMiAxMjowMDowOCArMDIwMA==
+date: 2010-04-22 15:00:08 +0200
 categories:
 - Life
 - Photos
-tags: []
-comments:
-- id: 28807
-  author: Me
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAxMi0wOS0wMiAxOTozMzowMCArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMi0wOS0wMiAxNjozMzowMCArMDIwMA==
-  content: Thanks for these wonderful pics :)
 ---
 <p>I think the following are the two most awesome photos of my hometown:</p>
 <p><a href="http://www.rusiczki.net/blog/blogpics/8027351.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2010/04/baia-sprie-from-paraglider-1-500x375.jpg" alt="Baia Sprie seen from a paraglider #1" title="Baia Sprie seen from a paraglider #1" width="500" height="375"/></a></p>

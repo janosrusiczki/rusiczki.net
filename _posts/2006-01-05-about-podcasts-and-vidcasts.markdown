@@ -1,61 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: About podcasts and vidcasts
-author: János
-wordpress_id: 386
-wordpress_url: http://www.rusiczki.net/wp/?p=386
-date: !binary |-
-  MjAwNi0wMS0wNSAyMTo1MToyOCArMDEwMA==
-date_gmt: !binary |-
-  MjAwNi0wMS0wNSAxODo1MToyOCArMDEwMA==
+date: 2006-01-05 21:51:28 +0100
 categories:
 - Web
-tags: []
-comments:
-- id: 284
-  author: Tina
-  author_email: 
-  author_url: http://perfectlyimperfect.blogspot.com
-  date: !binary |-
-    MjAwNi0wMS0wNiAwMDo1MDowMyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0wMS0wNSAyMTo1MDowMyArMDEwMA==
-  content: ! 'I never got hooked :) I first heard about them a year ago and I browsed
-    for Romanian podcasts. Or "from Romania". That guy''s voice bored me to death
-    and frankly, I probably never needed to waste THAT much time :))
-
-'
-- id: 285
-  author: Vlad
-  author_email: 
-  author_url: http://www.expresso.lx.ro/blog/
-  date: !binary |-
-    MjAwNi0wMS0wNiAxMTo1Mjo1OSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0wMS0wNiAwODo1Mjo1OSArMDEwMA==
-  content: ! 'I listen to podcasts, audio or video. I have a few that i''m subscribed
-    to. They are mostly about my profession: news, tips, opinions, trends. The truth
-    is that they could be a waste of time when you are at work, but I prefer listening
-    on my way to work or my way home, when it gets enjoyable. But I don''t see them
-    as a hype. Is like radio/video on demand :)
-
-'
-- id: 286
-  author: kit
-  author_email: l
-  author_url: http://homepage.mac.com/cpaul/iblog/
-  date: !binary |-
-    MjAwNi0wMS0wNiAxMjo0NDowNyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0wMS0wNiAwOTo0NDowNyArMDEwMA==
-  content: ! 'I do listen to podcasts, not very often though. I subscribed to a few
-    design podcasts [you''ll find what podcasts <a href="http://homepage.mac.com/cpaul/iblog/C1847207181/E20051227153215/index.html"
-    rel="nofollow">in this post</a>] and I sometimes listen to them while I walk to
-    my office.
-
-'
 ---
 <img src="http://www.rusiczki.net/blog/blogpics/itunes_podcasts_screenshot.gif" width="500" height="100" alt="iTunes podcasts screenshot" class="image" />
 

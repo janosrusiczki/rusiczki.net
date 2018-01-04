@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Finally, an active day ahead
-author: János
-wordpress_id: 121
-wordpress_url: http://www.rusiczki.net/wp/?p=121
-date: !binary |-
-  MjAwMy0wMy0xNCAxOTowNjozOCArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMy0xNCAxNjowNjozOCArMDEwMA==
+date: 2003-03-14 19:06:38 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Well, tomorrow looks full. At least compared to my usual daily schedule which involves sitting in front of my 'puter typing, eating, then sitting some more, eating, and then sitting in front of it until morning...<br />
 Tomorrow will be different. In the morning it looks like I'm going to see a national big air competition (snowboard) and probably fill my camera's memory with pics. The problem is that the guys I'm going with go with their skis and I'm not really sure if I want to take my board. As I'm taking my camera. We'll arrive there around 9:30 and the competition starts around 11 or 12. So what will I do one and a half hour out in the cold? Hmmm. But I'm going anyway. It's sure.<br />

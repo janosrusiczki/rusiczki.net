@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Akufen - My Way
-author: János
-wordpress_id: 327
-wordpress_url: http://www.rusiczki.net/wp/?p=327
-date: !binary |-
-  MjAwNC0xMC0xNCAwOToyNTo0MSArMDIwMA==
-date_gmt: !binary |-
-  MjAwNC0xMC0xNCAwNjoyNTo0MSArMDIwMA==
+date: 2004-10-14 09:25:41 +0200
 categories:
 - Music
-tags: []
-comments: []
 ---
 <p><a href="http://www.rusiczki.net/blog/blogpics/akufen-my_way.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/akufen-my_way.php','popup','width=300,height=300,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.rusiczki.net/blog/blogpics/akufen-my_way-thumb.jpg" width="120" height="120" border="0" alt="Akufen - My Way Cover" style="float: left; margin-right: 5px"/></a> They call it microhouse. I didn't know they did. I just thought it's forward looking house music that happens to sound extremely groovy.</p>
 <p>I first found out about Akufen last year when I read about him in somekind of a top ten and then downloaded 'Deck The House' the same night. It played for a while in my MP3 player back then and I liked the song a lot but somehow I forgot about it later. But about a month ago I put my hands on the whole album and it's a great piece of music that got stuck in my earphones for a few weeks now.</p>

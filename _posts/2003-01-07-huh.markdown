@@ -1,18 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
 title: Huh!?
-author: János
-wordpress_id: 45
-wordpress_url: http://www.rusiczki.net/wp/?p=45
-date: !binary |-
-  MjAwMy0wMS0wNyAxMzo1NTo1OSArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMS0wNyAxMDo1NTo1OSArMDEwMA==
+date: 2003-01-07 13:55:59 +0100
 categories:
 - Web
-tags: []
-comments: []
 ---
 <p>Shouldn't this be the <a href="http://www.cccw.ro" title="What the hell!?">most communist site</a> of them all? Just for the safety of it I took <a href="http://www.rusiczki.net/blog/blogpics/cccw_ro_fucked.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/cccw_ro_fucked.php','popup','width=1045,height=824,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">a screenshot</a> for my archives... ;-)</p>

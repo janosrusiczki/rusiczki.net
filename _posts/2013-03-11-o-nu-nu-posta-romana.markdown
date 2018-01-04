@@ -1,30 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: O nu, nu Poșta Română!
-author: János
-wordpress_id: 4402
-wordpress_url: http://www.rusiczki.net/?p=4402
-date: !binary |-
-  MjAxMy0wMy0xMSAxODoyMTowOCArMDEwMA==
-date_gmt: !binary |-
-  MjAxMy0wMy0xMSAxNToyMTowOCArMDEwMA==
+date: 2013-03-11 18:21:08 +0100
 categories:
 - Română
-tags: []
-comments:
-- id: 28834
-  author: Bogdan Bota
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAxMy0wMy0yOCAxNTo0NDowMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMy0wMy0yOCAxMjo0NDowMCArMDEwMA==
-  content: Posta se confrunta cu aceleași probleme, peste tot. Aici, de exemplu, nu
-    o sa mai livreze scrisori (ma rog, plicuri, ca 80% e junk) sambata. E ceva normal.
-    Timpurile se schimba, ei trebuie sa se adapteze.
 ---
 <p><a href="http://www.rusiczki.net/wp-content/uploads/2013/10/DSC_3307.jpg"><img class="alignnone size-medium wp-image-4562" alt="Cărți poștale" src="http://www.rusiczki.net/wp-content/uploads/2013/10/DSC_3307-693x358.jpg" width="693" height="358" /></a></p>
 <p>Citesc știrile din ultima vreme despre Poșta Română și rămân cu un gust amar în gură. Cuvintele cheie sunt: privatizare, închideri de oficii, angajați lăsați pe drumuri... Nimic bun. Zic că toate astea îmi lasă un gust amar fiindcă eu de multă vreme consider poșta ceva apropiat, un soi de constantă pe care puteam oricând să mă bazez. Nu știu care va fi soarta oficiului din Baia Sprie, dar sper să nu dispară.</p>

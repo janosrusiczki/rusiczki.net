@@ -1,42 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
 title: Finally!
-author: János
-wordpress_id: 422
-wordpress_url: http://www.rusiczki.net/wp/?p=422
-date: !binary |-
-  MjAwNi0xMS0wMSAxNDowNjowNSArMDEwMA==
-date_gmt: !binary |-
-  MjAwNi0xMS0wMSAxMTowNjowNSArMDEwMA==
+date: 2006-11-01 14:06:05 +0100
 categories:
 - Life
-tags: []
-comments:
-- id: 331
-  author: Vlad
-  author_email: 
-  author_url: http://bitsofreality.wordpress.com/
-  date: !binary |-
-    MjAwNi0xMS0wMSAxNDozOTo1NCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0xMS0wMSAxMTozOTo1NCArMDEwMA==
-  content: ! 'Celebration: smoking donuts? BTW, NFS:Carbon is out!
-
-'
-- id: 332
-  author: János
-  author_email: 
-  author_url: http://www.rusiczki.net/blog/
-  date: !binary |-
-    MjAwNi0xMS0wMSAxODozNTowMSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0xMS0wMSAxNTozNTowMSArMDEwMA==
-  content: ! 'My PC''s hardware is not for today''s games. I''ve been playing Carbon
-    on my PSP though until GTA: Vice City Stories came out. Now that blew my mind.
-    :)
-
-'
 ---
 <p>I succeeded. I took my driver's license today! (Insert applause here.) And it was about time considering that I started the school sometime in the second half of August. I still can't believe it's over! It looks like all that stress was worth it after all, as today I can proudly declare that I'm a fully licensed driver. And now for some celebration... :-) And take care on the streets while in Baia Mare... >:-)</p>

@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Massive Attack - 100th Window
-author: János
-wordpress_id: 144
-wordpress_url: http://www.rusiczki.net/wp/?p=144
-date: !binary |-
-  MjAwMy0wNC0wNSAyMjoyMTo0OCArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0wNC0wNSAxOToyMTo0OCArMDIwMA==
+date: 2003-04-05 22:21:48 +0200
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>After so much frustration let's talk about the music!<br />
 But I don't know what to say about this album. Because so much has been said... Countless sites published reviews. There are lots of them in magazines, forums, shopping sites... I'm not adding one to the long list.<br />

@@ -1,20 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: A landmark day
-author: János
-wordpress_id: 986
-wordpress_url: http://www.rusiczki.net/?p=986
-date: !binary |-
-  MjAwOS0xMC0yOCAxMToyNDoyOSArMDEwMA==
-date_gmt: !binary |-
-  MjAwOS0xMC0yOCAwODoyNDoyOSArMDEwMA==
+date: 2009-10-28 11:24:29 +0100
 categories:
 - Life
 - Technical
-tags: []
-comments: []
 ---
 <p>I'm talking about yesterday. I have two reasons to say it was an important day:</p>
 <p>1. Yahoo mercilessly killed Geocities with <a href="http://www.geocities.com/rusiczkij/index-old.html">my first ever website</a> on it. No way to easily backup my stuff (as in download an archive with everything) but at least I managed to grab a few screenshots (<a href="http://www.rusiczki.net/wp-content/uploads/2009/10/my-first-website-01.png">1</a>, <a href="http://www.rusiczki.net/wp-content/uploads/2009/10/my-first-website-02.png">2</a>, <a href="http://www.rusiczki.net/wp-content/uploads/2009/10/my-first-website-03.png">3</a>, <a href="http://www.rusiczki.net/wp-content/uploads/2009/10/my-first-website-04.png">4</a>, <a href="http://www.rusiczki.net/wp-content/uploads/2009/10/my-first-website-05.png">5</a> and <a href="http://www.rusiczki.net/wp-content/uploads/2009/10/my-first-website-06.png">6</a>) - too bad none of my screen grabbing software manages frames well. Unfortunately there's not much on archive.org either.</p>

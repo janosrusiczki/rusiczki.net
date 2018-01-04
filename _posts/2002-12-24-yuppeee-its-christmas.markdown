@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Yuppeee! It's Christmas!
-author: János
-wordpress_id: 15
-wordpress_url: http://www.rusiczki.net/wp/?p=15
-date: !binary |-
-  MjAwMi0xMi0yNCAyMzo0OToxMiArMDEwMA==
-date_gmt: !binary |-
-  MjAwMi0xMi0yNCAyMDo0OToxMiArMDEwMA==
+date: 2002-12-24 23:49:12 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p><a href="http://www.rusiczki.net/blog/blogpics/chrismtas_tree-final.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/chrismtas_tree-final.php','popup','width=400,height=533,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.rusiczki.net/blog/blogpics/chrismtas_tree-final-thumb.jpg" width="150" height="199" border="0" alt="Christmas Tree - Final Phase" class="postimage" /></a> Here it is! You can see about an afternoon's work on the left side. Taking photos of a Christmas tree is kind of problematic because all those shiny things reflect the camera's flash and you end up with an ugly pic. So I assure you that the actual tree is a lot more beautiful than what you can see here.<br />
 Today didn't went too well. I woke up again as a result of a phone call. Somebody looking for Mum. Well she wasn't around. So I went back to sleep. Not long after I woke up I installed Dungeon Siege, hoping that this time my hard drive will not stall as it did the last time when I tried. (I have some serious problems with my HD but I'm too lazy to burn all my MP3s and all the other stuff I have to return it...) It didn't stall. It installed. I began playing. What a wonderful game! I favour this if it comes down to compare it with Neverwinter Nights. The graphics are beautiful and it has a nicer story and you don't get lost between 1 million numbers which represent your character's abilities in Neverwinter.<br />

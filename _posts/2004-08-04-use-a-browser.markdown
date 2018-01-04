@@ -1,58 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Use a browser
-author: János
-wordpress_id: 313
-wordpress_url: http://www.rusiczki.net/wp/?p=313
-date: !binary |-
-  MjAwNC0wOC0wNCAxNToxNDoxNyArMDIwMA==
-date_gmt: !binary |-
-  MjAwNC0wOC0wNCAxMjoxNDoxNyArMDIwMA==
+date: 2004-08-04 15:14:17 +0200
 categories:
 - Technical
-tags: []
-comments:
-- id: 116
-  author: lucian
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAwNC0wOC0wOCAxNjo0Njo0MiArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNC0wOC0wOCAxMzo0Njo0MiArMDIwMA==
-  content: ! 'yeah, firefox aint too geeky, but i still take my slim chances with
-    IE :)
-
-'
-- id: 117
-  author: stefan
-  author_email: 
-  author_url: http://www.weblog.ro/even
-  date: !binary |-
-    MjAwNC0wOC0xNyAwMDowMzowNSArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNC0wOC0xNiAyMTowMzowNSArMDIwMA==
-  content: ! 'yeah, it''s cool but one thing i don''t like about it: www.supermagnet.ro
-    looks weird on firefox.
-
-'
-- id: 118
-  author: pax
-  author_email: 
-  author_url: http://www.chefdemunca.ro
-  date: !binary |-
-    MjAwNC0xMC0xNCAxMDo1MjowNyArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNC0xMC0xNCAwNzo1MjowNyArMDIwMA==
-  content: ! 'Your screenshot occupies way too much space on the desktop, but with
-    the right theme and tunning Firefox is the neatest thing.
-
-    Besides interface, take your time and choose the extensions that will suite your
-    browsing needs.
-
-'
 ---
 <p><img src="http://www.rusiczki.net/blog/blogpics/mozilla_firefox.gif" width="490" height="126" border="0" alt="Mozilla Firefox Screenshot" class="image" /><br />
 Boys and girls. If you really want to enjoy browsing again without worring about how much spyware and viruses will you get as an unwelcomed gift after a browsing session with our belowed Internet Explorer do yourself a favour and get a real browser (instead of getting antispyware and antiviruses).<br />

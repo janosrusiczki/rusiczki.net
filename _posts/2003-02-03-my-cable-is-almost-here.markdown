@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: My cable is almost here!
-author: János
-wordpress_id: 81
-wordpress_url: http://www.rusiczki.net/wp/?p=81
-date: !binary |-
-  MjAwMy0wMi0wMyAwODoxOToxMSArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMi0wMyAwNToxOToxMSArMDEwMA==
+date: 2003-02-03 08:19:11 +0100
 categories:
 - Web
-tags: []
-comments: []
 ---
 <p>[ Sun 02/02/2003 07:09 PM ] Delayed due to customs inspection // Event localization : BUCHAREST<br />
 Oh no. Not again. My digital camera got stuck at the fucking Romanian customs for a week...<br />

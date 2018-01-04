@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Hot
-author: János
-wordpress_id: 173
-wordpress_url: http://www.rusiczki.net/wp/?p=173
-date: !binary |-
-  MjAwMy0wOC0xOSAxNTowOTo0MyArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0wOC0xOSAxMjowOTo0MyArMDIwMA==
+date: 2003-08-19 15:09:43 +0200
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>It's so hot!<br />
 I can't do one thing.<br />

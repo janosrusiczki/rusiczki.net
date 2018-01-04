@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: What on Earth is this?
-author: János
-wordpress_id: 196
-wordpress_url: http://www.rusiczki.net/wp/?p=196
-date: !binary |-
-  MjAwMy0xMC0xNyAwMTowMjo0MSArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0xMC0xNiAyMjowMjo0MSArMDIwMA==
+date: 2003-10-17 01:02:41 +0200
 categories:
 - Technical
-tags: []
-comments: []
 ---
 <p>I received <a href="http://www.rusiczki.net/blog/blogstuff/what_on_earth_is_this.txt">this spam e-mail</a>.</p>
 <p>The method this scumbag used obviously tricked <a href="http://spamassassin.org/" title="Great SPAM fighting tool">Spam Assassin</a> which gave the mail only 2.5 points out of the required 4.5 that mark any of my incoming mail as spam.</p>

@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Gallery
-author: János
-wordpress_id: 97
-wordpress_url: http://www.rusiczki.net/wp/?p=97
-date: !binary |-
-  MjAwMy0wMi0xOSAwMzowMzo1NyArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMi0xOSAwMDowMzo1NyArMDEwMA==
+date: 2003-02-19 03:03:57 +0100
 categories:
 - Technical
-tags: []
-comments: []
 ---
 <p>I spent most of yesterday tweaking and trying to customize <a href="http://gallery.menalto.com/modules.php?op=modload&name=News&file=index" title="A very good gallery for your PHP site...">Gallery</a>. Which was a bit of a pain in the ass because as versatile this application is when it comes to photo manipulation on-line, customizing it is a real nightmare. A lot of stuff is hardcoded into the PHP files, no templates so you have to search for everything, no CSS usage only table wizardry (the bad kind)... After all I managed to get something nice of it. And I actually succeeded criss-crossing it with <a href="http://www.movabletype.org" title="The best WebLog management system...">Movable Type's</a> template system... I'm a real whiz kid, yeah! But I'm far from satisfied with it.<br />
 Temporary results are here (<b>UPDATE</b> Link deleted). The album slideshow section is not customized for now... And I hope I'll have the time to tweak it some more a little later.</p>

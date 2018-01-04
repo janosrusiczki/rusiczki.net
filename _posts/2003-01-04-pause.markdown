@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Pause ][
-author: János
-wordpress_id: 36
-wordpress_url: http://www.rusiczki.net/wp/?p=36
-date: !binary |-
-  MjAwMy0wMS0wNCAwMzoyODoxMiArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMS0wNCAwMDoyODoxMiArMDEwMA==
+date: 2003-01-04 03:28:12 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>I'll take a break.<br />
 No more partying for a while. Because I'm really afraid that I'm going to drown that neuron of mine. And I don't feel like it anyway. Partying, that is.<br />

@@ -1,30 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Less spam. A better life.
-author: János
-wordpress_id: 123
-wordpress_url: http://www.rusiczki.net/wp/?p=123
-date: !binary |-
-  MjAwMy0wMy0yMyAwMDozNDo0NCArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMy0yMiAyMTozNDo0NCArMDEwMA==
+date: 2003-03-23 00:34:44 +0100
 categories:
 - General
-tags: []
-comments:
-- id: 6
-  author: Adapt
-  author_email: adapt@re-plug.com
-  author_url: http://www.spinform.ro
-  date: !binary |-
-    MjAwMy0wOC0yNyAwMDowMjowNCArMDIwMA==
-  date_gmt: !binary |-
-    MjAwMy0wOC0yNiAyMTowMjowNCArMDIwMA==
-  content: ! 'hint : well outlook 2003 does that very good by default amazingly :)
-
-'
 ---
 <p>Read in a <a href="http://cygnus.unix-girl.com/blog/archives/000843.html" title="Kasia's Record is 41.9 points!!!">post by Kasia</a> about <a href="http://www.spamassassin.org/">Spam Assassin</a> which lead me to <a href="http://saproxy.bloomba.com/">SAProxy for Windows</a>, a POP3 proxy server for Windows which will tag every SPAM mail so that your mail program can filter them out easily or put them directly in the Trash folder.<br />
 This is not only a useful piece of software but it's also quite funny as it rates every mail according to the results of the spam tests it does on each mail. So you can go through all your spam and see which rates higher. Geeky. :-)<br />

@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Snowboarding trip
-author: János
-wordpress_id: 252
-wordpress_url: http://www.rusiczki.net/wp/?p=252
-date: !binary |-
-  MjAwNC0wMi0yMSAxOTozODo1OSArMDEwMA==
-date_gmt: !binary |-
-  MjAwNC0wMi0yMSAxNjozODo1OSArMDEwMA==
+date: 2004-02-21 19:38:59 +0100
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>Wow! I was out boarding today and felt like I haven't felt a long time go. Very good that is.<br />
 <center><a href="http://www.rusiczki.net/blog/blogpics/snowboard_cavnic-01-going_there.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/snowboard_cavnic-01-going_there.php','popup','width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.rusiczki.net/blog/blogpics/snowboard_cavnic-01-going_there-thumb.JPG" width="155" height="116" border="0" class="image" alt="Going there" /></a> <a href="http://www.rusiczki.net/blog/blogpics/snowboard_cavnic-02-cavnic.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/snowboard_cavnic-02-cavnic.php','popup','width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.rusiczki.net/blog/blogpics/snowboard_cavnic-02-cavnic-thumb.JPG" width="155" height="116" border="0" class="image" alt="Cavnic" /></a></center><br />

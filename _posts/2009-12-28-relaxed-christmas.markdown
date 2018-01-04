@@ -1,41 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Relaxed Christmas
-author: János
-wordpress_id: 1011
-wordpress_url: http://www.rusiczki.net/?p=1011
-date: !binary |-
-  MjAwOS0xMi0yOCAxNjoyNjoyMSArMDEwMA==
-date_gmt: !binary |-
-  MjAwOS0xMi0yOCAxMzoyNjoyMSArMDEwMA==
+date: 2009-12-28 16:26:21 +0100
 categories:
 - Life
 - Technical
 - Games
-tags: []
-comments:
-- id: 6798
-  author: evilboarder
-  author_email: 
-  author_url: http://www.flickr.com/photos/evilboarder/
-  date: !binary |-
-    MjAwOS0xMi0yOCAxNzo0MDoxOSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwOS0xMi0yOCAxNDo0MDoxOSArMDEwMA==
-  content: we've reached the old folks stage :))
-- id: 6800
-  author: KOokOoL
-  author_email: V
-  author_url: http://www.kookool.ro
-  date: !binary |-
-    MjAwOS0xMi0yOCAxODo1Mjo1MCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwOS0xMi0yOCAxNTo1Mjo1MCArMDEwMA==
-  content: ! "1.29.9 ! :D \r\n\r\nDa tre sa iti instalezi RBR 09 ! de pe http://www.rallyesim.com/
-    ! milioane de masini de la very nice Group B era pana la Citroen C4 2009 !  TOT
-    !"
 ---
 <p><a href="http://www.flickr.com/photos/ioana/4216363251/"><img src="http://www.rusiczki.net/wp-content/uploads/2009/12/hearts.jpg" alt="Christmas Hearts" width="500" height="747"/></a></p>
 <p>Because of the weather that sucked big time this was one of the most relaxed Christmases of the last few years. My activity consisted of sitting in front of the computer and playing games, visiting family and going out one night to have a drink with <a href="http://www.flickr.com/photos/evilboarder">Cristi</a>. But what really defined this Christmas was playing games on the PC.</p>

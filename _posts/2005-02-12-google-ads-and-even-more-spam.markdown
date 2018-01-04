@@ -1,32 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Google ads and even more spam
-author: János
-wordpress_id: 351
-wordpress_url: http://www.rusiczki.net/wp/?p=351
-date: !binary |-
-  MjAwNS0wMi0xMiAxMToyNDowNyArMDEwMA==
-date_gmt: !binary |-
-  MjAwNS0wMi0xMiAwODoyNDowNyArMDEwMA==
+date: 2005-02-12 11:24:07 +0100
 categories:
 - Technical
-tags: []
-comments:
-- id: 203
-  author: Gabriel Mihalache
-  author_email: 
-  author_url: http://gabriel.mihalache.name/
-  date: !binary |-
-    MjAwNS0wMy0yMCAxMzoyMzowMiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wMy0yMCAxMDoyMzowMiArMDEwMA==
-  content: ! 'There''s a nice script that uses MT-Blacklist''s blacklist to clean
-    up ShortStat. I imagine that the same can be done for any referer tracking system.
-    Interestingly, the referer spammers and comment spammers are the same sites.
-
-'
 ---
 <p>So here they are. On the individual posts page, right under the post text and above the comments. According to Google's policies I can't encourage people to click them so I'm not. ;) And yeah, I know the page flickers while loading in Firefox but I guess that's a browser problem.</p>
 <p>I decided to insert them because I seem to receive big numbers of visitors daily (over 200). Unfortunately I'm more than sure that most of these visitors (more than 50 percent) are spambots coming through various proxies. Thankfully Jay Allen's <a href="http://www.jayallen.org/projects/mt-blacklist/">MT-Blacklist</a> is doing a wonderful job, because at the time I'm writing this it blocked more than 1000 comment spams and as a plus nothing made it through to be shown on the site itself. Kudos for the great plug-in!</p>

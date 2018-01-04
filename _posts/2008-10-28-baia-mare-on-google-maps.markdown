@@ -1,32 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Baia Mare on Google Maps
-author: János
-wordpress_id: 542
-wordpress_url: http://www.rusiczki.net/wp/?p=542
-date: !binary |-
-  MjAwOC0xMC0yOCAwOTozMzozOCArMDEwMA==
-date_gmt: !binary |-
-  MjAwOC0xMC0yOCAwNjozMzozOCArMDEwMA==
+date: 2008-10-28 09:33:38 +0100
 categories:
 - Web
 - Technical
-tags: []
-comments:
-- id: 523
-  author: daniel
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAwOC0xMC0yOCAxMTo1Mzo1MCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwOC0xMC0yOCAwODo1Mzo1MCArMDEwMA==
-  content: ! 'Pretty much the same thing with Craiova on Gmaps, just that the thirds
-    are reversed :)
-
-'
 ---
 <p>Finally, I'd say.</p>
 <p><a href="http://maps.google.com/maps?f=q&hl=en&geocode=&sll=37.0625,-95.677068&sspn=49.310476,79.101563&ie=UTF8&ll=47.654808,23.568764&spn=0.039892,0.109863&t=h&z=14"><img alt="Screenshot of Google Maps with Baia Mare centered" src="http://www.rusiczki.net/blog/blogpics/google-maps-baia-mare.png" width="500" height="327" style="border:none" class="image"/></a></p>

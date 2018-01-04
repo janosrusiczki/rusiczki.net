@@ -1,29 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Sunt in Qwiki!
-author: János
-wordpress_id: 1211
-wordpress_url: http://www.rusiczki.net/?p=1211
-date: !binary |-
-  MjAxMS0wNS0wNiAxNzowNDoyMyArMDIwMA==
-date_gmt: !binary |-
-  MjAxMS0wNS0wNiAxNDowNDoyMyArMDIwMA==
+date: 2011-05-06 17:04:23 +0200
 categories:
 - Photos
 - Română
-tags: []
-comments:
-- id: 19604
-  author: Peti
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAxMS0wNS0wNyAxNzozNjoyNiArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMS0wNS0wNyAxNDozNjoyNiArMDIwMA==
-  content: I don't see any watermarks
 ---
 <p>Un scurt intro: <a href="http://www.qwiki.com">Qwiki</a> e un site si o aplicatie pentru iPad. Despre aplicatie am citit ca ar fi <a href="http://techcrunch.com/2011/05/03/qwiki-ipad-app-hits-250k-downloads-in-11-days/">foarte populara</a>. De fapt e vorba de o enciclopedie vorbitoare, adica dupa ce cauti ceva o tanti iti povesteste despre acel ceva in timp ce iti apare un slideshow cu diferite imagini care au legatura cu acel ceva. Nu pot sa nu remarc cat de frumos ma stiu exprima.</p>
 <p>Nu mica mi-a fost mirarea cand am revazut cateva poze facute de mine in timp ce <a href="http://www.facebook.com/colacristian">Cristi</a> se uita la articolul despre <a href="http://www.qwiki.com/q/#!/Maramureş_County">judetul Maramures</a>.</p>

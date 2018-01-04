@@ -1,31 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Hello world 4.1
-author: János
-wordpress_id: 491
-wordpress_url: http://www.rusiczki.net/wp/?p=491
-date: !binary |-
-  MjAwOC0wNC0wMyAxMTowMDowMiArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wNC0wMyAwODowMDowMiArMDIwMA==
+date: 2008-04-03 11:00:02 +0200
 categories:
 - Web
 - Technical
-tags: []
-comments:
-- id: 465
-  author: János
-  author_email: 
-  author_url: http://rusiczki.net/blog/
-  date: !binary |-
-    MjAwOC0wNC0wMyAxMTozMjo1NCArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOC0wNC0wMyAwODozMjo1NCArMDIwMA==
-  content: ! 'Testing comments.
-
-'
 ---
 <p>After some <a href="http://discussion.dreamhost.com/showflat.pl?Cat=&Board=3rdparty&Number=104041">adventures</a> which included almost 24 hours of my individual post pages being offline I managed to upgrade my blog's engine to Movable Type 4.1. Judging from what I saw from the admin up until now it really is great. Let's see how it works in the longer run...<br />
 <strong>Update:</strong> Some template tweaking was needed before being able to publish the entry.</p>

@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: The Bathroom Survey
-author: János
-wordpress_id: 190
-wordpress_url: http://www.rusiczki.net/wp/?p=190
-date: !binary |-
-  MjAwMy0xMC0wNCAwMjozNDoyNiArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0xMC0wMyAyMzozNDoyNiArMDIwMA==
+date: 2003-10-04 02:34:26 +0200
 categories:
 - Fun
-tags: []
-comments: []
 ---
 <p>A friend recommended me the <a title="Bathroom Habits Survey" href="http://www.bathroomsurvey.com/">Bathroom Habits Survey</a> which I had a lot of fun completing. The funniest part was reading the survey results after completing and submiting the initial form.<br />
 Some golden quotes:</p>

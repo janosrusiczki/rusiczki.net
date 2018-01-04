@@ -1,9 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 title: Pe dealurile de deasupra Plopisului
-author: János
 excerpt: ! "Sau cum am ajuns din greseala la premierea maratonului de la Preluca...\r\n\r\nDar
   inainte de a ma lansa in ditamai romanul, o scurta introducere: ma gandeam mai de
   de mult sa ma apuc sa descriu pe undeva turele noastre de bicicleta fiindca sunt
@@ -30,96 +27,10 @@ excerpt: ! "Sau cum am ajuns din greseala la premierea maratonului de la Preluca
   cu GPS-ul vor fi folositoare catorva persoane (chiar si indirect via <a href=\"http://www.openstreetmap.org\">OSM</a>).
   Iar mie, asa cum spuneam mai sus, imi va face mereu placere sa recitesc.\r\n\r\nAcestea
   fiind spuse, sa-i dam drumul! :)\r\n\r\n"
-wordpress_id: 1225
-wordpress_url: http://www.rusiczki.net/?p=1225
-date: !binary |-
-  MjAxMS0wNS0yNyAxNzo1NDoxNiArMDIwMA==
-date_gmt: !binary |-
-  MjAxMS0wNS0yNyAxNDo1NDoxNiArMDIwMA==
+date: 2011-05-27 17:54:16 +0200
 categories:
 - Photos
 - Bike
-tags: []
-comments:
-- id: 19917
-  author: Vasi V
-  author_email: 
-  author_url: http://www.wphoto.ro
-  date: !binary |-
-    MjAxMS0wNS0yNyAxODoxNjozMiArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMS0wNS0yNyAxNToxNjozMiArMDIwMA==
-  content: ! "well, primu baton pe macului! :)\r\nBuna citirea pt relaxat inainte
-    de editat poze :)"
-- id: 19948
-  author: János
-  author_email: 
-  author_url: http://www.rusiczki.net
-  date: !binary |-
-    MjAxMS0wNS0yOSAyMToxOTo1OSArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMS0wNS0yOSAxODoxOTo1OSArMDIwMA==
-  content: Trimit prin Posta Romana sau Fan Courier? :)
-- id: 19949
-  author: Andrei B
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAxMS0wNS0yOSAyMjoxMjoyNyArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMS0wNS0yOSAxOToxMjoyNyArMDIwMA==
-  content: Inca un baton... si din cate am auzit ai mai fost din nou prin zona, deci
-    daca mai scri mai citesc.
-- id: 19956
-  author: János
-  author_email: 
-  author_url: http://rusiczki.net
-  date: !binary |-
-    MjAxMS0wNS0zMCAwNzo1NjowNiArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMS0wNS0zMCAwNDo1NjowNiArMDIwMA==
-  content: Corect. Am fost in weekend-ul ce tocmai a trecut si am facut una dintre
-    cele mai faine ture ever. Vine si relatarea curand.
-- id: 21758
-  author: Manu
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAxMS0wOS0wMSAxNzowMDo1MiArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMS0wOS0wMSAxNDowMDo1MiArMDIwMA==
-  content: Si relatarea nu a mai venit ....
-- id: 21836
-  author: János
-  author_email: 
-  author_url: http://rusiczki.net
-  date: !binary |-
-    MjAxMS0wOS0wNiAxMjoxMjowNCArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMS0wOS0wNiAwOToxMjowNCArMDIwMA==
-  content: Voi face tot posibilul sa public acel articol. E scris cam 60%, mai trebuie
-    scrisa partea a doua si terminat de ilustrat, ca am facut circa 1 miliard de poze.
-    Promit ca merita asteptarea. :)
-- id: 21838
-  author: Manu
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAxMS0wOS0wNiAxMjoxNDowMyArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMS0wOS0wNiAwOToxNDowMyArMDIwMA==
-  content: ':) Eventual sa pui linkul aici in comentarii ca sa fiu la curent cu postarea
-    :)'
-- id: 23412
-  author: report Poki
-  author_email: 
-  author_url: http://www.google.com/
-  date: !binary |-
-    MjAxMS0xMS0xMyAxNzoyODozNiArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMS0xMS0xMyAxNDoyODozNiArMDEwMA==
-  content: Postarea aceasta mi-a amintit de zilele frumoase de vara si-mi garanteaza
-    iarasi ca tara asta e plina de locuri minunate. Frumoasa aventura!
 ---
 <p>Sau cum am ajuns din greseala la premierea maratonului de la Preluca...</p>
 <p>Dar inainte de a ma lansa in ditamai romanul, o scurta introducere: ma gandeam mai de de mult sa ma apuc sa descriu pe undeva turele noastre de bicicleta fiindca sunt destul de numeroase si frumoase. La urma urmei vara, daca vremea ne permite, iesim in fiecare weekend cel putin odata la pedalat. Locuri de explorat sunt. Am fost naiv cand am crezut acum vreo doi ani ca nu mai e nimic nou de vazut prin zona, mi-am dat seama ulterior ca explorasem doar o parte din nordul baii mari asa ca in a doua jumate a lui 2010 m-am pus pe descoperirea sudului, iar acum o iau incet dar sigur spre sud-est. Si cum Maramuresul e cunoscut ca o zona pitoreasca, daca iau si aparatul foto cu mine si fac cateva poze care ulterior le atasez articolului rezulta o cronica frumos ilustrata - care nu in ultimul rand imi va place mie s-o recitesc.</p>

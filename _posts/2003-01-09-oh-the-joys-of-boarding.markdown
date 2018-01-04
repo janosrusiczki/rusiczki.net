@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Oh, the joys of boarding!
-author: János
-wordpress_id: 50
-wordpress_url: http://www.rusiczki.net/wp/?p=50
-date: !binary |-
-  MjAwMy0wMS0wOSAwMjoyMjoxMCArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMS0wOCAyMzoyMjoxMCArMDEwMA==
+date: 2003-01-09 02:22:10 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Well yesterday was an interesting day. I woke up full of energy ready to work on those scripts. But the moment I opened my eyes I saw a thick layer of snow on the trees outside my window. I thought I should take a better look. I took a better look. And the moment I saw how things were looking outside, I decided:<br />
 Go boarding now or bust! So I ate quickly (checking the thermometer every 5 minutes to see that, yes, it's -4&deg;C constant) and went up to my Grandpa where I'm keeping my board / boots. Of course he wasn't home. I found him down in the town in front of the church helping to plow the snow, and he asked me to come back after about an hour. I came home. Plowed the snow myself. And then played some Tony Hawk's Pro Skater. Just to get myself in the mood. :-) Anyway I haven't written a byte of code.<br />

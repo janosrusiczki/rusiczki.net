@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Back with a new, stronger iron
-author: János
-wordpress_id: 539
-wordpress_url: http://www.rusiczki.net/wp/?p=539
-date: !binary |-
-  MjAwOC0wOS0yNiAxNzoyNzowMCArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wOS0yNiAxNDoyNzowMCArMDIwMA==
+date: 2008-09-26 17:27:00 +0200
 categories:
 - Technical
-tags: []
-comments: []
 ---
 <p>Long story short: I moved a high traffic forum to my (ex-)server and it sort of crumbled under the load. Not once but twice. After the second manual reboot request I just deactivated the forum and drew the conclusion that it was time to upgrade. I had to do it fast, because said forum is my main AdSense cash cow and it meant that any downtime meant income = 0  and I just couldn't let that happen. So the upgrade happened yesterday night.</p>
 <p>From this:</p>

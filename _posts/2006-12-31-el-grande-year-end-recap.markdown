@@ -1,20 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: El grande year end recap
-author: János
-wordpress_id: 434
-wordpress_url: http://www.rusiczki.net/wp/?p=434
-date: !binary |-
-  MjAwNi0xMi0zMSAxMDo0MzoxMCArMDEwMA==
-date_gmt: !binary |-
-  MjAwNi0xMi0zMSAwNzo0MzoxMCArMDEwMA==
+date: 2006-12-31 10:43:10 +0100
 categories:
 - Life
 - Technical
-tags: []
-comments: []
 ---
 <p>OK, so if you read this blog you might wonder what the hell happened after I posted <a href="http://www.rusiczki.net/2006/11/23/hospitals-and-surprise-travels/">that entry</a> saying that I'm going after my Mum in my first longer driving session...</p>
 <p>It was fun going there, at least the first part of it until the dark fell and I reached the road segment between Dej and Cluj which is in heavy reparation. Well, that wore me out a bit. I reached Cluj anyway and drove into the town during the crazy afternoon rush hour. Picked up my Mum and headed back. All was fine until a few kilometers before Gherla where my Dacia decided it was enough and broke down. Imagine me, having next to no experience with the car and my Mum just coming back from a heart related hospitalization looking at each other and wondering just what the FUCK happened... And what the hell should we do. Somehow we reached Gherla and due to some kind of miracle we found a service open at 9 PM. And the guy made the car work (at least 3 out of 4 pistons) for free. (Note to self: next time when in Gherla visit him with some presents.) We got home somehow, mostly in 3rd shift because the 4th was shaking the car like crazy and when it did take it (the 4th shift that is) I did my best to keep the car going at over 70 km/h driving through empty towns and villages well over the legal speed limit... A real adventure, that REALLY WASN'T NEEDED. Turns out some essential spring broke inside the engine, a truly rare defect according to most technicians I asked. Of course it had to happen to Janos.</p>

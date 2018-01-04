@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: The trustable Romanian web
-author: János
-wordpress_id: 363
-wordpress_url: http://www.rusiczki.net/wp/?p=363
-date: !binary |-
-  MjAwNS0wNi0xMyAxNjoyMDo1NSArMDIwMA==
-date_gmt: !binary |-
-  MjAwNS0wNi0xMyAxMzoyMDo1NSArMDIwMA==
+date: 2005-06-13 16:20:55 +0200
 categories:
 - Web
-tags: []
-comments: []
 ---
 <p>This morning we were rejoicing -<br />
 <img src="http://www.rusiczki.net/blog/blogpics/okazii_part_one_resize.gif" width="490" height="230" class="image" alt="okazii.ro screenshot #1" /><br />

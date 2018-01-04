@@ -1,42 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Beatport's support department sucks ass
-author: János
-wordpress_id: 433
-wordpress_url: http://www.rusiczki.net/wp/?p=433
-date: !binary |-
-  MjAwNi0xMi0yNyAxNzo0MjoyNiArMDEwMA==
-date_gmt: !binary |-
-  MjAwNi0xMi0yNyAxNDo0MjoyNiArMDEwMA==
+date: 2006-12-27 17:42:26 +0100
 categories:
 - Web
-tags: []
-comments:
-- id: 370
-  author: evil_boarder
-  author_email: 
-  author_url: http://astateofmind.pluto.ro
-  date: !binary |-
-    MjAwNi0xMi0yNyAxODozNDozMyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0xMi0yNyAxNTozNDozMyArMDEwMA==
-  content: ! 'You have been tagged
-
-'
-- id: 371
-  author: krisdeep
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAwNy0xMS0wNiAyMjozMDoyNCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNy0xMS0wNiAxOTozMDoyNCArMDEwMA==
-  content: ! 'I am having the same problem i feel you planing to switch to a different
-    wed site but  i  dont know what :(
-
-'
 ---
 <p>I sent <a href="http://www.beatport.com">them</a> an e-mail complaining that none of my debit cards are accepted for payment on December the 7th, they replied requesting some data about the card and the bank that issued it, which I quickly provided and since then nothing. It's the 27th... Talk about speedy problem resolution!<br />
 And no, there are no problems with my cards, I've been shopping with them without any problems. And in many cases right after Beatport refused my payment (I tried several times before giving up and sending the aforementioned e-mail) I went to another, more expensive, shop where I payed for my tracks with the very same card... So there were enough funds - it's just that one day they decided to stop accepting my orders - and not only mine... I think this has to do with the fact that they started billing European customers differently without any official statement whatsoever. I mean, how professional is that?<br />

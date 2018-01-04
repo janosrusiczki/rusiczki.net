@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Whoaaa!
-author: János
-wordpress_id: 69
-wordpress_url: http://www.rusiczki.net/wp/?p=69
-date: !binary |-
-  MjAwMy0wMS0yNSAwOToyMjo0NyArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMS0yNSAwNjoyMjo0NyArMDEwMA==
+date: 2003-01-25 09:22:47 +0100
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>I slept most of yesterday (I mean it still belongs to today as I'm still awake... but I'm getting confused here). Late in the afternoon / early in the evening I had a visitor of the opposite sex (quite a rare thing to happen to me) and we had a nice chat. Well, kind of. In the meantime I got some great news from my french 'partner'. He told me that he sold one site I made back in the summer and he sold it for a nice amount of money. I don't really get surprised anymore about sums of money in the web development / design business but this amount was big. Really big. For my usual standards at least. We decided to split it fifty-fifty. And it's still a lot. I have no ideea what will I do with that amount of money... It won't make me too happy that's one sure thing. But I can't say that I'm sad either. ;-)<br />
 After chatting for a while with 'the french connection' I walked my guest home. I got back to found one of my so called 'friends' waiting for me. He probably had nothing else to do and nobody else to visit so he turned to me. Or maybe he just wanted to visit me. Why do I always have to make things sooo complicated!? Heh.<br />

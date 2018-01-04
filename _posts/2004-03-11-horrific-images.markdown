@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Horrific images
-author: János
-wordpress_id: 262
-wordpress_url: http://www.rusiczki.net/wp/?p=262
-date: !binary |-
-  MjAwNC0wMy0xMSAyMzo0MToyMyArMDEwMA==
-date_gmt: !binary |-
-  MjAwNC0wMy0xMSAyMDo0MToyMyArMDEwMA==
+date: 2004-03-11 23:41:23 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>I'm watching EuroNews and the images are more than awful. I have a cousin living and working in Madrid and my aunt (his mother) called him today. He and his girlfriend are fine but he said that they have an acquintance in the hospital.<br />
 Unbelievable.</p>

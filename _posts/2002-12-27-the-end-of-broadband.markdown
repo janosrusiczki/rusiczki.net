@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: The end of broadband
-author: János
-wordpress_id: 22
-wordpress_url: http://www.rusiczki.net/wp/?p=22
-date: !binary |-
-  MjAwMi0xMi0yNyAxOTo0OTo0MiArMDEwMA==
-date_gmt: !binary |-
-  MjAwMi0xMi0yNyAxNjo0OTo0MiArMDEwMA==
+date: 2002-12-27 19:49:42 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>I'm so sad. I do not have access to broadband Internet anymore. Here's the full story:<br />
 I worked in an Internet Caf&eacute; starting with the autumn of 1998 til January 2000. This Internet Caf&eacute; belonged to <a href="http://www.ubm.ro" title="ubm.ro">my University</a>. They had (and still have) a 256 kbps ADSL connection which didn't always worked at full capacity (sometimes the connection quality was so shitty that you had to wait half an hour for Yahoo! Mail), but when it worked it worked good and I pretty much abused it as much as I could. 'Abused' here means that I was intensively using it to download MP3s and the alikes. I feel I had the right to do so since the sallary was somewhere next to nothing and I did lots of favours for them (like designing the webpage).<br />

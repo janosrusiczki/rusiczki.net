@@ -1,39 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Joaca de-a NAS-ul
-author: János
-wordpress_id: 4372
-wordpress_url: http://www.rusiczki.net/?p=4372
-date: !binary |-
-  MjAxMy0wMy0xMCAxNDoyNjo1MiArMDEwMA==
-date_gmt: !binary |-
-  MjAxMy0wMy0xMCAxMToyNjo1MiArMDEwMA==
+date: 2013-03-10 14:26:52 +0100
 categories:
 - Technical
 - Română
-tags: []
-comments:
-- id: 28818
-  author: lucian
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAxMy0wMy0xMiAwMDo0NzowMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMy0wMy0xMSAyMTo0NzowMCArMDEwMA==
-  content: bun, şi acu zi-ne şi cu norii (amazon, crashplan, etc). mulţumim :)
-- id: 28819
-  author: János
-  author_email: 
-  author_url: http://www.rusiczki.net/
-  date: !binary |-
-    MjAxMy0wMy0xMiAxMDoxOTowMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMy0wMy0xMiAwNzoxOTowMCArMDEwMA==
-  content: Le zic si despre alea curand. Se pare ca am multe chestii de recuperat
-    dupa ditai hiatusul... :-) Mersi de idee.
 ---
 <p><a href="http://www.rusiczki.net/wp-content/uploads/2013/10/20130310_113727.jpg"><img class="alignnone size-medium wp-image-4566" alt="Midnight Commander" src="http://www.rusiczki.net/wp-content/uploads/2013/10/20130310_113727-693x519.jpg" width="693" height="519" /></a></p>
 <p>Nu, nu mă scobesc în nas și nici nu e mergem de nași ci a venit timpul să-mi refac / reconfigurez NAS-ul, adică Network Attached Storage-ul. Dar să începem cu puțină istorie...</p>

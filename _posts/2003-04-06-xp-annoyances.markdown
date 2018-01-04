@@ -1,18 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
 title: XP annoyances
-author: János
-wordpress_id: 147
-wordpress_url: http://www.rusiczki.net/wp/?p=147
-date: !binary |-
-  MjAwMy0wNC0wNiAxODozMTo1NSArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0wNC0wNiAxNTozMTo1NSArMDIwMA==
+date: 2003-04-06 18:31:55 +0200
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Yes! I finally found <a href="http://is-it-true.org/nt/xp/registry/rtips9.shtml">a way</a> to disable those "damn-this-drives-me-crazy" low on diskspace popups... They were getting on my nerves badly!</p>

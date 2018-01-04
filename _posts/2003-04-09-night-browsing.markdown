@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Night browsing
-author: János
-wordpress_id: 155
-wordpress_url: http://www.rusiczki.net/wp/?p=155
-date: !binary |-
-  MjAwMy0wNC0wOSAwMzoxMTowMSArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0wNC0wOSAwMDoxMTowMSArMDIwMA==
+date: 2003-04-09 03:11:01 +0200
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Damn, I'm up very late again! And I don't know if I'll be able to go to school tomorrow or I'll just lay lazily in my bed. I guess I'll force myself somehow... Here's the link harvest:</p>
 <ul>

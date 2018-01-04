@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Fun!
-author: János
-wordpress_id: 89
-wordpress_url: http://www.rusiczki.net/wp/?p=89
-date: !binary |-
-  MjAwMy0wMi0wNyAyMDo1MjoxMiArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMi0wNyAxNzo1MjoxMiArMDEwMA==
+date: 2003-02-07 20:52:12 +0100
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>Got the package!<br />
 Ok this was quite fast actually. I was at somebody's (kind of the boss of my father) place who just bought a computer and needed a chess game installed, when my phone rang and this guy from Fan Curier told me that he's got a package for me but my street is inaccesible and his collegue will leave it at somebody. He asked me if I know that somebody. And yes I know that family quite well.<br />

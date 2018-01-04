@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Cold, exams, more memory and some books
-author: János
-wordpress_id: 231
-wordpress_url: http://www.rusiczki.net/wp/?p=231
-date: !binary |-
-  MjAwNC0wMS0yNyAxMjo0NjozNyArMDEwMA==
-date_gmt: !binary |-
-  MjAwNC0wMS0yNyAwOTo0NjozNyArMDEwMA==
+date: 2004-01-27 12:46:37 +0100
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>Well, winter stayed alright. I didn't have any time for updates lately because most of the last days I went out and snowboarded my ass off... And when I didn't went out I was "learning" for my damn exams. One of which I blew badly. And tomorrow comes the hardest one. And I don't know how I'll manage. I should learn some but... I'll try anyway.<br />
 What happened in the meantime? I reprogrammed <a href="http://www.supermagnet.ro" title="For the elite...">a site</a> but I'm not too proud of it because the current design (not mine) only works on IE. Mozilla and Safari display an incredible mess. But the pure CSS version is almost ready now and I hope the guys behind the site will agree to switch to it. I really blew my eyes off measuring in Photoshop and using Windows' built in calculator just to adjust everything at pixel level. Yayks.<br />

@@ -1,20 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Aventuri în fotografia digitală
-author: János
-wordpress_id: 1514
-wordpress_url: http://www.rusiczki.net/?p=1514
-date: !binary |-
-  MjAxMi0wNS0xNyAyMjozMTowMSArMDIwMA==
-date_gmt: !binary |-
-  MjAxMi0wNS0xNyAxOTozMTowMSArMDIwMA==
+date: 2012-05-17 22:31:01 +0200
 categories:
 - Technical
 - Photos
 - Română
-tags:
 - fotografie
 - nikon
 - canon
@@ -24,29 +15,6 @@ tags:
 - canon powershot a20
 - canon powershot a60
 - canon powershot s2 is
-comments:
-- id: 28572
-  author: lucian
-  author_email: 
-  author_url: http://blog.lucianstanescu.eu
-  date: !binary |-
-    MjAxMi0wNS0yMCAxMTo0NDo1MiArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMi0wNS0yMCAwODo0NDo1MiArMDIwMA==
-  content: ! "La mai mare, stimate domn!\r\n\r\nIar teleul ăla, schimbă-l. La cum
-    descrii situația, nu-ți aduce decât stress, și asta nu-i bine :)"
-- id: 28793
-  author: János
-  author_email: 
-  author_url: http://www.rusiczki.net/
-  date: !binary |-
-    MjAxMi0wNS0yMyAwOTo1MjowMCArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMi0wNS0yMyAwNjo1MjowMCArMDIwMA==
-  content: Deocamdata din lipsa de fonduri raman cu el - pe D700 am micro adjustments
-    si cand va voi avea o zi relaxata o sa ma apuc de tunat. Acuma ochesc un 24 -
-    70 / 2.8 delicios, insa habar nu am de unde sa scot banetul necesar. Ar trebui
-    sa ma bag in ceva gigs care sa aduca niste cashalot.
 ---
 <p>Totul a început în 2002 când din primii bani caștigati ca "freelancer" mi-am luat un Canon PowerShot A20. Era să fie un Kodak EasyShare dar m-am razgândit după ce am adăgat o postare pe <a href="http://forum.computergames.ro/">forumul Computergames</a> în care mi-am prezentat alegerea și am primit o contra-recomandare foarte călduroasă pentru Canon. În perspectivă o alegere foarte inspirată, dar cine ar fi crezut pe atunci că în 10 ani Kodak va da faliment... L-am rugat pe clientul meu francez să mi-l cumpere de acolo, mi l-a trimis prin curier, am plătit vamă, ce mai, a fost o adevărată aventură pentru acele vremuri. Atât de trigger happy cum am fost în perioada imediat următoare nu cred că voi mai fi niciodată. Oricum lumea mea nu era foarte larga pe atunci: excursii cu prietenii pe munte, războaie tuberman, snowboard pe dealul din apropierea casei, ieșiri la chefuri în Baia Mare, Timișoara, București... Fun fact of the day: această camera i-a fost împrumutată lui <a href="http://www.wphoto.ro/">Vasi Văsuț</a> pentru a-și imortaliza vacanța estivală. Moment traumatizant: la un moment dat mi-am pus aparatul în buzunarul de la piept a unei cămăși, am sărit în sus dintr-o prostie, aparatul a luat viteză și a aterizat pe beton. Au rămas niște urme pe carcasa dar nici vorbă de probleme la capitolul funcționare. Nu am mai trecut printr-o experiență asemănătoare, dar tind sa cred că pe vremea aia se făceau aparate!</p>
 <p>Apoi după ce am devenit ușor obsedat de okazii.ro <a href="http://www.rusiczki.net/2004/01/30/digital-camera-upgrade/">am făcut upgrade</a> în 2004 la un Canon PowerShot A60. Nu a fost un pas foarte mare dar aparatul ăsta știa deja filma, și chiar am câteva filmări din acea perioadă care au ajuns de-a dreptul celebre în cercul de prieteni.</p>

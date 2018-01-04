@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: The X day
-author: János
-wordpress_id: 263
-wordpress_url: http://www.rusiczki.net/wp/?p=263
-date: !binary |-
-  MjAwNC0wMy0xMyAwMTo1Mzo1OSArMDEwMA==
-date_gmt: !binary |-
-  MjAwNC0wMy0xMiAyMjo1Mzo1OSArMDEwMA==
+date: 2004-03-13 01:53:59 +0100
 categories:
 - Movies
-tags: []
-comments: []
 ---
 <p><img src="http://www.rusiczki.net/blog/blogpics/xmen_az_xcsomag.jpg" width="150" height="149" border="0" alt="X-Men - Az X csomag" class="postimage" /> I put my paws on a box set featuring both <a href="http://www.imdb.com/title/tt0120903/">X-Men</a> and <a href="http://www.imdb.com/title/tt0290334/">X-Men 2</a> (aka X2) and I sat down today (that's yestarday in blog time) intending to watch them. And it took some time because two movies equals two discs with the motion pictures themselves plus two discs containing the extras for each of them. The movies are pretty good (especially in their league) but the extra disc for X2 really blew me away with it's impressive amount of 4 hours of related material beside the two audio commentaries on the movie disc itself. From the birth of the movie to the post production including in depth coverage of the special effects, costumes, music, concept art galleries, trailers and many many more... Some serious candy for the movie fan in me! It took some time but I checked it all out.<br />
 As I said the movies themselves weren't bad either the sequel being the better one of the two in my opionion. Of course that seeing all those extras elevate the movies in my eyes because there's obviously a tremendous amount of work packed into them.<br />

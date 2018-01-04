@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Catching up on weird events
-author: János
-wordpress_id: 27
-wordpress_url: http://www.rusiczki.net/wp/?p=27
-date: !binary |-
-  MjAwMi0xMi0zMCAwMjoxNjowNiArMDEwMA==
-date_gmt: !binary |-
-  MjAwMi0xMi0yOSAyMzoxNjowNiArMDEwMA==
+date: 2002-12-30 02:16:06 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>End of the year. Having nothing else to do it's time to sum up the weirdest events. I found one that I really wouldn't like to happen to me:</p>
 <blockquote><p><i>JERUSALEM</i> - An Israeli businessman suffered a heart attack when he summoned a call-girl for company to his hotel room and opened the door to find his daughter standing there. But worse was to follow for once the 48-year-old was out of hospital and back home, he confessed the traumatic experience to his wife, who, while promising to get their daughter back on the straight and narrow, promptly demanded a divorce from her errant husband. </p></blockquote>

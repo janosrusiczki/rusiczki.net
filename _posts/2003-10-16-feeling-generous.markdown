@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Feeling generous?
-author: János
-wordpress_id: 194
-wordpress_url: http://www.rusiczki.net/wp/?p=194
-date: !binary |-
-  MjAwMy0xMC0xNiAyMzoyNToxNiArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0xMC0xNiAyMDoyNToxNiArMDIwMA==
+date: 2003-10-16 23:25:16 +0200
 categories:
 - Fun
-tags: []
-comments: []
 ---
 <p>I found a funny phrase on the <a title="mIRC Online Registration" href="https://www.regsoft.net/regsoft/order.php3?productid=36841">mIRC online registration page</a>. It says:</p>
 <blockquote><p>mIRC costs US$20.00. You can, however, choose a different amount below based on what you can afford, if you wish.</p></blockquote>

@@ -1,32 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Orange doesn't want to sell
-author: János
-wordpress_id: 380
-wordpress_url: http://www.rusiczki.net/wp/?p=380
-date: !binary |-
-  MjAwNS0xMS0yMyAwOTo0MjowNiArMDEwMA==
-date_gmt: !binary |-
-  MjAwNS0xMS0yMyAwNjo0MjowNiArMDEwMA==
+date: 2005-11-23 09:42:06 +0100
 categories:
 - Life
-tags: []
-comments:
-- id: 277
-  author: Vlad
-  author_email: 
-  author_url: http://www.expresso.lx.ro/blog/
-  date: !binary |-
-    MjAwNS0xMS0yMyAxNDoyNTozNyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMS0yMyAxMToyNTozNyArMDEwMA==
-  content: ! 'Yeah! Same thing happened to me at Best Computers when I wanted to check
-    the Mac mini. The guy didn''t even knew the price of the damn thing. He mumbled:
-    "yeah, i think it''s about mmmm...500 bucks" :) Strange places and strange people.
-
-'
 ---
 <p><img src="http://www.rusiczki.net/blog/blogpics/nokia_6030.jpg" width="111" height="200" alt="Nokia 6030" class="postimage" /> Yesterday morning after paying my electricity and gas bills I headed to the Orange shop because I intend to get my mother a new phone for Christmas. I was thinking about the Nokia 6030 (pictured here) because it's a relatively small phone, it's moderatly priced, it has a color screen, polyphonic ringtones, etc. In one word: it's sweet. Plus I did some some reading on the web, and as all the reviews ended in a positive tone I got pretty well decided, that yes this is the phone I want to buy. I just needed a bit of hands on experience.<br />
 Back to my story. I get to the official Orange shop a bit before 9 AM and there were two sleepy ladies (girls) around who were wearing badges stating "phone expert". So I patiently wait for my turn and ask one of them if I could see and try the aformentioned phone. Intending to buy it of course. She mumbles something in her sleep, I politely ask her to repeat and she says that unfortunately the Nokia 6030 is not a test phone, but what do I want to see on it anyway? I say well, I would like the test the brightness of the display, see the responsiveness of the keys, the menu, etc. She responded something about the screen having 64k colours but I didn't hear it all, because I thanked her and left the shop. Like yeah, gee thanks, I can check pure tech specs on the sheet shown right next to the phone in their presentation stands protected by bulletproof windows (I'm exaggerating here) and on thousands of websites around the web.<br />

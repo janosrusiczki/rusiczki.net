@@ -1,20 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Three useful pieces of software
-author: János
-wordpress_id: 555
-wordpress_url: http://www.rusiczki.net/wp/?p=555
-date: !binary |-
-  MjAwOS0wNC0wOCAwOTowMDo0OCArMDIwMA==
-date_gmt: !binary |-
-  MjAwOS0wNC0wOCAwNjowMDo0OCArMDIwMA==
+date: 2009-04-08 09:00:48 +0200
 categories:
 - Technical
 - Windows
-tags: []
-comments: []
 ---
 <p>So now that <a href="http://www.rusiczki.net/2009/04/07/macheist-3/">MacHeist 3</a> is almost over and I filled up on Mac software, it's time to write a few words about Windows software I use because I'm forced to use by having a Windows PC at work...</p>
 <p>First up is <a href="http://www.stardock.com/products/fences/">Fences</a>. It's almost a know fact that I'm a disaster when it comes to keeping my desktop tidy. It's usually a mess of icons taking up at least half if not three thirds of the real estate. So a work collegue recommended me Fences (no, wait, he didn't actually recommend it, he said INSTALL IT!) and indeed it did miracles. Basically it neatly organizes the icons on your desktop in "zones" aptly named Quicklinks, Recent things, Files and documents, Programs, etc. You can of course rename and reorganize these zones as you wish but it'll mostly suffice to run the auto layout tool once a week or so to keep things under control. A nice feature is that when you double click a free area of your desktop it hides all icons (except those you specified not to) so you can eyeball your awesome wallpaper or (in my case) the solid black background.</p>

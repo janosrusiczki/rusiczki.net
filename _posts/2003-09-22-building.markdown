@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Building
-author: János
-wordpress_id: 180
-wordpress_url: http://www.rusiczki.net/wp/?p=180
-date: !binary |-
-  MjAwMy0wOS0yMiAyMjozMzo0MSArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0wOS0yMiAxOTozMzo0MSArMDIwMA==
+date: 2003-09-22 22:33:41 +0200
 categories:
 - Web
-tags: []
-comments: []
 ---
 <p>I mentioned yesterday that I'm working on the Movable Type templates and the rest of the site. Fact is I want to make as much of the site as I can manageable with MT. It's such a nice tool and it's so handy sometimes that you don't have to fire up your good old FTP program each time you want to modify a character on your site...<br />
 Looking around a bit on the almighty Internet I found a very good article, <a href="http://a.wholelottanothing.org/features.blah/entry/007162">Beyond the Blog - Powering an entire site with Movable Type</a>, on Matthew Haughey's <a href="http://a.wholelottanothing.org/">site</a>. He had links at the bottom of the article to some other writings on the same matter: <a href="http://www.bradchoate.com/past/001656.php">Brad Choate's Doing your whole site with MT</a> and <a href="http://www.stopdesign.com/log/2003/07/16/rebuilding_a_portfolio.htm">Doug Bowman's Rebuilding a Portfolio (with MT)</a>. I'll also take a closer look at the <a href="http://www.bradchoate.com/past/001653.php">Textile 2 Plugin</a>.<br />

@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Back from birthday madness!
-author: János
-wordpress_id: 165
-wordpress_url: http://www.rusiczki.net/wp/?p=165
-date: !binary |-
-  MjAwMy0wNC0yNCAwMTowMjo1NyArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0wNC0yMyAyMjowMjo1NyArMDIwMA==
+date: 2003-04-24 01:02:57 +0200
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>I'm back. Phew! What a weekend last weekend was!<br />
 I spent most of the second half of the week preparing my birthday. I wanted it to be a real blast. Which it was. Well, mostly. I bought the booze as early as Friday. And then Saturday I spent 3 hours buying 2 tortillas, 3 pizzas and 4 litres of Pepsi plus one litre of apple juice. Came home. Spent two hours reorganizing my room. Then I put myself into 'wait mode'. For my guests. Who showed up. Some gave me cute presents. But most gave me alcohol. What the Hell? Hmmm. We ate. Sat. Listened to music. Drank some. And then we were off. To celebrate. Hehe.<br />

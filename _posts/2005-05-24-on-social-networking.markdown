@@ -1,38 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: On social networking
-author: János
-wordpress_id: 362
-wordpress_url: http://www.rusiczki.net/wp/?p=362
-date: !binary |-
-  MjAwNS0wNS0yNCAwOToxMjowNyArMDIwMA==
-date_gmt: !binary |-
-  MjAwNS0wNS0yNCAwNjoxMjowNyArMDIwMA==
+date: 2005-05-24 09:12:07 +0200
 categories:
 - Web
-tags: []
-comments:
-- id: 233
-  author: Vlad
-  author_email: 
-  author_url: http://www.expresso.lx.ro/blog/
-  date: !binary |-
-    MjAwNS0wNS0yNSAxNzo0NTo0NiArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNS0wNS0yNSAxNDo0NTo0NiArMDIwMA==
-  content: ! 'I never heard about these kind of social cyber-interactions until now.
-    The truth is that it seems more difficult to maintain a true personal relationship
-    these days, spending 90% of your time working. For instance, there are three months
-    since an ex-colleague and I are trying to meet for a chat but never succed to
-    synchronize our schedule. And this is not singular. I think these sites create
-    just an  appearance of a relationship, in fact the people involved in it are not
-    capable to invest the time necessary for building that relationship. That''s why
-    they chose this networking method in the first place: they have no time to spare
-    (or they don''t want to spare it this way).
-
-'
 ---
 <p><a href="http://www.kitblog.com">Kit</a> asked in his <a href="http://homepage.mac.com/cpaul/iblog/C1156848003/E137499451/index.html">latest entry</a> about his reader's opinions regarding social networking and I thought the subject was worth a post in my own blog. So here are my purely technical 2 cents. Wait! Wasn't this entry about <i>social</i> (you know... people) networking? Never mind.<br />
 I use 3 social services mainly for fun and to please the geek in me. These are: <a href="http://del.icio.us/">del.icio.us</a>, <a href="http://www.audioscrobbler.com/">Audioscrobbler</a> and <a href="http://www.flickr.com">Flickr</a>. Heavily using the bookmark manager (even integrated it with my site), passively but continuously using the music profiler thingie and less the photo service, but less here means that I don't post to it. I browse it extensively and this is where the social networking part comes in: I use tags to discover stuff that i'm interested in: <a href="http://www.flickr.com/photos/tags/snowboard/">snowboard</a>, <a href="http://www.flickr.com/photos/tags/cat/">cats</a>, <a href="http://www.flickr.com/photos/tags/etc/">etc</a> and leave comments if I see something that I like. del.icio.us is even cooler: after posting a bookmark there's a chance you'll see "and X other people" and clicking the link shows the list of X people who bookmarked the same thing and might or might not have the same interests as you do, and you can browse their bookmarks. You can also do the old fashioned tag browsing as with Flickr or you can dig into the <a href="http://del.icio.us/popular/">popular links section</a> to see all that's cool and trendy on the Net, and slap your IM friends with an "oooh, that's so old" reply when they send you a certain link a day or a few hours later. :) I'm not really into Audioscrobbler because it's really shaky, I mean it's got looong downtimes where nearly nothing of interest works on the site. I guess they have serious problems scaling with their ever growing user base.<br />

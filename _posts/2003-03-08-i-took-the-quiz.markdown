@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: I took the quiz
-author: János
-wordpress_id: 113
-wordpress_url: http://www.rusiczki.net/wp/?p=113
-date: !binary |-
-  MjAwMy0wMy0wOCAwMTo0NjoxMiArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMy0wNyAyMjo0NjoxMiArMDEwMA==
+date: 2003-03-08 01:46:12 +0100
 categories:
 - Technical
-tags: []
-comments: []
 ---
 <p><a href="http://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML">W3Schools HTML Quiz</a></p>
 <blockquote><p><b>Result:</b><br />

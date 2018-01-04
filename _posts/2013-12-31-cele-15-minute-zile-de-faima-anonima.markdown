@@ -1,30 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Cele 15 minute (zile) de faimă (anonimă)
-author: János
-wordpress_id: 4736
-wordpress_url: http://www.rusiczki.net/?p=4736
-date: !binary |-
-  MjAxMy0xMi0zMSAyMToyNjoxMyArMDEwMA==
-date_gmt: !binary |-
-  MjAxMy0xMi0zMSAxODoyNjoxMyArMDEwMA==
+date: 2013-12-31 21:26:13 +0100
 categories:
 - Photos
 - Română
-tags: []
-comments:
-- id: 28873
-  author: Andrei Albu
-  author_email: 
-  author_url: http://andreialbu.com/
-  date: !binary |-
-    MjAxNC0wMS0wMSAxNjo1OTowMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAxNC0wMS0wMSAxMzo1OTowMCArMDEwMA==
-  content: Ziceai de mine că-mi vînd sufletul corporatiștilor. Tot mai bine așa decît
-    politicienilor :D
 ---
 <p>Vă invit să găsiți 10 asemănări între pozele de mai jos:</p>
 <p><a href="http://www.flickr.com/photos/janos/4202691041/"><img src="http://www.rusiczki.net/wp-content/uploads/2013/12/4202691041_c0176a08aa_o-693x463.jpg" alt="Crăciun în Maramureș" width="693" height="463" class="alignnone size-medium wp-image-4737" /></a></p>

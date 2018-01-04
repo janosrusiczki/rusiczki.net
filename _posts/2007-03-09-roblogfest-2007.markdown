@@ -1,29 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
 title: roblogfest 2007
-author: János
-wordpress_id: 454
-wordpress_url: http://www.rusiczki.net/wp/?p=454
-date: !binary |-
-  MjAwNy0wMy0wOSAxNDozNDo0MiArMDEwMA==
-date_gmt: !binary |-
-  MjAwNy0wMy0wOSAxMTozNDo0MiArMDEwMA==
+date: 2007-03-09 14:34:42 +0100
 categories:
 - Uncategorized
-tags: []
-comments:
-- id: 416
-  author: Cata
-  author_email: 
-  author_url: http://grebla.blogspot.com
-  date: !binary |-
-    MjAwNy0wMy0wOSAxNzowODoyNiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNy0wMy0wOSAxNDowODoyNiArMDEwMA==
-  content: ! 'You''re welcome. :)
-
-'
 ---
 <p>In a nutshell: I shamelessly nominated myself for two categories, didn't vote for self, actually didn't vote at all, came in 60th for the most informative blog with one negligible vote and 26th for the best designed blog with 7 votes. Those 7 votes were a real surprise and I would like to thank everyone who clicked for me. However, most of the credit for this blog's design goes to <a href="http://www.adnan.ro">Mr. Adnan</a> for the priceless advice and color picking back in 2003 I think... Thanks again!</p>

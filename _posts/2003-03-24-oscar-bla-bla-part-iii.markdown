@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Oscar Bla Bla - Part III
-author: János
-wordpress_id: 128
-wordpress_url: http://www.rusiczki.net/wp/?p=128
-date: !binary |-
-  MjAwMy0wMy0yNCAwNjowMzoxMSArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMy0yNCAwMzowMzoxMSArMDEwMA==
+date: 2003-03-24 06:03:11 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Woaaa!!! Now this was an antiwar speech! It gave me the shivers!!! But somehow I knew this would happen. It was a great speech. He's got some guts.<br />
 And of course that Steve Martin made a joke about it.<br />

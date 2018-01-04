@@ -1,46 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Quoted!
-author: János
-wordpress_id: 541
-wordpress_url: http://www.rusiczki.net/wp/?p=541
-date: !binary |-
-  MjAwOC0xMC0yOCAwOTowMToxNCArMDEwMA==
-date_gmt: !binary |-
-  MjAwOC0xMC0yOCAwNjowMToxNCArMDEwMA==
+date: 2008-10-28 09:01:14 +0100
 categories:
 - Web
 - Technical
-tags: []
-comments:
-- id: 521
-  author: Vlad
-  author_email: 
-  author_url: http://vlad.bailescu.ro/
-  date: !binary |-
-    MjAwOC0xMC0yOCAxMToyMzo0NiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwOC0xMC0yOCAwODoyMzo0NiArMDEwMA==
-  content: ! 'Google dixit: <a href="http://digg.com/software/A_real_on_line_photoshop_express_contender?t=17921329#c17921329"
-    rel="nofollow"><a href="http://digg.com/software/A_real_on_line_photoshop_express_contender?t=17921329#c17921329"
-    rel="nofollow">http://digg.com/software/A_real_on_line_photoshop_express_contender?t=17921329#c17921329</a></a>
-
-'
-- id: 522
-  author: János
-  author_email: 
-  author_url: http://www.rusiczki.net/blog/
-  date: !binary |-
-    MjAwOC0xMC0yOCAxMTo0Nzo1NiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwOC0xMC0yOCAwODo0Nzo1NiArMDEwMA==
-  content: ! 'Internetz, better enjoyed with friends.
-
-    Thanks! :)
-
-'
 ---
 <p>Wow, I'm such a web celebrity! Look, I'm quoted on the main page of <a href="http://www.pixlr.com">Pixlr</a>:</p>
 <p><img alt="Screenshot of my quote on Pixlr" src="http://www.rusiczki.net/blog/blogpics/pixlr-screenshot-quoted.png" width="500" height="66" class="image"/></p>

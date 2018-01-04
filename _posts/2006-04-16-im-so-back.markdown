@@ -1,51 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: I'm so back!
-author: János
-wordpress_id: 392
-wordpress_url: http://www.rusiczki.net/wp/?p=392
-date: !binary |-
-  MjAwNi0wNC0xNiAyMTo0NDoyNyArMDIwMA==
-date_gmt: !binary |-
-  MjAwNi0wNC0xNiAxODo0NDoyNyArMDIwMA==
+date: 2006-04-16 21:44:27 +0200
 categories:
 - General
-tags: []
-comments:
-- id: 299
-  author: Gabriel Radic
-  author_email: 
-  author_url: http://www.timbru.com
-  date: !binary |-
-    MjAwNi0wNC0yMSAwMDozOTowNyArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNi0wNC0yMCAyMTozOTowNyArMDIwMA==
-  content: ! 'Damn... trebuie să instalez linkul ăla pentru afilierea Dreamhost.
-
-'
-- id: 300
-  author: Alex
-  author_email: 
-  author_url: http://alexbrie.net
-  date: !binary |-
-    MjAwNi0wNC0yMiAxMTozMjoyOCArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNi0wNC0yMiAwODozMjoyOCArMDIwMA==
-  content: ! 'Ei, Gabriel, don''t worry too much, nu e ca si cum din afilierea Dreamhost
-    as castiga cine stie ce...; dar cat de cat ajuta cand vine factura mai mica la
-    hosting...
-
-    Cel mai mult ma bucur ca am reusit sa mai ajut ceva oameni sa plateasca m putin,
-    precum Janos, sau Ovidiu Scarlat, si pe cine altcineva mai doreste... :D
-
-    PS. In loc de referral link, iti recomand sa o pui de un cod promotional, e mai
-    simplu de utilizat si mai avantajos pentru noii dreamhosteri :D
-
-    Janos, mult succes cu dreamhost, iti urez sa fii cat mai multumit cu dumnealui!
-
-'
 ---
 <p>Thought you got rid of me? You were so wrong! :-)</p>
 <p>The story goes like this: I got myself a hosting at <a href="http://www.totalchoicehosting.com">Total Choice</a> a while ago right when I bought rusiczki.net. If I give it a thought and with a little help from <a href="http://www.ajaxwhois.com">AjaxWhois</a> that was more than 2 years ago. I opted for a monthly payment plan because it was convenient for me and back then my personal site wasn't that important and I thought, hey, what the heck, if I get bored I could just stop paying and they'll kick me out.</p>

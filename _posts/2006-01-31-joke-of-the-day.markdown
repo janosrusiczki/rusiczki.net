@@ -1,18 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Joke of the day
-author: János
-wordpress_id: 390
-wordpress_url: http://www.rusiczki.net/wp/?p=390
-date: !binary |-
-  MjAwNi0wMS0zMSAxMjo1ODozNCArMDEwMA==
-date_gmt: !binary |-
-  MjAwNi0wMS0zMSAwOTo1ODozNCArMDEwMA==
+date: 2006-01-31 12:58:34 +0100
 categories:
 - Fun
-tags: []
 ---
 "A statistician, who refused to fly after reading of the alarmingly high probability that there will be a bomb on any given plane, realized that the probability of there being two bombs on any given flight is very low. Now, whenever he flies, he carries a bomb with him."
 

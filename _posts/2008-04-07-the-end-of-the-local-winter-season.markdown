@@ -1,20 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: The end of the local winter season
-author: János
-wordpress_id: 504
-wordpress_url: http://www.rusiczki.net/wp/?p=504
-date: !binary |-
-  MjAwOC0wNC0wNyAwOTo0MDoxOCArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wNC0wNyAwNjo0MDoxOCArMDIwMA==
+date: 2008-04-07 09:40:18 +0200
 categories:
 - Life
 - Snowboard
-tags: []
-comments: []
 ---
 <p>Webcam image of the the base of the Roata slopes at Cavnic captured a few minutes ago:<br />
 <img src="http://www.rusiczki.net/blog/blogpics/webcam-roata-cavnic-2008-04-07.png" width="500" height="362" class="image" alt="Webcam image of Roata slope at Cavnic (2008-04-07)"/><br />

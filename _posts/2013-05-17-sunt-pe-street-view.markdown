@@ -1,20 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Sunt pe Street View!
-author: János
-wordpress_id: 4464
-wordpress_url: http://www.rusiczki.net/?p=4464
-date: !binary |-
-  MjAxMy0wNS0xNyAxNDo1MjoyMyArMDIwMA==
-date_gmt: !binary |-
-  MjAxMy0wNS0xNyAxMTo1MjoyMyArMDIwMA==
+date: 2013-05-17 14:52:23 +0200
 categories:
 - Technical
 - Photos
-tags: []
-comments: []
 ---
 <p><a href="http://www.rusiczki.net/wp-content/uploads/2013/04/GoogleStreetView.png"><img src="http://www.rusiczki.net/wp-content/uploads/2013/04/GoogleStreetView-693x391.png" alt="GoogleStreetView" width="693" height="391" class="alignnone size-medium wp-image-4465" /></a></p>
 <p>Bănuiesc că pentru câțiva ani va fi valabil și <a href="http://goo.gl/maps/AphZx">acest link</a>, cel puțin până revine mașina minune prin zona noastră și trage poze noi.</p>

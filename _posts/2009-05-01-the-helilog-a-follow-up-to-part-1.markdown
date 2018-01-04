@@ -1,26 +1,16 @@
 ---
 layout: post
-status: publish
-published: true
 title: The Helilog - A follow-up to part 1
-author: János
-wordpress_id: 922
-wordpress_url: http://www.rusiczki.net/?p=922
-date: !binary |-
-  MjAwOS0wNS0wMSAwOToxNjo0MiArMDIwMA==
-date_gmt: !binary |-
-  MjAwOS0wNS0wMSAwNjoxNjo0MiArMDIwMA==
+date: 2009-05-01 09:16:42 +0200
 categories:
 - Helicopter
 - RC
-tags:
 - rc helicopter
 - RC
 - Helicopter
 - align t-rex 450se v2
 - align trex
 - align trex 450se v2
-comments: []
 ---
 <p>Because I can't really call it part 2.</p>
 <p>Yesterday I went to the field <a href="http://www.rusiczki.net/2009/04/30/the-helilog-part-1/">as planned</a> although during the day we've had sort of a storm... However, it was calm when it was time to go home so I stopped at the flying field. And this time I announced everyone I know from the Baia Mare RC gang right from the morning so I wouldn't be alone.</p>

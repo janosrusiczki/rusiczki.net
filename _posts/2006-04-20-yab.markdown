@@ -1,42 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: YAB
-author: János
-wordpress_id: 395
-wordpress_url: http://www.rusiczki.net/wp/?p=395
-date: !binary |-
-  MjAwNi0wNC0yMCAxMTo0MzoxMiArMDIwMA==
-date_gmt: !binary |-
-  MjAwNi0wNC0yMCAwODo0MzoxMiArMDIwMA==
+date: 2006-04-20 11:43:12 +0200
 categories:
 - Life
-tags: []
-comments:
-- id: 301
-  author: Tina
-  author_email: 
-  author_url: http://perfectlyimperfect.blogspot.com
-  date: !binary |-
-    MjAwNi0wNC0yMCAyMTo1Njo1MyArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNi0wNC0yMCAxODo1Njo1MyArMDIwMA==
-  content: ! 'If it wasn''t for the glitch in commenting, I wouldn''t be the first
-    to tell you Happy Birthday... :)
-
-'
-- id: 302
-  author: ioana
-  author_email: 
-  author_url: http://snowboard.colonies.com/members/ioana
-  date: !binary |-
-    MjAwNi0wNC0yMiAxOTowMTo0NiArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNi0wNC0yMiAxNjowMTo0NiArMDIwMA==
-  content: ! 'thanks for the free advertising :-)
-
-'
 ---
 <p>As in Yet Another Birthday. It came and went as it always does and here I am one year older. If it's the number you're curious about, check out the <a href="http://www.rusiczki.net/about/">about page</a> (at least my site will get some traffic you RSS freaks).<br />
 Actually the birthday itself was divided in two because Monday the 17th, the day itself, was Easter Monday - a holiday for me and so at the company I was celebrated on Friday. Oh, and this year I interrupted a kind of tradition as there was no miniparty (with pizza and drinks for everybody) at my place. I blame my budget. Which is on low side for the moment...<br />

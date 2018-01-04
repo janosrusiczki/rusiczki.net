@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: The weather as it should be
-author: János
-wordpress_id: 442
-wordpress_url: http://www.rusiczki.net/wp/?p=442
-date: !binary |-
-  MjAwNy0wMS0yNiAxNzo0Njo0NCArMDEwMA==
-date_gmt: !binary |-
-  MjAwNy0wMS0yNiAxNDo0Njo0NCArMDEwMA==
+date: 2007-01-26 17:46:44 +0100
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p><img src="http://www.rusiczki.net/blog/blogpics/weather-baia-mare-20070126.gif" width="500" height="195" alt="weather-baia-mare-20070126.gif" alt="Screenshot of the weather forecast for Baia Mare" class="image" /><br />
 At least as it should be around this time of the year.<br />

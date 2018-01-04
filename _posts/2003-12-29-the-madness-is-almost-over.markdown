@@ -1,30 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: The madness is almost over
-author: János
-wordpress_id: 217
-wordpress_url: http://www.rusiczki.net/wp/?p=217
-date: !binary |-
-  MjAwMy0xMi0yOSAwMzoyNToyNiArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0xMi0yOSAwMDoyNToyNiArMDEwMA==
+date: 2003-12-29 03:25:26 +0100
 categories:
 - Life
-tags: []
-comments:
-- id: 36
-  author: marin
-  author_email: 
-  author_url: http://www.rola.ro/
-  date: !binary |-
-    MjAwNC0wMS0wMiAxMjo0MDozMiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNC0wMS0wMiAwOTo0MDozMiArMDEwMA==
-  content: ! 'cheesy letters :)
-
-'
 ---
 <p>Christmas. As it came so it went. Fast.<br />
 I made the tree (I consider this one of the most pleasant jobs I have to do yearly). I gave presents. I received presents. Generally it felt wonderful. Not as on any of the last Christmases, when I was usually really depressed. Well, this is only one of the many advantages of having a girlfriend. ;-)<br />

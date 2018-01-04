@@ -1,31 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Micile bucurii ale vietii
-author: János
-wordpress_id: 1187
-wordpress_url: http://www.rusiczki.net/?p=1187
-date: !binary |-
-  MjAxMS0wMy0yMSAxODoxNToyNCArMDEwMA==
-date_gmt: !binary |-
-  MjAxMS0wMy0yMSAxNToxNToyNCArMDEwMA==
+date: 2011-03-21 18:15:24 +0100
 categories:
 - Photos
 - Snowboard
 - Română
-tags: []
-comments:
-- id: 18146
-  author: Whiteman
-  author_email: 
-  author_url: http://www.andreialbu.com
-  date: !binary |-
-    MjAxMS0wMy0yMiAxMjowNToxNSArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMS0wMy0yMiAwOTowNToxNSArMDEwMA==
-  content: Bravo fecior! Sa-ti creasca blogul si rating-ul de fotograf oficial. Sa
-    ne mai bucuri cu poze faine :)
 ---
 <p>Afis pentru un eveniment ce se va desfasura saptamana asta pe partia Roata de la Cavnic:</p>
 <p><img class="alignnone size-full wp-image-1189" title="Mountain Dew North vs. South" src="http://www.rusiczki.net/wp-content/uploads/2011/03/mountain-dew-north-vs-south-500x707.jpg" alt="" width="500" height="707" style="padding:0"/></p>

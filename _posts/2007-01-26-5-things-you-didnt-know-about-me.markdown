@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: 5 things you didn't know about me
-author: János
-wordpress_id: 441
-wordpress_url: http://www.rusiczki.net/wp/?p=441
-date: !binary |-
-  MjAwNy0wMS0yNiAxNjozMjo1MiArMDEwMA==
-date_gmt: !binary |-
-  MjAwNy0wMS0yNiAxMzozMjo1MiArMDEwMA==
+date: 2007-01-26 16:32:52 +0100
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>Here we go:</p>
 <ul>

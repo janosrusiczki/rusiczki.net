@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Bigger boobs or a longer shlong?
-author: János
-wordpress_id: 63
-wordpress_url: http://www.rusiczki.net/wp/?p=63
-date: !binary |-
-  MjAwMy0wMS0xNSAwNzoxMzo1NSArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMS0xNSAwNDoxMzo1NSArMDEwMA==
+date: 2003-01-15 07:13:55 +0100
 categories:
 - Web
-tags: []
-comments: []
 ---
 <p>This is the question on today's Internet.<br />
 <a href="http://www.giveboobs.com/" title=":)">giveboobs.com</a> vs. <a href="http://www.giveshlong.com/" title=":)">giveshlong.com</a>.<br />

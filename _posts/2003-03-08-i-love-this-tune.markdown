@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: I love this tune!
-author: János
-wordpress_id: 111
-wordpress_url: http://www.rusiczki.net/wp/?p=111
-date: !binary |-
-  MjAwMy0wMy0wOCAwMTowODo0MyArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMy0wNyAyMjowODo0MyArMDEwMA==
+date: 2003-03-08 01:08:43 +0100
 categories:
 - Music
-tags: []
-comments: []
 ---
 <blockquote><i>Got answers for everyone, endless excuses<br />
 Not habit for anyone, cos I'm trying to break your click-track heart<br />

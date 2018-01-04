@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Upgrade time!
-author: János
-wordpress_id: 23
-wordpress_url: http://www.rusiczki.net/wp/?p=23
-date: !binary |-
-  MjAwMi0xMi0yNyAyMDoyMzozOCArMDEwMA==
-date_gmt: !binary |-
-  MjAwMi0xMi0yNyAxNzoyMzozOCArMDEwMA==
+date: 2002-12-27 20:23:38 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Mailing lists are so good. You spare lots of time. :)</p>
 <blockquote><p><i><b>PHP 4.3.0 Released!</b><br />

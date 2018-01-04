@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Moving again - Completed
-author: János
-wordpress_id: 500
-wordpress_url: http://www.rusiczki.net/wp/?p=500
-date: !binary |-
-  MjAwOC0wNC0wNCAxNTozNzozNyArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wNC0wNCAxMjozNzozNyArMDIwMA==
+date: 2008-04-04 15:37:37 +0200
 categories:
 - Technical
-tags: []
-comments: []
 ---
 <p>Tadaaa! Hailing from <a href="http://www.totalchoicehosting.com">TotalChoice</a> where everything is nice and zippy fast. Just as I expected.<br />
 Fully satisfied, thank you.<br />

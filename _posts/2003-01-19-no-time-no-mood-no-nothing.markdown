@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: No time. No mood. No nothing.
-author: János
-wordpress_id: 65
-wordpress_url: http://www.rusiczki.net/wp/?p=65
-date: !binary |-
-  MjAwMy0wMS0xOSAwMDozMDo0NiArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMS0xOCAyMTozMDo0NiArMDEwMA==
+date: 2003-01-19 00:30:46 +0100
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>I'm not in the greatest mood lately.<br />
 It's kind of absurd. I'm having full days (yesterday I got my Palm, today I attended the local snowfest shooting lots of pictures and snowboarded my ass off) but still I don't really feel good. And this is a constant bad mood since around Christmas.<br />

@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Banning the Turkish spammers from your Aardvark Topsites
-author: János
-wordpress_id: 412
-wordpress_url: http://www.rusiczki.net/wp/?p=412
-date: !binary |-
-  MjAwNi0xMC0yNCAyMToxOTo1MCArMDIwMA==
-date_gmt: !binary |-
-  MjAwNi0xMC0yNCAxODoxOTo1MCArMDIwMA==
+date: 2006-10-24 21:19:50 +0200
 categories:
 - Technical
-tags: []
-comments: []
 ---
 <p>I knew something weird was going on when my client's dedicated server slowed down considerably and a rather large forum he was hosting on it started throwing MySQL errors that were landing frequently in my Yahoo! inbox. So I headed out and did some sniffing around and finally by using the elimination technique (not too smart nor professional, I know) I concluded that the resource hog was his top site (that was based on <a href="http://www.aardvarktopsitesphp.com/">Aardvark Topsites</a>). I asked him about it and he said that he banned quite a few sites about a week ago from the top site administration area but further investigation revealed that the buttons / banners were still being loaded and each hit on a button resulted in quite a few SQL queries. And these guys were loading those buttons like crazy, probably in some automated way, to get their stats up.<br />
 So, the solution seemed quite straightforward. The hits that contain certain domains in their referrers should be prevented to even access the .php script that runs the SQL queries (button.php). And that ladies and gentlemen is done by using the magic of .htaccess.<br />

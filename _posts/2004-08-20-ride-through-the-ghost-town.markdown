@@ -1,66 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Ride through the ghost town
-author: János
-wordpress_id: 316
-wordpress_url: http://www.rusiczki.net/wp/?p=316
-date: !binary |-
-  MjAwNC0wOC0yMCAxMTowMDozMSArMDIwMA==
-date_gmt: !binary |-
-  MjAwNC0wOC0yMCAwODowMDozMSArMDIwMA==
+date: 2004-08-20 11:00:31 +0200
 categories:
 - Web
-tags: []
-comments:
-- id: 122
-  author: lucian
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAwNC0wOC0yMCAyMDoxODoyMiArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNC0wOC0yMCAxNzoxODoyMiArMDIwMA==
-  content: ! 'and, as always, elena''s radioactive ride was posted on sm some time
-    ago :) dont you read it?
-
-'
-- id: 123
-  author: J
-  author_email: 
-  author_url: http://www.rusiczki.net/blog/
-  date: !binary |-
-    MjAwNC0wOC0yMCAyMDozMToyNyArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNC0wOC0yMCAxNzozMToyNyArMDIwMA==
-  content: ! 'whoops!
-
-'
-- id: 124
-  author: kit
-  author_email: l
-  author_url: http://homepage.mac.com/cpaul/iblog/
-  date: !binary |-
-    MjAwNC0wOC0yMSAxOTo0MTozOSArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNC0wOC0yMSAxNjo0MTozOSArMDIwMA==
-  content: ! 'Yep, it <a href="http://homepage.mac.com/cpaul/iblog/C279651076/E953787967/index.html"
-    rel="nofollow">happened</a> to me, too. To fall for her trick, that is.
-
-'
-- id: 125
-  author: Deea
-  author_email: 
-  author_url: http://deea.blog.ro
-  date: !binary |-
-    MjAwNC0wOC0yNyAxMDo0NTo1MyArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNC0wOC0yNyAwNzo0NTo1MyArMDIwMA==
-  content: ! 'Everybody found out about Elena...was I the only one not to read her
-    story, finding it stupid out of various reasons? :(
-
-'
 ---
 <p><img src="http://www.rusiczki.net/blog/blogpics/ghost_town.jpg" width="490" height="140" border="0" alt="The Ghost Town" class="image" /><br />
 After seeing the great trailers for the really-really promising game <a href="http://www.stalker-game.com/" title="S.T.A.L.K.E.R.: Shadow of Chernobyl">S.T.A.L.K.E.R.</a> out of pure curiosity I searched for <a href="http://www.google.com/search?q=chernobyl">Chernobyl</a> on Google. And through the cached version of a page on Angelfire I reached a site with pictures made by a biker who made several trips to and through the ghost town and it's surrounding area.<br />

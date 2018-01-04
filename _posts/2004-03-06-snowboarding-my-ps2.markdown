@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Snowboarding my PS2
-author: János
-wordpress_id: 260
-wordpress_url: http://www.rusiczki.net/wp/?p=260
-date: !binary |-
-  MjAwNC0wMy0wNiAyMjoxMzozNSArMDEwMA==
-date_gmt: !binary |-
-  MjAwNC0wMy0wNiAxOToxMzozNSArMDEwMA==
+date: 2004-03-06 22:13:35 +0100
 categories:
 - Games
-tags: []
-comments: []
 ---
 <p>There was nothing in the mailbox today. I thought my copy of SSX 3 would arrive today but it looks like I'll have to wait until Monday.<br />
 <img src="http://www.rusiczki.net/blog/blogpics/ratchet_and_clank_cover.jpg" width="82" height="116" border="0" class="postimage" alt="Ratchet &amp; Clank Platinum cover" /> Wow, it's so hard! From the moment I ordered the game I entered a state that resembles that of a kid's before Christmas. I shelled out an awful amount of money for it so I hope it will at least live up to my expectations. But judging from the raving reviews it got I think it will. <a href="http://www.ratchetandclankgadgets.com">Ratchet &amp; Clank</a>, the previous game I bought for the PS2 turned out to be incredible fun. And I bought that one judging from the reviews I read and TV presentations I saw. And because it had a special low price at <a href="http://www.dol.ro">Diverta Online</a>, hehe.<br />

@@ -1,30 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Sâmbăta cadou
-author: János
-wordpress_id: 4574
-wordpress_url: http://www.rusiczki.net/?p=4574
-date: !binary |-
-  MjAxMy0xMC0xNSAwOTowOTo0MyArMDIwMA==
-date_gmt: !binary |-
-  MjAxMy0xMC0xNSAwNjowOTo0MyArMDIwMA==
+date: 2013-10-15 09:09:43 +0200
 categories:
 - Photos
 - Română
-tags: []
-comments:
-- id: 28853
-  author: Andrei Albu
-  author_email: 
-  author_url: http://andreialbu.com/
-  date: !binary |-
-    MjAxMy0xMC0xNSAxMTozNTowMCArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMy0xMC0xNSAwODozNTowMCArMDIwMA==
-  content: Daaa, a fost un weekend foarte generos. Sper să mai prindem cîteva de acest
-    gen toamna asta :)
 ---
 <p><a href="http://www.flickr.com/photos/janos/10249140043/"><img class="alignnone size-medium wp-image-4575" alt="Eu și Ina pe Igniș" src="http://www.rusiczki.net/wp-content/uploads/2013/10/PA120146-1024-693x519.jpg" width="693" height="519" /></a></p>
 <p>Considerând frigul de la sfârșitul lui Septembrie și începutul lui Octombrie, sâmbăta frumoasă de care am avut parte în acest weekend se poate considera un adevărat cadou. Am ieșit pe Igniș cu bicicletele, am luat Pufoșenia (una din poreclele lui Ina, cocker-ul) cu noi, ne-am întâlnit cu prieteni, am mâncat cârnați și pește prăjit și ne-am simțit foarte bine.</p>

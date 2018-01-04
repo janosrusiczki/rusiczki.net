@@ -1,7 +1,6 @@
 ---
 layout: post
 title: My adventures in social coding
-author: János
 categories:
 - Ruby
 - Technical

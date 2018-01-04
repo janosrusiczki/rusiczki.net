@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Concediu de vară - Cum am ajuns
-author: János
 categories:
 - Cronică
 ---

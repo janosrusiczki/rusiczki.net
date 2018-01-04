@@ -1,44 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Time to cash in
-author: János
-wordpress_id: 531
-wordpress_url: http://www.rusiczki.net/wp/?p=531
-date: !binary |-
-  MjAwOC0wNi0wNCAxNjowNzowNSArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wNi0wNCAxMzowNzowNSArMDIwMA==
+date: 2008-06-04 16:07:05 +0200
 categories:
 - Technical
-tags: []
-comments:
-- id: 515
-  author: Brolly
-  author_email: 
-  author_url: http://axiomatik.wordpress.com/
-  date: !binary |-
-    MjAwOC0wNi0wOSAxMzo1ODoyMyArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOC0wNi0wOSAxMDo1ODoyMyArMDIwMA==
-  content: ! '"Over 300,000 people have visited this page in the first week and thousands
-    are joining every day! Growing faster and faster every minute, this program propagates
-    extremely fast."  - right.. and we''re supposed to believe that they''re paying
-    4.800$ a month to 300.000+ members
-
-'
-- id: 516
-  author: János
-  author_email: 
-  author_url: http://rusiczki.net/blog/
-  date: !binary |-
-    MjAwOC0wNi0xMCAwOToxODoyMiArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOC0wNi0xMCAwNjoxODoyMiArMDIwMA==
-  content: ! 'And that''s only the first week!
-
-'
 ---
 <p>Big time.</p>
 <p>I've just discovered the following e-mail in my Junk folder. How could I have missed it!? Such a stellar opportunity!</p>

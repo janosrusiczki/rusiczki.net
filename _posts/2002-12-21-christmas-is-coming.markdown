@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Christmas is coming!
-author: János
-wordpress_id: 5
-wordpress_url: http://www.rusiczki.net/wp/?p=5
-date: !binary |-
-  MjAwMi0xMi0yMSAwMDoxMTozNCArMDEwMA==
-date_gmt: !binary |-
-  MjAwMi0xMi0yMCAyMToxMTozNCArMDEwMA==
+date: 2002-12-21 00:11:34 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Whooo...<br />
 It's almost here. Although I love it I do not expect much this year. I don't really know why. Maybe because I feel that I was a very naughty boy this year... I just hope Santa haven't noticed. I like receiving objects... So it's obvious that I like getting presents.<br />

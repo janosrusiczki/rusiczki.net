@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Damn comment spammers!
-author: János
-wordpress_id: 246
-wordpress_url: http://www.rusiczki.net/wp/?p=246
-date: !binary |-
-  MjAwNC0wMi0xMCAyMTozOTo0NCArMDEwMA==
-date_gmt: !binary |-
-  MjAwNC0wMi0xMCAxODozOTo0NCArMDEwMA==
+date: 2004-02-10 21:39:44 +0100
 categories:
 - Technical
-tags: []
-comments: []
 ---
 <p>I've just deleted the first 4 spam comments of my blog. Part of me is happy: I've been noticed and it looks like my weblog "counts" for someone out there, or at least for Google. But the rest of me, the bigger part, is sad: it's more than enough to deal with Internet trash in my email... I've banned one IP, but I don't think it counts too much as there are thousands of proxies out there.<br />
 The strange part is that earlier today I read an interesting post on <a href="http://simon.incutio.com/archive/2004/01/28/solvingCommentSpam">solving comment spam</a> in <a href="http://simon.incutio.com/">Simon Willison's Weblog</a> and I was thinking: phew, I'm glad this kind of crap didn't happen to me yet. Well... It did now.<br />

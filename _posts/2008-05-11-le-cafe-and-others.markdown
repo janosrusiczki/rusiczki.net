@@ -1,20 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Le Cafe and others
-author: János
-wordpress_id: 522
-wordpress_url: http://www.rusiczki.net/wp/?p=522
-date: !binary |-
-  MjAwOC0wNS0xMSAxMTowOTozMSArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wNS0xMSAwODowOTozMSArMDIwMA==
+date: 2008-05-11 11:09:31 +0200
 categories:
 - Fun
 - Video
-tags: []
-comments: []
 ---
 <p><object width="500" height="305"><param name="movie" value="http://www.dailymotion.com/swf/x2wfqp&v3=1&related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x2wfqp&v3=1&related=1" type="application/x-shockwave-flash" width="500" height="305" allowFullScreen="true" allowScriptAccess="always"></embed></object><br />
 Plus <a href="http://www3.france-jeunes.net/paroles-oldelaf.et.mr.d-le.cafe-42495.htm">lyrics</a> for those (like me) who understand written French better.<br />

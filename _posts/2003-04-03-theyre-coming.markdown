@@ -1,18 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: They're coming!
-author: János
-wordpress_id: 139
-wordpress_url: http://www.rusiczki.net/wp/?p=139
-date: !binary |-
-  MjAwMy0wNC0wMyAwMzozODozOCArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0wNC0wMyAwMDozODozOCArMDIwMA==
+date: 2003-04-03 03:38:38 +0200
 categories:
 - General
-tags: []
 ---
 <p><a title="Yahoo! TV: Entertainment News & Gossip - 'TIME-TRAVELER' BUSTED FOR INSIDER TRADING" href="http://tv.yahoo.com/news/wwn/20030319/104808600007.html"> 'TIME-TRAVELER' BUSTED FOR INSIDER TRADING</a><br />
 This is funny and weird. But the following phrase really grabbed my attention:</p>

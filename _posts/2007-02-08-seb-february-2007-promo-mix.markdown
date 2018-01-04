@@ -1,30 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Seb - February 2007 Promo Mix
-author: János
-wordpress_id: 447
-wordpress_url: http://www.rusiczki.net/wp/?p=447
-date: !binary |-
-  MjAwNy0wMi0wOCAxMTo1MTo0MCArMDEwMA==
-date_gmt: !binary |-
-  MjAwNy0wMi0wOCAwODo1MTo0MCArMDEwMA==
+date: 2007-02-08 11:51:40 +0100
 categories:
 - Music
-tags: []
-comments:
-- id: 402
-  author: seb
-  author_email: 
-  author_url: http://www.infamous.ro
-  date: !binary |-
-    MjAwNy0wMi0xMSAxNzoyODozMyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNy0wMi0xMSAxNDoyODozMyArMDEwMA==
-  content: ! 'heheh... you have recommended me many more... cheers!!
-
-'
 ---
 <p>Shake your ass to this:<br />
 <img src="http://www.rusiczki.net/blog/blogpics/seb_february_2007_promo_mix_cover.jpg" width="450" height="450" alt="Seb - February 2007 Promo Mix cover" class="image" /><br />

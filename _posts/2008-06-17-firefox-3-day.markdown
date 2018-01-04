@@ -1,43 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Firefox 3 day
-author: János
-wordpress_id: 536
-wordpress_url: http://www.rusiczki.net/wp/?p=536
-date: !binary |-
-  MjAwOC0wNi0xNyAwOToxMDoyNiArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wNi0xNyAwNjoxMDoyNiArMDIwMA==
+date: 2008-06-17 09:10:26 +0200
 categories:
 - Web
 - Technical
-tags: []
-comments:
-- id: 518
-  author: Vlad
-  author_email: 
-  author_url: http://vlad.bailescu.ro/
-  date: !binary |-
-    MjAwOC0wNi0xNyAxMDo1MzoxNCArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOC0wNi0xNyAwNzo1MzoxNCArMDIwMA==
-  content: ! 'Sure you can haz Firebugz: <a href="https://addons.mozilla.org/en-US/firefox/addon/1843"
-    rel="nofollow"><a href="https://addons.mozilla.org/en-US/firefox/addon/1843" rel="nofollow">https://addons.mozilla.org/en-US/firefox/addon/1843</a></a>!
-
-'
-- id: 519
-  author: János
-  author_email: 
-  author_url: http://rusiczki.net/blog/
-  date: !binary |-
-    MjAwOC0wNi0xNyAxMTozMjozOSArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOC0wNi0xNyAwODozMjozOSArMDIwMA==
-  content: ! 'Thanks Vlad, much appreciated!
-
-'
 ---
 <p>So, today is the big day! The day we'll hopefully set a record...</p>
 <p>Keep your eyes peeled at the <a href="http://getfirefox.com">getfirefox.com</a> page. And while waiting for the great download frenzy to start go <a href="http://www.spreadfirefox.com/en-US/worldrecord/">pledge</a> if you haven't already.<br />

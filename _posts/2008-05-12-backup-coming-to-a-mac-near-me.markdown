@@ -1,64 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Backup - Coming to a Mac near me
-author: János
-wordpress_id: 523
-wordpress_url: http://www.rusiczki.net/wp/?p=523
-date: !binary |-
-  MjAwOC0wNS0xMiAxMDoxNzowNyArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wNS0xMiAwNzoxNzowNyArMDIwMA==
+date: 2008-05-12 10:17:07 +0200
 categories:
 - Life
 - Technical
-tags: []
-comments:
-- id: 501
-  author: Gabriel Radic
-  author_email: gr+
-  author_url: http://www.gabrielradic.com/
-  date: !binary |-
-    MjAwOC0wNS0xMyAyMjoyNzowNCArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOC0wNS0xMyAxOToyNzowNCArMDIwMA==
-  content: ! 'Congratulations for your new HDD! Having "unlimited" storage space can
-    get you drunk with power :-)
-
-    I got myself a 500 Lacie mini a while ago. It''s gorgeous, but noisy like crop
-    duster. I''ll write a post on my new blog about it soon.
-
-'
-- id: 502
-  author: János
-  author_email: 
-  author_url: http://www.rusiczki.net/blog/
-  date: !binary |-
-    MjAwOC0wNS0xMyAyMzowMDo0NCArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOC0wNS0xMyAyMDowMDo0NCArMDIwMA==
-  content: ! 'I can see lots of words in your comment but two grab my eyes: new blog?
-
-'
-- id: 503
-  author: János
-  author_email: 
-  author_url: http://rusiczki.net/blog/
-  date: !binary |-
-    MjAwOC0wNS0xNCAwOToxNToyMyArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOC0wNS0xNCAwNjoxNToyMyArMDIwMA==
-  content: ! 'OK, I''ve found it. It was really hard, I clicked your name under the
-    comment and in one shot I secured myself comment ID number two. Right after Mr.
-    Wordpress. Geeky achievements.
-
-    Now, back on topic: the WD My Book I have is quite noisy too. As I said it''s
-    networked, it sits in our room right next to the router and sometimes after we
-    go to bed Ioana''s brother starts copying stuff to or from it and this usually
-    means no sleep for us until he''s at it... It''s not THAT loud but it''s annoying.
-
-'
 ---
 <p>Good news day.</p>
 <p>1. First and most important: I've got a raise. Whooo. A raise is always excellent news.<br />

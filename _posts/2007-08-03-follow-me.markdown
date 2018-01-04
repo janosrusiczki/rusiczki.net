@@ -1,32 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Follow me
-author: János
-wordpress_id: 472
-wordpress_url: http://www.rusiczki.net/wp/?p=472
-date: !binary |-
-  MjAwNy0wOC0wMyAwOTo1ODozOCArMDIwMA==
-date_gmt: !binary |-
-  MjAwNy0wOC0wMyAwNjo1ODozOCArMDIwMA==
+date: 2007-08-03 09:58:38 +0200
 categories:
 - Web
-tags: []
-comments:
-- id: 430
-  author: RS
-  author_email: 
-  author_url: http://www.cicleworks.com/blog/
-  date: !binary |-
-    MjAwNy0wOC0wNiAwNzoxODo1MiArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNy0wOC0wNiAwNDoxODo1MiArMDIwMA==
-  content: ! 'What''s cool about this, to me (probably only to me), is that whilst
-    driving through Baia Mare, we took a wrong turn and did several circles. A good
-    portion of your route was part of our wanderings.
-
-'
 ---
 <p><a href="http://www.flickr.com/photos/janos/sets/72157601092213316/detail/"><img src="http://www.rusiczki.net/blog/blogpics/project-going-to-work-thumbnails.jpg" width="471" height="315" border="0" alt='Project "Going to work"' class="image" /></a></p>
 <p>I had an idea and I took a bunch of pictures on my way to work. <a href="http://www.flickr.com/photos/janos/sets/72157601092213316/detail/">Here's the result.</a> Don't expect anything artsy. What you should expect is a virtual walk through Baia Mare. Just like being there.</p>

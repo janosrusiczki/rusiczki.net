@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Bad forecast
-author: János
-wordpress_id: 59
-wordpress_url: http://www.rusiczki.net/wp/?p=59
-date: !binary |-
-  MjAwMy0wMS0xMyAyMTo1Njo1NCArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMS0xMyAxODo1Njo1NCArMDEwMA==
+date: 2003-01-13 21:56:54 +0100
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>And no, this time it isn't about snow and rain...<br />
 Haven't been in the greatest mood yesterday so I haven't posted anything. When I came back from snowboarding which gave my overall feeling a huge lift I was just about to write a new blog entry when I looked out the window. The wrong place at the wrong time... Saw something which put me back where I was when the day started.<br />

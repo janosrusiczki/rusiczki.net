@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Everybody loves gadgets!
-author: János
-wordpress_id: 77
-wordpress_url: http://www.rusiczki.net/wp/?p=77
-date: !binary |-
-  MjAwMy0wMi0wMyAwMjowMDoyOSArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMi0wMiAyMzowMDoyOSArMDEwMA==
+date: 2003-02-03 02:00:29 +0100
 categories:
 - Technical
-tags: []
-comments: []
 ---
 <p>I'm about to receive the much avaited HotSync cable for my Palm. So the fun can begin. I hope not to get in such an <a href="http://www.aftenposten.no/english/local/article.jhtml?articleID=481193" title="The full article">embarassing situation</a> as this guy did:</p>
 <blockquote><p><i>A member of Norway's Parliament was caught playing a war game on his hand-held computer, right during the middle of Wednesday's parliamentary debate on Iraq. The red-faced representative from the Conservative Party has since apologized.</i></p></blockquote>

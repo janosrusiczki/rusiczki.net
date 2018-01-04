@@ -1,20 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Banner boom
-author: János
-wordpress_id: 551
-wordpress_url: http://www.rusiczki.net/wp/?p=551
-date: !binary |-
-  MjAwOS0wMS0zMCAwOTo1MTowOCArMDEwMA==
-date_gmt: !binary |-
-  MjAwOS0wMS0zMCAwNjo1MTowOCArMDEwMA==
+date: 2009-01-30 09:51:08 +0100
 categories:
 - Web
 - Work
-tags: []
-comments: []
 ---
 <p>Two days ago I moved the hosting and delivery of all the advertising I publish on my sites to <a href="http://www.openx.org/ad-server/get-openx-hosted">OpenX Hosted</a>. The results are easily visible on the chart below:</p>
 <p><img alt="OpenX Hosted - Statistics widget screenshot" src="http://www.rusiczki.net/blog/blogpics/openx-hosted-statistics-widget.png" width="261" height="191"/></p>

@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Boom!
-author: János
-wordpress_id: 530
-wordpress_url: http://www.rusiczki.net/wp/?p=530
-date: !binary |-
-  MjAwOC0wNi0wNCAxNToyOTozMyArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wNi0wNCAxMjoyOTozMyArMDIwMA==
+date: 2008-06-04 15:29:33 +0200
 categories:
 - Technical
-tags: []
-comments: []
 ---
 <p>Just my luck. One month after <a href="http://www.rusiczki.net/blog/archives/2008/05/10/the_end_of_a_hosting_era">I get</a> a dedicated server the data center that's hosting it <a href="http://forums.theplanet.com/index.php?showtopic=90185">goes boom</a>. To be more precise:</p>
 <blockquote><p>Sunday evening at 4:55 in our H1 data center, electrical gear shorted, creating an explosion and fire that knocked down three walls surrounding our electrical equipment room Thankfully, no one was injured. In addition, no customer servers were damaged or lost.</p></blockquote>

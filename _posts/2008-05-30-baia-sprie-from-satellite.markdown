@@ -1,44 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Baia Sprie from satellite
-author: János
-wordpress_id: 528
-wordpress_url: http://www.rusiczki.net/wp/?p=528
-date: !binary |-
-  MjAwOC0wNS0zMCAxNzo0MjoxOSArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wNS0zMCAxNDo0MjoxOSArMDIwMA==
+date: 2008-05-30 17:42:19 +0200
 categories:
 - Web
-tags: []
-comments:
-- id: 513
-  author: Cata
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAwOC0wNi0wNCAyMzoxODowMyArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOC0wNi0wNCAyMDoxODowMyArMDIwMA==
-  content: ! 'Daca faci rost si de o poza cu Baia Mare o platesc in bere. Sau vin.
-    Sau vodca. Whatever, dau de baut :D
-
-'
-- id: 514
-  author: rodica
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAwOC0xMi0xMyAxODo0Mzo0NyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwOC0xMi0xMyAxNTo0Mzo0NyArMDEwMA==
-  content: ! 'Baia Sprie ,este pentru mine toate amintirile copilariei mele.Craciun
-    cu brad impodobit,zapada si saniuta,cirnati si racituri,revelion printre prieteni,veselie,dragoste
-    si dupa atitia ani amintiri de neuitat.
-
-'
 ---
 <p><a href="http://www.flickr.com/photos/janos/2536485692/"><img src="http://farm4.static.flickr.com/3281/2536485692_08ecbc727c.jpg" width="500" height="353" border="0" alt="Baia Sprie - Satellite view - High Resolution" class="image"/></a></p>
 <p>What you see above is the result of two and a half hours of precise and tiring work. <a href="http://farm4.static.flickr.com/3281/2536485692_f4a8e4d7c4_o_d.jpg">Check it out</a> in original size. But be warned it's 18.5 megabytes and 5000 x 3526 pixels in resolution.</p>

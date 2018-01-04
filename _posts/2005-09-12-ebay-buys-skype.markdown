@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: eBay buys Skype
-author: János
-wordpress_id: 370
-wordpress_url: http://www.rusiczki.net/wp/?p=370
-date: !binary |-
-  MjAwNS0wOS0xMiAxNzozNjo0MSArMDIwMA==
-date_gmt: !binary |-
-  MjAwNS0wOS0xMiAxNDozNjo0MSArMDIwMA==
+date: 2005-09-12 17:36:41 +0200
 categories:
 - Technical
-tags: []
-comments: []
 ---
 <p>Oh, the wonders of the Internet!<br />
 I was digging through my stats and I saw a few hits coming from <a href="http://link.streng.ro/">Cristi Streng's link page</a>. Opening that page I saw two things: a link to <a href="http://www.rusiczki.net/blog/archives/2005/09/09/tutorial_how_to_scam_on_ebay">my previous post</a> marked with a 'Wow' icon (I would rather mark it with a 'Boo!') and a link to Engadget stating that it's finally official: Internet giant eBay bought small but ubercool (at least until now) Skype. For none less than $2.6 billion. That is 2.600.000.000 dollars. Now that really deserved that 'Wow' icon. The tech savvy crowd's reaction is pretty much the same as with Yahoo! buying Flickr. Just look at the comments following <a href="http://www.engadget.com/entry/1234000140058350/">the entry on Engadget</a>. I bet that if Skype was more of a web based application we would see a "we'll jump ship" crowd forming in the next few hours or days <a href="http://www.wired.com/news/ebiz/0,1272,68654,00.html">just like on Flickr</a>. But it's not web based, it's just a program running on the user's desktop and I bet that many will have no ideea about what went on below (or above?) the hood and they'll just keep using it because of the great audio quality it offers.<br />

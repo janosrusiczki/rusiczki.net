@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Mactop
-author: János
-wordpress_id: 519
-wordpress_url: http://www.rusiczki.net/wp/?p=519
-date: !binary |-
-  MjAwOC0wNC0zMCAwMDowNjozOCArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wNC0yOSAyMTowNjozOCArMDIwMA==
+date: 2008-04-30 00:06:38 +0200
 categories:
 - Technical
 - Mac
-tags: []
-comments: []
 ---
 <p>After putting my paws on a Mini-DVI to VGA adapter today this is the first post edited using my 19" Samsung LCD as a display as well as an external keyboard and mouse. And it feels damn nice. My MacBook just turned into a desktop computer. Yey!</p>

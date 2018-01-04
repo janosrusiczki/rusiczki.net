@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: The short ones
-author: János
-wordpress_id: 321
-wordpress_url: http://www.rusiczki.net/wp/?p=321
-date: !binary |-
-  MjAwNC0wOS0xNyAwODowMzoyOCArMDIwMA==
-date_gmt: !binary |-
-  MjAwNC0wOS0xNyAwNTowMzoyOCArMDIwMA==
+date: 2004-09-17 08:03:28 +0200
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>The main page is empty again and I feel guilty about not posting again. So I might as well write something. But in fact there's not much happening and that's the main reason why there are no posts. But some small things still go on and I'll write them down.<br />
 I started playing <a href="http://nwn.bioware.com">Neverwinter Nights</a> online and it's a <b>major time eater</b>. I saw <a href="http://www.imdb.com/title/tt0356634/">Garfield</a> and I liked it but I turned off my brain before sitting down to see it, and I did well because the story is for kids, I mean really small kids, with Garfield stopping trains and such but the computer generated Garfield is very - very nicely done and Bill Murray's voice acting is right on the spot. Nice movie if you like cats. And I saw 5 Garfield comic books in the library - a must buy.<br />

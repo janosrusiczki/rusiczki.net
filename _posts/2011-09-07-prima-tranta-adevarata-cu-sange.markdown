@@ -1,29 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Prima tranta adevarata (cu sange)
-author: János
-wordpress_id: 1441
-wordpress_url: http://www.rusiczki.net/?p=1441
-date: !binary |-
-  MjAxMS0wOS0wNyAxMTo1MDo0MyArMDIwMA==
-date_gmt: !binary |-
-  MjAxMS0wOS0wNyAwODo1MDo0MyArMDIwMA==
+date: 2011-09-07 11:50:43 +0200
 categories:
 - Bike
-tags: []
-comments:
-- id: 21939
-  author: Whiteman
-  author_email: 
-  author_url: http://andreialbu.com
-  date: !binary |-
-    MjAxMS0wOS0xMiAxNTowMDoxMiArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMS0wOS0xMiAxMjowMDoxMiArMDIwMA==
-  content: Trece repede. Chicks dig scars! Aşa că dă-i înainte. La prima căzătură,
-    pun şi eu pe blog poza (sper să nu fie prea curînd).
 ---
 <p>Dupa doi ani de bicicleta in era noua (adica excluzand datul din copilarie / adolescenta) in weekend-ul asta am tras prima tranta mai serioasa. Si ma gandeam sa marchez acest moment definitoriu din viata printr-o insemnare pe blog. Si sa adaug si <a href="http://www.rusiczki.net/wp-content/uploads/2011/09/2011-09-05-14.30.23.jpg" class="fancybox">o poza cu urmarile</a>. Nu, nu imi prezint muschii (inexistenti). Haha.</p>
 <p>Am mai avut parte de doua "semi" cazaturi. Prima oara la maratonul de anul trecut cand am intrat intr-o curba cu viteza prea mare si am ocolit o piatra din drum pe partea gresita ajungand in decor - dar am ramas in picioare. Prima oara am cazut cu adevarat, in sensul ca am ajuns pe orizontala, la <a href="http://www.rusiczki.net/2011/07/06/maratoneala/">maratonul de anul acesta</a> cand la o coborare dupa un tronson de poteca de pamant batut prin padure unde am prins curaj si am bagat viteza mai mare am dat de un drum argilos. Mergand cu acelasi curaj si viteza am alunecat si cum picioarele mi s-au incalcit intre cadru si pedale am facut un soi de "roaba" mergand in maini si tarand bicicleta dupa mine. Sunt sigur ca ar fi fost amuzant pentru un privitor. Noroc ca nu m-a vazut nimeni.</p>

@@ -1,20 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Nine things about love
-author: János
-wordpress_id: 942
-wordpress_url: http://www.rusiczki.net/?p=942
-date: !binary |-
-  MjAwOS0wNS0yNiAxNTo0Mzo0MSArMDIwMA==
-date_gmt: !binary |-
-  MjAwOS0wNS0yNiAxMjo0Mzo0MSArMDIwMA==
+date: 2009-05-26 15:43:41 +0200
 categories:
 - General
 - Photos
-tags: []
-comments: []
 ---
 <p><a href="http://cosmonova.ro/post/113210915/nine-things-about-love"><img src="http://www.rusiczki.net/wp-content/uploads/2009/05/nine-things-about-love.jpg" alt="Nine things about love" title="Nine things about love" width="500" height="676"/></a></p>
 <p>Click the image for more.</p>

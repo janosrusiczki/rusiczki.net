@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: SSX 3 game footage &amp; Deekline live at Timisoara
-author: János
-wordpress_id: 265
-wordpress_url: http://www.rusiczki.net/wp/?p=265
-date: !binary |-
-  MjAwNC0wMy0yNCAxMzozNDo1MSArMDEwMA==
-date_gmt: !binary |-
-  MjAwNC0wMy0yNCAxMDozNDo1MSArMDEwMA==
+date: 2004-03-24 13:34:51 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Lately I uploaded some video content for friends and forum buddies and I thought that since I made kind of an effort to upload them (dial-up, as we all know, purely rules!) I should make them publicly available. So here they are:</p>
 <ul>

@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Soul. Sold.
-author: János
-wordpress_id: 490
-wordpress_url: http://www.rusiczki.net/wp/?p=490
-date: !binary |-
-  MjAwOC0wMy0yMCAxMjozOToxNiArMDEwMA==
-date_gmt: !binary |-
-  MjAwOC0wMy0yMCAwOTozOToxNiArMDEwMA==
+date: 2008-03-20 12:39:16 +0100
 categories:
 - Web
 - Technical
-tags: []
-comments: []
 ---
 <p>I just sold a bunch of text ads scattered through the more popular posts of this blog. 7 posts. $70. My PayPal account will feel better soon but I felt like a fool while pasting the snippets I got in the mail. I felt, and still feel, like I was whoring out. Selling my soul. I tried to keep it somewhat on the clean side though by adding the 'Informative Resource' prefix before each of the sponsored paragraphs but I'll sure think twice before doing this again...</p>

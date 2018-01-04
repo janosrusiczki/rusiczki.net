@@ -1,30 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: It's here!
-author: János
-wordpress_id: 379
-wordpress_url: http://www.rusiczki.net/wp/?p=379
-date: !binary |-
-  MjAwNS0xMS0yMSAyMjozMDo0OCArMDEwMA==
-date_gmt: !binary |-
-  MjAwNS0xMS0yMSAxOTozMDo0OCArMDEwMA==
+date: 2005-11-21 22:30:48 +0100
 categories:
 - Life
-tags: []
-comments:
-- id: 276
-  author: Tina
-  author_email: 
-  author_url: http://perfectlyimperfect.blogspot.com
-  date: !binary |-
-    MjAwNS0xMS0yMSAyMzozMTo0MCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMS0yMSAyMDozMTo0MCArMDEwMA==
-  content: ! 'At least someone is having fun...
-
-'
 ---
 <p><a href="http://www.flickr.com/photos/janos/65614700/"><img src="http://static.flickr.com/35/65614700_fe6658811b.jpg" alt="It's here!" border="0" class="image" /></a></p>
 <p>(Can you spot the thin white coating on everything?) </p>

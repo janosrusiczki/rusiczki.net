@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Fun
-author: János
-wordpress_id: 19
-wordpress_url: http://www.rusiczki.net/wp/?p=19
-date: !binary |-
-  MjAwMi0xMi0yNiAyMjoyNzoxNyArMDEwMA==
-date_gmt: !binary |-
-  MjAwMi0xMi0yNiAxOToyNzoxNyArMDEwMA==
+date: 2002-12-26 22:27:17 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Well I found <a href="http://www.orange-today.co.uk/news/story/sm_732378.html?menu=news.quirkies" title=":)">this article</a> very funny:</p>
 <blockquote><p><i>A Brazilian woman, shot in crossfire between police and drug dealers, was saved by her silicone breast implants.</i></p></blockquote>

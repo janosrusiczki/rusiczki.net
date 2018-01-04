@@ -1,30 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Our 15 minutes of (in)fame
-author: János
-wordpress_id: 509
-wordpress_url: http://www.rusiczki.net/wp/?p=509
-date: !binary |-
-  MjAwOC0wNC0xNSAwOTo1NDo1NiArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wNC0xNSAwNjo1NDo1NiArMDIwMA==
+date: 2008-04-15 09:54:56 +0200
 categories:
 - Life
-tags: []
-comments:
-- id: 493
-  author: RS
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAwOC0wNC0xNSAxNzoyNjowMSArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOC0wNC0xNSAxNDoyNjowMSArMDIwMA==
-  content: ! 'Holy crap!
-
-'
 ---
 <p><a href="http://www.jurnalul.ro/articole/122421/%CEn-aceeasi-zi-am-scapat-de-doua-ori-de-moarte"><img alt="Recovering Ioana's board after the avalanche" src="http://www.rusiczki.net/blog/blogpics/our_15_minutes_of_infame.jpg" width="500" height="375" border="0" class="image"/></a><br />
 <a href="http://www.jurnalul.ro/articole/122421/%CEn-aceeasi-zi-am-scapat-de-doua-ori-de-moarte">Romanian knowledge is a must.</a> Full of incorrect info and made up quotes, but, well, we're in the newspaper. Joy! Here's <a href="http://www.rusiczki.net/blog/blogpics/our_15_minutes_of_infame_screenshot.png">a screenshot of the article</a> for eternity.<br />

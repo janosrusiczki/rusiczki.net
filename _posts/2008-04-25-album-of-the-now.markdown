@@ -1,47 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Album of the now
-author: János
-wordpress_id: 517
-wordpress_url: http://www.rusiczki.net/wp/?p=517
-date: !binary |-
-  MjAwOC0wNC0yNSAwOToyNDo0NSArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wNC0yNSAwNjoyNDo0NSArMDIwMA==
+date: 2008-04-25 09:24:45 +0200
 categories:
 - Music
-tags: []
-comments:
-- id: 499
-  author: Kit
-  author_email: 
-  author_url: http://kitblog.com
-  date: !binary |-
-    MjAwOC0wNC0yNSAxMDo0MTo1OSArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOC0wNC0yNSAwNzo0MTo1OSArMDIwMA==
-  content: ! 'I''ve seen them performing live two weeks ago (and I was lucky enough
-    to sneak my camera in and take some <a href="http://kitblog.com/2008/04/portishead.html"
-    rel="nofollow"> pictures </a>).
-
-    The concert was absolutely breathtaking.
-
-'
-- id: 500
-  author: János
-  author_email: 
-  author_url: http://rusiczki.net/blog/
-  date: !binary |-
-    MjAwOC0wNC0yNSAxMjoyODo1MyArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOC0wNC0yNSAwOToyODo1MyArMDIwMA==
-  content: ! 'Awesome.
-
-    My envy reaches epic levels.
-
-'
 ---
 <p>Album of the week even.</p>
 <p><a href="http://www.portishead.co.uk/">Portishead</a> - <a href="http://en.wikipedia.org/wiki/Third_%28Portishead_album%29">Third</a>.</p>

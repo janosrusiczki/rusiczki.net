@@ -1,35 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
 title: Bad news
-author: János
-wordpress_id: 546
-wordpress_url: http://www.rusiczki.net/wp/?p=546
-date: !binary |-
-  MjAwOC0xMS0yNyAxMTo0MzozNiArMDEwMA==
-date_gmt: !binary |-
-  MjAwOC0xMS0yNyAwODo0MzozNiArMDEwMA==
+date: 2008-11-27 11:43:36 +0100
 categories:
 - Life
-tags: []
-comments:
-- id: 524
-  author: cip
-  author_email: 
-  author_url: http://www.mynetboot.de/roboot/
-  date: !binary |-
-    MjAwOC0xMi0wNSAwMToxMTo1OCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwOC0xMi0wNCAyMjoxMTo1OCArMDEwMA==
-  content: ! 'may he.
-
-    quite moving and you just remembered me that I should spend more time with my
-    dog :)
-
-    mine seems to love to sleep where the ducks do :) I''m not sure if they get any
-    sleep anyway.
-
-'
 ---
 <p>I just received some bad news from home: Bodri, <a href="http://www.rusiczki.net/blog/blogpics/funny_dog.php">the one</a> who's been driving traffic to this site from the Google image search results for "funny dog", long before <a href="http://www.icanhascheezburger.com/">lolcats</a> and <a href="http://www.ihasahotdog.com">loldogs</a> became the craze passed away. Although he was kept on a leash as a guard dog he was an extremely active and fun creature, always ready to show some love, even if I have moved from home long ago. And it's very strange because just Sunday night when I helped my father move some things around the house, he was running circles annoying us... Well, may he chase the chickens (his favorite activity) in a happier place.</p>

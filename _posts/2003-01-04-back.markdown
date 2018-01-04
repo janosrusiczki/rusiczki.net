@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Back
-author: János
-wordpress_id: 35
-wordpress_url: http://www.rusiczki.net/wp/?p=35
-date: !binary |-
-  MjAwMy0wMS0wNCAwMzoxNzo1MyArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMS0wNCAwMDoxNzo1MyArMDEwMA==
+date: 2003-01-04 03:17:53 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Heyho...<br />
 I'm back. Actually I was back on the 1st but I was (and I still am) such in a bad mood that I really had absolutely no power to write in the blog. Actually I don't know why I have this bad mood, since the NYE party was quite, uhm, quite nice... I had the general bad mood since Christmas. And generally through the winter holidays because these are the days when you miss a girlfriend the most. And since I don't have one...<br />

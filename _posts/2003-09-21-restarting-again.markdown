@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Restarting... Again...
-author: János
-wordpress_id: 179
-wordpress_url: http://www.rusiczki.net/wp/?p=179
-date: !binary |-
-  MjAwMy0wOS0yMSAyMDoyNDowNiArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0wOS0yMSAxNzoyNDowNiArMDIwMA==
+date: 2003-09-21 20:24:06 +0200
 categories:
 - Web
-tags: []
-comments: []
 ---
 <p>Well, to tell the truth I lost count. I lost count how many times I restarted blogging. But it wasn't always my fault.</p>
 <p>The first time I tried my luck at blogging I was using <a href="http://www.blogger.com" title="Oldies goldies">Blogger</a> and <a href="http://www.geocities.com/rusiczkij/">my dinosaur age account</a> I have at <a href="http://www.geocities.com" title="Yuk!">Geocities</a>. It all went well, I posted some entries being fascinated by what Blogger was offering for free but then Geocities cut FTP access to the free accounts.</p>

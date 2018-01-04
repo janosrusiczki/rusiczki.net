@@ -1,22 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Sfarsit de saptamana activ
-author: János
-wordpress_id: 1451
-wordpress_url: http://www.rusiczki.net/?p=1451
-date: !binary |-
-  MjAxMS0wOS0xMyAxMDo0NjozMiArMDIwMA==
-date_gmt: !binary |-
-  MjAxMS0wOS0xMyAwNzo0NjozMiArMDIwMA==
+date: 2011-09-13 10:46:32 +0200
 categories:
 - Life
 - Photos
 - Bike
 - Română
-tags: []
-comments: []
 ---
 <p>O toamna, cat te-am asteptat!</p>
 <p><a href="http://www.flickr.com/photos/janos/6138225670/" title="Parapante deasupra Ignisului"><img src="http://farm7.static.flickr.com/6089/6138225670_c315bfc9fb.jpg" width="500" height="334" alt="Parapante deasupra Ignisului"></a></p>

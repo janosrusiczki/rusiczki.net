@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: The automotive pleasures of life
-author: János
-wordpress_id: 494
-wordpress_url: http://www.rusiczki.net/wp/?p=494
-date: !binary |-
-  MjAwOC0wNC0wMyAxNzoxNToyMyArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wNC0wMyAxNDoxNToyMyArMDIwMA==
+date: 2008-04-03 17:15:23 +0200
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>Hey, I have to share this.<br />
 I just LOVE driving up to my parents house in Baia Sprie after work. I like being alone in <a href="http://www.flickr.com/photos/janos/1777770142/">the car</a> with my music and my thoughts. I just hope I won't smash into something or someone as a result of being too absorbed. But I generally like driving. A LOT. And I'm not having these driving sessions just for the sake of driving, I usually do the 2 by 10 kilometers to pick up something I received by mail. As I still list my Baia Sprie address although I live in Baia Mare since 2004...<br />

@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: A wish
-author: János
-wordpress_id: 138
-wordpress_url: http://www.rusiczki.net/wp/?p=138
-date: !binary |-
-  MjAwMy0wNC0wMyAwMzowODozOCArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0wNC0wMyAwMDowODozOCArMDIwMA==
+date: 2003-04-03 03:08:38 +0200
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Oh, how I wish I would have PHP on my Palm. But then again. If I think about it...<br />
 What's given: The 8 Megs of RAM of the Palm m500.<br />

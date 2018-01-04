@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Elasticity of the demand / offer
-author: János
-wordpress_id: 55
-wordpress_url: http://www.rusiczki.net/wp/?p=55
-date: !binary |-
-  MjAwMy0wMS0xMSAwNjo0OTozOSArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMS0xMSAwMzo0OTozOSArMDEwMA==
+date: 2003-01-11 06:49:39 +0100
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>Elasticity of the demand:<br />
 E<sub>cpx</sub> = - ((C<sub>1</sub> - C<sub>0</sub>) / C<sub>0</sub>) / ((P<sub>1</sub> - P<sub>0</sub>) / P<sub>0</sub>)) which can be written as: E<sub>cpx</sub> = - %&Delta;C / %&Delta;P where:<br />

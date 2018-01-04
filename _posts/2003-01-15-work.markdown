@@ -1,18 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
 title: Work...
-author: János
-wordpress_id: 64
-wordpress_url: http://www.rusiczki.net/wp/?p=64
-date: !binary |-
-  MjAwMy0wMS0xNSAyMzo1OTo0NyArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMS0xNSAyMDo1OTo0NyArMDEwMA==
+date: 2003-01-15 23:59:47 +0100
 categories:
 - Work
-tags: []
-comments: []
 ---
 <p>Another day of work. Now I'm even considering myself extreme. 'Cause I'm working on two projects simultaneously... Hehe. Hope it will show. At least financially. Anyway, I'm flat tired. Can barely wait to jump into bed.</p>

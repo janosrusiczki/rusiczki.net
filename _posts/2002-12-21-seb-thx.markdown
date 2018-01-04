@@ -1,18 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
 title: Seb - Thx
-author: János
-wordpress_id: 9
-wordpress_url: http://www.rusiczki.net/wp/?p=9
-date: !binary |-
-  MjAwMi0xMi0yMSAyMTowNjoyNCArMDEwMA==
-date_gmt: !binary |-
-  MjAwMi0xMi0yMSAxODowNjoyNCArMDEwMA==
+date: 2002-12-21 21:06:24 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p><a href="http://www.drumandbass.ro/dnb/mp3/seb/" title="yeah!">Here's the mix.</a></p>

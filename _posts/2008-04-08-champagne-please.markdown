@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Champagne please
-author: János
-wordpress_id: 506
-wordpress_url: http://www.rusiczki.net/wp/?p=506
-date: !binary |-
-  MjAwOC0wNC0wOCAxMTo1ODo1MCArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wNC0wOCAwODo1ODo1MCArMDIwMA==
+date: 2008-04-08 11:58:50 +0200
 categories:
 - Web
-tags: []
-comments: []
 ---
 <p>Entry number 500. FIVE HUNDRED. Whoohoo, hurray me!<br />
 Kitsched! - The worthless yekkings of J&aacute;nos Rusiczki - Getting on your nerves <a href="http://www.rusiczki.net/blog/archives/2002/12/20/restart">since December 2002</a>...<br />

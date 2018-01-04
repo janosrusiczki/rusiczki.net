@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: 3... 2... 1...
-author: János
-wordpress_id: 14
-wordpress_url: http://www.rusiczki.net/wp/?p=14
-date: !binary |-
-  MjAwMi0xMi0yMyAyMTowMTo1NCArMDEwMA==
-date_gmt: !binary |-
-  MjAwMi0xMi0yMyAxODowMTo1NCArMDEwMA==
+date: 2002-12-23 21:01:54 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p><a href="http://www.rusiczki.net/blog/blogpics/christmas_tree.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/christmas_tree.php','popup','width=400,height=533,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.rusiczki.net/blog/blogpics/christmas_tree-thumb.jpg" width="150" height="199" border="0" alt="Christmas Tree" class="postimage" /></a> OK. I rushed it with my last entry. Story: I woke up (phone call). Peeked out on the window. Saw snow falling. Wrote blog entry. Went back to sleep. When I woke up again after about 3 hours there was no trace of snow falling from the sky. The level of snow only raised with about 3 centimeters. Too bad.<br />
 But there's a chance of boarding. The guys from the gang are going to spend Christmas Eve at a nearby resort. And they invited me. But I don't think I'll be going. There are several reasons: I must decorate the Christmas tree tomorrow (which got into it's place today - see picture), I should work (even now) on a project which must be partly finished for the 1st of January 2003 (I very much doubt it will be ready in time - more on this another time), I should spend Christmas with my parents (it's nice this way) and most important I should spend some time with my cousin who came home from Spain! Last time he visited back this spring after a year and a few months of being gone. We spent some time together back then, and it was very cool. And now he's back again. Actually it was known that he's not coming because he wanted this to be a surprise for his Mum. Nice surprise!<br />

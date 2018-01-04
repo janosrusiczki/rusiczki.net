@@ -1,28 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: The pre 30 depression
-author: János
-wordpress_id: 755
-wordpress_url: http://www.rusiczki.net/?p=755
-date: !binary |-
-  MjAwOS0wNC0xNiAxMDozMzo1NSArMDIwMA==
-date_gmt: !binary |-
-  MjAwOS0wNC0xNiAwNzozMzo1NSArMDIwMA==
+date: 2009-04-16 10:33:55 +0200
 categories:
 - Life
-tags: []
-comments:
-- id: 1083
-  author: Lucian
-  author_email: 
-  author_url: http://www.lucianmarin.ro/
-  date: !binary |-
-    MjAwOS0wNC0xNiAxMTo1NDoxOSArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOS0wNC0xNiAwODo1NDoxOSArMDIwMA==
-  content: on the topic, try to find this movie - http://www.workingmansdeath.com/
 ---
 <p>Yep, tomorrow will be the day when I'll, as Romanians (and maybe others) say, change the prefix. I'm sure I'll add a post to mark this glorious occasion, but for now I want to vent in a more negative voiced entry about stuff that I've been thinking about lately.</p>
 <p>Looking back at the last 10 years, I haven't accomplished that much. I started as a kid and ended as kid, at least at heart. The greatest breaktrough was getting a partner in life to whom I'm grateful beyond words for being there and helping me through some fairly tough times. Thank you, Ioana.</p>

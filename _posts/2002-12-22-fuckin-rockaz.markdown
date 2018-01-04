@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Fuckin' Rockaz
-author: János
-wordpress_id: 10
-wordpress_url: http://www.rusiczki.net/wp/?p=10
-date: !binary |-
-  MjAwMi0xMi0yMiAwNTowMTowMCArMDEwMA==
-date_gmt: !binary |-
-  MjAwMi0xMi0yMiAwMjowMTowMCArMDEwMA==
+date: 2002-12-22 05:01:00 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 And when I say "fuckin' rockaz" I mean **FUCKING ROCKERS**.
 

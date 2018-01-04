@@ -1,29 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: To Cluj and back
-author: János
-wordpress_id: 266
-wordpress_url: http://www.rusiczki.net/wp/?p=266
-date: !binary |-
-  MjAwNC0wMy0zMSAyMzozMzozMSArMDIwMA==
-date_gmt: !binary |-
-  MjAwNC0wMy0zMSAyMDozMzozMSArMDIwMA==
+date: 2004-03-31 23:33:31 +0200
 categories:
 - Life
-tags: []
-comments:
-- id: 48
-  author: kit
-  author_email: sorry@no-mails.please
-  author_url: http://homepage.mac.com/cpaul/iblog/
-  date: !binary |-
-    MjAwNC0wNC0wMSAxMDoxNjozNiArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNC0wNC0wMSAwNzoxNjozNiArMDIwMA==
-  content: ! 'Thanks for the pictures!, I miss Cluj as I did not set foot there since
-    last year. Zorro, Insomnia, Speed? Never heard of. And that''s a good thing '
 ---
 <p>I was out for the very end of last weekend and the start of this week. I had a thought on Sunday afternoon and the next thing was that I climbed the bus and I was on my way to Cluj-Napoca. I had a lovely girlfriend and an iPod battery waiting for me after all. And boy, we had some great fun these days!<br />
 We walked around the town a lot so I took some pictures as I realized that even though I visited Cluj probably a million times I have almost no pictures of the town itself. Haven't shot that many pictures this time either and even fewer made it to <a href="http://www.rusiczki.net/gallery/">my gallery</a> but I promised myself that from now on I'll dedicate some space on my compact flash card for the picutres of the towns I visit themselves. Also shot some pics in Insomnia, a bar which impressed me a lot.<br />

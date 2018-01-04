@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Oscars
-author: János
-wordpress_id: 125
-wordpress_url: http://www.rusiczki.net/wp/?p=125
-date: !binary |-
-  MjAwMy0wMy0yNCAwMzozNTowOSArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMy0yNCAwMDozNTowOSArMDEwMA==
+date: 2003-03-24 03:35:09 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Yes. I'm awake. And I'm watching them.<br />
 As usual.</p>

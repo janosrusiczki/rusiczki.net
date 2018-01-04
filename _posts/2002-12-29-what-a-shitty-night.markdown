@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: What a shitty night
-author: János
-wordpress_id: 26
-wordpress_url: http://www.rusiczki.net/wp/?p=26
-date: !binary |-
-  MjAwMi0xMi0yOSAwNjoyMDoyMyArMDEwMA==
-date_gmt: !binary |-
-  MjAwMi0xMi0yOSAwMzoyMDoyMyArMDEwMA==
+date: 2002-12-29 06:20:23 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Yeah. It was a really shitty night.<br />
 I'm bored.<br />

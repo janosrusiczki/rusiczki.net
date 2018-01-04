@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Slow days
-author: János
-wordpress_id: 174
-wordpress_url: http://www.rusiczki.net/wp/?p=174
-date: !binary |-
-  MjAwMy0wOC0yMSAxNDoyNzoxMyArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0wOC0yMSAxMToyNzoxMyArMDIwMA==
+date: 2003-08-21 14:27:13 +0200
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Not much happening.<br />
 Hot, late-summer days go by. I should work but instead I stare most of the time at my computer's monitor. Doing various stuff. Nothing really important. Moving MP3s from one folder to another and other challenging stuff like this.<br />

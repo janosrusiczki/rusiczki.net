@@ -1,38 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Kindle Paperwhite - Differences between first (2012) and second (2013) generations
-author: János
-wordpress_id: 4642
-wordpress_url: http://www.rusiczki.net/?p=4642
-date: !binary |-
-  MjAxMy0xMS0yMyAyMjowMjozMCArMDEwMA==
-date_gmt: !binary |-
-  MjAxMy0xMS0yMyAxOTowMjozMCArMDEwMA==
+date: 2013-11-23 22:02:30 +0100
 categories:
 - Technical
 - Photos
-tags: []
-comments:
-- id: 28868
-  author: yoyo
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAxMy0xMS0yNCAxMzoyMjowMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMy0xMS0yNCAxMDoyMjowMCArMDEwMA==
-  content: Very nice comparison pictures :)
-- id: 28878
-  author: anupam
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAxNC0wMy0yOCAyMjo0MTowMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAxNC0wMy0yOCAxOTo0MTowMCArMDEwMA==
-  content: thanks a lot
 ---
 <p>The older Kindle (and its box) is always on the left.</p>
 <p><a href="http://www.rusiczki.net/wp-content/uploads/2013/11/PB230044_DxOPsp.jpg"><img class="alignnone size-medium wp-image-4632" alt="Kindle Paperwhite - Front of the boxes" src="http://www.rusiczki.net/wp-content/uploads/2013/11/PB230044_DxOPsp-693x525.jpg" width="693" height="525" /></a><br />

@@ -1,18 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
 title: Snowed in
-author: János
-wordpress_id: 247
-wordpress_url: http://www.rusiczki.net/wp/?p=247
-date: !binary |-
-  MjAwNC0wMi0xMSAyMzo0NjoyMiArMDEwMA==
-date_gmt: !binary |-
-  MjAwNC0wMi0xMSAyMDo0NjoyMiArMDEwMA==
+date: 2004-02-11 23:46:22 +0100
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>Badly. In fact I never ever seen weather like we had today. It snowed all through last night and most of today so there's quite a quantity of snow. But this wasn't enough as the punishment for the minispring we were given a few days ago. The wind started blowing. Hard. I look out and it looks like Siberia. Not that I ever saw Siberia. Brrr!</p>

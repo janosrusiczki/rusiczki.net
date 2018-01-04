@@ -1,15 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: First snow = First snowboarding trip
-author: János
-wordpress_id: 424
-wordpress_url: http://www.rusiczki.net/wp/?p=424
-date: !binary |-
-  MjAwNi0xMS0wNSAyMTozOTo1NCArMDEwMA==
-date_gmt: !binary |-
-  MjAwNi0xMS0wNSAxODozOTo1NCArMDEwMA==
+date: 2006-11-05 21:39:54 +0100
 categories:
 - Life
 - Snowboard

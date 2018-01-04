@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Gilles Peterson
-author: János
-wordpress_id: 105
-wordpress_url: http://www.rusiczki.net/wp/?p=105
-date: !binary |-
-  MjAwMy0wMi0yMiAxNDoyNzowOSArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMi0yMiAxMToyNzowOSArMDEwMA==
+date: 2003-02-22 14:27:09 +0100
 categories:
 - Music
-tags: []
-comments: []
 ---
 <p>I mentioned this before but I think it definetly worths a separate post. So:<br />
 This Gilles Peterson CD (BrokenFolkFunkLatinSoul) is absolutely great!</p>

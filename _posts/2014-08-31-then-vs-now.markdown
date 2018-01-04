@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Then vs. Now
-author: János
 categories:
 - Life
 ---

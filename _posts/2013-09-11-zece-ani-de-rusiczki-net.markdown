@@ -1,46 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Zece ani de rusiczki.net
-author: János
-wordpress_id: 4504
-wordpress_url: http://www.rusiczki.net/?p=4504
-date: !binary |-
-  MjAxMy0wOS0xMSAwOTozMDowMCArMDIwMA==
-date_gmt: !binary |-
-  MjAxMy0wOS0xMSAwNjozMDowMCArMDIwMA==
+date: 2013-09-11 09:30:00 +0200
 categories:
 - General
-tags: []
-comments:
-- id: 28846
-  author: Andrei Albu
-  author_email: 
-  author_url: http://andreialbu.com/
-  date: !binary |-
-    MjAxMy0wOS0xMSAxMDozNDowMCArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMy0wOS0xMSAwNzozNDowMCArMDIwMA==
-  content: La multi ani, pionierule! Sa ne auzim cu bine peste inca 10 ani :)
-- id: 28847
-  author: János
-  author_email: 
-  author_url: http://www.rusiczki.net/
-  date: !binary |-
-    MjAxMy0wOS0xMSAxMDozNTowMCArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMy0wOS0xMSAwNzozNTowMCArMDIwMA==
-  content: Te chem la party! :)
-- id: 28850
-  author: Kit
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAxMy0wOS0zMCAxMTozNDowMCArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMy0wOS0zMCAwODozNDowMCArMDIwMA==
-  content: La multi ani!
 ---
 <p>Acuma observ că aparent mi-am cumpărat domeniul la fix 2 ani după tragicul eveniment din State, adică pe 11 septembrie 2013... Mă rog, e mai plauzibil să cred că trăiam într-o perioadă aeriană pe atunci și nu prea eram conștient ce dată e. M-am hotărât să-mi cumpăr propriul domeniu după ce <a href="http://www.rusiczki.net/2003/02/19/ready-to-shop-til-i-drop/">am pus mâna</a> pe super cardul Taifun de la Bancpost și după ce a expirat domeniul resurseweb.net cumpărat de către altcineva pentru mine cu un an înainte.</p>
 <p>Gândindu-mă în retrospectivă s-au întâmplat tare multe în ultimii 10 ani. În zona online, mai precis în a așa zisei blogosfere românești, au venit și s-au dus mulți, alții s-au mutat și iar alții s-au reinventat chiar de mai multe ori în timp ce eu am rămas în aproximativ același format la aceiași adresă... Asta cred că și fiindcă sunt un soi de mini <a href="http://en.wikipedia.org/wiki/Compulsive_hoarding">hoarder</a> și mi-e tare greu să renunț la lucruri. Cu atât mai greu mi-e să renunț la un domeniu ce ține o grămadă de postări în care am investit atâta timp. Poate că unele postări nu mă mai reprezintă dar sunt oricum interesante de citit - sunt foarte multe amintiri conservate pe aici... În puternic contrast cu efemeritatea rețelelor sociale care sunt atât de la modă în ziua de azi.</p>

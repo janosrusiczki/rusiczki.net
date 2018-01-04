@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: My town's days
-author: János
-wordpress_id: 171
-wordpress_url: http://www.rusiczki.net/wp/?p=171
-date: !binary |-
-  MjAwMy0wOC0xNiAxNjozMToyMiArMDIwMA==
-date_gmt: !binary |-
-  MjAwMy0wOC0xNiAxMzozMToyMiArMDIwMA==
+date: 2003-08-16 16:31:22 +0200
 categories:
 - General
-tags: []
-comments: []
 ---
 <p>Yes. It's that time of the year. When all gather to celebrate Baia Sprie's days. My opinion? It's a huge gathering of idiots and mostly gypsies. I guess tonight will be cute anyway I because there'll be fireworks and I always liked them. But as it looks now I think I won't attend. I will go out and snap some pics later this afternoon though.<br />
 Yesterday I took some pictures too. For the local paper of course. I snapped the crowd around the catholic church with some stands selling forgettable memorabilia, some pics inside the church during the festive mass and then after a break I went to where I liked it the most, somekind of a local art gallery which was setup especially for the occasion. This meant that local artists and associations exposed their works. Mostly nice and even very nice stuff except the kiddish works of the local <i>Women's Association</i> which made me think that they were done mostly for the sake of being done ('Girls, we MUST present something!'). They were cute at a level, but they had absolutely no artistical meaning whatsoever.<br />

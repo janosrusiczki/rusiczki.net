@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Rhythm & Blues
-author: János
-wordpress_id: 132
-wordpress_url: http://www.rusiczki.net/wp/?p=132
-date: !binary |-
-  MjAwMy0wMy0yOCAwMTozMTo1NSArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMy0yNyAyMjozMTo1NSArMDEwMA==
+date: 2003-03-28 01:31:55 +0100
 categories:
 - General
-tags: []
-comments: []
 ---
 <blockquote><i>Mary's got the same size hands<br />
 As Marilyn Monroe<br />

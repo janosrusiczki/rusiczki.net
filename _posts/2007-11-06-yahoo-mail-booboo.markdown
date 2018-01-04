@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Yahoo! Mail booboo
-author: János
-wordpress_id: 480
-wordpress_url: http://www.rusiczki.net/wp/?p=480
-date: !binary |-
-  MjAwNy0xMS0wNiAxMToxMjo1OSArMDEwMA==
-date_gmt: !binary |-
-  MjAwNy0xMS0wNiAwODoxMjo1OSArMDEwMA==
+date: 2007-11-06 11:12:59 +0100
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 <p><a href="http://www.rusiczki.net/blog/blogpics/yahoo-mail-down.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/yahoo-mail-down.php','popup','width=782,height=548,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.rusiczki.net/blog/blogpics/yahoo-mail-down-thumb.gif" width="500" height="350" border="0" alt="Yahoo! Mail - Can't talk now. System's down." class="image"/></a><br />
 Never - ever saw Yahoo! Mail having an outage before. That's why I marked the occasion with a screenshot.<br />

@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Alți 10 ani
-author: János
-wordpress_id: 4793
-wordpress_url: http://www.rusiczki.net/?p=4793
-date: !binary |-
-  MjAxNC0wOC0yMiAxMDo0MzoxOCArMDIwMA==
-date_gmt: !binary |-
-  MjAxNC0wOC0yMiAwNzo0MzoxOCArMDIwMA==
+date: 2014-08-22 10:43:18 +0200
 categories:
 - Life
-tags: []
-comments: []
 ---
 [![Cluj - Bila din Zorilor](http://www.rusiczki.net/wp-content/uploads/2014/08/P7030435-693x462.jpg)](http://www.rusiczki.net/wp-content/uploads/2014/08/P7030435.jpg)
 

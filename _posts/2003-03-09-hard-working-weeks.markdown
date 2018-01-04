@@ -1,19 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Hard working weeks
-author: János
-wordpress_id: 114
-wordpress_url: http://www.rusiczki.net/wp/?p=114
-date: !binary |-
-  MjAwMy0wMy0wOSAyMzo1MDowNSArMDEwMA==
-date_gmt: !binary |-
-  MjAwMy0wMy0wOSAyMDo1MDowNSArMDEwMA==
+date: 2003-03-09 23:50:05 +0100
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>There went two really busy weeks, two weeks in which I basically worked, cancelled that trip I was talking about, massively skipped school and I started going to the swimming pool. To swim...<br />
 Work: I made a <a href="http://logger.zonegsm.com" title="The ZoneGSM.COM Logger">web interface</a> for a GSM Unlocking solution through the web. For my good old trusty French client. With whom I'm working now since more than one year.<br />

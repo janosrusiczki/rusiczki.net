@@ -1,42 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Despre f64.ro, Olympus și serviciile clienți din România
-author: János
-wordpress_id: 4531
-wordpress_url: http://www.rusiczki.net/?p=4531
-date: !binary |-
-  MjAxMy0xMC0wNCAxNzoxNjo0MiArMDIwMA==
-date_gmt: !binary |-
-  MjAxMy0xMC0wNCAxNDoxNjo0MiArMDIwMA==
+date: 2013-10-04 17:16:42 +0200
 categories:
 - Technical
-tags: []
-comments:
-- id: 28851
-  author: Norbert Popovic
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAxMy0xMC0wNCAyMTo1MTowMCArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMy0xMC0wNCAxODo1MTowMCArMDIwMA==
-  content: ! "Salut tati\n\nCa si \"proprietar de garaj\" ca sa il citezi pe unul
-    din clientii mei, pot spune urmatoarele:\nConform legislatiei in vigoare (in tara
-    de cacat in care traim,  hhheelllloouu Romania), eu stiu ca vanzatorul (magazin,
-    service,f64...etc) are obligatia de a rezolva un astfel de caz in 10 zile.\nAdica,
-    ei trebuie sa iti inlocuieasca produsul in termen maxim de 15 zile.\nCa ei dupa
-    acea isi pierd timpul cu furnizorul (producatorul etc) si 3 luni sau sase luni,
-    e treaba lor.\n\n(4)Orice reparare sau înlocuire a produselor va fi facuta în
-    cadrul unei perioade rezonabile de timp, stabilita de \ncomun acord, în scris,
-    între vânzator si consumator, si fara niciun inconvenient semnificativ pentru
-    \nconsumator, luându-se în considerare natura produselor si scopul pentru care
-    acesta a solicitat produsele. \nPerioada de timp stabilita nu poate depasi 15
-    zile calendaristice de la data la care cumparatorul a adus la \ncunostinta vânzatorului
-    lipsa de conformitate a produsului. \n(5)În cazul repararii produsului, în acesta
-    vor fi montate numai piese noi.\n\nmai jos gasesti si linkul cu H.G. 449 din 2003\nhttp://www.adpar.ro/files/legislatie_nationala/LEGE%20nr%20449_2003%20privind%20vanzarea%20produselor%20si%20garantiile%20asociate%20acestora.pdf\n\nsper
-    sa te ajute"
 ---
 <p><a href="http://www.rusiczki.net/wp-content/uploads/2013/10/OI000020.jpg"><img class="alignnone size-medium wp-image-4570" alt="Card fidelitate f64.ro" src="http://www.rusiczki.net/wp-content/uploads/2013/10/OI000020-693x519.jpg" width="693" height="519" /></a></p>
 <p>Miercurea trecută am cedat tentației și dacă tot a fost promoție pe f64.ro am cumpărat un aparat Olympus E-P5 împreuna cu un obiectiv Zuiko 45mm/1.8. A fost vorba de un pachet promoțional și în felul acesta pentru obiectivul care costă în mod normal cca 1500 RON nu am plătit nimic.</p>

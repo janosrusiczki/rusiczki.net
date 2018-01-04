@@ -1,32 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Good times
-author: János
-wordpress_id: 540
-wordpress_url: http://www.rusiczki.net/wp/?p=540
-date: !binary |-
-  MjAwOC0wOS0yOSAxNjozNzoyNSArMDIwMA==
-date_gmt: !binary |-
-  MjAwOC0wOS0yOSAxMzozNzoyNSArMDIwMA==
+date: 2008-09-29 16:37:25 +0200
 categories:
 - Fun
 - Video
 - Helicopter
-tags: []
-comments:
-- id: 520
-  author: Vlad
-  author_email: 
-  author_url: http://vlad.bailescu.ro/
-  date: !binary |-
-    MjAwOC0wOS0yOSAxNzoxMjo0OCArMDIwMA==
-  date_gmt: !binary |-
-    MjAwOC0wOS0yOSAxNDoxMjo0OCArMDIwMA==
-  content: ! 'And the blades go... chop! chop! schwing!
-
-'
 ---
 <p>I'll keep it short and let the videos do the talking.</p>
 <p>Here's some weekend action. First a lame forward flight:</p>

@@ -1,32 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Yes, I'm alive
-author: János
-wordpress_id: 462
-wordpress_url: http://www.rusiczki.net/wp/?p=462
-date: !binary |-
-  MjAwNy0wNS0wMyAxMDowOTowMyArMDIwMA==
-date_gmt: !binary |-
-  MjAwNy0wNS0wMyAwNzowOTowMyArMDIwMA==
+date: 2007-05-03 10:09:03 +0200
 categories:
 - Life
 - Photos
-tags: []
-comments:
-- id: 423
-  author: RS
-  author_email: 
-  author_url: ''
-  date: !binary |-
-    MjAwNy0wNS0wMyAxOTozNzowMCArMDIwMA==
-  date_gmt: !binary |-
-    MjAwNy0wNS0wMyAxNjozNzowMCArMDIwMA==
-  content: ! 'Thanks for taking pics on your journeys! We''ll be in maramures in...4
-    weeks! Looks like it is already pretty green. :)
-
-'
 ---
 <p><a href="http://www.flickr.com/photos/janos/460128114/"><img src="http://farm1.static.flickr.com/231/460128114_57098cf866.jpg" alt="Barsana Monastery" width="500" height="357" border="0" class="image" /></a><br />
 Mostly busy. When I'm not, "I'm going places"<sup><a href="http://astateofmind.pluto.ro">&copy;</a></sup> with Ioana.</p>

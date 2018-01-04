@@ -1,32 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Activitate distribuita
-author: János
-wordpress_id: 1184
-wordpress_url: http://www.rusiczki.net/?p=1184
-date: !binary |-
-  MjAxMS0wNC0xMSAxMjowNjo0OCArMDIwMA==
-date_gmt: !binary |-
-  MjAxMS0wNC0xMSAwOTowNjo0OCArMDIwMA==
+date: 2011-04-11 12:06:48 +0200
 categories:
 - Web
 - Technical
 - Română
-tags: []
-comments:
-- id: 19737
-  author: Whiteman
-  author_email: 
-  author_url: http://andreialbu.com
-  date: !binary |-
-    MjAxMS0wNS0xNyAxMjowNzo1NSArMDIwMA==
-  date_gmt: !binary |-
-    MjAxMS0wNS0xNyAwOTowNzo1NSArMDIwMA==
-  content: ! 'Din cele enumerate, folosesc doar 3: facebook care e addictive ca naiba,
-    twitter - mai mult ca sa-mi promovez blogul si foursquare pe care mi l-ai sugerat
-    in imensa ta intelepciune :)'
 ---
 <p>Sau pe unde mai activez pe Internet.</p>
 <p>Ma gandeam de foarte multa vreme sa postez ceva de genul asta aici dar o voi face doar acum. Nu stiu de ce am intarziat, poate fiindca imi era lene sau nu eram sigur daca voi utiliza pe termen lung serviciile respective dar acum se pare ca m-am mai stabilizat. In sensul ca nu ma mai inregistrez in fiecare zi pe 6 site-uri doar pentru a le abandona in scurt timp, asa cum faceam acum cativa ani, cuprins de febra web 2.0.</p>

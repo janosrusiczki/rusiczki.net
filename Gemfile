@@ -21,4 +21,6 @@ gem "jekyll", "~> 3.6.2"
 group :jekyll_plugins do
   gem 'jekyll-feed', '~> 0.6'
   gem 'jekyll-paginate'
+  gem 'jekyll_asset_pipeline'
+  gem 'jekyll-algolia', '~> 1.0'
 end

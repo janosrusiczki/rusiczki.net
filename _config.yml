@@ -27,5 +27,9 @@ github:
 disqus:
   username: kitsched
 
+algolia:
+  application_id: 'WMKRED0LJU'
+  index_name:     'janosrusiczki'
+
 exclude:
   - README.md

@@ -13,7 +13,6 @@ date_gmt: !binary |-
 categories:
 - Life
 tags: []
-comments: []
 ---
 <p>Sitting in front of my computer. Clicking this and that while banging the speakers with Tom Middleton's remix of Rob Dougan's <i>Clubbed to Death</i>.<br />
 OK, OK, but what's wrong with that? Nothing really, just the small fact that it's Saturday night. It's so ugly when your favourite club closes. Favourite is in fact a bit too much to say, but having no place cool to go out during the weekend is a completely different story.<br />

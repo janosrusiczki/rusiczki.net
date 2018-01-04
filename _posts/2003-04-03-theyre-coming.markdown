@@ -13,33 +13,6 @@ date_gmt: !binary |-
 categories:
 - General
 tags: []
-comments:
-- id: 7
-  author: János
-  author_email: 
-  author_url: http://www.rusiczki.net
-  date: !binary |-
-    MjAwMy0xMC0wMSAwMjozODoxNCArMDIwMA==
-  date_gmt: !binary |-
-    MjAwMy0wOS0zMCAyMzozODoxNCArMDIwMA==
-  content: ! 'I think this was an April the 1st hoax.
-
-    But it looked so credible. ;-)
-
-'
-- id: 8
-  author: János
-  author_email: 
-  author_url: http://www.rusiczki.net
-  date: !binary |-
-    MjAwMy0xMC0wMSAwMjo0MDo0OSArMDIwMA==
-  date_gmt: !binary |-
-    MjAwMy0wOS0zMCAyMzo0MDo0OSArMDIwMA==
-  content: ! 'Looked it up on snopes.com -
-
-    <a href="http://www.snopes.com/humor/iftrue/insider.htm" rel="nofollow">http://www.snopes.com/humor/iftrue/insider.htm</a>
-
-'
 ---
 <p><a title="Yahoo! TV: Entertainment News & Gossip - 'TIME-TRAVELER' BUSTED FOR INSIDER TRADING" href="http://tv.yahoo.com/news/wwn/20030319/104808600007.html"> 'TIME-TRAVELER' BUSTED FOR INSIDER TRADING</a><br />
 This is funny and weird. But the following phrase really grabbed my attention:</p>

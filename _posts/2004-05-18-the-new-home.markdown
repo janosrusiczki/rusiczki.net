@@ -12,4 +12,3 @@ I want to thank all those that <a href="http://www.rusiczki.net/blog/archives/20
 On the other hand I hope I will survive these next days because tomorrow night I have to get on the train to take my French partner back to Bucharest and wait until he takes his plane, than directly from there it looks like I'm going to Timisoara where I'll meet up with the Romanian drum'n'bass massive and then home to install Internet and move my ass to the new place. Compare this to my usual relaxed schedule and it looks like pure madness! Especially the Bucharest part, a city that I truly hate as I can't stand that permanent rush. But as nobody died yet from going to Bucharest I think I'll manage. I'll just be a little tired at Timisoara.
 
 But I have a nice place to stay.
-

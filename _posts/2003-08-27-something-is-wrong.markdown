@@ -8,4 +8,3 @@ categories:
 Lately I've been really productive.
 
 I hope I won't break the spell.
-

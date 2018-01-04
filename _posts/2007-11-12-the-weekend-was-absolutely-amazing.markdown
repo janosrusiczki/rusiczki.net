@@ -17,4 +17,3 @@ Later the clouds cleared up yet more, revealing <a href="http://www.flickr.com/p
 Sunday we went up to the Roata slope at Cavnic because we heard that they've started up the skilift. It was nice, but nothing out of the ordinary. You know, same old Cavnic, same old Roata. Well, except maybe that we were boarding on the 11th of November like it was January / February.
 
 Once back in Baia Mare we (as in <a href="http://www.flickr.com/photos/ioana/">Ioana</a> and the undersigned) attended the glorious ceremony of my graduation from a n00b driver to a fully-fledged-no-more-stupid-yellow-circle-with-an-exclamation-sign-in-the-middle "pro". Hehehe. Aka, 1 year passed since I acquired my driving license. Without as much of a scratch on the car(s) - except a few close calls. Touch wood and hurray me! Don't miss <a href="http://www.flickr.com/photos/janos/archives/date-posted/2007/11/11/">Sunday's photos on Flickr.</a>
-

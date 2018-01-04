@@ -26,4 +26,3 @@ Si acum, marea dezvaluire: de fapt tot ceea ce ati citit pana acum a fost o intr
 Sunt destul de multumit de performanta si sunt chiar si mai multumit de noua furca - cu care am reusit sa cobor pe bicicleta (si nu pe langa) zona tehnica de dupa saua Trei Stejari. Sa tot fie zile de astea. :)
 
 Si daca tot veni vorba: sountrack-ul a fost <a href="http://www.amazon.co.uk/gp/product/B003JBYBHU/ref=as_li_ss_tl?ie=UTF8&tag=kits-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=B003JBYBHU">Schiller - Atemlos</a> (sau pe <a href="http://grooveshark.com/#/search?q=atemlos">Grooveshark</a>). Unul dintre cele mai frumoase albume gasite in ultima vreme care-mi face mereu placere sa-l ascult.
-

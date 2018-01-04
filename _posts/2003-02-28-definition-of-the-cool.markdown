@@ -8,4 +8,3 @@ categories:
 I'm sitting in the dark listening to an Adam Freeland live set. It's really soothing! :-)
 
 But I'm thinking about the heap of work that needs to be done for tonight. Hmmm... Not quite so soothing. I better get to work!
-

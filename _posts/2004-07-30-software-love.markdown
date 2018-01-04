@@ -12,4 +12,3 @@ Following <a href="http://www.timbru.com/jurnal/2004/Jul/gen_iphoto_pentru_windo
 They say this software resembles <a href="http://www.apple.com/iphoto">iPhoto</a> and I can't really say whether it does or doesn't since I never saw iPhoto working, but I can say it's incredibly smooth and intuitive. It doesn't have fancy picture editing features (but who needs that when you have Photoshop?) but it's got all the functions I need when looking at my photos, like rotating the picture or the red-eye reduction (one of the best algorithms I saw).
 
 What can I say? Hello Picasa, and welcome into my life. :-)
-

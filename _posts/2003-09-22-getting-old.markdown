@@ -12,4 +12,3 @@ The way I got invited to this friend's wedding is a rather interesting story. Th
 Two weeks ago I get this nice invitation to the marriage of Flaviu and Anca. The shock came again. Then I got used to the idea. But I discovered that their marriage is on the same date as the biggest and most important <a href="http://www.castanet.ro/" title="The 'Chestnut Fest' in Baia Mare">local festival</a>. And what's better, the place where the party will be held is in the center of the festival's place. Hah. Nice. I'm eagerly waiting to walk through the boozed crowd dressed in a nice costume. His parents asked me then to confirm if I'm coming or not by phone. So I thought I'll flung out by "forgetting" to make the call.
 
 But yesterday his mother called and asked. And I said I'll tell them the answer today. And today without thinking too much I confirmed. Phew. This will surely turn out to be an interesting experience.
-

@@ -21,4 +21,3 @@ And last but not least, I'm in the process of upgrading my computer. And that me
 OK, really long post. If you came this far, congratulations!
 
 Well, that's it, boys and girls, have a Very Happy New Year and take care. :-)
-

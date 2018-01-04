@@ -12,4 +12,3 @@ And tomorrow night I can't afford to be tired. Because starting with tomorrow ni
 I just can't wait to get there! I can already feel the vibe. It's going to be so much fun with all the great music and I'll meet and personally talk with so many people who I mainly talk with on the Internet over the year... The only problem is that Ioana will be joining the fun only Saturday night because of her &lt;insert favorite negative adjective here&gt; job. But she'll be there!
 
 Ah, a few massive days ahead! :-)
-

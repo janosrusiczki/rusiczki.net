@@ -6,4 +6,3 @@ categories:
 - Life
 ---
 No comment.
-

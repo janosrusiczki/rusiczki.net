@@ -18,4 +18,3 @@ So today I took it out once again, the 1 millionth time I guess, and I discovere
 Unfortunately now even my <a href="http://www.rusiczki.net/blog/blogpics/palit_daytona_corrupted_desktop.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/palit_daytona_corrupted_desktop.php','popup','width=1152,height=837,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">Windows desktop is getting messed up</a>, strange errors appearing everywhere, so I guess it's time to say goodbye and shut down until I figure out where to get the money for a new video card. :-(
 
 <b>Update</b> OK, it's not so bad after all but I'm rather stupid. Turns out the corrupted desktop was the result of not connecting the fan to the mainboard...
-

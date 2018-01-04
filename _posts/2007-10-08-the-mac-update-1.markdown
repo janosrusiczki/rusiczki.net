@@ -13,4 +13,3 @@ I've installed the Perian extension for movies right after I reinstalled OSX but
 <a href="http://pax.mioritics.ro/">Alex</a> pointed me to an awesome site: <a href="http://osx.iusethis.com/">iusethis</a> which let's you specify the applications you use and shows you "neighbors" which are users with the same preferences as yours (&agrave; la <a href="http://www.last.fm">last.fm</a>). You can take a peek and see what else they're using but there's also a most used applications section which comes in extremely handy for a newborn Mac user. Like <a href="http://osx.iusethis.com/user/kitsched">me</a>.
 
 To be continued.
-

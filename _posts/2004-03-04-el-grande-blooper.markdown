@@ -11,4 +11,3 @@ A quote from the <a href="http://www.dol.ro">Diverta Online</a> newsletter I rec
 Well, paying a short visit to the <a href="http://www.oscar.com">official site</a> of the 76th Annual Academy Awards and following the link leading to the <a href="http://www.oscar.com/oscarnight/winners/index.html">winners list</a> proves that the 'Send Newsletter' button was pushed in a hurry somewhere in Bucharest. The actual winner for Actress in a Leading Role is Charlize Theron for Monster and the winner for Actress in a Supporting Role is Ren&eacute;e Zellweger for Cold Mountain.
 
 Conclusion? Don't send out newsletters containing infos based on bits you remember from last night when you watched that Oscar show but in the meantime had some beers with your friends...
-

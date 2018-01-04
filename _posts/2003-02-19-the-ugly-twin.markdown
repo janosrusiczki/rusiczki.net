@@ -6,4 +6,3 @@ categories:
 - Web
 ---
 <a href="http://www.rusiczki.net.crazy.sytes.net/blog/" title="Hehehe!">This page. Messed up. Badly.</a>
-

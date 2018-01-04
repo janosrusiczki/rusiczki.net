@@ -10,4 +10,3 @@ There are not many, really. But the one thing I hate the most is when somebody p
 I've been promised a package yesterday. For this afternoon. And it's nowhere...
 
 Well, I guess tomorrow.
-

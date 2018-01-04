@@ -25,4 +25,3 @@ As I went to the middle of the field the wind picked up again, but I did a very 
 All photos by Sebastian Pintea who's videos you can see <a href="http://vimeo.com/sebip">here</a> (photos <a href="http://picasaweb.google.com/sebipmobil">here</a> and <a href="http://www.flickr.com/photos/89886495@N00/">here</a>).
 
 And five minutes after these shots we were running from the incoming (dust) storm...
-

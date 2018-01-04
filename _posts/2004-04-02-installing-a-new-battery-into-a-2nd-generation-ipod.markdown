@@ -38,4 +38,3 @@ Here are some photos of the innards:
 <li><a href="http://www.rusiczki.net/blog/blogpics/battery_alignment_cable_tucked.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/battery_alignment_cable_tucked.php','popup','width=1024,height=360,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">The battery</a> is properly aligned and it's cable is safely tucked.</li>
 </ul>
 I hope this will help at least someone out there. If you read it and find it helpful please don't forget to leave a comment as that's the only way I know I haven't wasted my time writing this. Thanks.
-

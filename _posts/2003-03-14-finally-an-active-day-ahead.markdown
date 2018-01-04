@@ -21,4 +21,3 @@ At 5:30 I must be home. Because the big party starts. One of my friends is celeb
 This means that by the morning everybody will probably be flat drunk.
 
 At least it'll be a break in the pattern.
-

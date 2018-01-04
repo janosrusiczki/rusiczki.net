@@ -16,4 +16,3 @@ Then there was a time when they thought the mosaic news ruled. I mean, what the 
 Oh and there were the news which were made into movies. With soundtracks, titles and nice reconstructions of the events. Of course they made movies only from the news that featured the bloodiest and most violent events. And I do like that they never forget to tape the howling mother / father / sister / brother. Just to make absolutely sure that the viewers feel THE PAIN. And then some more blood. And that about concludes it ladies and gentlemen, back to <a href="http://e-gmp.netfirms.com/esca.html" title="A truely nice clip with Esca">Andreea Esca's</a> face who's ready to announce the next horror.
 
 Why do I watch them? The answer lies somewhere along the one to: 'Why do I visit <a href="http://www.entensity.net">Entensity</a>'?
-

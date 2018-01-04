@@ -29,4 +29,3 @@ Of course you can add as many banned keywords as you wish by simply copy - pasti
 I hope this will help some people out there having the same problems we had with those scum bags stealing their valuable server resources. And don't forget to leave a comment.
 
 <b>Update:</b> After posting this entry I did some more googling and found that others had the exact same problem. You might want to check <a href="http://www.jimwestergren.com/stop-the-topsites-spam/">Jim's solution</a> too, it's only slightly different than mine. There's also yet another <a href="http://www.jimwestergren.com/stop-the-topsites-spam/#comment-23193">alternate solution</a> in the comment's of that entry. It sure looks like those spammers caused many webmasters real problems.
-

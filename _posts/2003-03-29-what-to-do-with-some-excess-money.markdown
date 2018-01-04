@@ -10,4 +10,3 @@ categories:
 They buy a domain for a page of text nowadays. I'm still amazed by these kind of examples.
 
 Link via <a href="http://www.unix-girl.com/blog/archives/000854.html">Kasia</a>.
-

@@ -6,4 +6,3 @@ categories:
 - Technical
 ---
 That huge last post almost vanished if <a href="http://wbloggar.com/">w.bloggar's</a> undo feature wouldn't save it. I ran out of diskspace on the server or something like this... It seems that Movable Type wasn't able to write into the database. Phew!
-

@@ -6,4 +6,3 @@ categories:
 - Life
 ---
 Wow, I don't really want to feel this again. Ever. In my life.
-

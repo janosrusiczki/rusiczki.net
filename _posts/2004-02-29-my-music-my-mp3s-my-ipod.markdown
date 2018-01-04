@@ -14,4 +14,3 @@ I feel great owning an Apple product because it's so stylish and intuitive that 
 I got one more problem with it and it's quite a big one. I bought it second hand (or third, fourth or I don't know) and it's battery is slowly but surely dying on me. But I think I found a solution via a friend of a friend who lives in the US and will come to visit Romania soon. I think I'll ask him to get me a battery as almost none of the shops which sell it ship to my country and those who do apply horrific shipping charges...
 
 Until then, I'll keep on listening! :-)
-

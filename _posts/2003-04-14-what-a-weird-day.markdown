@@ -18,4 +18,3 @@ Just as the thougt passed my mind I listened horrified to the sound of my camera
 Fortunately nothing functional broke. But the outside (mostly the corners) got scratched badly. I'll never succeed selling it that's one sure thing. :-(
 
 Well... This is it.
-

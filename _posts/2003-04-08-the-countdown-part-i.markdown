@@ -8,4 +8,3 @@ categories:
 Nine days 'til my birthday.
 
 And just four until Saturday when I'll celebrate it. :-)
-

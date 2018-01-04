@@ -18,4 +18,3 @@ A little more than a month ago there came the news about <a href="http://www.typ
 And so, here I am. For 10$ / year I bought <a href="http://www.rusiczki.net" title="Welcome :)">my own domain name</a>, which everybody hates, but hey it's my name... And for 5$ a month I got some <a href="http://www.totalchoicehosting.com/" title="Total Choice Hosting">great webhosting</a>. For the moment I'm busy customizing MT's templates for my needs. And then there will come the other sections of the site.
 
 I'm quite excited and I'm eagerly looking forward for the moment when I can publicly launch my own personal site on the world wide web. Hehe.
-

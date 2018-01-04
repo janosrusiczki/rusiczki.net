@@ -6,4 +6,3 @@ categories:
 - Technical
 ---
 Now that's keyword stuffing! :) Actually with this entry I only want to further pimp one of the most successful posts on this blog: <a href="http://www.rusiczki.net/2007/01/24/sql-dump-file-splitter/">SQL Dump File Splitter</a>. If you popped in here from Google check out the link. It'll help you.
-

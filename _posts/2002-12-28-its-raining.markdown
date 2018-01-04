@@ -10,4 +10,3 @@ Great news after great news. After a bit of snow last night, now it's raining in
 It seems like a perfect day for upgrading PHP and do some other computer related work.
 
 Damn.
-

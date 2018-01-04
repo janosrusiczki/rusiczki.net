@@ -12,4 +12,3 @@ This is the question on today's Internet.
 Rather funny!
 
 Plus <a href="http://www.gapingvoid.com/">cartoons drawn on the back of business cards</a>. Weird but fun.
-

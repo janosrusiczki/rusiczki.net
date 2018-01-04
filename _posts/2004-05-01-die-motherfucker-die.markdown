@@ -10,4 +10,3 @@ Some asswipe posted about 50 comments leading to a hive of ghost sites linking e
 If you read this you can bite me suckers!
 
 <b>UPDATE</b> I think I succeeded in banning the whole hive of addresses this sucker created. So mt-comments.cgi is back in place. Comment away!
-

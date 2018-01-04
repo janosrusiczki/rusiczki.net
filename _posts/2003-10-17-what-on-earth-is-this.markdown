@@ -12,4 +12,3 @@ The method this scumbag used obviously tricked <a href="http://spamassassin.org/
 But the question is, what's the use? Why do the send out unreadable mails? Just for the sake of it? Just because they can't stop doing it? Who reads this kind of shit anyway? A beginner / average user surely not. A geek knows it's spam and will send it to trash right away. So what's the use? I really don't get it... And it's even more weird that it "advertises" university diplomas. I remember I read in some blog about something similar but I just can't remember where.
 
 It's weird anyway.
-

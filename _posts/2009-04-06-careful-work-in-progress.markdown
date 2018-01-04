@@ -14,4 +14,3 @@ There won't be any future <a href="http://www.rusiczki.net/2009/04/06/twitter-we
 <a href="http://recaptcha.net/">reCAPTCHA</a> showed up again. Why was it needed when I have Akismet activated anyway? Well, I don't like my spam counter rising - even if every spam gets moderated. It takes a human only 5 additional seconds to solve a CAPTCHA and I haven't seen one (ONE!) comment spam come through while using reCAPTCHA on the old version of the blog. So I gather that bots are having a real hard time with it.
 
 Oh, and the blog has a logo now. Thanks <a href="http://www.adnan.ro">Alin</a>!
-

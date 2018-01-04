@@ -14,4 +14,3 @@ Many would say that I shouldn't look a gift horse in the mouth, and they'd be mo
 In the meantime I'm still waiting for those first reports...
 
 <b>UPDATE:</b> Hahaha. Just my luck. The moment I published this entry the reports showed up.
-

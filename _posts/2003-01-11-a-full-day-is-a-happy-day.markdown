@@ -14,4 +14,3 @@ Came down. While taking my boots off at my Grandpa, the phone rang. Mother. I sh
 Now take a look at the pic on the left. Imagine this pigeon taken out to Austria. And imagine him getting back in less than a day to Romania. More than 400 kms in a day! That's a really amazing performance from such a small animal. Admirable.
 
 I'm slowly getting ready for Cuba again... But tonight will be a short night. Because I really do have a lot of work to do.
-

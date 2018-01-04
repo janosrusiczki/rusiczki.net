@@ -10,4 +10,3 @@ categories:
 By the way, my stomach hurts pretty bad because yesterday night I ate some grilled meat, which was absolutely fantastic. That taste... But it looks like it was little hard on my stomach because soon after I came home I jumped into the bed as I was exhausted.
 
 Yesterday night was a lot of fun. I hung out with my cousin again. And before and after eating that grilled meat we talked. We remembered. There were other guys too. And of course we condemned today's kids. And we talked about how we were superior by collecting stamps and making ourselves space ships out of unused hen coops and so on vs. today's kids who only seem interested in Counter Strike. Time passed real fast and nostalgia was coming over us. It was definitely really nice.
-

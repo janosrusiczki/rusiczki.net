@@ -20,4 +20,3 @@ Stuff worth mentioning (in no particular order, as usual):
 <li>My next dog (if it'll be a female) will be called Dashenka.</li>
 </ul>
 That's all folks. At least for now...
-

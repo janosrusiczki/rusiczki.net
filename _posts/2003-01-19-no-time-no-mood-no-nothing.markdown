@@ -14,4 +14,3 @@ Monday I have my last exam. Mathematics. The hardest. I have smart colleagues. T
 I'll get into bed in a moment. I have to sleep to have the power to learn tomorrow. I should at least solve the exercises the teacher gave us as examples...
 
 Yet again I have a bad feeling about Monday.
-

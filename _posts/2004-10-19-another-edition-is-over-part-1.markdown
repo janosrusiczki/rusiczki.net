@@ -29,4 +29,3 @@ Thursday night came and the train ride turned out a bad one as two of the guys I
 I transfered to Vera, my girlfriends friend, fastly drank 1 liter of Coke and then I was off to the first night...
 
 This post turned out huge so I'll post the second part later today.
-

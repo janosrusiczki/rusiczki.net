@@ -38,4 +38,3 @@ It does? Cool! Just a few more things and we're done. Reboot the appliance from 
 <code>mysqladmin -u root password new-password</code>
 
 Please, if this miniguide has was helpful to you, leave a comment. If there's an error in it also leave a comment so I can correct it. If you made it work differently please describe how you did it. As I'm an occasional Linux user I can't by far guarantee that my way was the best way to do it.
-

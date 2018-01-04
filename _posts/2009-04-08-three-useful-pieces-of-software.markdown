@@ -15,4 +15,3 @@ The next one is <a href="http://www.sandboxie.com/">Sandboxie</a>. Ever had doub
 The last one for today is <a href="http://tailforwin32.sourceforge.net/">Tail for Windows</a>. If you ever dabbled with Linux server administration you must know <em>tail</em> or its more useful cousin <em>tail -f</em>. I think there's no respectable admin on this planet who didn't do at least one <em>tail -f access_log</em>. What tail does is that it monitors a file for changes and practically it scrolls it front of your eyes as it happens to be modified. It's particularly useful for access logs because you can have a real time oversight of what's requested from your server. Now, if you ever needed this for Windows, there you go.
 
 Aaand without further ado that's a wrap for today.
-

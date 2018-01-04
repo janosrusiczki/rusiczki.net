@@ -14,4 +14,3 @@ This morning we were rejoicing -
 <img src="http://www.rusiczki.net/blog/blogpics/okazii_part_two_resize.gif" width="490" height="189" class="image" alt="okazii.ro screenshot #2" />
 
 Note that <a href="http://www.okazii.ro">okazii.ro</a> is the Romanian equivalent of Ebay.
-

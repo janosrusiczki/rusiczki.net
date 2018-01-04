@@ -9,4 +9,3 @@ categories:
 By clicking <a href="http://kitsched.act4trees.com/">this link</a>...
 
 <strong>Update:</strong> Close to 100 leaves now. Help me make it! Clickity click click! :)
-

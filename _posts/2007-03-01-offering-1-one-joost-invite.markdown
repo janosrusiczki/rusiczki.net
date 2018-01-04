@@ -17,4 +17,3 @@ Oh, and don't bother asking if you don't have at least a 1 megabit broadband con
 <b>LATEST UPDATE:</b> I have no invites for the moment but as soon as I'll get some I'll start sending them out in order.
 
 <b>UPDATE (April 3rd):</b> Got 5 more invites. Sent them out quickly... The last to get one was Josh.
-

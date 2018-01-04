@@ -12,4 +12,3 @@ Haven't been in the greatest mood yesterday so I haven't posted anything. When I
 Yesteday late in the evening I went to say goodbye to my cousin who left today around noon. He mentioned he's so happy to go back and, man, I believed him!
 
 Today I worked all day. Haven't learned a word. Another exam tomorrow. I have a bad feeling about it. Really bad feeling. Because I haven't liked this class as much as econimics. Haven't been that active. Maybe a miracle? Maybe not. I hope though. I'll see.
-

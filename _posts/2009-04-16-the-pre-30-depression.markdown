@@ -18,4 +18,3 @@ Another dark spot in my life is my family. As I don't have a family of mine yet 
 There are many other things I'm not pleased with and the question that pops up is: what's worth living for then? Well, beside said partner in life there are the small pleasures. I won't make a list because I'd surely forget something but there are things that put a smile on my face and for which I should be really grateful. And I usually am.
 
 Re-reading this post I realized that it turned out to be mostly about work, but that's sort of normal. After all that's the thing I do most of the time. And will be doing it for many more years...
-

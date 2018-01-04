@@ -13,4 +13,3 @@ This is excellent news for all the Romanian freelancers out there who wish to ca
 So, go ahead boys and girls, earn some honest money.
 
 <strong>Update:</strong> It is confirmed, at least the receiving part, I just got 2 Euros as a test from a friend. I'm rich!
-

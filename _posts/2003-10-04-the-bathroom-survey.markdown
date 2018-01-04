@@ -17,4 +17,3 @@ Some golden quotes:
 And when I thought this was funny I checked out <a href="http://www.bathroomlife.com/">BathroomLife.com</a>  which sent me rolling on the floor. Just by checking the <a href="http://www.poopnames.com/">The Poop List</a>.
 
 I always enjoyed dirty humor! :-)
-

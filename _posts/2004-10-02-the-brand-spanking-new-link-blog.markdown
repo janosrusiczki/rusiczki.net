@@ -12,4 +12,3 @@ I sacrificed the links section, which never got filled anyway and added the <a h
 All this means that when a visitor checks the page the latest links listed there are pages I visited and bookmarked at most 30 minutes before. That's almost <i>live</i>, I'd say.
 
 How funny that now as I'm writing this, <a href="http://del.icio.us" title="del.icio.us - The social bookmark manager">del.icio.us</a> is temporarily down... :-(
-

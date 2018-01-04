@@ -8,7 +8,8 @@ Dir['_posts/*'].each do |path|
   contents.gsub!(/\<br \/\>\n/, "\n\n")
   contents.gsub!(/\<\/p\>\n/, "\n\n")
   contents.gsub!(/\<p\>/, '')
-  contents.gsub!(/(\n*)/, "\n")
+  contents.rstrip!
+  contents = contents + "\n"
 
   file.reopen(path, 'w')
   file.write(contents)

@@ -32,4 +32,3 @@ What this guide omits to say (because it isn't really it's scope) but I found in
 After saving the .ini file do not forget to restart httpd by typing the <b>/etc/init.d/httpd restart</b> command.
 
 So! After configuring, making, modifying and restarting everything as described in the guide with the few minor changes as mentioned earlier it worked! Well, I was really pleased with myself and after installing <a href="http://mojo.skazat.com/" title="Dada Mail">a newsletter utility</a> I went to bed knowing I just played with a 2500 euros-per-year thingie and didn't brake anything. Phew!
-

@@ -14,4 +14,3 @@ The little snow that fell yesterday is melting again.
 It's ugly. It's sad. I'm cursing.
 
 But who cares!?
-

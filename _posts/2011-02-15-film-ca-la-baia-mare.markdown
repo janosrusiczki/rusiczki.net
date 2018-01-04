@@ -18,4 +18,3 @@ Eu cred ca solutia ar fi ca Cinema City sa angajeze pentru orasele de genul baii
 Si chiar nu inteleg de ce trebuie mereu sa prind din astia si de ce doar la Baia Mare? Mi-e sila si rusine.
 
 PS. <a href="http://www.andreialbu.com/cultura-rabdare-și-tutun.html">Pe aceasi tema.</a>
-

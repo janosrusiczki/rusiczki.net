@@ -26,4 +26,3 @@ Mai folosesc destul de activ Google Reader. Activ in sensul ca dau share cu spor
 Si acum despre aia mari: pe Facebook activez dar mi-as dori sa nu activez si cu toate astea trebuie sa activez. Rezumat: e complicat. Iar Twitter il folosesc 99% pentru a urmari chestii care ma intereseaza (oameni sau servicii). Daca zic ceva pe Twitter ramane in majoritatea cazurilor fara nici un ecou, deci pentru a evita frustrarile nu ma prea obosesc. In schimb ma mai implic in discutii daca mi se par interesante.
 
 Asadar cam asta as fi eu, acum, pe Net.
-

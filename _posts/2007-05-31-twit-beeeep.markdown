@@ -6,4 +6,3 @@ categories:
 - Web
 ---
 I just deleted my <a href="http://twitter.com">Twitter</a> account. It was getting on my nerves.
-

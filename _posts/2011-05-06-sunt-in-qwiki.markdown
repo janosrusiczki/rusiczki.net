@@ -21,4 +21,3 @@ Dovada (si arhiva in caz ca in viitor se modifica pozele ce insotesc articolul):
 Pozele sunt: <a href="http://www.flickr.com/photos/janos/2129021193/">unu</a>, <a href="http://www.flickr.com/photos/janos/2129798320/">doi</a> si respectiv <a href="http://www.flickr.com/photos/janos/2129800710/">trei</a>.
 
 Fiecare poza e insotita de creditul corespunzator asa ca Janos e multumit. Ba chiar mandru! :)
-

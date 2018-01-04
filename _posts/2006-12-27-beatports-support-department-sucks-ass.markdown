@@ -14,4 +14,3 @@ What's worse, any real complaints about this issue posted to <a href="http://www
 Oh well, if they don't want my money, there are plenty of other digital download services out there. I guess I'll just move on.
 
 <strong>UPDATE</strong> As it happens in these cases, a few hours after posting this entry (and sending another e-mail to support) they responded and "unlocked" my account. I just made a test purchase and it worked out fine. All this after a couple of months of painful hiatus...
-

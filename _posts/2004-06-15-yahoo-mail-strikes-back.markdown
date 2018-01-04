@@ -29,4 +29,3 @@ The Yahoo! Mail Team</p></blockquote>
 Holy cowbells! 2 GB of email storage! They hit Google's <a href="http://www.gmail.com">G-Mail</a> where it hurts more. It's true that this feature costs $20 / year on Yahoo! but at least I can sit comfortably knowing that nobody scans my outgoing messages and my inbox is well protected from spam by SpamGuard Plus (wooo, I have to go into the settings and check out all the new features).
 
 And first of all I feel good because I received something for free (and it was about time, since I'm a <a href="http://mail.yahoo.com">Yahoo! Mail</a> user since 1998).
-

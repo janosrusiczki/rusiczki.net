@@ -17,4 +17,3 @@ It's funny how he pronounced my name (it's Yanosh btw) but I'll forgive him, sin
 Anyway, I feel like an Internet superstar yet again.
 
 You can <a href="http://www.rusiczki.net/big-files/InsideHeli_57_-_swag_and_4SMT.mp3">download the full show</a> if you're that interested. The most interesting part comes up around 18:37. :-)
-

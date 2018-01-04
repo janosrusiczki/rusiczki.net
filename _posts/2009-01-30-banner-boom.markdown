@@ -15,4 +15,3 @@ Boom! I've been using OpenX since the days it was called phpAdsNew and I was ver
 To be fair and because I'm naturally curious I tried one other ad hosting and delivery solution: <a href="http://www.google.com/admanager/">Google Ad Manager</a>, but it was so cryptic and full of special terminology that I've sort of got lost and disappointed. I abandoned the product after painfully setting up an ad delivery by closely following several pages of instructions just to find out it didn't do what I wanted it to. The last straw was when I noticed that updates made to my stuff appear delayed. And not by a few seconds, but by a few freakin' long minutes. Maybe if I'd have an ad delivery specialist diploma on my wall I'd be using Ad Manager, but until then I want something made for web people.
 
 So, OpenX Hosted it is.
-

@@ -46,4 +46,3 @@ Astăzi, marți, 10 octombrie, am fost sunat la ora 12:50 și anunțat că le-a 
 Am cam întârziat cu ultimul update, dar mai bine mai târziu decât niciodată. Coletul a sosit miercuri, am ajuns seara acasă, am montat obiectivul nou nouț și din cele câteva teste făcute totul pare să fie în regulă. În ultimul timp însă pe aparat a stat aproape exclusiv un obiectiv de 14mm primit împrumut de la <a href="http://hajdutamas.blogspot.ro/">Tamás</a> care mi-a potolit setea de obiectiv wide de calitate care o aveam de prin 2011. :-)
 
 Povestea se încheie așadar aici cu un final cvasi-fericit, dar concluziile rămân.
-

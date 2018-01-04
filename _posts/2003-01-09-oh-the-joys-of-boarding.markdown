@@ -16,4 +16,3 @@ Conclusion: I had a lot of fun. I took my dose, so to say. But when I came home 
 The nice thing is that now that there's snow I have to work a lot on that project, plus, as a bonus, I have an exam Saturday. Oh, the joooys of exams. I don't think I'll have the chance to learn anything. But I'll try. Haha.
 
 Great day!
-

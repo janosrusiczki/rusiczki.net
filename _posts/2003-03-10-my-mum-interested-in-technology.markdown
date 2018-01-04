@@ -10,4 +10,3 @@ Tonight my mother was in my room to do some work. Because she said she couldn't 
 And even more weird. After we finished she took it and started pushing it's buttons looking all amazed and telling me that: "Wow, look how advanced technology is nowadays, and I still have to calculate these damn calories!"
 
 There's something wrong. Something definetly wrong here!
-

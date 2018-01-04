@@ -14,4 +14,3 @@ The story goes something like this: a few weeks ago we were talking at the offic
 But yesterday night after seeing <a href="http://www.flickr.com/photos/akela_td/2533392283/">a really beautiful image of Baia Sprie</a> on Flickr I thought I'll give the whole thing another try. And this time my "hacking" skills payed off. After a few short minutes of tinkering I had a full screen map viewer which I used today to snap various screenshots of the map which I then used as prime material for the "epic" image that's headlining this post. And I can say that I'm really pleased with the result because basically I can scroll around freely and practically relive the 25 years I stayed there. Hehe.
 
 An annotated version is probably coming really soon... :)
-

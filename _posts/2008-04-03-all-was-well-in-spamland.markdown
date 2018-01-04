@@ -11,4 +11,3 @@ Just a few weeks ago <a href="http://www.rusiczki.net/blog/archives/2008/03/12/a
 I'm saying that all <strong>was</strong> well because I had to delete my old plug-ins when I installed the new version of Movable Type that now powers the blog and so, unfortunately MT-Keystrokes had to go as well. And I'm sad to report that only today my blog received around 10 spam comments and even if I saw in MT's activity log that many comments were denied because they were coming from open proxies and even if I've been diligently reporting the ones that got through as spam I'm still not content with the situation. Not by far.
 
 So I'm off to hunt down some efficient anti-spam plug-ins.
-

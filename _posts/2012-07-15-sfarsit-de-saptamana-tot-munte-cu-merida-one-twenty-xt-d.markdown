@@ -40,4 +40,3 @@ Concluzia finală? O bicicletă gândită pentru coborâri foarte plăcute despr
 Mulțumiri încă o dată Boneshaker pentru test.
 
 PS. Între timp am aflat că dacă ar fi să clasificăm după cursa furcii bicicleta ar fi de trail și nu all mountain. Mă rog, detalii... :)
-

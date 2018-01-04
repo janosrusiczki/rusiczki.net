@@ -44,4 +44,3 @@ Sunday afternoon and night we recorded some of the important from MD to computer
 Monday morning some nice guy took us home by car for free. I couldn't really believe it. But I was finally home. Phew!
 
 Hereby I send out my greetings to everyone concerned! I had one of the nicest times of my whole life! It was more than great! Thanks!
-

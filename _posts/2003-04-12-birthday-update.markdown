@@ -12,4 +12,3 @@ So the <b>updated</b> countdown looks like this: 5 days until I turn 24 and 7 da
 And now time for a some exercise: Wednesday, Wednesday, Wednesday, Wednesday, Wednesday, Wednesday, Wednesday... Repetition is the mother of all knowledge they say but I just can't remember how this day is written...
 
 <b>Update update:</b> For those too lazy to count, I was born on the 17th of April, 1979. Now pack those socks... :-)
-

@@ -15,4 +15,3 @@ While browsing around I noticed that some blogs display truly nicely and well op
 So I went ahead and installed the same plugin here on my blog so you'll be able to enjoy the two posts I'll post this year from your mobile.
 
 And, to be really stylish I posted this present entry using the official Wordpress app for Android.
-

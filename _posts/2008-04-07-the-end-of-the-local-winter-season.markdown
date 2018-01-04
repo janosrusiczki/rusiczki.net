@@ -17,4 +17,3 @@ It looks that I was right when I titled the Flickr set containing pictures from 
 Unfortunately the rains that kept falling during most of last week proved to be a real nemesis of the remaining snow. I checked the webcam this Saturday too. It was pouring. The cable transport was off. There was noone. Sad.
 
 Anyway, I said the end of the <em>local</em> winter season because starting with Thursday we're hitting <a href="http://en.wikipedia.org/wiki/B%C3%A2lea_Lake">Balea Lake</a> for a grand season end. Keeping my fingers crossed for some good weather.
-

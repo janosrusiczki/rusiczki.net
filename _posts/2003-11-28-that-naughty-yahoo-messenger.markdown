@@ -12,4 +12,3 @@ Thanks to my friend Cosmo I succeeded in spicing up my <a href="http://messenger
 <b>UPDATE</b>
 
 Since this entry is by far the most accessed one in my blog I would like to add a little extra for all of you who pop in from Google. Did you know there are <a href="http://help.yahoo.com/help/us/mesg/use/use-44.html" title="Even more fun!">hidden emoticons</a> embedded in your factory default Yahoo! Messenger? Just click the link to find out how to send them. And if you found this page useful maybe you could leave a comment, for my enjoyment. Have fun!
-

@@ -75,4 +75,3 @@ Now you can go ahead and create your models. Bonus tip: once you created your mo
 Reference: <a href="http://blog.joelberghoff.com/2013/02/06/ruby-on-rails-tutorial-creating-a-rails-instance-from-an-existing-mysql-db/">Creating a Rails Instance from an Existing MySQL DB</a>.
 
 PS. As a test, I also <a href="https://medium.com/p/7dda5044c85f">posted</a> this article to Medium.
-

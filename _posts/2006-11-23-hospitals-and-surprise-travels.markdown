@@ -18,4 +18,3 @@ And after some calculations I decided to take her home by car. With <a href="htt
 I'll be back to report soon.
 
 I shouldn't forget to mention that that <a href="http://astateofmind.pluto.ro">Cristi</a> and <a href="http://ivett.blogspot.com">Ivett</a> saved me from several hours of cruel boredom on Tuesday. Thanks for bearing with me guys (and girls). And yeah, I just have to confirm that <a href="http://ivett.blogspot.com/2006/10/mojo.html">Mojo</a> is super sweet.
-

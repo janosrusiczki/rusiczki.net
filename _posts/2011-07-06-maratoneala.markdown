@@ -31,4 +31,3 @@ Aici sunt din nou ajuns din urma pe la minutul 37 si mergem un timp in paralel c
 Acuma ca incepe sa treaca durerea de picioare parca incep sa am curajul sa spun ca a fost frumos. In orice caz pot sa spun fara ezitari de orice fel ca organizarea a fost excelenta, incepand de la marcajul impecabil al traseului si terminand cu gulyas-ul delicios. Felicitari organizatorilor!
 
 Ne vedem la anul! Nu stiu insa daca pe traseul de 50... :)
-

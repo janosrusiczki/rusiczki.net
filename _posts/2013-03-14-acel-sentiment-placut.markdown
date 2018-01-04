@@ -13,4 +13,3 @@ Ce vi se pare în neregulă cu imaginea de mai sus?
 Vă dați bătuți? OK. Cred că și-a dat seama toată lumea că e un desktop curat după o instalare proaspătă. Ce e în neregulă cu asta? Ei bine, nimic special în afară de faptul că după 15 ani de folosit PC-ul ăsta e primul Windows legal pe calculatorul meu de acasă. Era să zic din casă dar de relativ puțin timp Ioana are un ultrabook ACER care a venit cu Windows 7 instalat din fabrică (cu tot cu o grămadă mare de bloatware). Și nu vorbim aici nici de alte sisteme de operare, Mac-urile mele fiind în legalitate din 2007. :-)
 
 Iar sentimentul din titlu se referă la acea senzație plăcută când știi că nu mai ești pe partea băieților răi și le-ai mulțumit cumva celor care s-au spetit să-ți livreze un produs software.
-

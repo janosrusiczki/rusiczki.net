@@ -40,4 +40,3 @@ A da, și am zburat pentru prima oară în viața mea...
 <a href="http://www.rusiczki.net/wp-content/uploads/2013/12/aripa-de-avion.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2013/12/aripa-de-avion-693x389.jpg" alt="Aripă de avion" width="693" height="389" class="alignnone size-medium wp-image-4720" /></a>
 
 Vă și las cu poza asta în speranța unui an mai bun decât cel care a fost!
-

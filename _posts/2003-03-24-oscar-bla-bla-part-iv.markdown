@@ -31,4 +31,3 @@ Best director. Polanski. The pianist gets yet another award! Followed by a stand
 Best picture. Presented by the Douglas family. ??? I'm so very curious. Chicago. Yep.
 
 Good night. Or morning... Whatever.
-

@@ -10,4 +10,3 @@ categories:
 At least as it should be around this time of the year.
 
 Ioana said that everybody was talking about the TV showing that it snowed a lot up on the slopes at <a href="http://en.wikipedia.org/wiki/Cavnic">Cavnic</a> and people invaded the one track that features night lighting (a premiere in this area). Tomorrow we're there! Expect new photos on Flickr and a short review about this ski season's real opening day. If my neck stays in one piece that is.
-

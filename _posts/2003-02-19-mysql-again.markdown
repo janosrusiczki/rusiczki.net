@@ -14,4 +14,3 @@ But what do I see when I visit a local bookstore? Just the afore mentioned book 
 So, it's time to plug some MySQL knowledge holes!
 
 Maybe in the future (after getting myself through this book) I'll consider getting <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0596001452/026-1593954-2034021" title="MySQL Cookbook by Paul DuBois">the cookbook</a> too.
-

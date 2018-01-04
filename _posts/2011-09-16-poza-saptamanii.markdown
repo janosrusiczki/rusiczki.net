@@ -17,4 +17,3 @@ Pana in acest moment cel mai mare succes a avut-o poza de mai sus. Pe departe. N
 Acestea fiind spuse, sper sa va placa si voua poza iar criticile sunt asteptate la adresa redactiei. Mi-e chiar foarte dor de vremurile cand primeam comentarii si favorite pe Flickr...
 
 PS. Povestea iesirii la pozat cu Nora si Robi o las pe alta data.
-

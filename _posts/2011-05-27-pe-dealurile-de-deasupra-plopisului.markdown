@@ -103,4 +103,3 @@ Dupa peste 10 kilometri de pedalat plictisitor la vale pe asfalt am ajuns si am 
 End of adventure!
 
 PS. Cine a ajuns pana aici cu cititul primeste de la mine un baton energizant si doua picaturi de Visine. Cate unul pentru fiecare ochi. :)
-

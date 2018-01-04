@@ -14,4 +14,3 @@ The funny thing is that after I got it I began to wonder what will I buy with it
 Saturday I successfully transferred some money into the virtual card's account and I succeeded creating myself a trial account at <a href="http://www.easynews.com" title="The best news server in the world!!!">Easy News</a>. I was very happy seeing that, yes, my card does work!
 
 But my dilemma continues. What will I buy? I think the first major purchase will be a domain name... But all this later...
-

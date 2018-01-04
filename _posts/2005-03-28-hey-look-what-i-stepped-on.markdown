@@ -10,4 +10,3 @@ categories:
 OK, I admit this was staged. But I think I'll print <a href="http://www.taredisco.ro/muie/magggimuie.pdf" title="Adobe PDF file">the "alternative campaign's" sticker</a> soon and I might even post it in my window because this damn campaign is really starting to drive me nuts. I'm far from being alone, but I won't give any links because I didn't check my newsreader for a while and I don't want to omit anyone who posted about this.
 
 <b>UPDATE</b> Here's <a href="http://www.rusiczki.net/blog/blogstuff/muie.png">something extra</a> for those of you who want a cool avatar. Just make sure you don't get your ass banned from those family friendly boards.
-

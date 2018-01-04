@@ -20,4 +20,3 @@ Gasiti asemanarea.
 Chestiile de genul asta sunt cele care fac sa creasca in mine sufletelul de fotograf amator. Pentru evitarea discutiilor mentionez ca poza a fost folosita cu acordul meu - doar am fost fotograf "oficial". :)
 
 Ne vedem la eveniment! Cel de anul asta, adica.
-

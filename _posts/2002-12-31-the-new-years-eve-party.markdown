@@ -14,4 +14,3 @@ The worse thing about this party is that it'll be held far - far away. And the l
 So. Now I'm half happy. Half sad.
 
 Happy because I'm somehow optimistic. That maybe this party will be different. Maybe. Yes. I really am an optimist to hope for such a thing. Hehe.
-

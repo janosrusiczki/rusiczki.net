@@ -12,4 +12,3 @@ I'm not a big fan of <a href="http://www.imdb.com/title/tt0232500/">The Fast and
 The nitro is there too, of course. What would a game like this be without nitro? Drag mode really makes my head spin giving such a great feeling of mad speed. And then my favorite section: drifting. Where scoring is based on the time your rear wheels spend, well, drifting... The game is as far from a simulator as The Fast and the Furious is from reality but this is exactly why it's so much fun playing it.
 
 Great game.
-

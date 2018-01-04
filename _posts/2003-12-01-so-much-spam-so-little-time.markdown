@@ -12,4 +12,3 @@ So after spending some time browsing <a href="http://www.spamotomy.com" title="S
 As the ultimate method I'm thinking about chaining up the 2 tools, so that POPFile would receive the email already processed by the SpamAssassin proxy which will run set at a reasonably high score to avoid false positives.
 
 The ultimate goal? 0 spam in my Inbox. Yeah right...
-

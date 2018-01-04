@@ -14,4 +14,3 @@ Saw a movie. And not any movie, a Jack Nicholson movie! If I had to rate it I'd 
 We visited a reptile expo and I'm sure that if I sum all the snakes I saw in my life I would get the one-fifth of the number I saw there. It was scary. And yukky. But none the less very interesting and entertaining! The expo also featured some lizard class creatures and two monkeys which we watched for several minutes and never got bored of them.
 
 The bar of choice was Zorro (spent one of the three nights there) even if it's a rock bar (?) and the dining place of choice was Speed (they have one great shaorma!). Got my iPod battery. I is very happy!
-

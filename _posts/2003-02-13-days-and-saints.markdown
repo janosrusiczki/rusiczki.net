@@ -10,4 +10,3 @@ Yeah... It's almost <a href="http://www.shagtown.com/days/valentine.html" title=
 Actually I kinda hate it. And not solely because almost as long as I can remember I was alone on this day like on any other. But because this is just another <b>Import Day</b>...
 
 <a href="http://web.icq.com/friendship/browse_page/0,,9950,00.html" title="Worth a few arrow shots...">This e-card</a> at ICQ is funny though.
-

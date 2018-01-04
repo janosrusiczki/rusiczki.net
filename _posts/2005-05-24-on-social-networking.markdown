@@ -12,4 +12,3 @@ I use 3 social services mainly for fun and to please the geek in me. These are: 
 I briefly tried <a href="https://www.linkedin.com/">LinkedIn</a> (recommended by <a href="http://www.timbru.com">Gabriel</a>) and <a href="http://www.orkut.com">Orkut</a> (after finally receiving a much sought invite from <a href="http://gabrielia.blogspot.com/">Gabriela</a>) but I didn't find anything too appealing in either one. The accounts are there, at least if they haven't deleted them due to inactivity, but I never re-visited the sites after the initial subscription process.
 
 All right, I'm off to add some deliciously social bookmarks...
-

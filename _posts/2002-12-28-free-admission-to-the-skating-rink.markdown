@@ -10,4 +10,3 @@ What do you get mixing sleet with ice? If you know something more slippery than 
 I remember some images I saw a few days ago on TV. Some german TV was filming an "on-the-site" report about the streets which were in the same condition as they are now here (slippery as hell). And while the reporter was talking somebody was crossing in the background. And that somebody went flat right there.
 
 I go visit a friend now. Thinking about taking my skates (which I don't have) with me.
-

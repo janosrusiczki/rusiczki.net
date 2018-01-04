@@ -11,4 +11,3 @@ I'm about to receive the much avaited HotSync cable for my Palm. So the fun can 
 I'm really looking forward for some Solitaire on the bus on my way to school. I've been missing Solitaire since the moment I sold my Ericsson T28. My new Nokia has such lame games! I don't find Snake as addictive as many do. As a matter of fact I don't really find it amusing or entertaining either.
 
 I've been also looking at some reviews about the <a href="http://www.aibo.com/" title="Yes, it's the Sony AIBO">&uuml;ber gadget</a> tonight. But until I'll save 1500$ for a <i>toy</i> there's Leila, my cocker. Who's pregnant again! Damn. :-)
-

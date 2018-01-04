@@ -20,4 +20,3 @@ Sincerely,
 
 The UnHappy DreamHost Goodbye Team</p></blockquote>
 I'm over at <a href="http://www.theplanet.com">The Planet</a> on my shiny dedicated server. Which costs more per month than <a href="http://www.dreamhost.com">DreamHost</a> cost per year, but the quality...
-

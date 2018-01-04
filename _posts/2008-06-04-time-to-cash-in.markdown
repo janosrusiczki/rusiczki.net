@@ -45,4 +45,3 @@ Holy crap! I've almost entered an uncontrollable money frenzy at this point. But
 Aha. So getting past the bullshit most likely I'll get nada. Zilch. Nothing. And for this nada I give them (or their customers) valuable inbound links for 1 month. Or for however long it takes for me to realize I've been scammed. Well, thank you. I think I'll pass.
 
 Anyway, from now on I'll sleep much sounder knowing that someone out there "loves" my website. Yey!
-

@@ -10,4 +10,3 @@ categories:
 The other good one I saw belongs to a rather different genre (science-fiction) and was directed by one of my favorite directors, Danny Boyle. The movie is called <a href="http://www.imdb.com/title/tt0253474/">28 Days Later</a> and tells a rather bizarre story about the few survivors of a virus which wiped out most of the population of England. In fact it didn't wipe them out but transformed them into blood thirsty zombies. A captivating movie all in all.
 
 I do not have so much work these days so I saw lots of movies lately. But only the aforementioned two made me think... For the rest of them I had the necessary amount of popcorn though!
-

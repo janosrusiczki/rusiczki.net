@@ -20,4 +20,3 @@ Let's cross our fingers and hope for the best.
 <b>UPDATE 3: December 20, 2004</b> - The guys from Reea put up a temporary index page explaining exactly what happened and what to expect. I submitted a support ticket and I'm waiting for an answer, which I'll probably get tomorrow.
 
 <b>UPDATE 4: December 21, 2004</b> - The site was put back online today using that backup. There's a lot of work ahead of us to put back some of the content we lost. Unfortunately hundreds of forum messages are gone for good. But there's nothing to be done now, life goes on...
-

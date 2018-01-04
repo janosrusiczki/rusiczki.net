@@ -12,4 +12,3 @@ This is actually old news, because it's out since yesterday. Nevertheless go <a 
 And after all the joy and celebration here's the bad part. The geek in me wanted to get himself a <a href="http://www.mozillastore.com/products/clothing/firefoxtee">Firefox t-shirt</a> but to my disappointment they don't accept credit card orders from Romania. The checkout page told me to select PayPal as the payment method which as we (Romanians) all know is even less available for Romania. I'm very disappointed but as a consolation we (a bunch of friends) are going to respect the pre-Christmas tradition we started last year and order a big batch of tees from <a href="http://www.threadless.com">Threadless</a> soon. Screw you Mozillastore!
 
 <b>UPDATE</b> I modified the link on the Firefox banner because it looks like <a href="http://www.spreadfirefox.com">spreadfirefox.com</a> couldn't handle the traffic once 1.0 came out.
-

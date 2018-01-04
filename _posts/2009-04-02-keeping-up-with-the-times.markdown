@@ -14,4 +14,3 @@ Unfortunately, my 6 year old, tweaked to high heavens template which I liked so 
 I also solved the permalink problems by following <a href="http://codex.wordpress.org/Importing_from_Movable_Type_to_WordPress">the relevant guide</a> from the ever handy <a href="http://codex.wordpress.org">WordPress Codex</a>. I know from <a href="http://www.rusiczki.net/2006/01/06/latest-site-updates/">a previous experience</a> that it doesn't take Google long to reindex my stuff but I also needed the redirect script for the sake of those who linked to my articles from other sites. Yep, this includes myself. And yes, the geek speaks out, I like the WordPress style permalinks a lot more.
 
 Well, much tweaking ahead, but here we go... Go go Wordpress! :)
-

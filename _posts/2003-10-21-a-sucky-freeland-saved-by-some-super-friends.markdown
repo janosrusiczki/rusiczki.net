@@ -14,4 +14,3 @@ But thanks to some nice people I'm not at all disappointed. And I do not regret 
 Which eventually came. We all got very drunk. Everybody got really happy. The subwoofer got turned up. And Seb and Trigga got on the decks (all this happened at Seb's place). Wow. Was it cool? Nope. It was supercool. There was dancing and fun and it could've been the second best night of the year if Freeland would've been OK. But he wasn't. And waiting 4:30 hours for him to get on the decks in a smoke filled club wasn't the best intro either...
 
 Sunday, winning a battle with my horrible hangover I got on the train and in almost no time (I'm lying here) I was home. My sincere thanks go out to the cool people that made this trip a cool and worthy one.
-

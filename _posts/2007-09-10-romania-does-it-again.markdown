@@ -15,4 +15,3 @@ Well, I'm pretty sure nothing can be done for Romania to unswallow MS's (no bad 
 <a href="http://fsfeurope.org/documents/msooxml-questions"><img src="http://fsfeurope.org/graphics/msooxml_small.png" width="250" height="98" border="0"/></a>
 
 Read and judge for yourself.
-

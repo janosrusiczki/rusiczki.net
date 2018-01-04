@@ -17,4 +17,3 @@ But let's get back to the topic of this post. Here come the top five weirdest / 
 <li>1. "how to do gang handshakes in chicago" - Wait... Let me remember. Well, no. Sorry. I don't know. What? No. No. Please don't shoot me!</li>
 </ul>
 Geeky, but funny!
-

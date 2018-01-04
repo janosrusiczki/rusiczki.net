@@ -6,4 +6,3 @@ categories:
 - General
 ---
 I received 5 SMSes wishing me a Merry Christmas. Hmmm. I thought I have more friends with cell phones. I was wrong...
-

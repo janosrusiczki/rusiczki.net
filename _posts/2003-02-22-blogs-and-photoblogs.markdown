@@ -12,4 +12,3 @@ Why??? I don't get it!
 I guess it's because of the simplicity. Minimalism. Or is it about the pictures?
 
 I remembered, and took another look at the <a href="http://www.fairvue.com/?feature=awards2003" title="The third annual Weblog awards">Bloggies</a> because I thought the awards were given away. Not until March 9th it seems. Anyway from there I got on the 2003 <a href="http://www.photojunkie.org/photobloggies/" title="These are even better than the Bloggies!">Photobloggies</a> page. I checked out a few links. And I wished I had broadband or at least some permanent connection not this f*@#ing dial-up which costs a fortune if you connect during daytime.
-

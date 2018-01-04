@@ -22,4 +22,3 @@ Here's what to do if you get miserable transfer speeds between your handheld dev
 4. Close the windows by clicking their OK buttons and that's about it. Now your phone will speedily talk with your computer via the magic of infrared and you will transfer files like crazy... Or at least as fast as the infrared port permits.
 
 I hope this entry will help somebody out there.
-

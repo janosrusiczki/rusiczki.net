@@ -30,4 +30,3 @@ P<sub>1</sub> - the price in the current period;
 P<sub>0</sub> - the price in the initial period;
 
 And no... I haven't gone mad. Yet... Just wanted to write these down. For further reference. Hahaha.
-

@@ -18,4 +18,3 @@ I'm not too skilled when it comes to hardware reviews (for me it either works or
 It's a shame but I haven't written one line of code on it yet. So I can't report anything about that aspect. But it should be at least OK. No games played either because I don't think that my feather light, no fat, ATI 9200 would be able to handle 1280 by 1024 in any modern games. However I used the TV card with my PlayStation plugged in and it looks cool. Haven't watched any real TV on it though. Yet. And because there's almost nothing worth watching on cable. And if it's worth watching the "great" reception quality would surely disappoint and turn me to the nearest BitTorrent tracker to fetch the very same show in HDTV quality. For evaluation purposes only obviously. Hehe.
 
 And that concludes my "review" and as a final conclusion I can say that all in all, I'm very satisfied with it.
-

@@ -10,4 +10,3 @@ Well, after driving a certain somebody crazy with Lesser GPL I found <a href="ht
 Well, sorry. :-P
 
 And since I was there I got the latest Smarty, which is 2.5.0.
-

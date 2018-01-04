@@ -20,4 +20,3 @@ Lord Of The Rings starts to harvest technical awards again.
 I haven't seen many of the movies of tonight's Oscars but I liked <a href="http://us.imdb.com/Name?Cooper%2C+Chris+(I)">Chris Cooper</a> a lot back then, in <a href="http://us.imdb.com/Title?0169547" title="One of my favourite movies...">American Beauty</a> and his speech was impressive.
 
 Oh look: J Lo presenting an award...
-

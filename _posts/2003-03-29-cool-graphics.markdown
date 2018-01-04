@@ -12,4 +12,3 @@ I really enjoyed these pics. I really think some of them are awesome!!!
 Congrats pal! Warm handshakes and everything!
 
 [ <b>UPDATE</b> Links expired. I'm do not intend to upload those images in my present gallery. Most of them appeared in the <a href="http://www.lucianmarin.ro/nukontrast/">Nukontrast magazine</a> anyway. ]
-

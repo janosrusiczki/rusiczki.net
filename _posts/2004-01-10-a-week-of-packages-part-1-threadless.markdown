@@ -14,4 +14,3 @@ The t-shirts themselves are wonderful. They're printed on Fruit of the Loom. And
 We (3 friends and myself) ordered 10 tees which came in two packages. I stood in the line for more than half an hour because the Romanian Postal Service's international package handling is "outstanding" (this means that you can pick up your package once a week in a 3 hour interval, at least here in Baia Mare). But I got there and picked up the two huge envelopes and this time there was no cutting by the customs officer or anything. It seems they trusted me that I haven't ordered joints... Or maybe they have records and saw that I already received a package from Threadless and it was "clean".
 
 Personally I got the <a href="http://www.threadless.com/product/103.html">Follow It</a> girly tee for, well yeah, my girlfriend (it's her birthday soon!) and the <a href="http://www.threadless.com/product/93.html">Brainwashed</a> one for myself. Can't wait for the summer!
-

@@ -12,4 +12,3 @@ Just wanted to note that I was getting tired of all the spam comment notificatio
 I'll be back after some well earned sleep.
 
 <strong>Update:</strong> <a href="http://www.rd.com/health/mind-and-body/sleep/12-tips-to-create-a-sleep-haven/article54358.html">Perfect timing.</a>
-

@@ -12,4 +12,3 @@ I have two little animals of approximately the same age in my parent's house. A 
 Oh and since I'm talking about cats here's a <a href="http://www.rusiczki.net/blog/blogstuff/cat.avi">small video</a> (512kB - DivX 3.1) with my black cat doing some impossible acrobatics while playing with a small ball. It's so funny I couldn't help not to laugh while I was recording.
 
 OK. Now let's get back to work.
-

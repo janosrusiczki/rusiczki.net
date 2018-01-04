@@ -13,4 +13,3 @@ Seen a vision of perfect grace, airbrushed and lifeless
 
 All contempt and aftertaste it's like I'm waiting for the scars to heal</i></p></blockquote>
 Sneaker Pimps - Loretta Young Silks
-

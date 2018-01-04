@@ -12,4 +12,3 @@ But this seems solved. As I migrated Movable Type's data storage to MySQL. It's 
 I only lost 2 entries. And these were links. One of them at least I know for sure was a link to Cutie Quake...
 
 <b>UPDATE:</b> I'm really pleased to see that the comments were exported / imported too! Wheeew! Nice!
-

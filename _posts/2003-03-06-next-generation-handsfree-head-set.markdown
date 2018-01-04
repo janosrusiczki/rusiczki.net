@@ -8,4 +8,3 @@ categories:
 Frustrated about your old and outdated cell phone's size?
 
 Well, then check <a href="http://www.ai.mit.edu/~rahimi/coolmf/" title="That is one cool hack!">this</a> out!
-

@@ -10,4 +10,3 @@ It's not really Romanian but... My French partner mentioned that he saw a Romani
 What can I say? Although last year most Romanians (me included) heard the song until they head nearly exploded as it was pouring from remotely <b>EVERYWHERE</b> it's still a catchy one and what proves this better than the fact that it made it to Western Europe. And not only made it, but it's a hit out there too. Wow! Or was it an efficient marketing campaign?
 
 Yayaheee - Yayahooo!
-

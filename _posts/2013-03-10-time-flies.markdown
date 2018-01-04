@@ -12,4 +12,3 @@ După ce m-am trezit într-o dimineață mult prea devreme dintr-un vis aiurea �
 <li>Celălalt lucru de care mi-am dat seama este că ar mai trebui să scriu mai des pe aici, dacă nu de alta pentru că-mi face o mare plăcere să recitesc ce am scris mai de mult, în marea majoritate a timpului îmi amintesc de detalii care le credeam de mult uitate - un feeling deosebit de plăcut care dă o nuanță aparte excursiilor pe strada nostalgiei.</li>
 </ol>
 Să vedem dacă reușesc să mă țin de treabă. Căci promisiuni au mai fost... :)
-

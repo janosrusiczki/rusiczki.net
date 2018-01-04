@@ -8,4 +8,3 @@ categories:
 Yes, the blog was <a href="http://www.google.com/search?q=kitsched">indexed by Google</a>. And no, I didn't mean 'kitchen'...
 
 Welcome world!
-

@@ -20,4 +20,3 @@ Bonus:
 <li>Closely related to the last "thing" from the previous list: I used to love to draw. Back in the times when I had no computer I was filling notebooks with sketches. Mostly technical stuff obviously. Airplanes, helicopters, spaceships, cars, robots, you name it, I drew them all.</li>
 </ul>
 This was the first tag I responded to... I have childhood traumas relating to these things. Namely, I never was the popular kid in the class. I remember that back in primary school girls had these things called "oracole" (translated as oracles) which were wildly decorated notebooks featuring tricky questions which you had to answer. And while some guys had queues of them on their desks I was never invited to fill one. Oh, the envy! So, now I'm having my sweet revenge by NOT responding to tags. Hah!
-

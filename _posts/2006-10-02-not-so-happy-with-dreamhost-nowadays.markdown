@@ -14,4 +14,3 @@ So what did we learn today kids? Never rely on one hosting service and never kee
 However I'm really hoping these kinds of problems will be fixed in the near future because, well, I'm stuck with them for 2 years and I would like to get some kind of reliability for the money I've spent.
 
 <strong>Update:</strong> Just as I expected today everything returned to normal. A little bit too late though...
-

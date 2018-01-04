@@ -27,4 +27,3 @@ So now I'm in the market for a servo. Luckily a friend is ordering himself a T-R
 Well, that's the crash report... Hopefully back in the air by next weekend.
 
 <strong>Update:</strong> I found a local guy with three spare Hitec HS65MG's. I'll be picking them up this afternoon. Might be back in the air by the weekend? :)
-

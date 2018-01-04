@@ -13,4 +13,3 @@ categories:
 Ceea ce se vede mai sus este un asa numit <a href="http://en.wikipedia.org/wiki/Heat_map">heatmap</a> care reprezinta zonele unde am fost cel mai activ ca editor pe <a href="http://www.openstreetmap.org">OpenStreetMap</a>. OpenStreetMap este un serviciu al carui fan sunt mai bine de doi ani si despre care am tot intentionat sa scriu aici pe blog, numai ca am vrut ca articolul sa fie o "evanghelizare" asa cum scrie la carte si nu am reusit inca sa adun toate ideile care doresc sa le ating. Asa ca iar bag o promisiune: in curand!
 
 In orice caz, imaginea ma umple de mandrie si simt cum se umfla orezul in mine cand vad cat de mult am contribuit. Exista si <a href="http://yosmhm.neis-one.org/?kitsched">link permanent</a> si vad ca site-ul asta ofera si un alt soi de statistici, mai textuale, <a href="http://hdyc.neis-one.org/?kitsched">aici</a>.
-

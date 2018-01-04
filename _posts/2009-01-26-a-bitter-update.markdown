@@ -22,4 +22,3 @@ Here's a photo of some better times - just three months ago:
 <a href="http://www.rusiczki.net/blog/blogpics/me-my-mum-and-dad.jpg"><img alt="Me, my mum and dad" src="http://www.rusiczki.net/blog/blogpics/me-my-mum-and-dad-500x334.jpg" width="500" height="334" style="border:0" class="image"/></a>
 
 PS. This is by far my most personal entry.
-

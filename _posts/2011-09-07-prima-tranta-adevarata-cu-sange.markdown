@@ -14,4 +14,3 @@ Acum am cazut insa prima oara mai serios. Am mers sambata la pedalat cu o gasca 
 Fun fact: nu port de obicei casca dar la fiecare din aceste trei incidente purtam.
 
 Statistic vorbind, <a href="http://www.wolframalpha.com/input/?i=september+3%2C+2011+-+june+15%2C+2009">conform Wolfram Alpha</a>, zile fara tranta: 810 (2 ani, 2 luni si 18 zile). Acum am repornit contorul si momentan sta la 4 zile. Sper sa treaca inca 806 zile pana la urmatoarea tranta. :)
-

@@ -12,4 +12,3 @@ I saw the plugin a while ago, but when I tried to install it back then instead o
 Installation was a breeze and consisted of uploading 2 files and editing one template. And it works perfectly judging from the fact that since yesterday it blocked well over 100 junk comments.
 
 Blog life is pink now. At least for a while...
-

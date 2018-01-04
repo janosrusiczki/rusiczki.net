@@ -20,4 +20,3 @@ I went down today, after a pause of more than three months, because I heard that
 Looking at 80 CDs full of MP3s that I have (plus lots of stuff on my hard drive which I still have to burn) I'm surely grateful. But it would have been great if it would have lasted just a little more.
 
 Too bad.
-

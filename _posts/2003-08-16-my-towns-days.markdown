@@ -16,4 +16,3 @@ The restoring process is not working so well since I don't know where I saved th
 After sending out a mail to a nice guy I received the vectorial file with design for a very cool t-shirt. Time to call a friend's father and enquire about the possibilities of actually putting this on fabric. I will love this t-shirt!
 
 <em>Written while listening to: Princess Superstar - Do it like a robot</em>
-

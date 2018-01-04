@@ -11,4 +11,3 @@ categories:
 <a href="http://vimeo.com/2515299">TreeWaxHD</a> from <a href="http://vimeo.com/user1033252">klipcollective</a> on <a href="http://vimeo.com">Vimeo</a>.
 
 Yes. Well, not much to add except the mandatory Season's Greetings.
-

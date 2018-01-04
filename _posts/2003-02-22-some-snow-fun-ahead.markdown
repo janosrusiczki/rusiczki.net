@@ -10,4 +10,3 @@ I have some acquaintances (because I can't call some people who I usually meet o
 This is contrary of what I've been actually planning. Saying no, that is. But life is full of surprises. And I love to surprise myself. If no one else surprises me...
 
 I'm really curious how it will turn out. But I guess it won't be bad since as much as I understood it's basically about drinking, partying, drinking, partying and some more drinking and partying. Snowboard will be packed. And we're off to Harghita! Not just now, but thursday. What can I say? I can barely wait!
-

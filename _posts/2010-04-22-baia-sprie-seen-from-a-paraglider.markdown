@@ -17,4 +17,3 @@ Especially this second one, as it features the house where I spent 25 years of m
 Shamelessly stolen from <a href="http://www.panoramio.com/photo/8027351">here</a> and <a href="http://www.panoramio.com/photo/8027320">here</a>. All copyright and my thanks for the effort should go to <a href="http://www.panoramio.com/user/509619">Claudiu Banc</a>.
 
 Bonus! <a href="http://www.panoramio.com/photo/8027290">The Blue Lake</a> as seen from above. <a href="http://www.flickr.com/photos/janos/162504631/">Here's my shot</a> of the same lake from ground level.
-

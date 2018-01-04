@@ -8,4 +8,3 @@ categories:
 I mentioned this before but I think it definetly worths a separate post. So:
 
 This Gilles Peterson CD (BrokenFolkFunkLatinSoul) is absolutely great!
-

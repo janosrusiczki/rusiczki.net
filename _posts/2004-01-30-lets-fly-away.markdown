@@ -12,4 +12,3 @@ I always loved sims. I even played Microsoft Train Simulator for long winter hou
 I also remember a few years back when I borrowed a simple joystick and tried it out with Comanche. I was hooked for days which I spent sneaking behind hills, only raising the heli to drop a Hellfire or two on the enemy tanks and structures trying to accomplish next to impossible missions. I still have the memory that I had a great time back then.
 
 And now I can barely wait for this <a href="http://www.joystickreview.com/thrustmaster/topgunfox2projoystick.asp" title="Reviewed at joystickreview.com">highly acclaimed joystick</a> to arrive so I can climb into the cockpit of brand new digitally rendered airplanes. And the sad fact is that it should be here by now if I weren't sleeping yesterday when they called from <a href="http://www.itshop.ro">itshop.ro</a> to confirm the order. So now I have to wait until next week. Argh!
-

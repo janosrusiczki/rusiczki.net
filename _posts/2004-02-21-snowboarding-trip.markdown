@@ -24,4 +24,3 @@ I started riding down the hill and when I got down... Well, saying that my adren
 It was surely a day to remember. And it looks like tomorrow we're going again!
 
 Photo guide: 1. zipping though the villages (I don't know if it's Sisesti, Danesti or Surdesti), 2. welcome to Cavnic, 3. tall walls of snow guarding the road, 4. the place as it looked like when we got there (notice the wider slope on the right, the one in the woods on the left and the size of the skilift cue at the right of the wooden house), 5. my friends getting ready and the good old Dacia that brought us there, 6. top-down view of the wider slope, 7. now, now, who's all happy and radiant? 8. the place as it looked when we left (notice the cue size again, and this time both skilifts were working - although not fully visible there's a cue of about the same size on the left of the wooden house too).
-

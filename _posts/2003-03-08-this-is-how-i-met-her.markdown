@@ -8,4 +8,3 @@ categories:
 I love reading <a href="http://studentweb.med.harvard.edu/CAG7/html/dpage2.html">romantic stuff</a>.
 
 Wonder if I'll every be happy. In that way...
-

@@ -30,4 +30,3 @@ Luckily (or not) I'm not present in the <a href="http://news.google.com/news?q=r
 <b>BONUS</b>
 
 Searching for one <a href="http://groups.google.com/groups?q=%22bogdan+rosu%22">friend's name</a> showed that he was a really active amateur electronic musician back in 2000 when he hit the USENET for a short period. :-)
-

@@ -12,4 +12,3 @@ Shortly after posting the last entry I thought I'll check out my minidisc deck (
 Everybody slowly arrived. I hardly recognized the guy with short hair. Handshakes. Had two words with him. Then it started. After the first part ended I got home, packed a change clothes (except shoes) and the MD and off I went. I stood until 11:30 at the wedding, realizing that I forgot the shoes, then I excused myself and went to my girlfriend's house to get the suit off and get the nice clothes on. Got a pair of shoes from her brother (thank God!).
 
 In no time I was at the party place (returning first to grab my camera). Made lots of photos. Recorded everything. Danced around. Talked. Drunk 0 alcohol. Returned home happy in the morning. Slept from 7 AM to 7 PM. Not bad.
-

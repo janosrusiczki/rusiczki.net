@@ -8,4 +8,3 @@ categories:
 Sorry but I somehow promised to blog this. To meself. So. Colon = :
 
 At 4:00 AM there came Ova (Ovidiu) with "Palinca de Maramures". Translate this if you can. :-P
-

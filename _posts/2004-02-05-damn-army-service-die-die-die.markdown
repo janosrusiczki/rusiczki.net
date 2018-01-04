@@ -16,4 +16,3 @@ I went down to the post office and picked up my PS2 (more about this in a later 
 And so, somehow, there came today's morning when I woke up early and went down to the military unit one day earlier than expected, grinding my teeth with fear and expecting the worst. And I went in, the guy at the door told me a number for an office, went there, handed the papers to a lady, she said OK, and that was it! That was all! Well, after getting out of there I nearly screamed of happiness. I think I had a rather huge smile on my face.
 
 I hope they won't bother me again with this SHIT. At least not this year.
-

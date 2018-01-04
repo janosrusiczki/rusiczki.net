@@ -33,4 +33,3 @@ Also as an excuse I could mention that I was pretty tied to S1 because I had to 
 And so at 7:20 I packed my things and headed for the train station to pick up Ioana.
 
 To be continued... I hope part 3 will not come after a week. :-)
-

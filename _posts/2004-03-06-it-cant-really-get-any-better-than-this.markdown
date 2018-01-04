@@ -12,4 +12,3 @@ Today's accomplishments? Well, 18 rounds of riding down my favourite mountain. A
 What? It's Saturday night? Well, I don't regret one bit that I'm not going out tonight. I'm almost paralized anyway. A little too much effort over my usual standards and besides I haven't slept after coming home, as I usually do, because I couldn't. Reason? Pepsi Lemon. Lots of Pepsi Lemon.
 
 But anyway, this was one great day!
-

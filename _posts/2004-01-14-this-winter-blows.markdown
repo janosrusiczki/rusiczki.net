@@ -10,4 +10,3 @@ Well, compared to the last one when I was praying for more snow to be able to go
 Lately (last years) the weather has been really fucked up. I mean, there's winter, then spring starts shyly and then in a week it's summer! We're getting accustomed with 20&deg;C temperature climbs or droppings within the interval of a week. Things like this begin to look normal. But they're not. They're definitely not.
 
 We're messing with Mother Nature, now She's beginning to mess with us... And it's not a cute thing.
-

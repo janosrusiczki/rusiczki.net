@@ -14,4 +14,3 @@ The ones I remember from last year were a nice pair of Simpsons inspired cup and
 Also, last year I surprised myself a bit late (in January) with a snowboard which I very much enjoyed. I'm in no way a sportsman. All year long I mostly sit in front of my computer bending my back in a very unhealthy way (actually this year my back began to hurt pretty badly). But in the winter I change. I become a monster. A monster on snow! And I like it so much! Even if my legs hurt like hell from the sudden overdrive. Hehe. Too bad this year up until now the Gods of the snow haven't been too generous with us boarders / skiers around here. And so I'm looking out on the window and see about 5 centimeters of snow. Which is good for... nothing... Well, all I can do is hope. For more.
 
 I got carried away a little.
-

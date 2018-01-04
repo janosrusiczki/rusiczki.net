@@ -15,4 +15,3 @@ There weren't many surprises as the flag is mostly stuck on the <a href="http://
 Another "surprise" was en.wikipedia.org resolving to an IP in the Netherlands.
 
 Talking about CDNs (Content Delivery Networks) I remembered about an interesting article I read a few days ago: <a href="http://www.digitalistic.com/2008/06/09/10-easy-steps-to-use-google-app-engine-as-your-own-cdn/">10 Easy Steps to use Google App Engine as your own CDN</a>. And another one I found recently: <a href="http://code.google.com/apis/ajaxlibs/">AJAX Libraries API</a>. Google, the poor man's CDN.
-

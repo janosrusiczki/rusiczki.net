@@ -20,4 +20,3 @@ Ah, as always it turns that the motorcycle ride stuff was <a href="http://www.ue
 Pulse's post on that forum thread was a worthy read and the <a href="http://www.web-axis.net/~pulse/chernobyl/prypyat-panoramic.jpg">panoramic picture</a> he took from the top of the highest building in Pripyat is also worth looking.
 
 What I remember about the accident is that I was a few days older than 7 and I was at my Grandma's probably playing with the presents I got for my birthday on the 17th and when my mother came over we (my cousin and me) had to take some sweety pills (iodide).
-

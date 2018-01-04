@@ -17,4 +17,3 @@ Bănuiesc că pentru câțiva ani va fi valabil și <a href="http://goo.gl/maps/
 Oricum, zic că am scăpat destul de ieftin, pe unii colegi i-a prins pe bicicletă prin oraș, i-a mai prins pe o grămadă în toiul team building-ului nostru desfășurat în zona Barajului Firiza. Alți prieteni au fost la terasă și lista poate continua.
 
 Oricum, toata treaba asta cu Google Street View e ceva ce nu mi-aș fi imaginat acum 10 ani că vom avea. Mai ales nu prin Baia Mare / Baia Sprie. :)
-

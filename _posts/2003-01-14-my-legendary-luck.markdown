@@ -12,4 +12,3 @@ I have to point out that my ass is really full with people calling me "super". T
 After the exam 4 of my colleagues plus the kid of two of them (yeah, age range at the table was between 18 and 31) and me went and ate pizza. It was so good. We sat there long after finishing the dish and chatted. About this and that. Everything and nothing. Was nice. It's funny that now I look at them completely differently compared to the first day I went to this new school... At least I can say I like a few of them, because I really don't stand some of the others. But I got used to it anyway.
 
 Conclusion is: Phew! It's so great that I'm done with this one too.
-

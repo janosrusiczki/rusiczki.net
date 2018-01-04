@@ -14,4 +14,3 @@ Animated GIF version.
 Credits belong to the original author(s).
 
 <a href="http://www.orlyowl.com/">Want more?</a>
-

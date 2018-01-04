@@ -16,4 +16,3 @@ Fast forward four days and an e-mail arrives from a certain Andrew explaining me
 A few days before Christmas I finally received some well earned money and as such I finally got around and ordered Kevin <a href="http://www.amazon.co.uk/exec/obidos/ASIN/B000026YEO/">a Pixies CD</a>. As he was from UK, amazon.co.uk estimated that the package will arrive just before Christmas. So, eventually everything was OK and I only had to sit around and wait for a few days, and <em>voila!</em> exactly a month after passing the order, on the 15th of January 2005 my package arrived! Nowadays I'm really busy watching all the special features the two discs are packed with.
 
 Thank you Gabi for the link that got me into the game in the first place and thank you Andy for the fantastic gift!
-

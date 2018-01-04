@@ -8,4 +8,3 @@ categories:
 <a href="http://www.yuunalesca.org/weblog/" title="Holy Cow!">Designed by a twelwe year old.</a>
 
 They're coming! We're doomed.
-

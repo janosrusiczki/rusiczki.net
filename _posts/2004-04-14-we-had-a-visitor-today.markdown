@@ -10,4 +10,3 @@ categories:
 Father claims this is a not the first time. So it looks like it lives in one of the nearby gardens and was making some funny noises all the time I took the photos. And then got bored and moved to the next garden showcasing some incredible acrobatic techniques.
 
 Anyway, squirrels earned my long time respect since I found <a href="http://www.illwillpress.com/vault.html" title="Foamy!">the meanest squirrel</a> of the Internet!
-

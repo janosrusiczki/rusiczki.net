@@ -10,4 +10,3 @@ Today was just the average school day. In the morning I woke up really late. So 
 Coming home I found a new issue of Muzik waiting for me... And a superb chilly CD mixed by Radio One's Gilles Peterson. Superb, really. I read a bit of Muzik. Watched the second part of '<a href="http://imdb.com/Title?0207201">What Women Want</a>', because I saw the first hour or so yesterday night on satellite and I just couldn't keep my eyes open for it then... So I took out one of my oldest DivX CDs today and flipped it in. Actually I couldn't really remember how it ends besides that it had a happy ending (what else would you expect from a romantic comedy featuring Mel Gibson?). After seeing it I went to sleep. As usual...
 
 I don't know but I feel that this a real problem. Lately I'm so lazy and tired almost all the day. I started taking some vitamins but they don't seem to help too much. Maybe I'll visit a doctor... Soon.
-

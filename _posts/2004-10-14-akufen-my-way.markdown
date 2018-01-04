@@ -15,4 +15,3 @@ By the way, Akufen is Marc Leclair from Montreal, Canada and his music can be be
 
 <blockquote>Akufen&rsquo;s gimmick (if you will allow me to be reductive for a moment) is his use of pick-a-mix radio samples to create melodies. Akufen molds sub-second fragments of pop songs, people talking, and other auditory ephemera into burbling melody lines.</p></blockquote>
 And let me tell you that as chaotic as this might sound it turns out great for him! Oh, and if you have a credit card at hand you can create a trial account at <a href="http://www.emusic.com">Emusic</a>, guilt freely <a href="http://www.emusic.com/album/10667/10667089.html">download the whole album</a> and then still have a bunch of trial credits to check out some of the other great indie stuff of which Emusic is chock full of...
-

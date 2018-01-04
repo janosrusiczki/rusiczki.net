@@ -14,4 +14,3 @@ Yesterday, the guys from TMBase updated their page and added Constantin Duma's p
 And finally, <a href="http://www.4elemente.ro">4elemente</a> posted <a href="http://www.4elemente.ro/Evenimente/event18.htm">a nice review</a> of the event in Romanian. It's the most well written review out there.
 
 That's all folks. No more TMBase related stuff for a while. I promise.
-

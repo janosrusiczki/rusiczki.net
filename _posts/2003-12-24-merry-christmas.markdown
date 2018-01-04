@@ -21,4 +21,3 @@ I pray God
 
 It's our last</p></blockquote>
 Yep, it's a little raw! But still, Merry Christmas everyone!
-

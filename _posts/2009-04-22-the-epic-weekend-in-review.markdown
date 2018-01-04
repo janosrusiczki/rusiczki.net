@@ -19,4 +19,3 @@ Monday was the trip day. At 7 AM we were off to <a href="http://en.wikipedia.org
 Tuesday was a chill day. We went out with Steve, his girlfriend and the dogs for a delicious BBQ and some nitro burning but my RC car gave up on me and refused to work properly from the second tank onwards. I was pretty disappointed because I'm not really in the mood of going through the fuel needle settings once again.
 
 We returned home at around 7:30 PM. And that was it, the epic extended weekend.
-

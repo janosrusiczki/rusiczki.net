@@ -14,4 +14,3 @@ Dar nu pentru snow report m-am apucat să scriu acest articol ci fiindcă îl sc
 În încheiere iată o poză cu biroul...
 
 <a href="http://www.rusiczki.net/wp-content/uploads/2013/12/PC140177.jpg"><img class="alignnone size-medium wp-image-4660" alt="Cabană Borșa" src="http://www.rusiczki.net/wp-content/uploads/2013/12/PC140177-693x519.jpg" width="693" height="519" /></a>
-

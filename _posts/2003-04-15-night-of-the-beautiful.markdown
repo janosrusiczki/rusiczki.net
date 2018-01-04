@@ -10,4 +10,3 @@ Tonight was one of those rare nights when <a href="http://www.triggerfinger.ro/l
 <a href="http://www.stevescott.com.au">Steve Scott</a> has some incredible illustrations. And <a href="http://juniatwork.mrtio.com/">Giulia Balladore</a> rocks with her passion for those small details.
 
 I dropped my camera (dropping stuff is not me - not at all), I'm enjoying vector based graphics... What's next? The end of the world? :-)
-

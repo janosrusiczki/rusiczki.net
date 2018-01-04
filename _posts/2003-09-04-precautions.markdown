@@ -12,4 +12,3 @@ Anyway I mailed them the pics in the afternoon. And suddenly while I was sitting
 It occured to me afterwards that e-mails aren't encrypted in any way... Well, let's hope nobody intercepted mine. Hehe. It was required to send a clearly visible image of the card. And faxing wasn't a real option because it would have required going somewhere to photocopy my card, then going to the post office to fax. Too much fuss.
 
 I believe in my luck.
-

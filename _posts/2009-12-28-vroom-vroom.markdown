@@ -9,4 +9,3 @@ categories:
 <a href="http://www.flickr.com/photos/janos/4222723540/"><img src="http://www.rusiczki.net/wp-content/uploads/2009/12/raliu-500x334.jpg" alt="Playing Richard Burns Rally..." width="500" height="334"/></a>
 
 A photographic update to <a href="http://www.rusiczki.net/2009/12/28/relaxed-christmas/">my last post</a>. For the sake of remembering the good times.
-

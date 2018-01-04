@@ -12,4 +12,3 @@ Yesterday, right after work I went up to Baia Sprie and after fetching some food
 Silly me I forgot my GPS home. Next time you'll get some coordinates too... :-)
 
 Back to work.
-

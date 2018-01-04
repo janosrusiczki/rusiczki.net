@@ -28,4 +28,3 @@ Totul a decurs relativ ușor și cu puțin ajutor de la guru <a href="https://ww
 Ieri majoritatea după mesei a fost consumată de pasul 1 iar acum rulează, și după cum se observă în poză, va mai rula o vreme, pasul 3.
 
 Dar rezultatul acestor două zile de downtime va fi un sistem mult mai ușor de extins din punct de vedere al software-ului pe care abia aștept să instalez bunătățile din articolul care l-am menționat mai sus.
-

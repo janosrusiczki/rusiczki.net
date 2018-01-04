@@ -15,4 +15,3 @@ Am pus poza de deasupra și aici pe blog fiindcă îmi place mult și deoarece p
 Iar pentru cei curioși de detaliile tehnice: poza a fost făcută cu noul nostru Olympus EP-5, cu un obiectiv de 14mm împrumut iar retușările sunt minimale (crop și ajustări ușoare de culoare).
 
 PS. Ieșirile tomnatice au ceva magic ce mă fac să scriu despre ele. <a href="http://www.rusiczki.net/2011/09/13/sfarsit-de-saptamana-activ/">Poftim un alt exemplu.</a>
-

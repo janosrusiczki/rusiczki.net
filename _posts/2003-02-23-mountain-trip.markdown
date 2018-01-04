@@ -6,4 +6,3 @@ categories:
 - Life
 ---
 My friends and I took a trip to the a nearby mountain today. We had some quality fun and I it was really nice.
-

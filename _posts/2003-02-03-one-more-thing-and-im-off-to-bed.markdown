@@ -10,4 +10,3 @@ I made myself a MasterCard. <a href="http://www.bancpost.ro/bp.nsf/ro_rps_rprod_
 I don't quite want to think about the price of the book nor the shipment's...
 
 And now yes. I'm going to bed. I planned to go at midnight. And it's almost 2:30 and I have to work a lot tomorrow! And as a lot of work implies an early wake up... Oh, just shut up and go to sleep!
-

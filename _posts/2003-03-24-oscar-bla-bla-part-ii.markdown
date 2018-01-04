@@ -20,4 +20,3 @@ Sound. I put my tip on Lord of The Rings. Chicago... Whooops.
 Sound editing. OK. My tip is again on Lord Of The Rings. Bingo this time! :-)
 
 First anti-war speech.
-

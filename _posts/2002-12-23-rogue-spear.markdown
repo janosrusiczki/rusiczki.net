@@ -16,4 +16,3 @@ Apparently in the rush of creating an e-shop packed with everything from perfume
 <img src="http://www.rusiczki.net/blog/blogpics/spiderman.png" width="308" height="118" border="0" alt="Spiderman?" class="image" />
 
 And so on... I found these browsing the PlayStation2 games. After all this is what makes browsing such a funny activity. :)
-

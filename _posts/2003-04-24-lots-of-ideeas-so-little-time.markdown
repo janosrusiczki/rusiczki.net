@@ -6,4 +6,3 @@ categories:
 - General
 ---
 I'm playing around with <a href="http://mnot.net/rss/tutorial/">RSS</a>. I have one great ideea involving weblogs and PDAs. But who knows if I'll ever make something out of it...
-

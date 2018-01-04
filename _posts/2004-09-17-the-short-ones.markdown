@@ -14,4 +14,3 @@ In the blogworld: <a href="http://www.rola.ro/lmarin/">Lucian</a> made himself a
 Oh, and yesterday night I saw <a href="http://www.imdb.com/title/tt0265208/">The Girl Next Door</a> which was surely one of the most entertaining movies I saw lately. It starts out just like any other other boring teenager movie but then it takes a crazy turn and from that moment on it's like a crazy rollercoaster ride. Had me laughing out loud a good few times.
 
 And there's the whole RDS story but I'll post a separate entry about that.
-

@@ -20,4 +20,3 @@ Yes Steve, you're right, Hale Berry is hot.
 Adrien Brody... I envy him. That kiss he gave Hale Berry. And taking the statue away from those huge players (Cage, Nicolson, Caine, Day Lewis). Really touching speech. Standing ovation. Fantastic. And I don't know anything about this guy... I should really fill some knowledge holes.
 
 Music. Eminem? Shit. I don't like this...
-

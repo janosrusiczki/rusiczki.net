@@ -13,4 +13,3 @@ Lately I uploaded some video content for friends and forum buddies and I thought
 <li>The same insane party as above and this time the crowd goes wild with Rennie Pilgrem's <i>London Voodoo</i> - <a href="http://www.rusiczki.net/blog/blogstuff/deekline-2.avi">DivX 3.1 - 974 kB</a></li>
 </ul>
 The sound quality sucks for both of the party clips but at least I learned that when I'm filming in clubs I should probably cover the mic on the PowerShot with my finger to attenuate the sound level...
-

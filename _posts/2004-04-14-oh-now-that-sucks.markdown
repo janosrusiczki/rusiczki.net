@@ -6,4 +6,3 @@ categories:
 - Web
 ---
 Open the <a href="http://www.bcr.ro/">Romanian Commercial Bank's webpage</a> in anything but Internet Explorer. <a href="http://www.bcr.ro/Netscape/Index.htm">Surprise!</a> Nicely done boys.
-

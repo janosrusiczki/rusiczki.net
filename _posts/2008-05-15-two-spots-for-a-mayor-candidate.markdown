@@ -19,4 +19,3 @@ I'm sure as hell not going to vote as I'm way too fed up with these leeches. It 
 <a href="http://tiribonflax.blogspot.com/2008/05/cu-mult-tristee-despre-campania.html">Via.</a>
 
 <strong>Update:</strong> I open <a href="http://hotnews.ro">Hotnews</a> following some random link I've received via IM and what do I see? <a href="http://www.rusiczki.net/blog/blogpics/google-adsense-corin-primar.png">This.</a> Heeelp! They're everywhere!
-

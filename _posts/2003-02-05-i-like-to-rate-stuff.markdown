@@ -6,4 +6,3 @@ categories:
 - Web
 ---
 So I spend a lot of un-useful time on <a href="http://mikeproject.com/rate/boobs/" title="The link I gave is the boobs section... :-)">mikeproject's "rate my X"</a> sites.
-

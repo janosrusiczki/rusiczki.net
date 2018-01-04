@@ -12,4 +12,3 @@ There was nothing in the mailbox today. I thought my copy of SSX 3 would arrive 
 I also ordered a <a href="http://www.dms3.com">DMS3</a> modchip for my beloved second hand console. So I'll be able to play backed up games (not necessarily backed up by me) and play DivX movies on my TV. I got scared when I looked at the installation guide for the modchip. So many small soldering points... But I think I'll let someone with more experience install it. Someone who already modded PS2-s. And I'm also waiting for an EZ Flash linker for my GameBoy Advance.
 
 It seems like I'm looking forward for some serious gaming. God, when will I find time to do some work? And what about going to school? Uhoh!
-

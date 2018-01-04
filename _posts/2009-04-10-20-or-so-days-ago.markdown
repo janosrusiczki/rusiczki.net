@@ -11,4 +11,3 @@ categories:
 Yeah, I know winter just left and it's too early to get nostalgic about it but I had this photo laying around on my desktop and thought it would be cool to archive it somewhere. The original file name was "suior-de-vis" which means, for all of the 2 English readers of this blog, "dreamy-suior". Suior being the name of the slope.
 
 And yes, you are right, I'm stalking Jurnalul National's webcams <a href="http://www.rusiczki.net/2009/04/07/yep-its-over/">quite</a> a <a href="http://www.rusiczki.net/2009/04/09/free-gigi/">lot</a>. Because they're awesome, mostly in the winter.
-

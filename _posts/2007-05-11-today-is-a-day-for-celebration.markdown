@@ -12,4 +12,3 @@ While this is great news for all those wannabe eBay users, those who wanted a Pr
 
 <blockquote>PayPal accounts opened in this country or region currently cannot withdraw funds. We regret any inconvenience this may cause you.</p></blockquote>
 So, at least for the moment, to receive money I'll stick with <a href="https://www.moneybookers.com/app/?rid=618519">Moneybookers</a>.
-

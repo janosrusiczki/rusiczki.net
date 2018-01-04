@@ -12,4 +12,3 @@ I took the book. Peeked in it. It read: "cook for 6 minutes on 500W and stir eve
 Yum.
 
 So much about books.
-

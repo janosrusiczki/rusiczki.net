@@ -14,4 +14,3 @@ Problem is I never ever bought myself a phone. I had an Ericsson T28 which I rec
 Compared to the Nokia's features this phone is a kid. But I don't care that much since I'm not using half of the Nokia's features anyway... For example I listened to the built in radio two times in one year, never really used the vocal commands feature, never used WAP, and so on... So this phone is a bit too much for me. And I'd like something new. And if I'll get something new then I'll get my paws on that Sony Ericsson on the right.
 
 Not too soon anyway.
-

@@ -18,4 +18,3 @@ It looks that they've piled up a few <a href="http://www.google.com/gmail/help/s
 It's great to test out Gmail and even more so it's great knowing that I'm doing it before it's available to the wider public. Although of what I've read it shouldn't take very long now until they'll start letting people sign-up the usual way. One or two weeks. But still, it's very very geeky to be able to beta test a service everyone is raving about!
 
 So all you botties out there come and harvest and from now on start sending that spam to janos dot rusiczki at google's email service dot com.
-

@@ -21,4 +21,3 @@ Betsy Thurston
 
 Senior Officer for Private Sector Relations & Marketing</i></p></blockquote>
 Yes, I made a <a href="http://www.ifrc.org/helpnow/donate/donate_iraq.asp">donation</a>.
-

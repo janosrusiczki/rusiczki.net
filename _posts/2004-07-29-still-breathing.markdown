@@ -12,4 +12,3 @@ This summer didn't turn out as I wanted to. Not the least. Because at this momen
 I really wanted to go to the <a href="http://www.peninsula.ro">Peninsula</a> aka <a href="http://www.felsziget.ro">F&eacute;lsziget</a> festival but when I was about to go a quick check of my budget revealed that I don't have enough money for this kind of fun and further more some additional problems popped up that kept me from going. I was sad and mad and every other negative adjective. And at that moment I realized that I'll probably spend this summer sitting in front of my computer programming or wasting time on the Internet, or doing whatever.
 
 Sad.
-

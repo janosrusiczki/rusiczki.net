@@ -12,4 +12,3 @@ Today I checked my <a href="http://www.feedburner.com">Feedburner</a> account, w
 WHOOPS!!! I quickly fixed it (created a redirect) and hopefully no one got scared by the avalanche of posts that happened this afternoon. :-)
 
 <strong>Edit:</strong> Additionally <a href="http://twitterfeed.com/">twitterfeed.com</a> was messed up and that's why the blog post announcements doubled on <a href="http://twitter.com">twitter</a>. It's too long and technical to explain what was wrong but the important thing is that it's fixed now.
-

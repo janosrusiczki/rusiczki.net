@@ -17,4 +17,3 @@ Tatadaaam!
 Clicking on the image above will take you to his site. Plus I have <a href="http://www.rusiczki.net/blog/blogpics/lucian-marin-website-screenshot.png">the full version</a> of the above screenshot archived for eternity, so we'll always know how the site looked on January the 30th, 2009.
 
 PS. Resize those damn goodies images!
-

@@ -15,4 +15,3 @@ Whoops.
 He offered to talk about the whereabouts of Bin Laden and the cure for AIDS. But he refuses to tell where his "time craft" is.
 
 Interesting story!
-

@@ -12,4 +12,3 @@ The first thing your boss says to you just as you enter the company's door is: "
 Erm, yeah, I know I shouldn't tell anyone I work with computers. Although it's a known fact that I'm no hardware wiz. On the contrary.
 
 PS. This entry's title wanted to be "Monday morning <em>monitor</em> menace" (Mmmm) but then I remembered that as opposed to Romanian, in English "monitor" is not really used to signify "display".
-

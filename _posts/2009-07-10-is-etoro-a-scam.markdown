@@ -24,4 +24,3 @@ And this is where another downside of eToro comes into play. While the interface
 I stopped when my balance went under $25 and I couldn't initiate another trade. Now we'll see if my withdrawal request will actually yield because the process sort of started out on the wrong foot as I requested the withdrawal to be made via PayPal yesterday and today they've sent me an e-mail requesting my bank account details and stating that I've requested the money by wire transfer. I politely replied that they're wrong, and even their interface confirms this. (I'll keep you posted on how this all progresses - watch this post for updates.)
 
 I wrote this post to give others a chance to learn from my mistakes before commiting to deposit. Hopefully...
-

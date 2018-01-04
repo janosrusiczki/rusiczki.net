@@ -18,4 +18,3 @@ Fast forward to one evening last weekend when I'm checking my e-mail night and r
 And this week I started looking for solutions. In fact I didn't look very hard because I remembered quite a few people praising <a href="http://www.dreamhost.com">DreamHost</a> and their cutting edge features (Ruby on Rails, CVS / SVN repository, shell access, etc). I also remembered that <a href="http://www.alexbrie.net">Alex</a> had a promo code listed on his blog's pages and to make a long story short a few days and minus $120 after I have secured a cool hosting plan for 2 years.
 
 So here I am now, dreaming on DreamHost. And the future looks nice once again knowing that I'm a fully privileged paying customer not a pest riding some payment system glitch... :-)
-

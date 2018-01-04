@@ -12,4 +12,3 @@ The intro. There were these kids with us at the party. 15 - 16 years. Girls most
 Well this got me thinking. If it only takes this to be a 'cool guy' then I could be a 'cool guy' really often. But then I thought about what does actually 'cool guy' mean for kids of this age... Answer: nothing really. Just as the word 'friend' doesn't really mean anything to them either.
 
 Maybe I shouldn't think so much about stupid little things like this. Hehe.
-

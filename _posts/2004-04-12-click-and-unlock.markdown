@@ -14,4 +14,3 @@ This site offers phone unlocking services for French customers... A locked phone
 Another important part of the site is the <a href="http://www.clik-et-deblok.com/affiliate.php">affiliate section</a> which offers websites that deal with GSM phones an easy way to make money by placing an IFRAME on one of their pages containing a configurable replica of the first page of Clik-et-Deblok.Com. Affiliates are then payed according to the amount of codes they manage to sell.
 
 Well, this is Clik-et-Deblok.Com or about one month's worth of work in a nutshell. To give the appropriate credits the site is the brainchild of Steve Palma (<a href="http://www.zonegsm.com">ZoneGSM</a>), the design was done by Bogdan Rosu of <a href="http://www.spinform.ro">Spinform</a> and silly me did the coding.
-

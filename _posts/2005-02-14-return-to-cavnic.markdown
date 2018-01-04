@@ -14,4 +14,3 @@ Sunday was much more straight forward but it started pretty sadly when I woke up
 The only negative event of the weekend happened on our way back when because of the bad weather conditions we made a one-eighty with the car in one curve. Fortunately nothing really serious happened except losing the front bumper. Anyway we got pretty scared. For me it was the first "accident" like experience and I hope I'll never experience something like this again.
 
 Oh, I forgot the important stuff: yesterday Ioana managed to master the skilift. Hurray! :)
-

@@ -8,4 +8,3 @@ categories:
 <a href="http://www.flickr.com/photos/janos/69377978/"><img src="http://static.flickr.com/35/69377978_9354d1d0f2.jpg" alt="The new family member (2)" border="0" class="image" /></a>
 
 Oh... and did I mention the fact that I'm happy!?
-

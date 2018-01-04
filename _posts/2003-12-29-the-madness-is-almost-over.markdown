@@ -14,4 +14,3 @@ The end of the whole Christmas thing was marked by a bangin' party yesterday nig
 But as Christmas went away everybody in my circle of friends turned his attention over to the New Year's Eve party. Which I hope will turn out nice. But it can't really turn out bad, because I'm talking about two nights of great music in our favorite club. So it MUST turn out nice. I hope I won't drink too much on the first night so that I'll be a waste on the second. But it really depends on the atmosphere there.
 
 Let's wait and see...
-

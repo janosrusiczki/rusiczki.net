@@ -13,4 +13,3 @@ If you've ever been to a rave or have seen a techno parade passing by do check o
 Have fun and thanks <a href="http://www.adnan.ro">Adnan</a> for sharing the lulz.
 
 Informative Resource: <a href="http://www.exact-exams.com/640-801-exam.html">640-801</a> and <a href="http://www.real-exams.com/350-030.htm">350-030</a> is not that hard if you have been studying for <a href="http://www.exactquestions.com/70-536.html">70-536</a> arduously. However if you already have <a href="http://www.testking.com/642-372.htm">642-372</a> or <a href="http://www.testking-questions.com/exam/640-816.htm">640-816</a>, it sill surely help you in going for advanced certifications like <a href="http://www.testking.net/testking-156-315.htm">156-315</a> as well.
-

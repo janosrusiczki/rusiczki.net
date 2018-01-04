@@ -16,4 +16,3 @@ Here are some tidbits which I consider <i>news</i>:
 <li>There's <a href="http://www.apple.com/trailers/sony_pictures/big_fish/">a trailer available</a> for one of my favorite directors' new movie. I'm talking about Tim Burton's <a href="http://www.imdb.com/title/tt0319061/">Big Fish</a>. I'm really looking forward to see it as Burton always succeeds in creating hunting visual worlds...</li>
 </ul>
 That's about it for now.
-

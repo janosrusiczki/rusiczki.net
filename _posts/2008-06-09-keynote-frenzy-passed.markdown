@@ -12,4 +12,3 @@ Only after I got home Steve broke the news everyone was waiting for. And the con
 I'll wait for Google Maps to include Romania first! Now with the integrated GPS it makes even more sense. Come on Google!
 
 <strong>Update:</strong> Actually <a href="http://www.apple.com/mobileme/">MobileMe</a> doesn't <a href="http://www.apple.com/mobileme/guidedtour/">look</a> that bad. I'll have a trial, please. As soon as it'll be available.
-

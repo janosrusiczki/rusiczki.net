@@ -10,4 +10,3 @@ If anyone could trace or knows the forum where this guy initially posted <a href
 I found the .doc browsing the <a href="http://www.lug.ro">RLUG's</a> (Romanian Linux Users Group) <a href="http://www.lug.ro/mlist/archive/humor/humor.2005-04/0055.html">humor list archives</a>.
 
 <b>UPDATE</b> Thanks to Vlad (<a href="http://electronic.idilis.ro/index.html">Bits of Reality</a>) I now have the URL of the <a href="http://forum.oltcit.ro/viewtopic.php?t=507">original forum thread</a> where the stories contained in the .doc were posted and so I can keep an eye out for any new "episodes". Muchos gracias!
-

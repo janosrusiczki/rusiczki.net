@@ -16,4 +16,3 @@ Damn, I'm up very late again! And I don't know if I'll be able to go to school t
 I'll sleep most of the day tomorrow I can be sure of that. At least I hope I'll attend the Mathematics class...
 
 Bed time!
-

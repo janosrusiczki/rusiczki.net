@@ -10,4 +10,3 @@ I've just deleted the first 4 spam comments of my blog. Part of me is happy: I'v
 The strange part is that earlier today I read an interesting post on <a href="http://simon.incutio.com/archive/2004/01/28/solvingCommentSpam">solving comment spam</a> in <a href="http://simon.incutio.com/">Simon Willison's Weblog</a> and I was thinking: phew, I'm glad this kind of crap didn't happen to me yet. Well... It did now.
 
 <b>UPDATE:</b> I downloaded and installed Jay Allen's <a href="http://www.jayallen.org/comment_spam/" title="MT-Blacklist/Comment Spam Clearinghouse">MT-Blacklist</a> plugin just so I won't have nightmares with comment spam clogging my beloved weblog. Also updated <a href="http://www.movabletype.org">Movable Type</a> to the latest version as of this writing which is 2.661.
-

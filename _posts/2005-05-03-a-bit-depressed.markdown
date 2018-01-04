@@ -10,4 +10,3 @@ Yesterday I met with some ex-collegues from the company I worked at during the y
 I haven't made any long term plans (how characteristic) so the future is quite uncertain now but for the moment I'll be staying at SoftZone. It's really nice there (I'm drooling over my 17" LCD each and every day) and besides it leaves me a bit of spare time which I'm using to focus on my more or less personal projects. Expecting something good to emerge.
 
 Until then I'll just continue playing that familiar game called "surviving those damn monthly payments".
-

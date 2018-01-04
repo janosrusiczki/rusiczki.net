@@ -24,4 +24,3 @@ OK. Further actions I took today: Went to a friend. Borrowed his Sony MiniDisc D
 If I'll get really angry I'll record it in analog mode to the computer too. And then MP3 it. I do have SPDIF connection between my soundcard and CD-ROM so the quality will be almost the same as of a direct rip. I think... And I hope. :-)
 
 Conclusion: <b>Fuck RIAA!!!</b>
-

@@ -14,4 +14,3 @@ What you can see in the photo is part of Baia Mare's Traian Boulevard. At the le
 As you can see Baia Mare can't really claim that it's got an active nightlife as there's nobody on the street in the picture. No people and no moving cars. And it's Saturday 11:30 PM...
 
 The perspective from my window is a lot bigger and very nice actually and I intend to post more pics. I'm just waiting for the right moment to shoot them.
-

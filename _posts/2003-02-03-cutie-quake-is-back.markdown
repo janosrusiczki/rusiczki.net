@@ -10,4 +10,3 @@ Well <a href="http://www.computergames.ro/jocuri.php?optiune=online_games&game=3
 Also it seems like a bonus pack came out for UT2003. Should grab it. But first I should play the game more. A lot more. Because I really like it. And I do relax playing it after coding my brain off. I'm talking about UT here. Not Cutie Quake...
 
 The only task remaining now is to remember what that other post I lost was about.
-

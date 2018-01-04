@@ -10,4 +10,3 @@ Well, I'm planning to turbo up my PC a little since I last upgraded my processor
 Well. Time to put away some money for the upgrade. Find buyers for the old wares. And the rest of the procedures associated with an upgrade process.
 
 <img src="http://www.rusiczki.net/blog/images/spmsg.gif" width="132" height="13" style="border: 0; vertical-align: bottom" alt="" /> Would like to upgrade your computer? Check out an article on <a href="http://www.socialstudieshelp.com/topics/computer-learning-center.html">computer learning centers</a>. You will also find resources on <a href="http://www.socialstudieshelp.com/topics/online-computer-science-programs.html">online computer science programs</a> at SocialStudiesHelp.com.
-

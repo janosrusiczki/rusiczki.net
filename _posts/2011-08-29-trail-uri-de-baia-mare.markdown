@@ -20,4 +20,3 @@ Norocul mi-a fost că plouase destul de recent și traseul a fost lipsit de elem
 <iframe width="693" height="382" src="http://www.youtube.com/embed/sCCtjy4JdAg" frameborder="0" allowfullscreen></iframe>
 
 Acest al doilea clip este destul de lung și am fost criticat de ce nu l-am editat cu muzică și alte alea. Motivele sunt două: lipsa de timp / chef și dorința de a "documenta" traseele exact asa cum sunt ele. În plus ne-am dat silința să coborâm "foc continuu" adică fără pauze nejustificate și plictisitoare. În același timp am primit și feedback pozitiv iar bicicliștii în general mi-au zis că video-ul le-a cam făcut chef de dat. Așadar atenție, s-ar putea să va treziți cu dor de ducă după vizionarea clip-urilor. :)
-

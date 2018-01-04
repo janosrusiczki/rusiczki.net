@@ -16,4 +16,3 @@ Well, les connaisseurs call these 'feline mysteries'! :-)
 (I think this was the last relaxed post before the second part of the 'End of May' craze starts.)
 
 <b>UPDATE</b> Here's a <a href="http://homepage.mac.com/cpaul/black-n-white/images/DSCN7943.jpg" title="Prizzi">bigger version</a> of Kit's photo.
-

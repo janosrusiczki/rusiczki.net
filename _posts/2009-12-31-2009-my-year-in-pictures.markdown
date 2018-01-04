@@ -157,4 +157,3 @@ A couple of days before Christmas I visited a conference where I met a few of th
 And on the same day visited the opening ceremony of a program that celebrates traditions in my lovely county of Maramures. I sort of celebrated the "free" in freelancer that day.
 
 And that ladies and gentlemen is the year in pictures for me.
-

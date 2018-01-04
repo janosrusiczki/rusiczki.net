@@ -16,4 +16,3 @@ An e-mail came next with basically the same content. He then called me again whi
 I removed the post in a hurry as well as my contact details (which I put back in the meantime).
 
 I don't want to be racist but do Nigerians consider this as a full time job? You know, like there's a first time investments in placing an International call to a "genius" who will enlighten them about the great schemes of scamming and then, off they go! How about you know, actual work!? Neah, easy money is much better.
-

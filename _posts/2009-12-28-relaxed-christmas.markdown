@@ -18,4 +18,3 @@ The non-bought-from-Steam game I played a lot these days was <a href="http://www
 This is it in a nutshell.
 
 Roll the credits! The photo illustrating this post belongs to <a href="http://www.flickr.com/photos/ioana">Ioana</a>.
-

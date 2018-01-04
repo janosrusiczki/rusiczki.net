@@ -13,4 +13,3 @@ Just a quote, which applied in "real life" really annoys the shit out of me:
 
 "Pluralize with Apostrophe's." This one small tactic is guaranteed to annoy anyone with even a passing knowledge of proper grammar. With a single keystroke, you demonstrate that you're completely incapable of handling the simplest rule of the English language, and reduce your more capable comrades to fits of mute frustration at your wilful idiocy.</i></p></blockquote>
 Well said. Good material.
-

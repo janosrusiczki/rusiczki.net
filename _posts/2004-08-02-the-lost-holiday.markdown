@@ -14,4 +14,3 @@ Yesterday was a very nice day though. We woke up early at about 3 in the afterno
 We came back to Baia Mare at about 11 PM and went to the disco (yep, on Sunday night) and it just turned out great because some local dudes were showing off their techno productions which weren't bad at all. Did some dancing and stuff. After all this we went to Ioana's place, saw about half of <a href="http://www.imdb.com/title/tt0188674/" title="Hillarious movie!">Human Traffic</a> and then we called it a day.
 
 And what a day!
-

@@ -9,4 +9,3 @@ categories:
 After some <a href="http://discussion.dreamhost.com/showflat.pl?Cat=&Board=3rdparty&Number=104041">adventures</a> which included almost 24 hours of my individual post pages being offline I managed to upgrade my blog's engine to Movable Type 4.1. Judging from what I saw from the admin up until now it really is great. Let's see how it works in the longer run...
 
 <strong>Update:</strong> Some template tweaking was needed before being able to publish the entry.
-

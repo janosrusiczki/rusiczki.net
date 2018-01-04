@@ -14,4 +14,3 @@ You can <a href="http://www.last.fm/music/portishead/third?autostart=1">stream</
 Official release: April 28, 2008. Hmmm, might even order it as a CD.
 
 <strong>Update:</strong> It seems that I've caught what were the last hours of the full streaming album. All you can listen now are 30 second samples. Too bad.
-

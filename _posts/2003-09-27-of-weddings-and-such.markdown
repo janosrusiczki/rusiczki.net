@@ -12,4 +12,3 @@ Obviously things got complicated since <a href="http://www.rusiczki.net/blog/arc
 I cooked up a nice battle plan. Involving escaping from the wedding, changing my clothes, getting to the place of the event and recording everything he plays on minidisc (I had a talk with him last night). The hardest part is escaping from the wedding. But I hope I'll succeed.
 
 Time to get ready!
-

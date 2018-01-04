@@ -12,4 +12,3 @@ Poor fella. And poor cat:
 
 <blockquote><i>THE HAGUE</i> - A cat trapped in a mosque after Friday prayers in the Dutch town of Sneek alerted the whole town to its plight by meowing over the sound system normally used to call the faithful to prayer, having managed to turn on the system. The animal's owner, recognising his pet's meow, alerted the police but the cat was not freed until a key to the mosque was found 24 hours later.</p></blockquote>
 Don't miss the fun. <a href="http://www.theage.com.au/articles/2002/12/19/1040174327849.html" title="theage.com.au">Lots more here.</a>
-

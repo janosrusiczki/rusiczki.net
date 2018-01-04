@@ -18,4 +18,3 @@ Bored...
 Bored!
 
 Fuckin' life! It's good for some. Bad for the others. Us. Geeks.
-

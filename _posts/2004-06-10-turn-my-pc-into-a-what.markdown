@@ -10,4 +10,3 @@ After <a href="http://www.timbru.com/">Gabriel</a> posted <a href="http://www.en
 OK, it's undoubtedly nice, but as we all know these kinds of customizations run well on nothing but the fastest PCs and what you'll get is basically a slower machine with a nicer desktop which you'll eventually decide to ditch for the speed gain. At least that's what I always did after trying out this kind of customization stuff. And I said nothing yet about the cost of the <a href="http://www.stardock.com">StarDock</a> software needed to accomplish 'the dream' and about the fact that you can't hide your ugly case and even less the great mess of cables behind it...
 
 Conclusion: If you want a Mac so much isn't it easier to just buy one? ;-)
-

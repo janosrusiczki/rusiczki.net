@@ -10,4 +10,3 @@ categories:
 This package really made my day. And, why not, my week! Although tomorrow I'm going to pick up a double package from <a href="http://www.threadless.com" title="Cool t-shirt outlet, but when will they do a Mozilla compatible site?">Threadless</a> full of &uuml;bercool tees! Unfortunately only two are mine. In fact only one is mine because the other one is a girly tee intended as a gift for my girlfriend's birthday. Anyway, it looks like the Romanian postal service has suddenly recovered from the holiday craze...
 
 I have no real opinion about the CDs yet since I'm in the process of listening to them. <a href="http://www.freeland.fm">Freeland</a> is the first on the list and the bass is rocking my socks so nicely. Yay! A happy-happy day!
-

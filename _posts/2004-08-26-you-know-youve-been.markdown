@@ -10,4 +10,3 @@ categories:
 The game is undoubtedly a masterpiece, and many say that nothing this great was ever created again. This is well confirmed by <a href="http://www.tt-forums.net/index.php" title="Transport Tycoon Forums">the huge fanbase</a> and the fact that there are two patches for the game that allow it to be played on modern systems. I haven't really used the <a href="http://www.ttdpatch.net/">TTDPatch</a> (I may have tried it a while ago but I'm not really sure about that), I mostly played <a href="http://www.openttd.com">OpenTTD</a> which is not a patch in fact but a complete open source rewrite of the game.
 
 I hope I won't click the shortcut today because this way my productivity will reach zero in a rather short time.
-

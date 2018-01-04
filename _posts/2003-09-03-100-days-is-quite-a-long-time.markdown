@@ -12,4 +12,3 @@ Nowadays, I'm mainly running it because of the free gigs they give you for runni
 I had to had of course, the paranoid ideea that maybe it's not the cure for cancer or smallpox that my good ol' AMD XP1800+ is researching but some new biological weapons for the US... Heh. I guess one can never know for sure. But still I'm 95% positive that it's doing what they say it's doing. Which is a very good thing.
 
 I can only hope that someday a cure will be found and it'll be good to know that in some way or another I helped.
-

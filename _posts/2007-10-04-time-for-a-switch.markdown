@@ -17,4 +17,3 @@ The first apps I installed were (obviously) the aforementioned TextMate (develop
 The development is going well but I'm finding the keyboard / trackpad a bit tiring to use on the long run. Read: my fingers hurt after about an hour of typing / tapping around. The mouse problem should be solved today (thanks you know who) but the keyboard problem is a bit more delicate. I'm really curious if I can use a standard USB PC keyboard and if the Windows key is equivalent with the Mac key. Calm down purists, I do intend to get at least a Mac keyboard but for the moment the funds are critically low. But I found half of a solution today, as I noticed many USB keyboards are exposed at <a href="http://www.domo.ro/">DOMO</a> so I guess I could sneak in with the laptop and ask if I can try one. Tomorrow. That is if I don't get a firm response to this blog entry...
 
 Well, that's it for the moment, I'll probably return with more Mac impressions later. Plus the obligatory photo.
-

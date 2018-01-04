@@ -10,4 +10,3 @@ Today I received the first feedback email from a person completely unknown to me
 I've been asked if I plan posting in Romanian or Hungarian and I answered that I don't know. Because I really don't know. First of all I should at least give a final form to this site before I even start thinking about stuff like that. All those unfinished sections are bad to look at...
 
 Anyway, thanks for your kind words <a href="http://www.timbru.com/">Gabriel</a>.
-

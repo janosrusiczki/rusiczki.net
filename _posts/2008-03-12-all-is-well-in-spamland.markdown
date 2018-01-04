@@ -10,4 +10,3 @@ categories:
 39730 entries. And I delete them periodically!
 
 What else can I say than thanks <a href="http://overstated.net/projects/mt-keystrokes/">MT-Keystrokes</a>!
-

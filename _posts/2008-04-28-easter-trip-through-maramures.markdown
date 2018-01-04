@@ -9,4 +9,3 @@ categories:
 <a href="http://www.flickr.com/photos/ioana/2448794476/"><img src="http://farm3.static.flickr.com/2135/2448794476_73d99398ba.jpg" alt="Pietrosu" border="0" class="image" /></a>
 
 Will return with details and more photos. The one above was shot by <a href="http://www.flickr.com/photos/ioana/">Ioana</a>.
-

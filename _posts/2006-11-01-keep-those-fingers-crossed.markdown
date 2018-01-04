@@ -6,4 +6,3 @@ categories:
 - Life
 ---
 Yep. Stage 2. The driving test itself.
-

@@ -12,4 +12,3 @@ Yesterday I was working to set up Windows on my boss' new laptop (with all the h
 <a href="http://www.baia-mare-online.ro/stiri/29/atentie-la-buzunare/">Have a look</a> for yourself.
 
 Oh, and on the techincal side I must note that Baia Mare Online's <a href="http://www.rusiczki.net/blog/blogpics/bmo_stats_pickpockets.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/bmo_stats_pickpockets.php','popup','width=768,height=222,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">stats</a> went through the roof. At least compared to the usual traffic we are experiencing a huge spike...
-

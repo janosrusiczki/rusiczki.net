@@ -21,4 +21,3 @@ Dacă vă așteptați la scandal legat de furtișaguri de data asta am să vă d
 Acuma dacă o sa mă luați că-s ipocrit, că vai măi, dar tocmai PSD!? am să vă spun că pentru mine toți îs o apă și-un pământ cu bune și rele. Între timp lăsați-mă să mă bucur de momentul meu de glorie. :)
 
 Îi mulțumesc lui Rada pentru invitația (de atunci) la Crăciun în Maramureș, lui Emil pentru SMS și lui Marius pentru combinație.
-

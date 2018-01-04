@@ -20,4 +20,3 @@ Cea mai observabilă schimbare pe parcursul acestor 10 ani a fost schimbarea de 
 Nu pretind că articolul ăsta ar fi o retrospectivă, nici măcar una scurtă, fiindcă s-au întâmplat prea multe în 10 ani să mi le pot aminti - ca să nu mai zic cât ar dura să scriu despre ele. Mă consolez însă cu faptul că am consemnat ce era important la momentul potrivit. Am scris acest articol mai mult de dragul de a marca momentul. Și ridic o doză de bere pentru următorii 10 ani. :-)
 
 Update: <a href="http://kitblog.com/2013/09/kitblog_turns_ten.html">Vine puternic din urmă</a> domnul Kit.
-

@@ -10,4 +10,3 @@ After a almost 2 years... It was time for a fresh Windows install. Mostly becaus
 Unfortunately I forgot about backing up some stuff though: my Firefox bookmarks are all gone (thank God for <a href="http://del.icio.us/">del.icio.us</a>), also my FTP configurations from Total Commander went to the eternal byte fields. Time to set them up again. But hey! In exchange I rediscovered that I have a 1.66 GHz CPU. Not a freakin' slug.
 
 I couldn't start explaining how much I envy one of my friends (hello Cosmo!) and for that matter anyone who owns a Mac. :-)
-

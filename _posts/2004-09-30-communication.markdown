@@ -10,4 +10,3 @@ Yesterday evening, walking Ioana (as in, Ioana my lovely girlfriend) from my pla
 So today the mad mail exchanging started. Mails and pictures going, comments coming... I hope her productivity will not plunge drastically and that the mail exchange will not turn out to be problem (because I'm sure that each and every mail I send her ends up in at least one other inbox as well - it's a bank after all) but still I'm glancing at my mail notification utility each 30 seconds or so. I think I'll just configure it with some smooth notification sound. Right away.
 
 <b>UPDATE</b> I received a new e-mail! Hehehe. ;-)
-

@@ -10,4 +10,3 @@ I just received an e-mail with the subject "REALITATEA TV SELECTS JUMPTV AS EXCL
 I'm always upset when an address I tried to keep clean for years gets contaminated and starts receiving shit and it looks like it's time to wave good bye to another one... Because it all starts like this, with an innocent e-mail... Two weeks later judging by the rate of incoming crap my penis could be bigger by 1 mile an hour.
 
 Damn.
-

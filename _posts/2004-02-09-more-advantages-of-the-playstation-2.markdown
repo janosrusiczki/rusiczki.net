@@ -10,4 +10,3 @@ categories:
 Anyway since I posted that swearing entry, one day I took a magic marker and made the margin of the CD black as instructed in so many guides. But that way my PC completely refused to read it. The CD-ROM actually made some funny noises when I inserted the disc, so I stopped trying, not wanting to damage neither the CD, neither my drive. I borrowed the album to someone in the meantime and I was relieved to find out it plays on standard CD players.
 
 So, I took the CD off the shelves today and inserted it into the PlayStation. It read it in no time. So now I'm listening to the gorgeous voice of Sin&eacute;ad O'Connor singing 'Prayer for England' which is probably my favourite song on the album.
-

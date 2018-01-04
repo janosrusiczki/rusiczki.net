@@ -12,4 +12,3 @@ I was curious one day to find where do some of the queued e-mail messages on a s
 grep y /etc/passwd
 
 Hmmm. Magic!
-

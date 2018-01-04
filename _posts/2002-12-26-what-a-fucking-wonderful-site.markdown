@@ -6,4 +6,3 @@ categories:
 - General
 ---
 What a fucking <a href="http://www.narghila.ro/" title="narghila.ro">wonderful site</a>! Not! It belongs to a bar / club frequented by the "higher society" in Baia Mare. Be sure to check out the pic with that big ass girl! Superb!
-

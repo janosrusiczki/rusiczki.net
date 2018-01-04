@@ -10,4 +10,3 @@ So, <a href="http://www.magazinultau.ro/product.php?product_id=2639" title="Phil
 I have nothing for my parents yet. It's too late to order <a href="http://www.emk.ro/leiras.jsp?bookID=181811">that CD</a>, and the coffee maker doesn't seem to worth it. Or at least so I was told. Hmmm. I have to come up with something appropriate pretty quick. Because days are going by really fast and the big C is looming.
 
 I can barely wait however.
-

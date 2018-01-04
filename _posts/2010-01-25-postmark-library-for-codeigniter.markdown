@@ -25,4 +25,3 @@ Obsolete: see GitHub.
 If something goes wrong the library and the Postmark service outputs quite user friendly error messages.
 
 Hopefully this will come in handy for some of you.
-

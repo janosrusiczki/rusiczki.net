@@ -6,7 +6,7 @@ title: About
 
 Well, hello there and thanks for stopping by!
 
-My name is János Rusiczki and this is my personal space on the Internet, but you probably figured it out already. The guy in the blinding red t-shirt posing in the picture on the left is me, you caught that right too. So it would be around time to get down to some lesser known facts:
+My name is János Rusiczki and this is my personal space on the Internet, but you probably figured it out already. The guy in the blinding red t-shirt posing in the picture above is me, you caught that right too. So it would be around time to get down to some lesser known facts:
 
 **Birthday:** April 17, 1979;
 
@@ -16,12 +16,13 @@ My name is János Rusiczki and this is my personal space on the Internet, but yo
 
 ### Random things, all about me
 
-- I collect vinyls and LEGO sets.
-- I like dogs almost as much as I love cats. I love tea but almost never drink coffee. I replace coffee with Redbull when available although I know very well that it is much worse healthwise.
-- Musicwise I used to prefer electronic (dance) music (not EDM) but nowadays I'm more like an omnivore.
-- I usually enjoy _less than usual_ movies and don't really like horror, generally violent or just dumb movies. I removed a hefty list of movies and actors from here because I'm really bad at making lists and I'm sure that I'd forget something or someone important. The important thing is that I listen to lots of music (sometimes even while I sleep) and watch as many movies as I can fit in my schedule and am able to put my paws on.
+- I collect vinyl records and LEGO sets.
+- I like dogs almost as much as I love cats.
+- I love tea but don't really drink coffee.
 - I ditched my Cola addiction in the spring of 2014.
 - I used to try out new beers, but then I stopped drinking alcohol completely around the summer of 2015.
+- Musicwise I used to prefer electronic (dance) music (not EDM) but nowadays I'm more like an omnivore.
+- I don't really like horror, violent or just dumb movies. I removed a hefty list of movies and actors from here because I'm really bad at making lists and I'm sure that I'd forget something or someone important.
 - In case you were wondering the picture above was taken by my girlfriend in her grandmother's living room and I'm wearing a Threadless t-shirt called [No More Bento](http://www.threadless.com/product/607/No_More_Bento?streetteam=rev). Oh!? You weren't? Anyway, now you know.
 
 ### About the site

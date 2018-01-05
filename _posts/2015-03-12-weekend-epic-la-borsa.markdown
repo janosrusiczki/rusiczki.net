@@ -6,7 +6,7 @@ categories:
 - RC
 - Video
 ---
-https://www.youtube.com/watch?v=Ob1ApAO-Y2I
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ob1ApAO-Y2I?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 Aveți mai sus pe departe cel mai reușit clip de-al meu până la momentul actual. Se merită vizionat full screen în HD (dacă aveți opțiunea de 1080p50 alegeți-o cu încredere!).
 

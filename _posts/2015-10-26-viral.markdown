@@ -6,7 +6,7 @@ categories:
 - Video
 - Română
 ---
-https://www.youtube.com/watch?v=57Bk_bE3EsQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/57Bk_bE3EsQ?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 Se pare că am dat lovitura și am reușit să creez un video într-atât de plăcut încât a devenit viral.
 

@@ -3,6 +3,7 @@ layout: post
 title: Then vs. Now
 categories:
 - Life
+- Cronică
 ---
 Nevastă-mea mă acuză că trăiesc în trecut de fiecare dată când îi arăt câte un post aici pe blog și o invit să ne amintim împreună cum a fost "atunci". Și are dreptate, căci recunosc: sunt un nostalgic incurabil.
 

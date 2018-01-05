@@ -31,6 +31,8 @@ I used to try out new beers, but then I stopped drinking alcohol completely arou
 
 In case you were wondering the picture above was taken by my girlfriend in her grandmother's living room and I'm wearing a Threadless t-shirt called [No More Bento](http://www.threadless.com/product/607/No_More_Bento?streetteam=rev). Oh!? You weren't? Anyway, now you know.
 
+I collect vinyls and LEGO sets.
+
 ### About the site
 
 Back in the day, the first iteration of this site was built using [Movable Type](http://www.movabletype.org/) with lots of customizations and homebrewn scripts. Original color palette help by Meister [Adnan](http://www.adnan.ro/). Additional styling help and some header graphics were done by [Luci](http://www.lucianmarin.ro/). The link blog section, when it existed, was powered by [delicious](http://delicious.com/) via their sweet RSS feed (delicios is now long dead / read-only). 

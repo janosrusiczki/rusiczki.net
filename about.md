@@ -8,7 +8,7 @@ Well, hello there and thanks for stopping by!
 
 My name is János Rusiczki and this is my personal space on the Internet, but you probably figured it out already. The guy in the blinding red t-shirt posing in the picture above is me, you caught that right too. So it would be around time to get down to some lesser known facts:
 
-**Birthday:** April 17, 1979;
+**Birthday:** April 17, 1979 ([my exact age](https://www.wolframalpha.com/input/?i=april+17,+1979));
 
 **Location:** [Baia Mare, Romania](http://www.openstreetmap.org/?lat=47.6522&lon=23.5652&zoom=13&layers=M);
 

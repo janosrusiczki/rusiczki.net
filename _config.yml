@@ -28,6 +28,8 @@ disqus:
 
 exclude:
   - README.md
+  - Gemfile
+  - Gemfile.lock
 
 algolia:
    application_id: WMKRED0LJU

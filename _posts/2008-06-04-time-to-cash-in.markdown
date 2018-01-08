@@ -11,7 +11,7 @@ I've just discovered the following e-mail in my Junk folder. How could I have mi
 
 <blockquote>Hi,
 
-We've seen your website at <a href="http://www.rusiczki.net/blog/archives/2008/05/15/tinyurlcom_became_so_tiny_its_inaccessible">http://www.rusiczki.net/blog/...</a> and we love it!
+We've seen your website at <a href="http://www.rusiczki.net/2008/05/15/tinyurlcom-became-so-tiny-its-inaccessible/">http://www.rusiczki.net/blog/...</a> and we love it!
 
 We see that your traffic rank is 2070406 and your link popularity is 35.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Installing a new battery into a 2nd generation iPod
-excerpt: ! 'So, I did it! As <a href="http://www.rusiczki.net/blog/archives/2004/04/01/brief"
+excerpt: ! 'So, I did it! As <a href="http://www.rusiczki.net/2004/04/01/brief/"
   title="Kitsched - Brief">I already said</a> I have a new battery providing power
   for my G2 (that''s second generation) iPod. And this one is not dying on me daily
   because it''s brand new! Seeing some topics over at the forums of <a href="http://www.ipodlounge.com">ipodlounge.com</a>
@@ -16,7 +16,7 @@ date: 2004-04-02 15:58:39 +0200
 categories:
 - Technical
 ---
-So, I did it! As <a href="http://www.rusiczki.net/blog/archives/2004/04/01/brief" title="Kitsched - Brief">I already said</a> I have a new battery providing power for my G2 (that's second generation) iPod. And this one is not dying on me daily because it's brand new! Seeing some topics over at the forums of <a href="http://www.ipodlounge.com">ipodlounge.com</a> I realized that some people out there are scared to do the replacement themselves. That's why I decided to post this and provide the "experience" I accumulated by replacing the battery myself. It's not hard but if you read this mini guide please read it fully before starting and also check out the pictures at the bottom.
+So, I did it! As <a href="http://www.rusiczki.net/2004/04/01/brief/" title="Kitsched - Brief">I already said</a> I have a new battery providing power for my G2 (that's second generation) iPod. And this one is not dying on me daily because it's brand new! Seeing some topics over at the forums of <a href="http://www.ipodlounge.com">ipodlounge.com</a> I realized that some people out there are scared to do the replacement themselves. That's why I decided to post this and provide the "experience" I accumulated by replacing the battery myself. It's not hard but if you read this mini guide please read it fully before starting and also check out the pictures at the bottom.
 
 <a id="more"></a><a id="more-268"></a>
 

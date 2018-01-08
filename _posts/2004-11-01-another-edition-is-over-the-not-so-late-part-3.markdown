@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Another edition is over - The not so late part 3
-excerpt: ! 'After <a href="http://www.rusiczki.net/blog/archives/2004/10/19/another_edition_is_over_part_1">feeling
+excerpt: ! 'After <a href="http://www.rusiczki.net/2004/10/19/another-edition-is-over-part-1/">feeling
   bad</a> because of the lack of sleep and proper accomodation and good because of
-  the <a href="http://www.rusiczki.net/blog/archives/2004/10/28/another_edition_is_over_the_late_part_2">first
+  the <a href="http://www.rusiczki.net/2004/10/28/another-edition-is-over-the-late-part-2/">first
   day of party</a> it was time for... the second day of party. Which was also the
   last day of TMBase for this year. This night I was finally together with my girlfriend,
   Ioana, who couldn''t make it for the first day because of here job and whom I picked
@@ -16,7 +16,7 @@ date: 2004-11-01 17:29:11 +0100
 categories:
 - Life
 ---
-After <a href="http://www.rusiczki.net/blog/archives/2004/10/19/another_edition_is_over_part_1">feeling bad</a> because of the lack of sleep and proper accomodation and good because of the <a href="http://www.rusiczki.net/blog/archives/2004/10/28/another_edition_is_over_the_late_part_2">first day of party</a> it was time for... the second day of party. Which was also the last day of TMBase for this year. This night I was finally together with my girlfriend, Ioana, who couldn't make it for the first day because of here job and whom I picked up from the train station on Saturday morning. It looks like it's time for the grand finale of my biggest ever write-up for this blog.
+After <a href="http://www.rusiczki.net/2004/10/19/another-edition-is-over-part-1/">feeling bad</a> because of the lack of sleep and proper accomodation and good because of the <a href="http://www.rusiczki.net/2004/10/28/another-edition-is-over-the-late-part-2/">first day of party</a> it was time for... the second day of party. Which was also the last day of TMBase for this year. This night I was finally together with my girlfriend, Ioana, who couldn't make it for the first day because of here job and whom I picked up from the train station on Saturday morning. It looks like it's time for the grand finale of my biggest ever write-up for this blog.
 
 <a id="more"></a><a id="more-333"></a>
 

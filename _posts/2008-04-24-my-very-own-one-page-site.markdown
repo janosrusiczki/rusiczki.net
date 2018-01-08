@@ -8,4 +8,4 @@ categories:
 ---
 Ladies and gentleman: <a href="http://www.clicktrackheart.com">clicktrackheart.com</a>. Now with EPIC content!
 
-<a href="http://www.rusiczki.net/blog/archives/2008/03/12/free_email_for_all_sneaker_pimps_fans">Read  about how I got the domain.</a> And look how <a href="http://www.rusiczki.net/blog/archives/2003/03/29/what_to_do_with_some_excess_money">amazed</a> I was when I saw one of these sites back in 2003. The link in that post is dead, by the way, it leads to some junk site.
+<a href="http://www.rusiczki.net/2008/03/12/free-email-for-all-sneaker-pimps-fans/">Read  about how I got the domain.</a> And look how <a href="http://www.rusiczki.net/2003/03/29/what-to-do-with-some-excess-money/">amazed</a> I was when I saw one of these sites back in 2003. The link in that post is dead, by the way, it leads to some junk site.

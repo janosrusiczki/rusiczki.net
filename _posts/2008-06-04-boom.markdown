@@ -8,6 +8,7 @@ categories:
 Just my luck. One month after <a href="http://www.rusiczki.net/2008/05/10/the-end-of-a-hosting-era/">I get</a> a dedicated server the data center that's hosting it <a href="http://forums.theplanet.com/index.php?showtopic=90185">goes boom</a>. To be more precise:
 
 <blockquote>Sunday evening at 4:55 in our H1 data center, electrical gear shorted, creating an explosion and fire that knocked down three walls surrounding our electrical equipment room Thankfully, no one was injured. In addition, no customer servers were damaged or lost.</p></blockquote>
+
 Unfortunately my server was on the first floor, where the explosion was. They got the second floor back online quite fast and then started working on the first floor (Phase 1). And so, yesterday morning my server came back online, I cheered a little, but shortly after it went down again. Boo. Cause:
 
 <blockquote>This morning at approximately 2:45 a.m. CST, the temporary generator supplying power to the servers and environmental control systems located in Phase 1 of our H1 facility shut down. This was caused by some faulty current sensors in the output breaker. The sensors detected an out of balance current condition that did not exist.</p></blockquote>
@@ -22,6 +23,7 @@ Oh, and to top everything, the following communication from them just rolled in 
 On behalf of our team at The Planet, we want to thank you for choosing our company as your hosting provider. It has been thirty days since you have joined us, and we sincerely hope that you have had a fantastic experience thus far.
 
 We have earned an excellent industry reputation for our world-class support, state-of-the art data centers, and our fast, reliable network.</p></blockquote>
+
 Can't say it wasn't good as their support is excellent but the last few days of these 30 days were a little "bumpy". However, I think they've dealt with the situation really promptly and professionally and I can only praise the open attitude and the fact that they've kept everyone posted by frequent public updates. The worst that can happen is when a company leaves you in the dark, guessing what the Hell happened. Well, <a href="http://www.theplanet.com">The Planet</a> is not one of those companies.
 
 As a conclusion I can only say: great work guys and I hope this whole incident haven't dented the business too badly.

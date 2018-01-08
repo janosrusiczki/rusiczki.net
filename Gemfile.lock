@@ -85,7 +85,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.6.2)
   jekyll-algolia (~> 1.0)
-  jekyll-feed (~> 0.6)
+  jekyll-feed
   jekyll-paginate
   jekyll-tidy
   jekyll_asset_pipeline

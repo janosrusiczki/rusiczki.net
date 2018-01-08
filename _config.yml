@@ -1,37 +1,39 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown: kramdown
+highlighter: rouge
 
 # Setup
-title:            János Rusiczki
-tagline:          Your average weblog
-description:      Ruby & Web Developer. Photographer. Drone Pilot. Snowboarder. Etc.
-url:              http://jekyll.rusiczki.net
-baseurl:          /
-permalink:        /:year/:month/:day/:title/
+title: János Rusiczki
+tagline: Your average weblog
+description: Ruby & Web Developer. Photographer. Drone Pilot. Snowboarder. Etc.
+url: http://jekyll.rusiczki.net
+baseurl: /
+permalink: /:year/:month/:day/:title/
 
 author:
-  name:           'János Rusiczki'
-  url:            https://twitter.com/janosrusiczki
+  name: János Rusiczki
+  url: https://twitter.com/janosrusiczki
 
-paginate:         5
+paginate: 5
 
 # Custom vars
-version:          2.1.0
 plugins:
   - jekyll-paginate
   - jekyll_asset_pipeline
   - jekyll-tidy
-
-github:
-  repo:           https://github.com/poole/hyde
+  - jekyll-feed
 
 disqus:
   username: kitsched
 
-algolia:
-  application_id: 'WMKRED0LJU'
-  index_name:     'janosrusiczki'
-
 exclude:
   - README.md
+
+algolia:
+   application_id: WMKRED0LJU
+   index_name: janosrusiczki
+   search_only_api_key: 925c854d627ec98d0ca55addbecd6b82
+
+github:
+  repository_url: https://github.com/janosrusiczki/janosrusiczki
+  branch: master

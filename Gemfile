@@ -19,7 +19,7 @@ gem "jekyll", "~> 3.6.2"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'jekyll-feed', '~> 0.6'
+  gem 'jekyll-feed'
   gem 'jekyll-paginate'
   gem 'jekyll_asset_pipeline'
   gem 'jekyll-algolia', '~> 1.0'

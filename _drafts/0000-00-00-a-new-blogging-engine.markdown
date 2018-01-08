@@ -24,3 +24,5 @@ Actually the migration began back in 2014 when I discovered Jekyll but I only fi
 * Removed useless YAML attributes and converted binary dates generated.
 * Updated the formatting of lots of posts. It was due since 2009 when I switched to Wordpress but I though I'll do it one by one as I stumble upon posts with broken formatting. Which I did, but it wasn't enough. It was the Algolia search that prompted me to do this clean-up as the indexer wasn't accepting long paragraphs and some of my unformatted older posts came to be one long paragraph.
 * Updated internal dead links. Lots of posts were still containing links to other posts using the old permalink style - /blog/archives/year/month/day/post_name. Now they all point to the correct format - /year/month/day/post-name/
+
+Puts the content through jekyll-tidy to generate wonderfully delicious HTML pages.

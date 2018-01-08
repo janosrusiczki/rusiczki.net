@@ -10,7 +10,7 @@ My last entry about a blogging software switch was called '[Keeping up with the 
 
 So what were the other reasons for the switch?
 
-* I was getting a little paranoid about Wordpress and the extensions I was using. I wasn't terribly excited about the perspective that if a security hole appears and I'm not updating in time (if an update is available at all) my server gets f!@#ed.
+* I was getting a little paranoid about Wordpress and the extensions I was using. I wasn't terribly excited about the perspective that if a security flaw appears and I'm not updating in time (if an update is available at all) my server gets f!@#ed.
 * It takes Jekyll about one minute to generate the whole site but as the resulting files are vanilla HTMLs they're served much faster than their Wordpress equivalents. I haven't even configured the web server for this site to include the PHP interpreter.
 
 What are the downsides?

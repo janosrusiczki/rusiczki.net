@@ -6,7 +6,7 @@ categories:
 - Ruby
 - Technical
 ---
-The last entry about a blogging software switch was called '[Keeping up with the times](http://www.rusiczki.net/2009/04/02/keeping-up-with-the-times/)' and I could have called this one the same. Back then, I finally realized that maintaining my Movable Type installation was a pain as I knew next to no Perl, but since I was an established PHP developer the migration to Wordpress was logical and now I 'admit' that I slowly transitioned to being a Ruby developer so I'm embracing Jekyll.
+The last entry about a blogging software switch was called '[Keeping up with the times](http://www.rusiczki.net/2009/04/02/keeping-up-with-the-times/)' and I could have called this one the same. Back then, I finally realized that maintaining my Movable Type installation was a pain as I knew next to no Perl, but since I was an established PHP developer the migration to Wordpress was logical. Now I'm 'admitting' that I slowly transitioned to being a Ruby developer so I'm embracing Jekyll.
 
 So what were the other reasons for the switch?
 

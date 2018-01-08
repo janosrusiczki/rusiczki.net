@@ -43,6 +43,8 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.1)
       sass (~> 3.4)
+    jekyll-sitemap (1.1.1)
+      jekyll (~> 3.3)
     jekyll-tidy (0.2.2)
       htmlbeautifier
       htmlcompressor
@@ -87,6 +89,7 @@ DEPENDENCIES
   jekyll-algolia (~> 1.0)
   jekyll-feed
   jekyll-paginate
+  jekyll-sitemap
   jekyll-tidy
   jekyll_asset_pipeline
 

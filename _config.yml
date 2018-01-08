@@ -15,6 +15,7 @@ author:
   url: https://twitter.com/janosrusiczki
 
 paginate: 5
+paginate_path: '/page/:num'
 
 # Custom vars
 plugins:
@@ -22,6 +23,7 @@ plugins:
   - jekyll_asset_pipeline
   - jekyll-tidy
   - jekyll-feed
+  - jekyll-sitemap
 
 disqus:
   username: kitsched
@@ -39,3 +41,10 @@ algolia:
 github:
   repository_url: https://github.com/janosrusiczki/janosrusiczki
   branch: master
+
+defaults:
+  -
+    scope:
+      path: 'page'
+    values:
+      sitemap: false

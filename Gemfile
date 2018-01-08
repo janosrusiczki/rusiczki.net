@@ -24,4 +24,5 @@ group :jekyll_plugins do
   gem 'jekyll_asset_pipeline'
   gem 'jekyll-algolia', '~> 1.0'
   gem 'jekyll-tidy'
+  gem 'jekyll-sitemap'
 end

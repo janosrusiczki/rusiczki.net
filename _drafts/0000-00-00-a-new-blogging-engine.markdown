@@ -15,7 +15,7 @@ So what were the other reasons for the switch?
 
 What are the downsides?
 
-* Not being a dynamic, database backed system comments have to be served by a third party system. There might be self hosted alternatives out there, but I haven't researched them since I had Disqus installed for a long while anyway, although I'm not entirely comfortable to give all my comments to a third party service (up until now, additionally to Disqus they were saved locally too by Wordpress).
+* Not being a dynamic, database backed system comments have to be served by a third party system. There might be self hosted alternatives out there, but I haven't researched them since I had Disqus installed for a long while anyway, although I'm not entirely comfortable to give all my comments to a third party service (up until now, additionally to Disqus comments were also saved locally by Wordpress).
 * For searching I discovered Algolia which is awesome and much faster than the Wordpress search was.
 * I have to admit, Wordpress' media manager was great and I'm badly missing it.
 

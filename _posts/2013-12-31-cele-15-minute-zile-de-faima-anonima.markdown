@@ -8,11 +8,11 @@ categories:
 ---
 Vă invit să găsiți 10 asemănări între pozele de mai jos:
 
-<a href="http://www.flickr.com/photos/janos/4202691041/"><img src="http://www.rusiczki.net/wp-content/uploads/2013/12/4202691041_c0176a08aa_o-693x463.jpg" alt="Crăciun în Maramureș" width="693" height="463" class="alignnone size-medium wp-image-4737" /></a>
+<a href="http://www.flickr.com/photos/janos/4202691041/"><img src="https://content.rusiczki.net/2013/12/4202691041_c0176a08aa_o-693x463.jpg" alt="Crăciun în Maramureș" width="693" height="463" class="alignnone size-medium wp-image-4737" /></a>
 
 ... făcută de mine în decembrie 2009 și publicată de atunci pe Flickr, și:
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2013/12/PC310386.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2013/12/PC310386-693x519.jpg" alt="Sediul PSD" width="693" height="519" class="alignnone size-medium wp-image-4738" /></a>
+<a href="https://content.rusiczki.net/2013/12/PC310386.jpg"><img src="https://content.rusiczki.net/2013/12/PC310386-693x519.jpg" alt="Sediul PSD" width="693" height="519" class="alignnone size-medium wp-image-4738" /></a>
 
 ... făcută tot de mine azi sediului PSD.
 

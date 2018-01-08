@@ -5,7 +5,7 @@ date: 2007-03-13 02:28:38 +0100
 categories:
 - Fun
 ---
-<img src="http://www.rusiczki.net/blog/blogpics/o-rly.gif" width="317" height="312" alt="O RLY?" title="O RLY?" class="image" style="background: black;" />
+<img src="https://content.rusiczki.net/blogpics/o-rly.gif" width="317" height="312" alt="O RLY?" title="O RLY?" class="image" style="background: black;" />
 
 Animated GIF version.
 

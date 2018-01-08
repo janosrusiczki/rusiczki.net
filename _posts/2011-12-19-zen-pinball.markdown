@@ -12,7 +12,7 @@ categories:
 - wolverine
 - captain america
 ---
-<a href="http://www.rusiczki.net/wp-content/uploads/2011/12/20111219-023235.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2011/12/20111219-023235.jpg" alt="Zen Pinball" class="alignnone size-full" /></a>
+<a href="https://content.rusiczki.net/2011/12/20111219-023235.jpg"><img src="https://content.rusiczki.net/2011/12/20111219-023235.jpg" alt="Zen Pinball" class="alignnone size-full" /></a>
 
 De cateva zile sunt in febra scorului.
 

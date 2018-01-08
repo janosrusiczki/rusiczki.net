@@ -5,6 +5,6 @@ date: 2013-11-07 20:17:27 +0100
 categories:
 - Română
 ---
-<a href="http://www.rusiczki.net/wp-content/uploads/2013/11/radiografie.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2013/11/radiografie-679x693.jpg" alt="radiografie" width="679" height="693" class="alignnone size-medium wp-image-4626" /></a>
+<a href="https://content.rusiczki.net/2013/11/radiografie.jpg"><img src="https://content.rusiczki.net/2013/11/radiografie-679x693.jpg" alt="radiografie" width="679" height="693" class="alignnone size-medium wp-image-4626" /></a>
 
 Știu că a trecut Halloween-ul dar mă gândeam că dacă tot am mâncat niște raze nu foarte benefice și am dat o juma' de milion pe imaginea mirifică de mai sus măcar să vă "bucurați" și voi de ea. Apropo, ăia e căpățâna mea.

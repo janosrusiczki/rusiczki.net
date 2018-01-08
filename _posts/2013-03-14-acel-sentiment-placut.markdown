@@ -6,7 +6,7 @@ categories:
 - Technical
 - Română
 ---
-<a href="http://www.rusiczki.net/wp-content/uploads/2013/03/20130313_210751.jpg"><img class="alignnone size-medium wp-image-4568" alt="Windows!" src="http://www.rusiczki.net/wp-content/uploads/2013/03/20130313_210751-693x519.jpg" width="693" height="519" /></a>
+<a href="https://content.rusiczki.net/2013/03/20130313_210751.jpg"><img class="alignnone size-medium wp-image-4568" alt="Windows!" src="https://content.rusiczki.net/2013/03/20130313_210751-693x519.jpg" width="693" height="519" /></a>
 
 Ce vi se pare în neregulă cu imaginea de mai sus?
 

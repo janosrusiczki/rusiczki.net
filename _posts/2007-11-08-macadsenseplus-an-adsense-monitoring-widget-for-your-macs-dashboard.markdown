@@ -6,7 +6,7 @@ categories:
 - Technical
 - Mac
 ---
-<img src="http://www.rusiczki.net/blog/blogpics/macadsenseplus-first-version.png" width="191" height="294" alt="MacAdSensePlus screenshot" class="postimage"/>
+<img src="https://content.rusiczki.net/blogpics/macadsenseplus-first-version.png" width="191" height="294" alt="MacAdSensePlus screenshot" class="postimage"/>
 
 I just released the second public version of this widget which includes a bug fix related to incorrect reporting for weeks spanning 2 months and a debug mode which is turned on by default... But let's start at the beginning, shall we?
 

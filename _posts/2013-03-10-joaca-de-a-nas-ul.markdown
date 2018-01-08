@@ -6,7 +6,7 @@ categories:
 - Technical
 - Română
 ---
-<a href="http://www.rusiczki.net/wp-content/uploads/2013/10/20130310_113727.jpg"><img class="alignnone size-medium wp-image-4566" alt="Midnight Commander" src="http://www.rusiczki.net/wp-content/uploads/2013/10/20130310_113727-693x519.jpg" width="693" height="519" /></a>
+<a href="https://content.rusiczki.net/2013/10/20130310_113727.jpg"><img class="alignnone size-medium wp-image-4566" alt="Midnight Commander" src="https://content.rusiczki.net/2013/10/20130310_113727-693x519.jpg" width="693" height="519" /></a>
 
 Nu, nu mă scobesc în nas și nici nu e mergem de nași ci a venit timpul să-mi refac / reconfigurez NAS-ul, adică Network Attached Storage-ul. Dar să începem cu puțină istorie...
 

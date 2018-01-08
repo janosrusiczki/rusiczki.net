@@ -5,7 +5,7 @@ date: 2006-09-27 23:08:19 +0200
 categories:
 - Technical
 ---
-<img src="http://www.rusiczki.net/blog/blogpics/usb-infrared-dongle.jpg" width="510" height="99" alt="My infrared dongle" class="image" />
+<img src="https://content.rusiczki.net/blogpics/usb-infrared-dongle.jpg" width="510" height="99" alt="My infrared dongle" class="image" />
 
 I surprised Ioana today with a shiny new <a href="http://www.nokia.com/phones/6070">Nokia 6070</a>. Yep, I'm a nice guy... :-)
 
@@ -13,11 +13,11 @@ Obviously one of the first things I tried after putting my paws on the phone (he
 
 Here's what to do if you get miserable transfer speeds between your handheld device and your computer's (USB) infrared port.
 
-1. After a connection is estabilished between the device and your computer right click on the icon in your tray and select "Properties" (<a href="http://www.rusiczki.net/blog/blogpics/irda-config-step-1.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/irda-config-step-1.php','popup','width=193,height=120,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">Screenshot</a>).
+1. After a connection is estabilished between the device and your computer right click on the icon in your tray and select "Properties" (<a href="https://content.rusiczki.net/blogpics/irda-config-step-1.php" onclick="window.open('https://content.rusiczki.net/blogpics/irda-config-step-1.php','popup','width=193,height=120,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">Screenshot</a>).
 
-2. In the window that appears click the "Hardware" tab and then click on the "Properties" button (<a href="http://www.rusiczki.net/blog/blogpics/irda-config-step-2.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/irda-config-step-2.php','popup','width=367,height=450,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">Another screenshot</a>).
+2. In the window that appears click the "Hardware" tab and then click on the "Properties" button (<a href="https://content.rusiczki.net/blogpics/irda-config-step-2.php" onclick="window.open('https://content.rusiczki.net/blogpics/irda-config-step-2.php','popup','width=367,height=450,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">Another screenshot</a>).
 
-3. Another window will pop up. Click the "Advanced" tab and for the "Infrared Transceiver Type" property set the value from the default "SigmaTel 4012" to "SigmaTel 4000" (<a href="http://www.rusiczki.net/blog/blogpics/irda-config-step-3.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/irda-config-step-3.php','popup','width=404,height=455,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">The last screenshot</a>).
+3. Another window will pop up. Click the "Advanced" tab and for the "Infrared Transceiver Type" property set the value from the default "SigmaTel 4012" to "SigmaTel 4000" (<a href="https://content.rusiczki.net/blogpics/irda-config-step-3.php" onclick="window.open('https://content.rusiczki.net/blogpics/irda-config-step-3.php','popup','width=404,height=455,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">The last screenshot</a>).
 
 4. Close the windows by clicking their OK buttons and that's about it. Now your phone will speedily talk with your computer via the magic of infrared and you will transfer files like crazy... Or at least as fast as the infrared port permits.
 

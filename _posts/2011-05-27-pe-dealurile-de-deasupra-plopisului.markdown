@@ -54,31 +54,31 @@ Acest drum forestier este biciclabil aproximativ in totalitate sau cel putin cat
 
 Dupa cateva curbe urcate pe acest drum forestier apare o deschidere a padurii in partea stanga cu ceva ce pare a fi un drum si deasupra se intrezareste liziera padurii. Am urcat si dupa liziera am dat intr-o poiana cu o stana (nepopulata cu 2 saptamani inainte dar populata acum) si un lac destul de pitoresc si aparent artificial. Mi se pare oarecum fascinanta acea poiana labartata plasata intr-un loc inconjurat de relief relativ salbatic. Si apropo salbatic, din pacate nu am putut sta si admira lacul deoarece ne-au zarit cainii de paza de la stana, 3 la numar, si a urmat o cacofonie de latraturi si urlete care s-au sfarsit doar cand am capitulat si ne-am retras din poiana.
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2011/05/1-stana-parasita.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2011/05/1-stana-parasita-500x375.jpg" alt="Stana parasita cu 2 saptamani inainte" title="Stana parasita cu 2 saptamani inainte" width="500" height="375"/></a>
+<a href="https://content.rusiczki.net/2011/05/1-stana-parasita.jpg"><img src="https://content.rusiczki.net/2011/05/1-stana-parasita-500x375.jpg" alt="Stana parasita cu 2 saptamani inainte" title="Stana parasita cu 2 saptamani inainte" width="500" height="375"/></a>
 
 Stana parasita cu 2 saptamani inainte.
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2011/05/2-ioana-la-lac.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2011/05/2-ioana-la-lac-500x375.jpg" alt="Ioana la lac" title="Ioana la lac" width="500" height="375"/></a>
+<a href="https://content.rusiczki.net/2011/05/2-ioana-la-lac.jpg"><img src="https://content.rusiczki.net/2011/05/2-ioana-la-lac-500x375.jpg" alt="Ioana la lac" title="Ioana la lac" width="500" height="375"/></a>
 
 Partenera de drum si lacul cu o ramasita de ponton prabusit in apa.
 
 Revenind la drumul forestier si continuand urcusul am ajuns in scurt timp la o bifurcatie marcata de o cruce. Ramura din stanga a bifurcatiei ducea cred inspre stana pe un drum ocolitor mai usor de urcat decat pe unde am mers noi. Noi am luat-o in dreapta peste un pod si pe langa un palc de brazi ce emanau aer extra proaspat apoi dupa o serpentina am ajuns deasupra respectivului palc in cea mai intunecoasa portiune a drumului. La putin timp dupa ce am am lasat in urma acest palc Ioana a calcat peste un sarpe de casa cu roata din fata a bicicletei. Dupa sperietura obligatorie a urmat regretul ca a nenorocit saracul animal insa in urma unui control cu un bat de lungime considerabila sarpele s-a carat in viteza demonstrand ca n-are nici pe dracu. Apoi dam de o noua deschidere luminoasa si trecem peste un nou pod si ne trezim cu un alt palc de brazi in stanga. O curba sau doua si dupa niste drum ce pare aproape drept zarim intr-o poiana din stanga drumului o hranitoare pentru ciutele padurii aflata din pacate intr-o stare avansata de degradare. Urmeaza o curba brusca la dreapta, de fapt o bifurcatie cu marcaje ramase de la ceva soi de concurs 4 x 4 (cred) si drumul continua cocotandu-se deasupra bucatii drepte de mai inainte. Inca o curba la stanga si suntem la capatul primului tronson de urcare. Ne reculegem, ne coboram scaunul si ne dam drumul la vale dar bucuria nu dureaza foarte mult caci dupa un pod traseul incepe sa urce iar. Este in schimb o zona destul de luminoasa, se simte ca suntem aproape de varf dar din pacate privelistea e blocata de copacii ce se inalta pe o parte si cealalta a drumul. Ne oprim intr-o serpentina sa ne tragem cateva poze.
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2011/05/3-ioana-in-curba.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2011/05/3-ioana-in-curba-500x375.jpg" alt="Ioana in curba" title="Ioana in curba" width="500" height="375"/></a>
+<a href="https://content.rusiczki.net/2011/05/3-ioana-in-curba.jpg"><img src="https://content.rusiczki.net/2011/05/3-ioana-in-curba-500x375.jpg" alt="Ioana in curba" title="Ioana in curba" width="500" height="375"/></a>
 
 Ioana in ultima serpentina.
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2011/05/4-eu-pozand.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2011/05/4-eu-pozand-375x500.jpg" alt="Eu pozand" title="Eu pozand" width="375" height="500"/></a>
+<a href="https://content.rusiczki.net/2011/05/4-eu-pozand.jpg"><img src="https://content.rusiczki.net/2011/05/4-eu-pozand-375x500.jpg" alt="Eu pozand" title="Eu pozand" width="375" height="500"/></a>
 
 Subsemnatu' la photo session.
 
 Dupa nici 500 de metri se dovedeste ca serpentina cu poze a fost ultima serpentina a urcusului. Drumul iese in varf de deal si la capat de cocotare intr-o poiana ce ne ofera o frumoasa panorama asupra dealurilor ce se ridica deasupra Bloajei care se ascunde undeva jos in vale. Ne oprim la bifurcatia din varf si ne punem la un bine meritat sandwich si hidratarea aferenta iar eu scot statia sa vad da'de reusesc sa prind ceva. Conversatii nu prind, dar comutand pe functia de radio FM am surpriza sa prind cate un post diferit la fiecare 0.1 MHz - ba chiar cate un post diferit in functie de orientarea antenei pe verticala sau orizontala. Romani, rusi, unguri - i-am auzit pe toti. :) Dupa o usoara urcare spre sud observ inspre nord Secatura, Gutaiul si Gutaiul Doamnei.
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2011/05/5-ioana-in-pauza.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2011/05/5-ioana-in-pauza-500x375.jpg" alt="Ioana in pauza" title="Ioana in pauza" width="500" height="375"/></a>
+<a href="https://content.rusiczki.net/2011/05/5-ioana-in-pauza.jpg"><img src="https://content.rusiczki.net/2011/05/5-ioana-in-pauza-500x375.jpg" alt="Ioana in pauza" title="Ioana in pauza" width="500" height="375"/></a>
 
 Ioana in pauza.
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2011/05/6-munti-mari.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2011/05/6-munti-mari-500x375.jpg" alt="Munti mari" title="Munti mari" width="500" height="375"/></a>
+<a href="https://content.rusiczki.net/2011/05/6-munti-mari.jpg"><img src="https://content.rusiczki.net/2011/05/6-munti-mari-500x375.jpg" alt="Munti mari" title="Munti mari" width="500" height="375"/></a>
 
 Munti de munti in spatele copacilor. In stanga: Secatura, inspre dreapta: Gutaiul Doamnei.
 
@@ -92,7 +92,7 @@ Problema furcii promit ca va fi remediata curand!
 
 La un moment dat ne-am oprit sa-i oferim avans unui tractor cu lemne ce l-am ajuns din urma, ca loc de depasit nu prea era. Mai ales loc de depasit un tractor cu ditamai remorca. De fapt vorbesc prostii, ne-am oprit deoarece privelistea era superba. Inspre nord-vest erau vizibili de la Mogosa, trecand prin Ignis, Pietroasa pana la ultimele dealuri din dreptul Seiniului iar inspre sud-vest dealurile de la Preluca. Cu toate satele mai apropiate sau mai indepartate incluse plus omniprezentul turn al combinatului din Baia Mare undeva mic in mijloc.
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2011/05/7-panorama-vestica.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2011/05/7-panorama-vestica-500x375.jpg" alt="Panorama vestica" title="Panorama vestica" width="500" height="375"/></a>
+<a href="https://content.rusiczki.net/2011/05/7-panorama-vestica.jpg"><img src="https://content.rusiczki.net/2011/05/7-panorama-vestica-500x375.jpg" alt="Panorama vestica" title="Panorama vestica" width="500" height="375"/></a>
 
 Panorama vestica.
 

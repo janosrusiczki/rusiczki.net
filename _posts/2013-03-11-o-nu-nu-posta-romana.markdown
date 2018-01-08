@@ -5,7 +5,7 @@ date: 2013-03-11 18:21:08 +0100
 categories:
 - Română
 ---
-<a href="http://www.rusiczki.net/wp-content/uploads/2013/10/DSC_3307.jpg"><img class="alignnone size-medium wp-image-4562" alt="Cărți poștale" src="http://www.rusiczki.net/wp-content/uploads/2013/10/DSC_3307-693x358.jpg" width="693" height="358" /></a>
+<a href="https://content.rusiczki.net/2013/10/DSC_3307.jpg"><img class="alignnone size-medium wp-image-4562" alt="Cărți poștale" src="https://content.rusiczki.net/2013/10/DSC_3307-693x358.jpg" width="693" height="358" /></a>
 
 Citesc știrile din ultima vreme despre Poșta Română și rămân cu un gust amar în gură. Cuvintele cheie sunt: privatizare, închideri de oficii, angajați lăsați pe drumuri... Nimic bun. Zic că toate astea îmi lasă un gust amar fiindcă eu de multă vreme consider poșta ceva apropiat, un soi de constantă pe care puteam oricând să mă bazez. Nu știu care va fi soarta oficiului din Baia Sprie, dar sper să nu dispară.
 

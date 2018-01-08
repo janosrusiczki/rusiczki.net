@@ -9,7 +9,7 @@ You might remember I had a post about scamming people on eBay - it was one of th
 
 First he called while I was at work. When I saw the number I knew something is not right and I didn't answer. Then he sent me this message:
 
-<img src="http://www.rusiczki.net/wp-content/uploads/2009/04/the-scam-teacher-1.jpg" alt="SMS from the scammer #1" title="SMS from the scammer #1" width="240" height="240" class="alignnone size-full wp-image-717" /> <img src="http://www.rusiczki.net/wp-content/uploads/2009/04/the-scam-teacher-2.jpg" alt="SMS from the scammer #2" title="SMS from the scammer #2" width="240" height="240" class="alignnone size-full wp-image-718" />
+<img src="https://content.rusiczki.net/2009/04/the-scam-teacher-1.jpg" alt="SMS from the scammer #1" title="SMS from the scammer #1" width="240" height="240" class="alignnone size-full wp-image-717" /> <img src="https://content.rusiczki.net/2009/04/the-scam-teacher-2.jpg" alt="SMS from the scammer #2" title="SMS from the scammer #2" width="240" height="240" class="alignnone size-full wp-image-718" />
 
 An e-mail came next with basically the same content. He then called me again while I was at home. Then called the landline. Called again. And again. Ioana picked up and spoke in Romanian then I picked up the next one and spoke in Romanian. Some pseudo-English mumbling was heard from the other side of the line then click. I set the landline to silent, shut off my mobile for the night and sent him an e-mail telling him to never call me again. He tried calling a few times the next day and then he probably saw the e-mail and sent an apology reply. No calls after that.
 

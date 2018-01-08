@@ -8,9 +8,9 @@ excerpt: ! "Am mai încercat soiul ăsta de însemnare <a href=\"http://www.rusi
   de scrieri să trag niște concluzii cu ce am realizat și să fac niște promisiuni
   pentru anul ce vine, dar nu voi face asta fiindcă mă tem că nu voi reuși să le respect
   și pentru că așa cum spuneam nu ăsta e scopul ci mai degrabă să am un soi de jurnal
-  care să-mi placă să-l recitesc.\r\n\r\nSunteți gata? Începem! :)\r\n\r\n<a href=\"http://www.rusiczki.net/wp-content/uploads/2013/12/2013-01-05-15.12.55-1.jpg\"><img
-  class=\"alignnone size-medium wp-image-4677\" alt=\"Magăreală pe Mogoșa\" src=\"http://www.rusiczki.net/wp-content/uploads/2013/12/2013-01-05-15.12.55-1-693x519.jpg\"
-  width=\"693\" height=\"519\" /></a>\r\n\r\n<a href=\"http://www.rusiczki.net/wp-content/uploads/2013/12/Year-in-Review.png\"
+  care să-mi placă să-l recitesc.\r\n\r\nSunteți gata? Începem! :)\r\n\r\n<a href=\"https://content.rusiczki.net/2013/12/2013-01-05-15.12.55-1.jpg\"><img
+  class=\"alignnone size-medium wp-image-4677\" alt=\"Magăreală pe Mogoșa\" src=\"https://content.rusiczki.net/2013/12/2013-01-05-15.12.55-1-693x519.jpg\"
+  width=\"693\" height=\"519\" /></a>\r\n\r\n<a href=\"https://content.rusiczki.net/2013/12/Year-in-Review.png\"
   rel=\"lightbox\">Retrospectiva Facebook</a> arată că am început anul dându-ne pe
   dealul de vis-a-vis de Șuior dar de fapt l-am început pe pârtia Moski, alături de
   prietenul \"stătean\" Steve care era în concediu pe acasă. După cum se observă,
@@ -25,7 +25,7 @@ Cam asta ar fi retrospectiva.
 
 Mă gândeam să mai menționez una alta așa la sfârșit în ordine non-cronologică.
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2013/12/ina-pe-ignis.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2013/12/ina-pe-ignis-693x519.jpg" alt="Ina pe Igniș" width="693" height="519" class="alignnone size-medium wp-image-4729" /></a>
+<a href="https://content.rusiczki.net/2013/12/ina-pe-ignis.jpg"><img src="https://content.rusiczki.net/2013/12/ina-pe-ignis-693x519.jpg" alt="Ina pe Igniș" width="693" height="519" class="alignnone size-medium wp-image-4729" /></a>
 
 În primul rând marea absentă de mai sus. Nu am uitat-o, nu am neglijat-o, a fost cu noi în excursii dar nu e atât de băgăreață...
 
@@ -37,6 +37,6 @@ Am vost prins de radar în vara, s-a lăsat cu amendă și în toamnă am rămas
 
 A da, și am zburat pentru prima oară în viața mea...
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2013/12/aripa-de-avion.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2013/12/aripa-de-avion-693x389.jpg" alt="Aripă de avion" width="693" height="389" class="alignnone size-medium wp-image-4720" /></a>
+<a href="https://content.rusiczki.net/2013/12/aripa-de-avion.jpg"><img src="https://content.rusiczki.net/2013/12/aripa-de-avion-693x389.jpg" alt="Aripă de avion" width="693" height="389" class="alignnone size-medium wp-image-4720" /></a>
 
 Vă și las cu poza asta în speranța unui an mai bun decât cel care a fost!

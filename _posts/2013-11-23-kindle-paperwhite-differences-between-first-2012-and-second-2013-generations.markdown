@@ -8,39 +8,39 @@ categories:
 ---
 The older Kindle (and its box) is always on the left.
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2013/11/PB230044_DxOPsp.jpg"><img class="alignnone size-medium wp-image-4632" alt="Kindle Paperwhite - Front of the boxes" src="http://www.rusiczki.net/wp-content/uploads/2013/11/PB230044_DxOPsp-693x525.jpg" width="693" height="525" /></a>
+<a href="https://content.rusiczki.net/2013/11/PB230044_DxOPsp.jpg"><img class="alignnone size-medium wp-image-4632" alt="Kindle Paperwhite - Front of the boxes" src="https://content.rusiczki.net/2013/11/PB230044_DxOPsp-693x525.jpg" width="693" height="525" /></a>
 
 The front of the boxes
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2013/11/PB230049_DxOPsp.jpg"><img class="alignnone size-medium wp-image-4633" alt="Kindle Paperwhite - Back of the boxes" src="http://www.rusiczki.net/wp-content/uploads/2013/11/PB230049_DxOPsp-693x527.jpg" width="693" height="527" /></a>
+<a href="https://content.rusiczki.net/2013/11/PB230049_DxOPsp.jpg"><img class="alignnone size-medium wp-image-4633" alt="Kindle Paperwhite - Back of the boxes" src="https://content.rusiczki.net/2013/11/PB230049_DxOPsp-693x527.jpg" width="693" height="527" /></a>
 
 The back of the boxes
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2013/11/PB230053.jpg"><img class="alignnone size-medium wp-image-4634" alt="Kindle Paperwhite - Top of the boxes" src="http://www.rusiczki.net/wp-content/uploads/2013/11/PB230053-693x519.jpg" width="693" height="519" /></a>
+<a href="https://content.rusiczki.net/2013/11/PB230053.jpg"><img class="alignnone size-medium wp-image-4634" alt="Kindle Paperwhite - Top of the boxes" src="https://content.rusiczki.net/2013/11/PB230053-693x519.jpg" width="693" height="519" /></a>
 
 The top of the boxes
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2013/11/PB230067_DxOPsp.jpg"><img class="alignnone size-medium wp-image-4635" alt="Kindle Paperwhite - Front" src="http://www.rusiczki.net/wp-content/uploads/2013/11/PB230067_DxOPsp-693x519.jpg" width="693" height="519" /></a>
+<a href="https://content.rusiczki.net/2013/11/PB230067_DxOPsp.jpg"><img class="alignnone size-medium wp-image-4635" alt="Kindle Paperwhite - Front" src="https://content.rusiczki.net/2013/11/PB230067_DxOPsp-693x519.jpg" width="693" height="519" /></a>
 
 Front of the devices
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2013/11/PB230089_DxOPsp.jpg"><img class="alignnone size-medium wp-image-4640" alt="Kindle Paperwhite - Back" src="http://www.rusiczki.net/wp-content/uploads/2013/11/PB230089_DxOPsp-693x519.jpg" width="693" height="519" /></a>
+<a href="https://content.rusiczki.net/2013/11/PB230089_DxOPsp.jpg"><img class="alignnone size-medium wp-image-4640" alt="Kindle Paperwhite - Back" src="https://content.rusiczki.net/2013/11/PB230089_DxOPsp-693x519.jpg" width="693" height="519" /></a>
 
 Back of the devices
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2013/11/PB230072_DxOPsp.jpg"><img class="alignnone size-medium wp-image-4637" alt="Kindle Paperwhite - Home screen - Minimum Light" src="http://www.rusiczki.net/wp-content/uploads/2013/11/PB230072_DxOPsp-693x519.jpg" width="693" height="519" /></a>
+<a href="https://content.rusiczki.net/2013/11/PB230072_DxOPsp.jpg"><img class="alignnone size-medium wp-image-4637" alt="Kindle Paperwhite - Home screen - Minimum Light" src="https://content.rusiczki.net/2013/11/PB230072_DxOPsp-693x519.jpg" width="693" height="519" /></a>
 
 Home screens with the backlight on lowest setting
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2013/11/PB230071_DxOPsp.jpg"><img class="alignnone size-medium wp-image-4641" alt="Kindle Paperwhite - Home screen - Maximum Light" src="http://www.rusiczki.net/wp-content/uploads/2013/11/PB230071_DxOPsp-693x519.jpg" width="693" height="519" /></a>
+<a href="https://content.rusiczki.net/2013/11/PB230071_DxOPsp.jpg"><img class="alignnone size-medium wp-image-4641" alt="Kindle Paperwhite - Home screen - Maximum Light" src="https://content.rusiczki.net/2013/11/PB230071_DxOPsp-693x519.jpg" width="693" height="519" /></a>
 
 Home screens with the backlight on highest setting
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2013/11/PB230075_DxOPsp.jpg"><img class="alignnone size-medium wp-image-4638" alt="Kindle Paperwhite - Reading - Minimum Light" src="http://www.rusiczki.net/wp-content/uploads/2013/11/PB230075_DxOPsp-693x519.jpg" width="693" height="519" /></a>
+<a href="https://content.rusiczki.net/2013/11/PB230075_DxOPsp.jpg"><img class="alignnone size-medium wp-image-4638" alt="Kindle Paperwhite - Reading - Minimum Light" src="https://content.rusiczki.net/2013/11/PB230075_DxOPsp-693x519.jpg" width="693" height="519" /></a>
 
 Reading screens with the backlight on lowest setting
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2013/11/PB230076_DxOPsp.jpg"><img class="alignnone size-medium wp-image-4639" alt="Kindle Paperwhite - Reading - Maximum Light" src="http://www.rusiczki.net/wp-content/uploads/2013/11/PB230076_DxOPsp-693x519.jpg" width="693" height="519" /></a>
+<a href="https://content.rusiczki.net/2013/11/PB230076_DxOPsp.jpg"><img class="alignnone size-medium wp-image-4639" alt="Kindle Paperwhite - Reading - Maximum Light" src="https://content.rusiczki.net/2013/11/PB230076_DxOPsp-693x519.jpg" width="693" height="519" /></a>
 
 Reading screens with the backlight on highest setting
 

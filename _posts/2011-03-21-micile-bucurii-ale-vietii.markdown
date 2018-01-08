@@ -9,7 +9,7 @@ categories:
 ---
 Afis pentru un eveniment ce se va desfasura saptamana asta pe partia Roata de la Cavnic:
 
-<img class="alignnone size-full wp-image-1189" title="Mountain Dew North vs. South" src="http://www.rusiczki.net/wp-content/uploads/2011/03/mountain-dew-north-vs-south-500x707.jpg" alt="" width="500" height="707" style="padding:0"/>
+<img class="alignnone size-full wp-image-1189" title="Mountain Dew North vs. South" src="https://content.rusiczki.net/2011/03/mountain-dew-north-vs-south-500x707.jpg" alt="" width="500" height="707" style="padding:0"/>
 
 O poza de-a mea de la editia de anul trecut al aceluiasi eveniment:
 

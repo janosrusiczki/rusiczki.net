@@ -5,7 +5,7 @@ date: 2008-04-14 10:46:47 +0200
 categories:
 - General
 ---
-The <a href="http://www.rusiczki.net/blog/blogstuff/D60_en.pdf">User's Manual</a> and the <a href="http://www.rusiczki.net/blog/blogstuff/D60QSG_en.pdf">Quick Start Guide</a>, both in English.
+The <a href="https://content.rusiczki.net/blogstuff/D60_en.pdf">User's Manual</a> and the <a href="https://content.rusiczki.net/blogstuff/D60QSG_en.pdf">Quick Start Guide</a>, both in English.
 
 Because I found the two PDFs after lots of digging I thought I'll make the whole process much easier for other Googlers. Waiting for the cease and desist e-mails from Nikon's lawyers...
 

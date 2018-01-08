@@ -5,7 +5,7 @@ date: 2013-12-14 16:46:56 +0100
 categories:
 - General
 ---
-<a style="line-height: 1.5em;" href="http://www.rusiczki.net/wp-content/uploads/2013/12/20131214_111027.jpg"><img class="alignnone size-medium wp-image-4658" alt="Vedere de pe pârtia Borșa" src="http://www.rusiczki.net/wp-content/uploads/2013/12/20131214_111027-693x389.jpg" width="693" height="389" /></a>
+<a style="line-height: 1.5em;" href="https://content.rusiczki.net/2013/12/20131214_111027.jpg"><img class="alignnone size-medium wp-image-4658" alt="Vedere de pe pârtia Borșa" src="https://content.rusiczki.net/2013/12/20131214_111027-693x389.jpg" width="693" height="389" /></a>
 
 Poza de mai sus a fost făcută cu abia câteva ore în urmă. La capitolul snow report se putea să fie mai multă zăpada și mai puține pietre dar până la urmă am găsit varianta optimă și ne-am dat mai mult decât acceptabil. Păcat de buctul din prima tură când am reușit să ne zgăriem plăcile aproape imaculate, atât eu cât mai ales Ioana a cărei snowboard e de abia la a treia ieșire.
 
@@ -13,4 +13,4 @@ Dar nu pentru snow report m-am apucat să scriu acest articol ci fiindcă îl sc
 
 În încheiere iată o poză cu biroul...
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2013/12/PC140177.jpg"><img class="alignnone size-medium wp-image-4660" alt="Cabană Borșa" src="http://www.rusiczki.net/wp-content/uploads/2013/12/PC140177-693x519.jpg" width="693" height="519" /></a>
+<a href="https://content.rusiczki.net/2013/12/PC140177.jpg"><img class="alignnone size-medium wp-image-4660" alt="Cabană Borșa" src="https://content.rusiczki.net/2013/12/PC140177-693x519.jpg" width="693" height="519" /></a>

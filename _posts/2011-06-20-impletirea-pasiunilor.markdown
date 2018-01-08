@@ -21,4 +21,4 @@ Coborarea a fost grea, dar m-a cam luat valul si am "uitat" sa mai oprim pentru 
 
 Mi-a fost putin ciuda ca nu am luat GPS-ul fiindca am trecut pe niste drumuri necunoscute mie, dar acasa inainte de pornire m-am gandit ca ar fi bine sa am cu o grija in minus daca tot va trebui sa fiu atent la echipamentul foto.
 
-Si inca o concluzie si ma duc: <a href="http://www.rusiczki.net/wp-content/uploads/2011/06/fox-clothing-high-voltage-short.jpg" class="fancybox">pantalonii Fox High Voltage</a> comandati de la <a href="http://www.evanscycles.com/">Evans Cycles</a> au meritat fiecare eurocent care i-am dat pe ei. Material extrem de usor si foarte confortabil, chilot cu burete, buzunare super practice. Ce as putea sa mai cer? :)
+Si inca o concluzie si ma duc: <a href="https://content.rusiczki.net/2011/06/fox-clothing-high-voltage-short.jpg" class="fancybox">pantalonii Fox High Voltage</a> comandati de la <a href="http://www.evanscycles.com/">Evans Cycles</a> au meritat fiecare eurocent care i-am dat pe ei. Material extrem de usor si foarte confortabil, chilot cu burete, buzunare super practice. Ce as putea sa mai cer? :)

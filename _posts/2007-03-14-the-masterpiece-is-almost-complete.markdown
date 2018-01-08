@@ -5,7 +5,7 @@ date: 2007-03-14 11:07:11 +0100
 categories:
 - Technical
 ---
-<img src="http://www.rusiczki.net/blog/blogpics/corsair_memory.jpg" width="500" height="148" alt="1 gigabyte of Corsair memory" class="image" />
+<img src="https://content.rusiczki.net/blogpics/corsair_memory.jpg" width="500" height="148" alt="1 gigabyte of Corsair memory" class="image" />
 
 I haven't written any updates about the hardware situation around here. Although a lot has changed. But it's never too late...
 

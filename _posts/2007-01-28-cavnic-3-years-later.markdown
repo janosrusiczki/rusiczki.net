@@ -6,7 +6,7 @@ categories:
 - Life
 - Snowboard
 ---
-<img src="http://www.rusiczki.net/blog/blogpics/cavnic_night_lighting.jpg" width="500" height="148" alt="The slopes at Icoana now featuring night lighting!" class="image" />
+<img src="https://content.rusiczki.net/blogpics/cavnic_night_lighting.jpg" width="500" height="148" alt="The slopes at Icoana now featuring night lighting!" class="image" />
 
 As yesterday night I barely had the energy to upload <a href="http://www.flickr.com/photos/janos/archives/date-taken/2007/01/27/">a few photos</a> to Flickr (one of which you can see above) the <a href="http://www.rusiczki.net/2007/01/26/the-weather-as-it-should-be/">promised review</a> for this season's real opener was postponed for today. Here it comes...
 

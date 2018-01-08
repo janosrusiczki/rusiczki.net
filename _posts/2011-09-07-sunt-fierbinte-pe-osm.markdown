@@ -8,7 +8,7 @@ categories:
 - Mapping
 - OpenStreetMap
 ---
-<a href="http://www.rusiczki.net/wp-content/uploads/2011/09/osm-heatmap.png"><img src="http://www.rusiczki.net/wp-content/uploads/2011/09/osm-heatmap-500x231.png" alt="OpenStreetMap Heatmap" title="OpenStreetMap Heatmap" width="500" height="231" class="alignnone size-medium wp-image-1433" /></a>
+<a href="https://content.rusiczki.net/2011/09/osm-heatmap.png"><img src="https://content.rusiczki.net/2011/09/osm-heatmap-500x231.png" alt="OpenStreetMap Heatmap" title="OpenStreetMap Heatmap" width="500" height="231" class="alignnone size-medium wp-image-1433" /></a>
 
 Ceea ce se vede mai sus este un asa numit <a href="http://en.wikipedia.org/wiki/Heat_map">heatmap</a> care reprezinta zonele unde am fost cel mai activ ca editor pe <a href="http://www.openstreetmap.org">OpenStreetMap</a>. OpenStreetMap este un serviciu al carui fan sunt mai bine de doi ani si despre care am tot intentionat sa scriu aici pe blog, numai ca am vrut ca articolul sa fie o "evanghelizare" asa cum scrie la carte si nu am reusit inca sa adun toate ideile care doresc sa le ating. Asa ca iar bag o promisiune: in curand!
 

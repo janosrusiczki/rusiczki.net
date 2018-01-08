@@ -16,7 +16,7 @@ On one of the evenings at the start of December I got nostalgic looking at my Fl
 
 The year started out on the negative side, with us being at work (which turned out to be unpayed work) and being unsure about the future as the so called economic depression hit the construction company we were working for, both me and Ioana. But then we took a day off and went to Borsa only to find the secondary skilift closed. And this secondary superior skilift would have been the one that would have made our trip worthy - but we had a great time nevertheless managing to snowboard the badly maintained slopes.
 
-<a href="http://www.rusiczki.net/blog/blogpics/me-my-mum-and-dad.jpg"><img class="image" width="500" height="334" style="border: 0pt none ;" src="http://www.rusiczki.net/blog/blogpics/me-my-mum-and-dad-500x334.jpg" alt="Me, my mum and dad"/></a>
+<a href="https://content.rusiczki.net/blogpics/me-my-mum-and-dad.jpg"><img class="image" width="500" height="334" style="border: 0pt none ;" src="https://content.rusiczki.net/blogpics/me-my-mum-and-dad-500x334.jpg" alt="Me, my mum and dad"/></a>
 
 Technically the photo above was taken last year, but it marks the worst part of this year and my life actually: <a href="http://www.rusiczki.net/2009/01/26/a-bitter-update/">my mother's stroke</a> that happened right after we returned from that Borsa trip I mentioned above.
 

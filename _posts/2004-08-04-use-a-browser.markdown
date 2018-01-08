@@ -5,7 +5,7 @@ date: 2004-08-04 15:14:17 +0200
 categories:
 - Technical
 ---
-<img src="http://www.rusiczki.net/blog/blogpics/mozilla_firefox.gif" width="490" height="126" border="0" alt="Mozilla Firefox Screenshot" class="image" />
+<img src="https://content.rusiczki.net/blogpics/mozilla_firefox.gif" width="490" height="126" border="0" alt="Mozilla Firefox Screenshot" class="image" />
 
 Boys and girls. If you really want to enjoy browsing again without worring about how much spyware and viruses will you get as an unwelcomed gift after a browsing session with our belowed Internet Explorer do yourself a favour and get a real browser (instead of getting antispyware and antiviruses).
 

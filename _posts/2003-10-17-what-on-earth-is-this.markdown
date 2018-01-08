@@ -5,7 +5,7 @@ date: 2003-10-17 01:02:41 +0200
 categories:
 - Technical
 ---
-I received <a href="http://www.rusiczki.net/blog/blogstuff/what_on_earth_is_this.txt">this spam e-mail</a>.
+I received <a href="https://content.rusiczki.net/blogstuff/what_on_earth_is_this.txt">this spam e-mail</a>.
 
 The method this scumbag used obviously tricked <a href="http://spamassassin.org/" title="Great SPAM fighting tool">Spam Assassin</a> which gave the mail only 2.5 points out of the required 4.5 that mark any of my incoming mail as spam.
 

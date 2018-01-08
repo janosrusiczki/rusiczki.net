@@ -6,7 +6,7 @@ categories:
 - Photos
 - Română
 ---
-<a href="http://www.flickr.com/photos/janos/6148748455/"><img src="http://www.rusiczki.net/wp-content/uploads/2011/09/nora-robi.jpg" alt="" title="nora-robi" width="500" height="752" class="alignnone size-full wp-image-1480"/></a>
+<a href="http://www.flickr.com/photos/janos/6148748455/"><img src="https://content.rusiczki.net/2011/09/nora-robi.jpg" alt="" title="nora-robi" width="500" height="752" class="alignnone size-full wp-image-1480"/></a>
 
 Recunosc. Navighez adesea nostalgic printre <a href="http://www.flickr.com/photos/janos">pozele mele de pe Flickr</a> fiindca reprezinta un soi de istorie personala, mai ales in perioada 2006 - 2009. In timpul unei asemenea sesiuni acum doua saptamani mi-a venit idea sa pornesc o campanie personala intitulata "o poza pe zi" care s-a concretizat prin promovarea zilnica a unei poze gazduite pe Flickr pe Facebook si Twitter. Am inceput cu selectii din poze mai vechi, apoi saptamana asta am plusat cu publicarea a 4 poze noi-noute.
 

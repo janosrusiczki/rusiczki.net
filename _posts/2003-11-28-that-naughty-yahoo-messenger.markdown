@@ -7,7 +7,7 @@ categories:
 ---
 Thanks to my friend Cosmo I succeeded in spicing up my <a href="http://messenger.yahoo.com">Yahoo! Messenger</a> a little bit by downloading and installing the <a href="http://www.geocities.com/basefaces/">Basefaces Adult Smileys Collection</a>. No more boring chats.
 
-<img alt="One naughty smiley ;-)" src="http://www.rusiczki.net/blog/blogpics/naughty_smiley.gif" width="34" height="18" border="0" />
+<img alt="One naughty smiley ;-)" src="https://content.rusiczki.net/blogpics/naughty_smiley.gif" width="34" height="18" border="0" />
 
 <b>UPDATE</b>
 

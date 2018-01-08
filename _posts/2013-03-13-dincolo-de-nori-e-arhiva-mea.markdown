@@ -6,7 +6,7 @@ categories:
 - Technical
 - Română
 ---
-<a href="http://www.rusiczki.net/wp-content/uploads/2013/10/Google-Chrome.png"><img class="alignnone size-medium wp-image-4560" alt="Captură de ecran Amazon Glacier" src="http://www.rusiczki.net/wp-content/uploads/2013/10/Google-Chrome-693x160.png" width="693" height="160" /></a>
+<a href="https://content.rusiczki.net/2013/10/Google-Chrome.png"><img class="alignnone size-medium wp-image-4560" alt="Captură de ecran Amazon Glacier" src="https://content.rusiczki.net/2013/10/Google-Chrome-693x160.png" width="693" height="160" /></a>
 
 Pe parcursul timpului am fost întrebat prin IM, mail și prin comentarii despre ce soi de backup folosesc. În general le recomand oamenilor serviciile Amazon în care eu am mare încredere.
 

@@ -5,4 +5,4 @@ date: 2003-03-23 01:20:35 +0100
 categories:
 - General
 ---
-Check out the <a href="http://www.rusiczki.net/blog/blogpics/gulfwar2IRC.html" onclick="window.open('http://www.rusiczki.net/blog/blogpics/gulfwar2IRC.html','popup','width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">screenshot</a>! :-)
+Check out the <a href="https://content.rusiczki.net/blogpics/gulfwar2IRC.html" onclick="window.open('https://content.rusiczki.net/blogpics/gulfwar2IRC.html','popup','width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">screenshot</a>! :-)

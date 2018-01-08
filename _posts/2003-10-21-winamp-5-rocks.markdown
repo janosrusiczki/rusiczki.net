@@ -5,7 +5,7 @@ date: 2003-10-21 01:33:26 +0200
 categories:
 - Technical
 ---
-<img alt="Winamp 5 Beta" src="http://www.rusiczki.net/blog/blogpics/winamp_5.gif" width="354" height="147" border="0" />
+<img alt="Winamp 5 Beta" src="https://content.rusiczki.net/blogpics/winamp_5.gif" width="354" height="147" border="0" />
 
 Yep! It simply does. Even if it's a beta.
 

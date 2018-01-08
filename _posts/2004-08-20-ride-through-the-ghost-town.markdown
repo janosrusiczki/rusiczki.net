@@ -5,7 +5,7 @@ date: 2004-08-20 11:00:31 +0200
 categories:
 - Web
 ---
-<img src="http://www.rusiczki.net/blog/blogpics/ghost_town.jpg" width="490" height="140" border="0" alt="The Ghost Town" class="image" />
+<img src="https://content.rusiczki.net/blogpics/ghost_town.jpg" width="490" height="140" border="0" alt="The Ghost Town" class="image" />
 
 After seeing the great trailers for the really-really promising game <a href="http://www.stalker-game.com/" title="S.T.A.L.K.E.R.: Shadow of Chernobyl">S.T.A.L.K.E.R.</a> out of pure curiosity I searched for <a href="http://www.google.com/search?q=chernobyl">Chernobyl</a> on Google. And through the cached version of a page on Angelfire I reached a site with pictures made by a biker who made several trips to and through the ghost town and it's surrounding area.
 

@@ -5,7 +5,7 @@ date: 2007-11-06 11:12:59 +0100
 categories:
 - Uncategorized
 ---
-<a href="http://www.rusiczki.net/blog/blogpics/yahoo-mail-down.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/yahoo-mail-down.php','popup','width=782,height=548,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.rusiczki.net/blog/blogpics/yahoo-mail-down-thumb.gif" width="500" height="350" border="0" alt="Yahoo! Mail - Can't talk now. System's down." class="image"/></a>
+<a href="https://content.rusiczki.net/blogpics/yahoo-mail-down.php" onclick="window.open('https://content.rusiczki.net/blogpics/yahoo-mail-down.php','popup','width=782,height=548,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="https://content.rusiczki.net/blogpics/yahoo-mail-down-thumb.gif" width="500" height="350" border="0" alt="Yahoo! Mail - Can't talk now. System's down." class="image"/></a>
 
 Never - ever saw Yahoo! Mail having an outage before. That's why I marked the occasion with a screenshot.
 

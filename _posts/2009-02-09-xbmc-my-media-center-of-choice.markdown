@@ -13,7 +13,7 @@ Sometime around the end of the summer I "borrowed" a secular TV from my parents,
 
 This was the first step. After realizing how convenient the concept of a media center is and hitting the limits of my poor PS2 - it can play DivX, XviD, MPEGs and MP3-s but it doesn't have the processing power to be able to handle the newer formats like mkv - I started digging for solutions. Actually I remembered about XBMC because I sort of bumped into it several times during my reads of <a href="http://www.downloadsquad.com">Download Squad</a> and <a href="http://www.lifehacker.com">Lifehacker</a>. So I installed it and started the testing / accomodation process.
 
-<a href="http://www.rusiczki.net/blog/blogpics/xbmc-media-center-screenshot.png"><img class="image" style="border:0" src="http://www.rusiczki.net/blog/blogpics/xbmc-media-center-screenshot-500x400.png" alt="XBMC Media Center screenshot" width="500" height="400" /></a>
+<a href="https://content.rusiczki.net/blogpics/xbmc-media-center-screenshot.png"><img class="image" style="border:0" src="https://content.rusiczki.net/blogpics/xbmc-media-center-screenshot-500x400.png" alt="XBMC Media Center screenshot" width="500" height="400" /></a>
 
 [ Sorry for the slightly skewed aspect ratio of the screenshot, it's the PAL resolution. ]
 

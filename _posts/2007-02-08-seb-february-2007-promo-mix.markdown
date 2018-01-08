@@ -7,7 +7,7 @@ categories:
 ---
 Shake your ass to this:
 
-<img src="http://www.rusiczki.net/blog/blogpics/seb_february_2007_promo_mix_cover.jpg" width="450" height="450" alt="Seb - February 2007 Promo Mix cover" class="image" />
+<img src="https://content.rusiczki.net/blogpics/seb_february_2007_promo_mix_cover.jpg" width="450" height="450" alt="Seb - February 2007 Promo Mix cover" class="image" />
 
 Tracklist (for my image blind friend, Google):
 

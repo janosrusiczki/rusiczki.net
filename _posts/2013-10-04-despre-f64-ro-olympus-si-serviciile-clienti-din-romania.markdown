@@ -5,7 +5,7 @@ date: 2013-10-04 17:16:42 +0200
 categories:
 - Technical
 ---
-<a href="http://www.rusiczki.net/wp-content/uploads/2013/10/OI000020.jpg"><img class="alignnone size-medium wp-image-4570" alt="Card fidelitate f64.ro" src="http://www.rusiczki.net/wp-content/uploads/2013/10/OI000020-693x519.jpg" width="693" height="519" /></a>
+<a href="https://content.rusiczki.net/2013/10/OI000020.jpg"><img class="alignnone size-medium wp-image-4570" alt="Card fidelitate f64.ro" src="https://content.rusiczki.net/2013/10/OI000020-693x519.jpg" width="693" height="519" /></a>
 
 Miercurea trecută am cedat tentației și dacă tot a fost promoție pe f64.ro am cumpărat un aparat Olympus E-P5 împreuna cu un obiectiv Zuiko 45mm/1.8. A fost vorba de un pachet promoțional și în felul acesta pentru obiectivul care costă în mod normal cca 1500 RON nu am plătit nimic.
 
@@ -29,7 +29,7 @@ Indiferent de modul în care se soluționează acest caz (vă voi ține la curen
 
 <strong>Update 1</strong>
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2013/10/Google-Chrome1.png"><img class="alignnone  wp-image-4572" alt="Screenshot Facebook" src="http://www.rusiczki.net/wp-content/uploads/2013/10/Google-Chrome1.png" width="637" height="714" /></a>
+<a href="https://content.rusiczki.net/2013/10/Google-Chrome1.png"><img class="alignnone  wp-image-4572" alt="Screenshot Facebook" src="https://content.rusiczki.net/2013/10/Google-Chrome1.png" width="637" height="714" /></a>
 
 Un coleg de serviciu binevoitor <a href="https://www.facebook.com/F64Studio/posts/655600021130386">a postat</a> link-ul către acest articol împreună cu câteva comentarii pe pagina de Facebook a celor de la f64. Având în vedere că sunt 100% de acord cu ce a zis el (chiar dacă n-am reușit să formulez atât de frumos și succint) am să reproduc mai jos conversația:
 
@@ -41,7 +41,7 @@ Astăzi, marți, 10 octombrie, am fost sunat la ora 12:50 și anunțat că le-a 
 
 <strong>Update 3</strong>
 
-<a href="http://www.rusiczki.net/wp-content/uploads/2013/10/PA090035.jpg"><img class="alignnone size-medium wp-image-4577" alt="M. Zuiko Digital 45mm f1.8" src="http://www.rusiczki.net/wp-content/uploads/2013/10/PA090035-693x519.jpg" width="693" height="519" /></a>
+<a href="https://content.rusiczki.net/2013/10/PA090035.jpg"><img class="alignnone size-medium wp-image-4577" alt="M. Zuiko Digital 45mm f1.8" src="https://content.rusiczki.net/2013/10/PA090035-693x519.jpg" width="693" height="519" /></a>
 
 Am cam întârziat cu ultimul update, dar mai bine mai târziu decât niciodată. Coletul a sosit miercuri, am ajuns seara acasă, am montat obiectivul nou nouț și din cele câteva teste făcute totul pare să fie în regulă. În ultimul timp însă pe aparat a stat aproape exclusiv un obiectiv de 14mm primit împrumut de la <a href="http://hajdutamas.blogspot.ro/">Tamás</a> care mi-a potolit setea de obiectiv wide de calitate care o aveam de prin 2011. :-)
 

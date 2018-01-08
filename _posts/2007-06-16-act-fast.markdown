@@ -6,7 +6,7 @@ categories:
 - Web
 - Fun
 ---
-<a href="http://www.rusiczki.net/blog/blogpics/ioangavrilrusiczki-is-available.php" onclick="window.open('http://www.rusiczki.net/blog/blogpics/ioangavrilrusiczki-is-available.php','popup','width=648,height=83,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.rusiczki.net/blog/blogpics/ioangavrilrusiczki-is-available-thumb.gif" width="500" height="64" alt="ioan-gavrilrusiczki.com is available for registration" border="0" class="image" /></a>
+<a href="https://content.rusiczki.net/blogpics/ioangavrilrusiczki-is-available.php" onclick="window.open('https://content.rusiczki.net/blogpics/ioangavrilrusiczki-is-available.php','popup','width=648,height=83,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="https://content.rusiczki.net/blogpics/ioangavrilrusiczki-is-available-thumb.gif" width="500" height="64" alt="ioan-gavrilrusiczki.com is available for registration" border="0" class="image" /></a>
 
 Yeah, I bet the domain sharks are stepping on each others toes to grab this easy to remember domain name. How could they have missed it?
 

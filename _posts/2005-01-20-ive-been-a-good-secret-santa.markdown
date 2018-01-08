@@ -5,7 +5,7 @@ date: 2005-01-20 20:09:15 +0100
 categories:
 - Life
 ---
-<img src="http://www.rusiczki.net/blog/blogpics/secret_santa_2004.jpg" width="490" height="89" alt="A note from Andy on the gift package" class="image" />
+<img src="https://content.rusiczki.net/blogpics/secret_santa_2004.jpg" width="490" height="89" alt="A note from Andy on the gift package" class="image" />
 
 It all started with <a href="http://www.timbru.com/jurnal/2004/Nov/secret_santa_2004">an entry</a> in <a href="http://www.timbru.com/jurnal/">Gabriel Radic's weblog</a> that arrived in my feed reader sometime by the end of November. After reading the entry, a few clicks and some form filling I was part of <a href="http://www.thinkblank.com/santa2004/">Secret Santa 2004</a>.
 

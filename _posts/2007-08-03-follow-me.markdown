@@ -5,7 +5,7 @@ date: 2007-08-03 09:58:38 +0200
 categories:
 - Web
 ---
-<a href="http://www.flickr.com/photos/janos/sets/72157601092213316/detail/"><img src="http://www.rusiczki.net/blog/blogpics/project-going-to-work-thumbnails.jpg" width="471" height="315" border="0" alt='Project "Going to work"' class="image" /></a>
+<a href="http://www.flickr.com/photos/janos/sets/72157601092213316/detail/"><img src="https://content.rusiczki.net/blogpics/project-going-to-work-thumbnails.jpg" width="471" height="315" border="0" alt='Project "Going to work"' class="image" /></a>
 
 I had an idea and I took a bunch of pictures on my way to work. <a href="http://www.flickr.com/photos/janos/sets/72157601092213316/detail/">Here's the result.</a> Don't expect anything artsy. What you should expect is a virtual walk through Baia Mare. Just like being there.
 

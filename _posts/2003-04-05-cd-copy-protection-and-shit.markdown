@@ -5,7 +5,7 @@ date: 2003-04-05 21:54:22 +0200
 categories:
 - General
 ---
-<a href="http://www.rusiczki.net/blog/blogpics/minidisc-big.html" onclick="window.open('http://www.rusiczki.net/blog/blogpics/minidisc-big.html','popup','width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.rusiczki.net/blog/blogpics/minidisc-big-thumb.jpg" width="200" height="150" border="0" class="postimage" /></a> Well I bought my first CD. My first original CD. Massive Attack's <i>100th Window</i>.
+<a href="https://content.rusiczki.net/blogpics/minidisc-big.html" onclick="window.open('https://content.rusiczki.net/blogpics/minidisc-big.html','popup','width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="https://content.rusiczki.net/blogpics/minidisc-big-thumb.jpg" width="200" height="150" border="0" class="postimage" /></a> Well I bought my first CD. My first original CD. Massive Attack's <i>100th Window</i>.
 
 And I sucked <a href="http://www.riaa.org" title="Those motherfuckers!">R.I.A.A.</a>'s dick so to say. Because the CD is copy protected. I haven't noticed much from the start. I saw the sticker on the CD but when I put it into the CD-ROM of my 'puter a player popped up and started playing... So I enjoyed. The fishy thing were the high hats. Which sounded a bit weird. But I listened to the album anyway.
 

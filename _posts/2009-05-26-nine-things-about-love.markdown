@@ -6,7 +6,7 @@ categories:
 - General
 - Photos
 ---
-<a href="http://cosmonova.ro/post/113210915/nine-things-about-love"><img src="http://www.rusiczki.net/wp-content/uploads/2009/05/nine-things-about-love.jpg" alt="Nine things about love" title="Nine things about love" width="500" height="676"/></a>
+<a href="http://cosmonova.ro/post/113210915/nine-things-about-love"><img src="https://content.rusiczki.net/2009/05/nine-things-about-love.jpg" alt="Nine things about love" title="Nine things about love" width="500" height="676"/></a>
 
 Click the image for more.
 

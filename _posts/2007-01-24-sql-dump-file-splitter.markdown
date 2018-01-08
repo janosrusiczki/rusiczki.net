@@ -11,9 +11,9 @@ In these cases there are two solutions at hand: if you have console access you c
 
 Today I encountered a problem like this. And since I had no console access and I was in no mood to lose a few precious hours splitting up a 40 meg file by hand I googled for "sql splitter" and I found a program called SQLDumpSplitter 2. Unfortunately the author's site was not working (and since I don't know any German I couldn't really figure out why) but I found an <a href="http://ep2.nl/topic/2138/">alternative download</a> on <a href="http://ep2.nl/">a dutch web developer forum</a>. And since that forum required to be a member to be able to download I thought I should offer yet another alternative download location without all those registration related mini headaches. Here on this site...
 
-<a href="http://www.rusiczki.net/blog/blogstuff/SQLDumpSplitter.rar"><img alt="SQLDumpSplitter 2" src="http://www.rusiczki.net/blog/blogpics/sqldumpsplitter2.png" width="352" height="403" border="0" class="image"/></a>
+<a href="https://content.rusiczki.net/blogstuff/SQLDumpSplitter.rar"><img alt="SQLDumpSplitter 2" src="https://content.rusiczki.net/blogpics/sqldumpsplitter2.png" width="352" height="403" border="0" class="image"/></a>
 
-So here it is ladies and gentlemen: <a href="http://www.rusiczki.net/blog/blogstuff/SQLDumpSplitter.rar">download SQLDumpSplitter 2</a> (or <a href="http://www.rusiczki.net/blog/blogstuff/SQLDumpSplitter.zip">zip compressed</a>). All credits for writing this program go to Philip Lehmann-B&ouml;hm (<a href="http://www.philiplb.de">http://www.philiplb.de</a>).
+So here it is ladies and gentlemen: <a href="https://content.rusiczki.net/blogstuff/SQLDumpSplitter.rar">download SQLDumpSplitter 2</a> (or <a href="https://content.rusiczki.net/blogstuff/SQLDumpSplitter.zip">zip compressed</a>). All credits for writing this program go to Philip Lehmann-B&ouml;hm (<a href="http://www.philiplb.de">http://www.philiplb.de</a>).
 
 **Update (almost 8 years later on November 7, 2014)**: Since this is by far the most popular post on this blog, I believe it deserves an update.
 

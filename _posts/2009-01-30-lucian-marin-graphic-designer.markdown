@@ -12,8 +12,8 @@ I helped my friend <a href="http://www.lucianmarin.ro">Luci</a> with his site's 
 
 Tatadaaam!
 
-<a href="http://www.lucianmarin.ro"><img alt="Lucian Marin - Website screenshot" src="http://www.rusiczki.net/blog/blogpics/lucian-marin-website-screenshot-thumbnail.png" width="500" height="500"/></a>
+<a href="http://www.lucianmarin.ro"><img alt="Lucian Marin - Website screenshot" src="https://content.rusiczki.net/blogpics/lucian-marin-website-screenshot-thumbnail.png" width="500" height="500"/></a>
 
-Clicking on the image above will take you to his site. Plus I have <a href="http://www.rusiczki.net/blog/blogpics/lucian-marin-website-screenshot.png">the full version</a> of the above screenshot archived for eternity, so we'll always know how the site looked on January the 30th, 2009.
+Clicking on the image above will take you to his site. Plus I have <a href="https://content.rusiczki.net/blogpics/lucian-marin-website-screenshot.png">the full version</a> of the above screenshot archived for eternity, so we'll always know how the site looked on January the 30th, 2009.
 
 PS. Resize those damn goodies images!

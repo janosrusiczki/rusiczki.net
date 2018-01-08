@@ -6,7 +6,7 @@ categories:
 - Photos
 - Română
 ---
-<a href="http://www.flickr.com/photos/janos/10249140043/"><img class="alignnone size-medium wp-image-4575" alt="Eu și Ina pe Igniș" src="http://www.rusiczki.net/wp-content/uploads/2013/10/PA120146-1024-693x519.jpg" width="693" height="519" /></a>
+<a href="http://www.flickr.com/photos/janos/10249140043/"><img class="alignnone size-medium wp-image-4575" alt="Eu și Ina pe Igniș" src="https://content.rusiczki.net/2013/10/PA120146-1024-693x519.jpg" width="693" height="519" /></a>
 
 Considerând frigul de la sfârșitul lui Septembrie și începutul lui Octombrie, sâmbăta frumoasă de care am avut parte în acest weekend se poate considera un adevărat cadou. Am ieșit pe Igniș cu bicicletele, am luat Pufoșenia (una din poreclele lui Ina, cocker-ul) cu noi, ne-am întâlnit cu prieteni, am mâncat cârnați și pește prăjit și ne-am simțit foarte bine.
 

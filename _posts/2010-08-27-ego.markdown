@@ -7,7 +7,7 @@ categories:
 ---
 Well, I just did <a href="http://www.google.com/search?q=janos">an ego search</a> and guess what...
 
-<img src="http://www.rusiczki.net/wp-content/uploads/2010/08/janos-Google-Search1-500x410.png" alt="janos - Google Search" width="500" height="410" class="alignnone size-medium wp-image-1130" />
+<img src="https://content.rusiczki.net/2010/08/janos-Google-Search1-500x410.png" alt="janos - Google Search" width="500" height="410" class="alignnone size-medium wp-image-1130" />
 
 I'M THE FOURTH FREAKIN' JANOS ON THE PLANET!!! At least according to Google.
 

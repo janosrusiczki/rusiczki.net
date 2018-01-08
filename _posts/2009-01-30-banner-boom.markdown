@@ -8,7 +8,7 @@ categories:
 ---
 Two days ago I moved the hosting and delivery of all the advertising I publish on my sites to <a href="http://www.openx.org/ad-server/get-openx-hosted">OpenX Hosted</a>. The results are easily visible on the chart below:
 
-<img alt="OpenX Hosted - Statistics widget screenshot" src="http://www.rusiczki.net/blog/blogpics/openx-hosted-statistics-widget.png" width="261" height="191"/>
+<img alt="OpenX Hosted - Statistics widget screenshot" src="https://content.rusiczki.net/blogpics/openx-hosted-statistics-widget.png" width="261" height="191"/>
 
 Boom! I've been using OpenX since the days it was called phpAdsNew and I was very satisfied with it except one thing... So I was enthusiastic when I found out that I could offload my server from the burden of serving the ads and calculating the statistics.
 

@@ -6,7 +6,7 @@ categories:
 - Life
 - Snowboard
 ---
-<a href="http://www.flickr.com/photos/janos/sets/72157603067576867/"><img src="http://www.rusiczki.net/blog/blogpics/first-boarding-session-2007-2008.jpg" width="471" height="315" border="0" alt="First boarding session for the 2007 - 2008 season" class="image"/></a>
+<a href="http://www.flickr.com/photos/janos/sets/72157603067576867/"><img src="https://content.rusiczki.net/blogpics/first-boarding-session-2007-2008.jpg" width="471" height="315" border="0" alt="First boarding session for the 2007 - 2008 season" class="image"/></a>
 
 Oh boy, what a weekend it was! I can only wish to have half the fun I've had during this weekend in the weekends that will follow and I promise that I'll be completely satisfied.
 

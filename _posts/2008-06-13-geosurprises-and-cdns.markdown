@@ -6,7 +6,7 @@ categories:
 - Web
 - Technical
 ---
-<img src="http://www.rusiczki.net/blog/blogpics/firefox-status-bar.png" width="500" height="53" border="0" alt="Firefox Status Bar with Flagfox" class="image"/>
+<img src="https://content.rusiczki.net/blogpics/firefox-status-bar.png" width="500" height="53" border="0" alt="Firefox Status Bar with Flagfox" class="image"/>
 
 A few days ago, out of sheer geek / webmaster / wannabe server administrator curiosity I installed the <a href="https://addons.mozilla.org/en-US/firefox/addon/5791">Flagfox add-on</a> for Firefox which shows the flag of the country where the server that's hosting the displayed site is located.
 

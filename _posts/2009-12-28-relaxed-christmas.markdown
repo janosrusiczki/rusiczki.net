@@ -7,7 +7,7 @@ categories:
 - Technical
 - Games
 ---
-<a href="http://www.flickr.com/photos/ioana/4216363251/"><img src="http://www.rusiczki.net/wp-content/uploads/2009/12/hearts.jpg" alt="Christmas Hearts" width="500" height="747"/></a>
+<a href="http://www.flickr.com/photos/ioana/4216363251/"><img src="https://content.rusiczki.net/2009/12/hearts.jpg" alt="Christmas Hearts" width="500" height="747"/></a>
 
 Because of the weather that sucked big time this was one of the most relaxed Christmases of the last few years. My activity consisted of sitting in front of the computer and playing games, visiting family and going out one night to have a drink with <a href="http://www.flickr.com/photos/evilboarder">Cristi</a>. But what really defined this Christmas was playing games on the PC.
 

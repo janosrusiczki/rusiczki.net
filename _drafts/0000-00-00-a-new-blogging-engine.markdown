@@ -27,3 +27,5 @@ Actually the migration began back in 2014 when I discovered Jekyll and the major
 * Updated internal dead links. Lots of posts were still containing links to other posts using the old permalink style - /blog/archives/year/month/day/post_name. Now they all point to the correct format - /year/month/day/post-name/ 
 
 Another point that's worth mentioning is that the generated pages are ran through jekyll-tidy which turns them into deliciously formatted code. This tickles my web developer bone the right way.
+
+The theme is Hyde, modified here and there.

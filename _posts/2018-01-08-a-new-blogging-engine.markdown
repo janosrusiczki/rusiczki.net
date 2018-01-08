@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A new blogging engine
-date: 2018-01-08 23:04:00 +0200
+date: 2018-01-08 23:18:00 +0200
 categories:
 - Blog
 - Ruby
@@ -30,8 +30,6 @@ Actually the migration began back in 2014 when I discovered Jekyll and the major
 
 Another point that's worth mentioning is that the generated pages are ran through [jekyll-tidy](https://github.com/apsislabs/jekyll-tidy) which turns them into deliciously formatted HTML. This tickles my web developer bone the right way. Go ahead, have a look at the source of a page.
 
-The theme I'm using is [Hyde](https://github.com/poole/hyde), taylored to my liking.
-
-Oh, and to celebrate the update the site is now secured with a Let's Encrypt certificate.
+The theme I'm using is [Hyde](https://github.com/poole/hyde), taylored to my liking, the about page got some updates and to celebrate the launch the site is now secured with a Let's Encrypt certificate.
 
 Here's to static HTML! :)

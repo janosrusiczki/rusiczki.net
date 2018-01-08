@@ -7,7 +7,7 @@ categories:
 ---
 <img src="http://www.rusiczki.net/blog/blogpics/syncmaster_913n.jpg" width="510" height="139" alt="SyncMaster 913N upper left corner" class="image" />
 
-[ Context: <a href="http://www.rusiczki.net/blog/archives/2005/12/29/lcd_suggestions_anyone">one</a> and <a href="http://www.rusiczki.net/blog/archives/2006/01/19/technically_frustrated">two</a>. ]
+[ Context: <a href="http://www.rusiczki.net/2005/12/29/lcd-suggestions-anyone/">one</a> and <a href="http://www.rusiczki.net/2006/01/19/technically-frustrated/">two</a>. ]
 
 In fact it ended last Wednesday around noon but I had no time to post about it.
 

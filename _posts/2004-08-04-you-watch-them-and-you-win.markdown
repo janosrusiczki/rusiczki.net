@@ -5,7 +5,7 @@ date: 2004-08-04 14:40:44 +0200
 categories:
 - Life
 ---
-So, why <a href="http://www.rusiczki.net/blog/archives/2004/08/04/morning_tv_session" title="Kitsched - Morning TV session">did I say</a> that I like the news on ProTV so much?
+So, why <a href="http://www.rusiczki.net/2004/08/04/morning-tv-session/" title="Kitsched - Morning TV session">did I say</a> that I like the news on ProTV so much?
 
 <img src="http://www.rusiczki.net/blog/blogpics/stirile_protv.jpg" width="121" height="82" border="0" alt="The opening titles for the ProTV News" class="postimage" /> Just for the sake of their plain stupidity. Want to eat but you don't have the money for food? Or do you want to loose some weight quick? No problem, just switch to <a href="http://www.protv.ro">ProTV</a> at 5 in the afternoon and you're guaranteed to loose your apetite or even worse. I mean, are those news? They hunt down the filthiest, bloodiest stories just to have some news material to fill that much advertised hour... Or if there's a lack of accidents and / or crimes don't panic, there come the banalities! As a random example, is it really a news that should be aired on television that a family had a hornet nest in their home? Or that a stork made a nest a little later or earlier than it was supposed it? I really wished to bring up some more examples but unfortunately my mind fails me. I'm sorry but I just can't remember such nonsense.
 

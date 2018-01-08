@@ -9,7 +9,7 @@ categories:
 ---
 <a href="http://www.flickr.com/photos/janos/2414480484/"><img src="http://farm3.static.flickr.com/2062/2414480484_38179bf2eb.jpg" width="500" height="334" border="0" class="image"/></a>
 
-OK, you've <a href="http://www.rusiczki.net/blog/archives/2008/04/15/our_15_minutes_of_infame">read about us in the newspaper</a>, but now, a week after the whole thing happened and past my birthday, it's time to tell the full uncensored story.
+OK, you've <a href="http://www.rusiczki.net/2008/04/15/our-15-minutes-of-infame/">read about us in the newspaper</a>, but now, a week after the whole thing happened and past my birthday, it's time to tell the full uncensored story.
 
 Here we go. Hold on, it's going to be a long read.
 

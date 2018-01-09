@@ -7,18 +7,18 @@ categories:
 - Ruby
 - Technical
 ---
-My last entry about a blogging software switch was called '[Keeping up with the times](http://www.rusiczki.net/2009/04/02/keeping-up-with-the-times/)' and I could have called this one the same. Back then, I finally realized that maintaining my Movable Type installation was a pain as I knew next to no Perl but since I was an established PHP developer the migration to Wordpress was a logical step. Now I'm 'admitting' that I slowly transitioned to being a Ruby developer so I'm embracing [Jekyll](https://jekyllrb.com/).
+My last entry about a blogging software switch was called '[Keeping up with the times](http://www.rusiczki.net/2009/04/02/keeping-up-with-the-times/)' and I could have called this one the same. Back then, I finally realized that maintaining my [Movable Type](https://www.movabletype.org/) installation was a pain as I knew next to no Perl but since I was an established PHP developer the migration to [Wordpress](https://wordpress.org/) was a logical step. Now I'm 'admitting' that I slowly transitioned to being a Ruby developer so I'm embracing [Jekyll](https://jekyllrb.com/).
 
 So what were the other reasons for the switch?
 
 * I was getting a little paranoid about Wordpress and the extensions I was using. I wasn't terribly excited about the perspective that if a security flaw appears and I'm not updating in time (if an update is available at all) my server gets f!@#ed.
 * It takes Jekyll about one minute to generate the whole site but as the resulting files are vanilla HTMLs they're served much faster than their Wordpress equivalents. I haven't even configured the web server for this site to include the PHP interpreter. As a note here, while discussing this post with [Alex](http://dordeduca.ro) he mentioned that there are caching solutions and even a static site generator for Wordpress too.
-* I wanted to use the gem I maintained, [jekyll_asset_pipeline](https://github.com/matthodan/jekyll-asset-pipeline), in a "production" environment. I had put [quite a few hours of work](http://www.rusiczki.net/2017/12/27/my-adventures-in-social-coding/) into it and I was very curious to actually see it doing its job.
+* I wanted to use [the gem](https://github.com/matthodan/jekyll-asset-pipeline) that I'm a maintainer / co-author of, in a "production" environment. I put [quite a few hours of work](http://www.rusiczki.net/2017/12/27/my-adventures-in-social-coding/) into it and was very curious to actually see it doing its job.
 
 What are the downsides?
 
 * Not being a dynamically generated database backed site the comments have to be served by a third party system. There might be self hosted alternatives out there, but I haven't researched them because I had Disqus integrated with Wordpress for a long while anyway. I'm still not entirely comfortable to give all my comments away to a third party service (up until now, comments were also saved locally by Wordpress).
-* I had my concerns about search, but recently I discovered [Algolia](https://www.algolia.com/) which is awesome and a lot faster than the Wordpress search was. [See it action!](https://www.rusiczki.net/search/)
+* I had my concerns about search, and I thought I'll have to insert a Google search box, but recently I discovered [Algolia](https://www.algolia.com/) which is awesome and a lot faster than the Wordpress search was. [See it action!](https://www.rusiczki.net/search/)
 * I have to admit, Wordpress' media manager was great and I'm badly missing it.
 
 Actually the migration began in 2014 when I discovered Jekyll and the majority of the post files were created back then by an import from Wordpress, but they were of sub-par quality with lots of junk in them. So in the last few days I hacked together some Ruby scripts which:

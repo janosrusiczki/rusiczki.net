@@ -18,6 +18,7 @@ const search = instantsearch({
   appId: '{{ site.algolia.application_id }}',
   indexName: '{{ site.algolia.index_name }}',
   apiKey: '{{ site.algolia.search_only_api_key }}',
+  urlSync: true,
   searchFunction: function(helper) {
     if(helper.state.query != '') {
       helper.search();

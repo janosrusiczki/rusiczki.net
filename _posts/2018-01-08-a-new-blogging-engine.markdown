@@ -13,7 +13,7 @@ So what were the other reasons for the switch?
 
 * I was getting a little paranoid about Wordpress and the extensions I was using. I wasn't terribly excited about the perspective that if a security flaw appears and I'm not updating in time (if an update is available at all) my server gets f!@#ed.
 * It takes Jekyll about one minute to generate the whole site but as the resulting files are vanilla HTMLs they're served much faster than their Wordpress equivalents. I haven't even configured the web server for this site to include the PHP interpreter. As a note here, while discussing this post with [Alex](http://dordeduca.ro) he mentioned that there are caching solutions and even a static site generator for Wordpress too.
-* I wanted to use the gem I maintained, [jekyll_asset_pipeline](https://github.com/matthodan/jekyll-asset-pipeline), in a "production" environment. I had put [quite a few hours of work](http://www.rusiczki.net/2017/12/27/my-adventures-in-social-coding/) into it and was very curious to actually see it work.
+* I wanted to use [the gem](https://github.com/matthodan/jekyll-asset-pipeline) that I'm a maintainer / co-author of, in a "production" environment. I put [quite a few hours of work](http://www.rusiczki.net/2017/12/27/my-adventures-in-social-coding/) into it and was very curious to actually see it doing its work.
 
 What are the downsides?
 

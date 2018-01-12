@@ -30,7 +30,7 @@ My name is János Rusiczki and this is my personal space on the Internet, but yo
 - I ditched my Cola addiction in the spring of 2014.
 - I used to try out new beers, but then I stopped drinking alcohol completely around the summer of 2015.
 - Musicwise I used to prefer electronic (dance) music (not EDM) but nowadays I'm more like an omnivore.
-- I don't really like horror, violent or just dumb movies. I removed a hefty list of movies and actors from here because I'm really bad at making lists and I'm sure that I'd forget something or someone important.
+- I don't really like horror or violent movies. Except if they're directed by Tarantino.
 
 ### About the site
 

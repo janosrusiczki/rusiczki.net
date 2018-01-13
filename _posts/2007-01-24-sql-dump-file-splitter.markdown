@@ -20,7 +20,7 @@ So here it is ladies and gentlemen: <a href="https://content.rusiczki.net/blogst
 If you're having problems with SQLDumpSplitter 2 please have a look at the following resources (picked from your super helpful comments):
 
 * [BigDump: Staggered MySQL Dump Importer](http://www.ozerov.de/bigdump/) - Imports large and very large MySQL dumps (like phpMyAdmin dumps) even through web servers with hard runtime limits and those in safe mode. The script imports only a small part of the huge dump and restarts itself. The next session starts where the last one left off.
-* [SQL splitter](http://codesnap.blogspot.com/2011/07/sql-splitter.html) - A PHP script to split your SQL file into an array. Note that you'll probably need PHP installed locally and configured pretty loosely (with high memory limit) to be able to process large SQL dumps with this script.</li></ul>
+* [SQL splitter](http://codesnap.blogspot.com/2011/07/sql-splitter.html) - A PHP script to split your SQL file into an array. Note that you'll probably need PHP installed locally and configured pretty loosely (with high memory limit) to be able to process large SQL dumps with this script.
 
 If you found this post useful be sure to check out the books below:
 

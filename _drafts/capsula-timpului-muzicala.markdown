@@ -1,8 +1,22 @@
-- am avut un relaps în sunetul analogic anul trecut, în cadrul căreia mi-am luat un casetofon deck Technics la un preț incredibil comparativ cu cât costa pe vremuri când era clar de domeniul viselor
-- am găsit prin camera mea din Baia Sprie organizatorul de casete, super prăfuit, l-am adus la Baia Mare să-l spăl în mașina de spălat vase, ceea ce s-a și întâmplat
-- aștepta pe hol să fie dus înapoi la Baia Sprie și a căzut și s-a cam spart
-- când să-l montez la loc am aruncat o privire în spațiul "mort" din interior și am întrezărit ceva
-- vara lui 1994 a însemnat pentru mine vara dintre școala generală și liceu, respectiv pregătirea pentru admitere
+După atâția ani de MP3, anul trecut m-a prins și pe mine fascinația sculelor audio "vintage" și printre altele mi-am luat un casetofon deck Technics la un preț incredibil comparativ cu cât costa pe vremuri. Vremuri când un asemenea casetofon era de domeniul viselor.
+
+Apoi tot scotocind prin vechea camera mea din Baia Sprie mi-am găsit organizatorul de casete, nefolosit de 20 de ani, murdar și prăfuit și l-am adus la Baia Mare să-l spăl în mașina de spălat vase.
+
+![Organizatorul meu de casete](https://content.rusiczki.net/2018/01/ctm-01-organizator-de-casete-1000x667.jpg)
+
+Ceea ce s-a și întâmplat și de o vreme aștepta pe hol să fie dus înapoi dar din nefericire a căzut și l-am găsit în câteva bucați cu piesa de legătură ruptă (în poză apare lipită).
+
+![Organizatorul spart](https://content.rusiczki.net/2018/01/ctm-02-spart-1000x667.jpg)
+
+Când să-l montez la loc am aruncat o privire în spațiul gol din interior și am întrezărit ceva...
+
+![Ce se vede?](https://content.rusiczki.net/2018/01/ctm-03-interior-1000x667.jpg)
+
+![Conținut](https://content.rusiczki.net/2018/01/ctm-04-continut-1000x667.jpg)
+
+![Conținut](https://content.rusiczki.net/2018/01/ctm-05-coperta-1000x667.jpg)
+
+Vara lui 1994 a însemnat pentru mine vara dintre școala generală și liceu, respectiv pregătirea pentru admitere. Fiind un procrastinator profesionist de la o vârstă fragedă, am așa o vagă presupunere că am înregistrat casetele și am desenat coperțile în perioada când trebuia de fapt să învăt pentru admitere.
 - eram fascinat de euro dance de la finalul clasei a VIII-a (sau a opta, să nu par academician) când, clasa noastră să fim mai cu moț am organizat nu mai puțin de 3 chefuri de adio
 - epoca când îmi luam informațiile muzicale din Ecran magazin și de la emisiunea de dedicații muzicale care rula în fiecare seară la Cinemar Baia Mare cu Delia și DJ Zsolt.
 

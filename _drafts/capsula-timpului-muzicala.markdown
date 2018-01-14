@@ -83,3 +83,7 @@ Având în vedere de câte ori m-am întrebat mai sus de ce am înregistrat cât
 Probabil nu voi primi multe puncte de coolness și / sau hipsterism în urma acestei însemnări, eram mai mândru dacă era ceva rock pe casete. În apărarea mea fie spus aveam (și mai am) și casete cu muzica electronică: Vangelis, Jarre, etc. dar asta a fost conceptul meu de selecție pentru party.
 
 Casetele binențeles nu au supraviețuit, cel puțin nu cu conținutul acesta și dacă aveți impresia că sunt un fan euro dance greșiți, piesele mi se par acum cel mult puerile dar au fost potrivite pentru acea vreme și din prisma nostalgiei a fost plăcut să le reascult. Majoritatea. :)
+
+Nu stiu cand exact am pus acolo hartiile.
+Era mai fain daca gaseam ceva capsula de la liceu cand eram deja fan Dream Theater si alte lucruri fine.
+De fapt facusem si in liceu ceva asemanator, copiasem textele de la Mandylion.

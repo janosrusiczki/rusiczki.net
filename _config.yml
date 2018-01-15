@@ -33,6 +33,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - Rakefile
+  - deploy_rsa.enc
 
 algolia:
    application_id: WMKRED0LJU

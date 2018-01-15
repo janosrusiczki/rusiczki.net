@@ -1,6 +1,6 @@
 Janos Rusiczki
 ==============
-![Build Status](https://img.shields.io/travis/janosrusiczki/janosrusiczki/master.svg?style=for-the-badge)
+[![Build Status](https://img.shields.io/travis/janosrusiczki/janosrusiczki/master.svg?style=for-the-badge)](https://travis-ci.org/janosrusiczki/janosrusiczki)
 
 This is my blog converted from Wordpress to Jekyll.
 

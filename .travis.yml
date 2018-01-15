@@ -1,16 +1,29 @@
 language: ruby
-
 rvm:
 - 2.4
-
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
-
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - secure: pnHCCel4Jl9nOOCQFE89rQkEOvvcb/Y3Rl3spKW2wcJcQOWbjAz7qlk3ma273+NHNyMx5BYa1IQ97k2dgqUVuHfuI/CrFUJhsUgPEZBiIx93+rnjcljEPs9MDtRGaoRNAQkuPcWpxVLQzOIl4GUzJU+5XnTxaVZGjj+qqJhOmI8=
+  - secure: Lp9/i34z0FXw4+daQmTfILeVffpIYmEihJjtIIHF8lbFbcZTOQSdXvJN4SvlHIzVrPWTbFeZ8zuEnRQM2wmolCOC8FPtKtEvSi3m7/xJBXxkZpC2qFnyYETthGh33WCIAxcJOVr0xIc7HjN5JXT3mupvUu5Z8QoiH4EXbvNI+1w=
+  - secure: tgUwwV7vyXCw/sFNd7nsw+M/YRAhLAT5qoiG2jqgw4cxf6PFRDQW2wzJgfefybRLm/VExJb9uXEWVjYCgiqZSer1bacb0Zzj6q1MTAV1tsEQ4/ZCQOnaOU5VVorGmTqAEyu4CMaEulm7jEtQ6EipSy2gbCV/50qFitvIzOqz+Xk=
 branches:
   only:
   - master
-
 script:
-  - bundle exec jekyll build
-  - bundle exec rake test
+- bundle exec jekyll build
+- bundle exec rake test
+addons:
+  ssh_known_hosts:
+    - $DEPLOY_HOST
+before_deploy:
+- openssl aes-256-cbc -K $encrypted_7c9a13614df7_key -iv $encrypted_7c9a13614df7_iv -in deploy_rsa.enc -out /tmp/deploy_rsa -d
+- eval "$(ssh-agent -s)"
+- chmod 600 /tmp/deploy_rsa
+- ssh-add /tmp/deploy_rsa
+deploy:
+  provider: script
+  skip_cleanup: true
+  script: rsync -r --quiet --delete-after _site/* $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_DIRECTORY
+  on:
+    branch: master

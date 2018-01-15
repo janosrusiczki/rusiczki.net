@@ -80,10 +80,10 @@ Mai sunteți aici? OK, trecem la a doua casetă.
 
 Având în vedere de câte ori m-am întrebat mai sus de ce am înregistrat câte o piesă tind să cred că speram să mai dau unora caseta să aprecieze gusturile și abilitățile mele fine de selecție. Sau s-o duc la seratele care credeam că vor urma și la liceu. După mai mulți ani după acest moment am aflat de conceptul de mixtape, care era varianta anglofonă a ceea ce am făcut eu.
 
-Probabil nu voi primi multe puncte de coolness și / sau hipsterism în urma acestei însemnări, eram mai mândru dacă era ceva rock pe casete. În apărarea mea fie spus aveam (și mai am) și casete cu muzica electronică: Vangelis, Jarre, etc. dar asta a fost conceptul meu de selecție pentru party.
+Probabil nu voi primi multe puncte de coolness și / sau hipsterism în urma acestei însemnări, eram mai mândru dacă era ceva rock pe casete. În apărarea mea fie spus aveam (și mai am) și casete cu muzica electronică: Vangelis, Jarre, etc. și era mai fain dacă gaseam ceva capsula de acest gen din liceu când eram deja fan Dream Theater și alte formații de care să nu-mi fie rușine dar asta a fost conceptul meu de selecție pentru muzică de party la acea vreme.
 
 Casetele binențeles nu au supraviețuit, cel puțin nu cu conținutul acesta și dacă aveți impresia că sunt un fan euro dance greșiți, piesele mi se par acum cel mult puerile dar au fost potrivite pentru acea vreme și din prisma nostalgiei a fost plăcut să le reascult. Majoritatea. :)
 
-Nu stiu cand exact am pus acolo hartiile.
-Era mai fain daca gaseam ceva capsula de la liceu cand eram deja fan Dream Theater si alte lucruri fine.
+Nu știu când exact am pus acolo hârtiile.
+
 De fapt facusem si in liceu ceva asemanator, copiasem textele de la Mandylion.

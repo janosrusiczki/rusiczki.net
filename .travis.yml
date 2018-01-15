@@ -4,9 +4,8 @@ rvm:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-  - secure: UZBxS/pqbJVQlnPEfqbOIWKlE0dqUE4I5n40dfp1vApYu8rEufub/P/IXY8nS5MKlQnFoigSGo5TPQhdoWPgn4UNyebXB7YOlryPRYRw3y2EfBO8vx6esD9KdsFLfOCz08ZeLuOmZdomZEx8X/xd+USE4w98y9iycsyzeCD0kuI=
-  - secure: fIlHGdkIMgByUs8M40WQJo+nqlckfO4jMXOQ5MowYymw1szgdZKugq8/+rmxnGMSGFcMgodu9Kd/qfGVNVzbHGjr8GYn0/ackZPurZWErpWAE2WcVw/MiVMbayYGaDYa89w+SQ4MTT0YFJ2QoO50sl9tqE7J/1HiX0EG2b3MpOE=
-  - secure: rTgM9q4Anne8R3iXDq9RQtQsqDUsXGIigQCMfJa691C+Z1/rI1OXPOEQ7eiIMuG1au6EZMZBp9zBOBGaouHe5Dvxa5c3u1DVM0O3ImnMXWsAOYwo1nYLdE4VeJk998oV4WatN3NtcWOnr5aEWZVHup+conwZy+hiLmlcLYmqRxg=
+  - secure: jyKtbSNxKL7OwpvPLmrryIdtmQs5Jg6HT8OVbjThgfNTPJ6yaT1kriUNlt9oqfdQFYjyKWCiLjzAs8GbuKvKd2Y7q3/7khQWgmbNevHaqSlJnokSnrS5O9oIXXPJdSHU/tom/QIvM3NF34ycxh5vckv8VbXAMtP4ECq2bpqwKrU=
+  - secure: G42A5BMC+wl18g4vBM9lDDVvvW+V3QRgl27AZkq50LI/GhXzvtGFRxL7gs8scIElfz3h0ncd51pnVfr0HM04c1kqCME5haQT2MHaG2ndYpDyOnjw5yFXjKtZ1G+46oopb6ijswlrEf+EAV8o6tq9NOkoCPaFLhujg2oBu2HI3dA=
 branches:
   only:
   - master
@@ -14,8 +13,7 @@ script:
 - bundle exec jekyll build
 - bundle exec rake test
 addons:
-  ssh_known_hosts:
-  - "$DEPLOY_HOST"
+  ssh_known_hosts: rusiczki.net
 before_deploy:
 - openssl aes-256-cbc -K $encrypted_7c9a13614df7_key -iv $encrypted_7c9a13614df7_iv
   -in deploy_rsa.enc -out /tmp/deploy_rsa -d
@@ -25,6 +23,6 @@ before_deploy:
 deploy:
   provider: script
   skip_cleanup: true
-  script: rsync -r --quiet --delete-after _site/* $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_DIRECTORY
+  script: rsync -r --quiet --delete-after _site/* $DEPLOY_USER@rusiczki.net:$DEPLOY_DIRECTORY
   on:
     branch: master

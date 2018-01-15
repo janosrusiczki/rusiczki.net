@@ -38,7 +38,7 @@ Dar să vedem ce muzică era pe aceste casete? Pe verso-ul coperții artistice p
 2. Billy Joel - The River Of Dreams // Nu știu exact de ce am înregistrat-o că nu prea îmi plăcea. Cred că am fost dus de val.
 3. Loft - Hold On // Ca și Capella mai sus, o piesă euro dance destul de cunoscută.
 4. 2 Unlimited - Faces // A trebuit s-o reascult să-mi amintesc ceva de ea. Ce versuri descriptive. :)
-5. Madonna - Rain // Vai, cât de mult mi-a plăcut asta. Am ascultat-o de jde ori și știu că odată am dat volumul atât de tare încât mi s-a încălzit amplificatorul Electronica 3220 de mirosea.
+5. Madonna - Rain // Vai, cât de mult mi-a plăcut asta! Am ascultat-o de jde ori și știu că odată am dat volumul atât de tare încât mi s-a încălzit amplificatorul Electronica 3220 de mirosea.
 6. DJ Bobo - Take Control // Tot o piesă clasică euro dance, doar că nu prea îmi plăcea DJ Bobo. Și atunci de ce am înregistrat-o?
 
 *Side B*
@@ -50,7 +50,7 @@ Dar să vedem ce muzică era pe aceste casete? Pe verso-ul coperții artistice p
 5. Take That - Babe // Wow, boybands. Nu știu de ce am înregistrat-o.
 6. Doop - Doop // Asta mi-a plăcut cu toate că era super copilăroasă și mă amuza idea că dacă întorceai invers "doop" se citea la fel. Chiar mi-a influențat niște alegeri de pseudonime pe web.
 7. Ace Of Base - Don't Turn Around // Ace Of Base, marea revelație a acelor ani, îi prezentau ca următoarea ABBA...
-8. Freddie Mercury - Living On My Own // Vai ce abominație, ce i-au făcut lui săracu' Freddie... :(
+8. Freddie Mercury - Living On My Own // Ce abominație, ce i-au făcut lui săracu' Freddie... :(
 
 Mai sunteți aici? OK, trecem la a doua casetă.
 

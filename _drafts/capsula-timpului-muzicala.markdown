@@ -9,11 +9,11 @@
 ![Prima listă de piese](https://content.rusiczki.net/2018/01/ctm-06-lista-piese-1-1000x667.jpg)
 
 Side A
-1. Capella - U Got 2 Let The Music // Euro dance cum scrie la carte. Nu prea am ce să-i reproșez aș minți dacă aș zice că-mi displace.
-2. Billy Joel - The River Of Dreams // Nu știu exact de ce am înregistrat-o, nu prea îmi plăcea piesa.
+1. Capella - U Got 2 Let The Music // Euro dance cum scrie la carte. E cheesy dar asta e un lucru de așteptat la euro dance.
+2. Billy Joel - The River Of Dreams // Nu știu exact de ce am înregistrat-o, nu prea îmi plăcea piesa pe atunci.
 3. Loft - Hold On // Ca și Capella mai sus, o piesă euro dance reușită.
 4. 2 Unlimited - Faces // A trebuit s-o reascult să-mi amintesc ceva de ea. Ce versuri...
-5. Madonna - Rain // Vai, cât de mult mi-a plăcut asta. Am ascultat-o de jde ori. Știu că odată am dat așa de tare încât mi s-a încălzit amplificatorul de mirosea.
+5. Madonna - Rain // Vai, cât de mult mi-a plăcut asta. Am ascultat-o de jde ori. Știu că odată am dat așa de tare încât mi s-a încălzit amplificatorul Electronica 3220 de mirosea.
 6. DJ Bobo - Take Control // Tot o piesă clasică euro dance, doar că nu prea îmi plăcea DJ Bobo. Și atunci de ce am înregistrat-o?
 
 Side B

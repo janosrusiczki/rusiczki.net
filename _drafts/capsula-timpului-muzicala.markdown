@@ -1,10 +1,10 @@
-După atâția ani de MP3 și muzică digitală, anul trecut m-a prins și pe mine fascinația sculelor audio "vintage" și printre altele mi-am luat un casetofon deck Technics la un preț incredibil față de cât costa pe vremurile adolescenței mele. Vremuri când un asemenea casetofon era de domeniul viselor.
+După atâția ani de MP3 și muzică digitală, anul trecut m-a prins și pe mine fascinația sculelor audio "vintage" și printre altele mi-am luat un casetofon deck Technics la un preț incredibil față de cât costa pe vremea adolescenței mele. Când un asemenea casetofon aparținea de domeniul viselor.
 
-Apoi tot scotocind prin vechea mea cameră din Baia Sprie după casete mi-am găsit și organizatorul de casete murdar și foarte prăfuit că zăcea nefolosit de vreo 15 ani. Așa că l-am adus la Baia Mare să-l spăl în mașina de spălat vase...
+Tot scotocind prin vechea mea cameră din Baia Sprie după casete mi-am găsit și organizatorul de casete murdar și foarte prăfuit că zăcea nefolosit de vreo 15 ani. Așa că l-am adus la Baia Mare să-l spăl în mașina de spălat vase...
 
 ![Organizatorul meu de casete](https://content.rusiczki.net/2018/01/ctm-01-organizator-de-casete-1000x667.jpg)
 
-Spălătura s-a întâmplat, dar după câte se vede în poza de mai sus nu a avut tocmai efectul scontat și apoi o vreme rack-ul a așteptat pe hol să fie dus înapoi. Însă a căzut și l-am găsit într-o dupămasa în câteva bucați cu piesa de legătură ruptă (în poză apare deja lipită).
+Spălătura s-a întâmplat, dar după câte se vede în poza de mai sus nu a avut tocmai efectul scontat și apoi o vreme rack-ul a așteptat pe hol să fie dus înapoi. Într-o dupămasă l-am găsit căzut pe jos cu piesa de legătură ruptă (în poză apare deja lipită).
 
 ![Organizatorul spart](https://content.rusiczki.net/2018/01/ctm-02-spart-1000x667.jpg)
 

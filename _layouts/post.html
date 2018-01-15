@@ -26,14 +26,14 @@ var disqus_shortname = '{{ site.disqus.username }}';
     {% if page.previous.url %}
       <li>
       <h3>
-        <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+          <a class="prev" href="{{ site.url }}{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
       </h3>
       </li>
     {% endif %}
     {% if page.next.url %}
       <li>
       <h3>
-        <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+          <a class="next" href="{{ site.url }}{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
       </h3>
       </li>
     {% endif %}
@@ -46,7 +46,7 @@ var disqus_shortname = '{{ site.disqus.username }}';
     {% for post in site.related_posts limit:3 %}
       <li>
         <h3>
-          <a href="{{ post.url }}">
+          <a href="{{ site.url }}{{ post.url }}">
             {{ post.title }}
             <small>{{ post.date | date_to_string }}</small>
           </a>

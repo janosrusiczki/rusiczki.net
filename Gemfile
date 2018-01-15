@@ -26,3 +26,6 @@ group :jekyll_plugins do
   gem 'jekyll-tidy'
   gem 'jekyll-sitemap'
 end
+
+gem 'minitest'
+gem 'html-proofer'

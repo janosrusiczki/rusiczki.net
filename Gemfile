@@ -27,5 +27,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
 end
 
-gem 'minitest'
+gem 'rake'
 gem 'html-proofer'

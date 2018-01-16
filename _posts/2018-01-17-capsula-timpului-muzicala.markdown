@@ -30,7 +30,7 @@ După ce le-am despăturit mi-am dat seama că erau coperți pentru două casete
 
 Menționez aici că grafica de pe această copertă a fost rezultatul încercării mele de atunci de a desena ceva cu elemente abstracte similar cu ce văzusem pe casetele poloneze semi-pirat de atunci.
 
-Vara lui 1994 a însemnat pentru mine vacanța dintre școala generală și liceu, respectiv pregătirea pentru admitere. Fiind un procrastinator profesionist de la o vârstă fragedă, am așa o vagă presupunere că am înregistrat casetele și am desenat coperțile în perioada când trebuia de fapt să învăt pentru admitere.
+Vara lui 1994 a însemnat pentru mine vacanța dintre școala generală și liceu, respectiv pregătirea pentru admitere. Fiind un procrastinator profesionist de la o vârstă fragedă, am așa o vagă presupunere că am înregistrat casetele și am desenat coperțile în perioada când trebuia de fapt să învăț pentru admitere.
 
 Deduc din lista de piese că eram fascinat de euro dance, probabil de la finalul clasei a VIII-a (sau a opta, să nu par academician) când, clasa noastră ca să fie mai cu moț a organizat nu mai puțin de trei(!) serate de adio. Serate la care acesta a fost genul de muzică dominant.
 

@@ -32,6 +32,8 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - vendor
+  - Rakefile
 
 algolia:
    application_id: WMKRED0LJU

@@ -7,11 +7,11 @@ categories:
 ---
 Multă vreme am crezut că cea mai populară poză de-a mea e <a href="http://www.rusiczki.net/2006/06/08/stairs-from-a-blue-lake/">cea cu Lacul Albastru</a>, însă aruncând o privire pe Flickr, am constatat că, de fapt, cea mai vizualizată este fotografia cu <a href="https://www.flickr.com/photos/janos/4699390200/">drumeții pe Pietrosu</a> (4255 vs 1967). Instantaneul cu Lacul Albastru rămâne oricum, de departe, cea mai furată poză de-a mea. Dar chiar și adunate, vizualizările acestor fotografii par insignifiante față de câte a strâns, în doar jumătate de an, poza mea de pe Google Maps care ilustrează magazinul Dedeman din Baia Mare.
 
-<a href="https://content.rusiczki.net/2017/03/dedeman1.png"><img class="alignnone size-medium wp-image-5141" src="https://content.rusiczki.net/2017/03/dedeman1-980x645.png" alt="" width="980" height="645" /></a>
+[![Screenshot Google Maps](https://content.rusiczki.net/2017/03/dedeman1-980x645.png)](https://content.rusiczki.net/2017/03/dedeman1.png)
 
 Bun, dar câte vizualizări poate avea?
 
-<a href="https://content.rusiczki.net/2017/03/dedeman2.png"><img class="alignnone size-full wp-image-5143" src="https://content.rusiczki.net/2017/03/dedeman2.png" alt="" width="399" height="498" /></a>
+![Screenshot Google Maps](https://content.rusiczki.net/2017/03/dedeman2.png)
 
 80.000 – Optzeci de mii! Urmează pe “podium”, cu aproape 50.000 de vizualizări, a doua cea mai populară poză de-a mea, care ilustrează magazinul Praktiker din Baia Mare. Partea bună e că îmi amintesc cum am făcut ambele poze. Adică nu sunt complet senil și am și două povestioare de scris pe blog!
 
@@ -23,4 +23,4 @@ Cam astea ar fi poveștile din spatele celor mai vizualizate fotografii de-ale m
 
 **Update** 30 iunie 2017
 
-<a href="https://content.rusiczki.net/2017/03/dedeman3.png"><img class="alignnone size-full wp-image-5182" src="https://content.rusiczki.net/2017/03/dedeman3.png" alt="" width="380" height="478" /></a>
+![Screenshot Google Maps](https://content.rusiczki.net/2017/03/dedeman3.png)

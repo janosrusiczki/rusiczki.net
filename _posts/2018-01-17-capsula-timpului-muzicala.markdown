@@ -54,9 +54,9 @@ Dar să vedem ce muzică era pe aceste casete? Pe verso-ul coperții artistice p
 *Side B*
 
 1. [Salt N' Pepa - Watta Man](https://www.youtube.com/watch?v=8-WFNbMohTQ) // De fapt "Whatta Man feat. En Vogue". Ce? Salt 'N' Pepa mai au și alte piese în afară de "[Push It?](https://www.youtube.com/watch?v=vCadcBR95oU)" Glumesc, de asta chiar îmi amintesc cu refren cu tot.
-2. [Maxx - No More](https://www.youtube.com/watch?v=P0z8E-LBTcc) // Euro dance pe același catafâlc care s-a dovedit atât de succes în acei ani. Îmi aminteam de refren.
+2. [Maxx - No More](https://www.youtube.com/watch?v=P0z8E-LBTcc) // Euro dance tot după rețeta care s-a dovedit atât de succes în acei ani. Îmi aminteam de refren.
 3. [Intermission - Six Day](https://www.youtube.com/watch?v=Jg9P3Z7ZCcE) // De fapt "Six Days". Idem mai sus.
-4. [Magic Affair - Omen III](https://www.youtube.com/watch?v=wgAKnsO6N-s) // "Do what you want but don't forget the omen."" Din nou, am reușit să citez în mare refrenul chiar înainte să re-ascult.
+4. [Magic Affair - Omen III](https://www.youtube.com/watch?v=wgAKnsO6N-s) // "Do what you want but don't forget the omen." Din nou, am reușit să citez în mare refrenul chiar înainte să re-ascult.
 5. [Take That - Babe](https://www.youtube.com/watch?v=MviFdVHltEM) // Wow, boybands. Nu știu de ce am înregistrat-o.
 6. [Doop - Doop](https://www.youtube.com/watch?v=tvLDm8821jQ) // Asta mi-a plăcut cu toate că era super copilăroasă și mă amuza idea că dacă întorceai invers "doop" se citea la fel. Chiar mi-a influențat niște alegeri de pseudonime pe web.
 7. [Ace Of Base - Don't Turn Around](https://www.youtube.com/watch?v=B_gs4gCyGKs) // Ace Of Base, marea revelație a acelor ani, îi prezentau ca următoarea ABBA...

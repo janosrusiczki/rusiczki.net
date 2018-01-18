@@ -5,6 +5,8 @@ date: 2018-01-17 00:48:00 +0200
 categories:
 - Music
 - Română
+image: https://content.rusiczki.net/2018/01/ctm-01-organizator-de-casete-1000x667.jpg
+description: Sau cum am descoperit o veritabilă comoară nostalgică în interiorul bătrânului meu suport de casete.
 ---
 După atâția ani de MP3 și muzică digitală, anul trecut m-a prins și pe mine fascinația sculelor audio "vintage" și printre altele mi-am luat un casetofon deck Technics la un preț incredibil față de cât costa pe vremea adolescenței mele când un asemenea aparat aparținea de domeniul viselor.
 
@@ -36,7 +38,7 @@ Deduc din lista de piese că eram fascinat de euro dance, probabil de la finalul
 
 Îmi mai amintesc că nu prea îmi permiteam să-mi cumpăr casetele cu selecții poloneze, dar aveam o colegă care își lua săptămânal ce mai apărea nou la băieții care veneau la taraba de la piață. Eu probabil împrumutasem de la cineva câteva casete și mi-am ales de pe ele ce-mi placea.
 
-Aceasta a fost epoca când informațiile muzicale mi le luam din Ecran Magazin (o variantă autohtonă mai ieftină pentru revistele Bravo și Popcorn) și de la emisiunea de dedicații muzicale prezentată de Delia și DJ Zsolt care rula în fiecare seară la Cinemar Baia Mare. 
+Aceasta a fost epoca când informațiile muzicale mi le luam din Ecran Magazin (o variantă autohtonă mai ieftină pentru revistele Bravo și Popcorn) și de la emisiunea de dedicații muzicale prezentată de Delia și DJ Zsolt care rula în fiecare seară la Cinemar Baia Mare.
 
 Dar să vedem ce muzică era pe aceste casete? Pe verso-ul coperții artistice prezentate mai sus (pe care am menționat și că e volumul 1) găsim prima listă de piese:
 

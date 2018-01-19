@@ -10,17 +10,14 @@ My name is János Rusiczki and this is my personal space on the Internet, but yo
 
 ### The basics
 
-**Birthday:** April 17, 1979 ([my exact age](https://www.wolframalpha.com/input/?i=april+17,+1979))
-
-**Location:** [Baia Mare, Romania](http://www.openstreetmap.org/?lat=47.6522&lon=23.5652&zoom=13&layers=M)
-
-**Working as:** Developer at [SoftVision](http://www.softvision.ro)
+- **Birthday:** April 17, 1979 ([my exact age](https://www.wolframalpha.com/input/?i=april+17,+1979)).
+- **Location:** [Baia Mare, Romania](http://www.openstreetmap.org/?lat=47.6522&lon=23.5652&zoom=13&layers=M).
+- **Working as:** Developer at [SoftVision](http://www.softvision.ro).
 
 ### Contact details
 
-**E-Mail:** [Get my e-mail address](http://scr.im/3dm)
-
-**Telephone:** Please ask.
+- **E-Mail:** [Get my e-mail address](http://scr.im/3dm).
+- **Telephone:** Please ask.
 
 ### Random things, all about me
 

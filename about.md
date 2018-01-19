@@ -24,6 +24,7 @@ My name is János Rusiczki and this is my personal space on the Internet, but yo
 
 ### Random things, all about me
 
+- I'm married to [Ioana](http://www.flickr.com/photos/ioana] and we have a daughter Anna, born on February 8, 2016.
 - I collect [vinyl records](https://www.discogs.com/user/rev/collection?header=1) and [LEGO sets](https://brickset.com/sets/ownedby-kitsched).
 - I like dogs almost as much as I love cats.
 - I love tea but don't really drink coffee.

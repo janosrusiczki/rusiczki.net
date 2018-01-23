@@ -12,6 +12,6 @@ This is nothing short of disgusting... In a world where countries straight out r
 
 Well, I'm pretty sure nothing can be done for Romania to unswallow MS's (no bad words today) but FYI here's the banner linking to the 6 unanswered questions on MS OOXML asked by the <a href="http://fsfeurope.org/">Free Software Foundation</a>:
 
-<a href="http://fsfeurope.org/documents/msooxml-questions"><img src="http://fsfeurope.org/graphics/msooxml_small.png" width="250" height="98" border="0"/></a>
+<a href="http://fsfeurope.org/documents/msooxml-questions"><img src="http://fsfeurope.org/graphics/msooxml_small.png" width="250" height="98" border="0" alt="Six questions"/></a>
 
 Read and judge for yourself.

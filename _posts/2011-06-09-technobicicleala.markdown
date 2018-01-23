@@ -17,7 +17,7 @@ Am facut cateva descoperiri noi si despre Endomondo ieri: in primul rand am afla
 
 Acuma ma gandesc daca sa-mi iau un cardio senzor sa stiu si mai precis cam cate calorii ard la o distractie de genul... De curios sunt curios, dar as vrea sa mai treaca ceva timp, sa vad cum evolueaza Endomondo si cat il folosesc inainte sa fac o investitie de genul.
 
-<img src="https://content.rusiczki.net/2011/06/vedere-dura-500x374.jpg" alt="" title="Vedere de pe Dura" width="500" height="374"/>
+<img src="https://content.rusiczki.net/2011/06/vedere-dura-500x374.jpg" alt="Vedere de pe Dura" title="Vedere de pe Dura" width="500" height="374"/>
 
 Singura poza facuta ieri: Baia Mare vazuta de pe Dura
 

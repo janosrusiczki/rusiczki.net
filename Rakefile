@@ -2,15 +2,10 @@ require 'html-proofer'
 
 task :test do
   options = {
-    assume_extension: true,
     disable_external: true,
     url_ignore: [
-      '/feed/',
-      /^\/assets/
-    ],
-    internal_domains: [
-      'https://content.rusiczki.net'
+      '/feed/'
     ]
   }
-  HTMLProofer.check_directories(["./_site/#{Date.current.year}/", "./_site/#{Date.current.year - 1}/"], options).run
+  HTMLProofer.check_directory("./_site/", options).run
 end

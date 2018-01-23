@@ -7,7 +7,7 @@ categories:
 - Photos
 - Snowboard
 ---
-<a href="http://www.flickr.com/photos/janos/2414480484/"><img src="http://farm3.static.flickr.com/2062/2414480484_38179bf2eb.jpg" width="500" height="334" border="0" class="image"/></a>
+<a href="http://www.flickr.com/photos/janos/2414480484/"><img src="http://farm3.static.flickr.com/2062/2414480484_38179bf2eb.jpg" width="500" height="334" border="0" class="image" alt="Bâlea"/></a>
 
 OK, you've <a href="http://www.rusiczki.net/2008/04/15/our-15-minutes-of-infame/">read about us in the newspaper</a>, but now, a week after the whole thing happened and past my birthday, it's time to tell the full uncensored story.
 

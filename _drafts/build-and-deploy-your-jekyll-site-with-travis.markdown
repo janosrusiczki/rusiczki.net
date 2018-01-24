@@ -102,7 +102,7 @@ Run these on the local machine in the project directory:
     $ travis encrypt DEPLOY_HOST=<deploy host> --add
     $ travis encrypt DEPLOY_USER=<deploy user> --add
 
-These will add some lines starting with `- secure` to the `env.global:` section of *.travis.yml*. Add the following to the `before_deploy:` section of the same file:
+These will add three lines starting with `- secure` to the `env.global:` section of *.travis.yml*. Add the following to the `before_deploy:` section of the same file:
 
     - echo $DEPLOY_HOST > ~/.ssh/known_hosts
 
@@ -117,4 +117,6 @@ And now for the grand finale! Add to the end of *.travis.yml*:
       on:
         branch: master
 
-`skip_cleanup` ensures that the result of the build is not deleted before we want to transfer it and the `rsync` command copies over the contents of the *_site* directory. The `--delete-after` flag's effect is that it will clean the directory on the hosting server before uploading the freshly built site so that there are no left overs or forgotten files.
+`skip_cleanup` ensures that the result of the build is not deleted before we want to transfer it. `--delete-after`'s effect is that it will clean the directory on the hosting server before uploading the freshly built site so that there are no left overs or forgotten files.
+
+And with this we're done!

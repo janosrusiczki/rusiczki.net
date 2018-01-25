@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Use Travis to build and deploy your Jekyll site via SSH
-date: 2018-01-25 10:07:00 +0200
+date: 2018-01-25 11:45:00 +0200
 categories:
 - Blog
 - Ruby

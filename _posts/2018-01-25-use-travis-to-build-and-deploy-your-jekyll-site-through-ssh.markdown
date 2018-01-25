@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Use Travis to build and deploy your Jekyll site via SSH
+title: Use Travis to build and deploy your Jekyll site through SSH
 date: 2018-01-25 11:45:00 +0200
 categories:
 - Blog
 - Ruby
 - Technical
 image: https://content.rusiczki.net/2018/01/bricks-jekyll-github-travis.jpg
-description: How to use Travis to build and deploy your Jekyll site to your VPS via SSH.
+description: How to use Travis to build and deploy your Jekyll site to your VPS through SSH.
 ---
 ![An image of bricks with the Jekyll, GitHub and Travis logos on it](https://content.rusiczki.net/2018/01/bricks-jekyll-github-travis.jpg)
 

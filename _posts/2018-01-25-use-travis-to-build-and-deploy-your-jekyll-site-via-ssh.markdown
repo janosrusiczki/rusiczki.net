@@ -133,4 +133,4 @@ And now for the grand finale! Add to the end of *.travis.yml*:
 
 And with this we're done! Push to the master branch on GitHub and sit back and relax while your site is automagically deployed by Jenkins. Well, possibly it won't happen on the first try, but hey, once it does I guarantee an overwhelming feeling of satisfaction for the nerd inside you.
 
-As an additional note, when I'm proof reading my site and making small changes to many files by multiple commits via the GitHub web interface I usually add `[ci skip]` to these commit messages so that I don't overwhelm Travis. They're giving me something for free and I tend to respect that by not abusing their service.
+As an additional note, when I'm proof reading my site and making small changes to many files by multiple commits via the GitHub web interface I usually add `[ci skip]` to the commit messages so that I don't overwhelm Travis. They're giving me something for free and I tend to respect that by not abusing their service.

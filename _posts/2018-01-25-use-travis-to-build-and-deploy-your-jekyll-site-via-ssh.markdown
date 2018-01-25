@@ -1,10 +1,21 @@
-After [transitioning my blog to Jekyll](https://www.rusiczki.net/2018/01/08/a-new-blogging-engine/) my next goal was to have the site built and deployed via an external service which is ideally automatically triggered by pushing to a certain GitHub branch (in my case `master`). I wanted to document the configuration so that if a hosting server switch is neededd I don't have to figure out everything again and maybe also help others who stumble upon this article. The CI service of choice was [Travis](https://travis-ci.org/) because I'm using it for [jekyll_asset_pipeline](https://github.com/matthodan/jekyll-asset-pipeline) and some other open source side projects I'm working on.
+---
+layout: post
+title: Use Travis to build and deploy your Jekyll site via SSH
+date: 2018-01-24 12:07:00 +0200
+categories:
+- Blog
+- Ruby
+- Technical
+image: https://content.rusiczki.net/2018/01/ctm-01-organizator-de-casete-1000x667.jpg
+description: How to build and deploy your Jekyll site to your VPS by using Travis.
+---
+After [transitioning my blog to Jekyll](https://www.rusiczki.net/2018/01/08/a-new-blogging-engine/) my next goal was to have the site built and deployed via an external service which is automatically triggered by pushing to a certain GitHub branch (in my case *master*). I wanted to document the configuration so that if a hosting server switch is needed I don't have to figure out everything again and maybe also help others who stumble upon this article. The CI service of choice was [Travis](https://travis-ci.org/) because I'm using it for [jekyll_asset_pipeline](https://github.com/matthodan/jekyll-asset-pipeline) and some other open source side projects I'm working on.
 
 ## Build
 
 Building a piece of software usually consists of the build part itself followed by testing. The actual build part in Jekyll's case is straight forward, even the command is called `jekyll build`, but I was wondering about the second part: as opposed to an application what can you test on a static site? The answer came as [html-proofer](https://github.com/gjtorikian/html-proofer) which checks your site's HTML files for the correctness of local and outbound links, image references, the presence of alt tags on the images, etc.
 
-Continuous integration of a Jekyll site with Travis is [well documented](https://jekyllrb.com/docs/continuous-integration/travis-ci/) in the official documentation so I will stick to describing what I changed.
+Continuous integration of a Jekyll site with Travis is [described](https://jekyllrb.com/docs/continuous-integration/travis-ci/) in the official documentation so I will only detail what I changed.
 
 I decided to run html-proofer via rake instead of a stand alone command as described in the article above so I could add some configuration. My *Rakefile* looks like this:
 
@@ -19,9 +30,9 @@ I decided to run html-proofer via rake instead of a stand alone command as descr
       HTMLProofer.check_directory("./_site/", options).run
     end
 
-I disabled the checking of external links because I have a blog with ancient content which contain links that died a long time ago. The */feed/* directory is redirected from the vhost config so I set that to be ignored.
+I disabled the checking of external links because this blog has some ancient content with links that died a long time ago. The */feed/* directory is redirected from the vhost config so I set that to be ignored.
 
-Don't forget to add `rake` and `html-proofer` to your *Gemfile*.
+Try it out by running `rake test`. Does it pass? Great! It doesn't? Get editing!
 
 At this point my *.travis.yml* read:
 
@@ -40,19 +51,19 @@ At this point my *.travis.yml* read:
 
 I'd say it's pretty self explanatory.
 
-Don't forget to add `vendor` to your `exclude:` list in Jekyll's *\_config.yml* or else all hell will break loose.
+Don't forget to add `rake` and `html-proofer` to your *Gemfile* to be able to run the build on Travis. Also don't forget to add `vendor` to your `exclude:` list in Jekyll's *\_config.yml* or else all hell will break loose. I warned you.
 
-After pushing to the master branch the project will successfully build.
+After pushing to the master branch the project should successfully build.
 
 ## Deploy
 
 On to the deploy part which is based on [this article](https://oncletom.io/2016/travis-ssh-deploy/).
 
-In this step we'll be deploying the *\_site* directory which we generated during the previous step to our server via a secure SSH connection. For this we'll need to generate an RSA key pair, add the public key as trusted on our hosting server and give Travis the private key. Wait, what? But how do we protect it from the public eye? Never fear, Travis provides us the means to encrypt it. This can be done by using the [travis utility](https://github.com/travis-ci/travis.rb) which we'll have to install to our local machine by running `gem install travis`.
+In this step we'll be deploying the *\_site* directory which we generated during the previous step to our hosting server via a secure SSH connection. For this we'll need to generate an RSA key pair, add the public key as trusted to our hosting server and give Travis the private key. Wait, what? But how do we protect it from the public eye? Never fear, Travis provides us withe the means to encrypt it. This can be done by using the [travis utility](https://github.com/travis-ci/travis.rb) which has to be install to the local machine by running `gem install travis`.
 
 Let's get to work!
 
-First of all it is recommended to create a separate deploy user on the hosting server and set the directory which the site is served from writable by this user. Then generate the RSA keypair by running the following command in the project's directory on your local machine:
+First of all it is recommended to create a separate deploy user on the hosting server and set the directory which the site is served from to be writable by this user. Then generate the RSA keypair by running the following command in the project's directory on the local machine:
 
     $ ssh-keygen -t rsa -b 4096 -C 'build@travis-ci.org' -f ./deploy_rsa
 
@@ -71,27 +82,28 @@ If this is the first time you're running the travis utility you will get:
 
 Which should be done in order to associate the Travis build with this directory and make our life easier in the future.
 
-But what happened? The travis utility created a *deploy_rsa.enc* (an encrypted version of the private key), with a decryption key that it stored as an environment variable on Travis and also added some lines to your *.travis.yml* file which will decrypt the private key file during build.
+But what happened? The utility created a *deploy_rsa.enc* (an encrypted version of the private key), with a decryption key that it stored as an environment variable on Travis and also added some lines to the *.travis.yml* file which will decrypt the private key file during build.
 
-Now add the public key to the list of accepted keys on your hosting server.
+Now add the public key to the list of accepted keys on the hosting server:
 
     $ ssh-copy-id -i deploy_rsa.pub <ssh-user>@<deploy-host>
 
-Once this is done the unencrypted private key as well as the public key can be deleted from the local machine:
+The unencrypted private key as well as the public key can now be deleted from the local machine:
 
     $ rm -f deploy_rsa deploy_rsa.pub
 
-Once you do this the previous non-check-in / non-build ban is lifted so we'll add *deploy_rsa.enc* to the git repository.
+Once this is done the previous no-check-in / no-build ban is lifted so add *deploy_rsa.enc* to the git repository.
 
 Now edit .travis.yml and move the decryption line from the `script:` section to the `before_deploy:` section and modify as follows:
 
     before_deploy:
-    - openssl aes-256-cbc -K $encrypted_<...>_key -iv $encrypted_<...>_iv -in deploy_rsa.enc -out /tmp/deploy_rsa -d
+    - openssl aes-256-cbc -K $encrypted_<...>_key -iv $encrypted_<...>_iv
+      -in deploy_rsa.enc -out /tmp/deploy_rsa -d
     - eval "$(ssh-agent -s)"
-    - chmod 600 /tmp/deploy_rsa
-    - ssh-add /tmp/deploy_rsa
+    - chmod 600 /tmp/deploy\_rsa
+    - ssh-add /tmp/deploy\_rsa
 
-This ensures that before a deploy is attempted the private key is decrypted and loaded into memory.
+This ensures that before the deploy is done the private key is decrypted and loaded into memory.
 
 What's left to do is the deployment itself. This will be done via rsync and we want to keep the deployment host, user and directory secret because we don't want script kiddies sniffing around our hosting server, do we?
 

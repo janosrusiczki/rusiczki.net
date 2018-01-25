@@ -23,7 +23,7 @@ Building a piece of software usually consists of the build part itself followed 
 
 Continuous integration of a Jekyll site with Travis is [documented](https://jekyllrb.com/docs/continuous-integration/travis-ci/) on the official site so I will only describe what I changed.
 
-I decided to run html-proofer via rake instead of a stand alone command as described in the article above so I could add configuration more easily. My *Rakefile* looks like this:
+I decided to run html-proofer through rake instead of a stand alone command as described in the article above so I could add configuration more easily. My *Rakefile* looks like this:
 
     require 'html-proofer'
     task :test do
@@ -65,7 +65,7 @@ After pushing to the master branch on GitHub the project should successfully bui
 
 On to the deploy part which is based on [this article](https://oncletom.io/2016/travis-ssh-deploy/).
 
-In this step we'll be deploying the *\_site* directory which we generated during the previous step to our hosting server via a secure SSH connection. To be able to do this we'll need to generate an RSA key pair, add the public key as trusted to our hosting server and give Travis the private key. Wait, what? But how do we protect it from the public eye? Never fear, Travis provides us with the means to encrypt it, by using the [travis utility](https://github.com/travis-ci/travis.rb) which has to be installed to the local machine by running `gem install travis`.
+In this step we'll be deploying the *\_site* directory which we generated during the previous step to our hosting server through a secure SSH connection. To be able to do this we'll need to generate an RSA key pair, add the public key as trusted to our hosting server and give Travis the private key. Wait, what? But how do we protect it from the public eye? Never fear, Travis provides us with the means to encrypt it, by using the [travis utility](https://github.com/travis-ci/travis.rb) which has to be installed to the local machine by running `gem install travis`.
 
 Let's get to work!
 
@@ -108,7 +108,7 @@ Now edit .travis.yml and move the decryption line from the `script:` section to 
 
 This ensures that before the deploy is done the private key is decrypted and loaded into memory.
 
-What's left to do is the deployment itself. This will be done via rsync and we want to keep the deployment host, user and directory secret because we don't want script kiddies sniffing around our hosting server now, do we?
+What's left to do is the deployment itself. This will be done with rsync and we want to keep the deployment host, user and directory secret because we don't want script kiddies sniffing around our hosting server now, do we?
 
 Run these on the local machine in the project directory:
 
@@ -135,6 +135,6 @@ And now for the grand finale! Add to the end of *.travis.yml*:
 
 And with this we're done! Push to the master branch on GitHub and sit back and relax while your site is automagically deployed by Jenkins. Well, possibly it won't happen on the first try, but hey, once it does I guarantee an overwhelming feeling of satisfaction for the nerd inside you.
 
-As an additional note, when I'm proof reading my site and making small changes to many files by multiple commits via the GitHub web interface I usually add `[ci skip]` to the commit messages so that I don't overwhelm Travis. They're giving me something for free and I tend to respect that by not abusing their service.
+As an additional note, when I'm proof reading my site and making small changes to many files by multiple commits through the GitHub web interface I usually add `[ci skip]` to the commit messages so that I don't overwhelm Travis. They're giving me something for free and I tend to respect that by not abusing their service.
 
 Header image by Alan Levine, [found on Flickr](https://www.flickr.com/photos/cogdog/14927881517/).

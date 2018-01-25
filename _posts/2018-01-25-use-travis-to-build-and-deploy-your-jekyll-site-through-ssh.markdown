@@ -13,9 +13,11 @@ description: How to use Travis to build and deploy your Jekyll site to your VPS 
 
 After [transitioning my blog to Jekyll](https://www.rusiczki.net/2018/01/08/a-new-blogging-engine/) my next goal was to have the site built and deployed via an external service which is automatically triggered by pushing to a certain GitHub branch (in my case *master*).
 
-I did this a few years ago by using [DeployBot](https://deploybot.com/) but their free plan only supports the deployment of one site and it wasn't ideal anyway because I had to run the build on my end, so I started researching how can this be done with one of the continuous integration services out there which support unlimited open source builds.
+I achieved this a few years ago by using [DeployBot](https://deploybot.com/) but their free plan only supports the deployment of one site and it wasn't ideal anyway because I had to run the build on my end, so I started researching how can this be done with one of the continuous integration services out there which support unlimited open source builds.
 
-Once I managed to do it I wanted to document the configuration so that if happen to change the hosting I don't have to figure out everything again and maybe also help others who stumble upon this article. The CI service of choice was [Travis](https://travis-ci.org/) because I'm using it for [jekyll_asset_pipeline](https://github.com/matthodan/jekyll-asset-pipeline) and some other open source side projects I'm working on.
+While searching around I found plenty of articles out there dealing with deploying to GitHub pages (this looks to be the most popular scenario) but only a handful about deploying to your own server so once I managed to do it I wanted to document my solution so that if I happen to change the hosting I don't have to figure out everything again and maybe also help others who stumble upon this article.
+
+I choose [Travis](https://travis-ci.org/) as the CI service because I've used it for [jekyll_asset_pipeline](https://github.com/matthodan/jekyll-asset-pipeline) and some other open source side projects I'm working on.
 
 ## Build
 

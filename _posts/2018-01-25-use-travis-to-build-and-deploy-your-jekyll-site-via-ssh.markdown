@@ -6,9 +6,11 @@ categories:
 - Blog
 - Ruby
 - Technical
-image: https://content.rusiczki.net/2018/01/ctm-01-organizator-de-casete-1000x667.jpg
+image: https://content.rusiczki.net/2018/01/bricks-jekyll-github-travis.jpg
 description: How to use Travis to build and deploy your Jekyll site to your VPS via SSH.
 ---
+![An image of bricks with the Jekyll, GitHub and Travis logos on it](https://content.rusiczki.net/2018/01/bricks-jekyll-github-travis.jpg)
+
 After [transitioning my blog to Jekyll](https://www.rusiczki.net/2018/01/08/a-new-blogging-engine/) my next goal was to have the site built and deployed via an external service which is automatically triggered by pushing to a certain GitHub branch (in my case *master*).
 
 I did this a few years ago by using [DeployBot](https://deploybot.com/) but their free plan only supports the deployment of one site and it wasn't ideal anyway because I had to run the build on my end, so I started researching how can this be done with one of the continuous integration services out there which support unlimited open source builds.
@@ -134,3 +136,5 @@ And now for the grand finale! Add to the end of *.travis.yml*:
 And with this we're done! Push to the master branch on GitHub and sit back and relax while your site is automagically deployed by Jenkins. Well, possibly it won't happen on the first try, but hey, once it does I guarantee an overwhelming feeling of satisfaction for the nerd inside you.
 
 As an additional note, when I'm proof reading my site and making small changes to many files by multiple commits via the GitHub web interface I usually add `[ci skip]` to the commit messages so that I don't overwhelm Travis. They're giving me something for free and I tend to respect that by not abusing their service.
+
+Header image by Alan Levine, [found on Flickr](https://www.flickr.com/photos/cogdog/14927881517/).

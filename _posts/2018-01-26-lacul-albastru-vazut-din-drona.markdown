@@ -16,7 +16,7 @@ Rezultate:
 
 [![Lacul Albastru iarna văzut din dronă](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-1-1000x750.jpg)](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-1.jpg)
 
-Această primă poză am ales-o la sugestia Ioanei căci în colțul stânga sus vede turnul combinatului din Baia Mare care dă un context peisajului, nu mai e un lac oarecare, ci e lacul acela de lângă Baia Mare. În poză se mai văd câteva locuri de care mă leagă amintiri dragi: gura de aerisire a minei unde asistam la meciuri epice de tuberman, ruinele cetății (de fapt a unei anexe de mină), câmpia unde am început să mă dau cu snowboard-ul și unde mergeam la tradiționalul grătar de 1 mai...
+Această primă poză am ales-o la sugestia Ioanei căci în colțul stânga sus vede turnul combinatului din Baia Mare care dă un context peisajului, nu mai e un lac oarecare, ci e lacul acela de lângă Baia Mare. În poză se mai văd câteva locuri de care mă leagă amintiri dragi: gura de aerisire a minei unde asistam la meciuri epice de tuberman, ruinele cetății (de fapt ale unei anexe de mină) unde s-au tras niște chefuri, câmpia unde am început să mă dau cu snowboard-ul și unde mergeam la tradiționalul grătar de 1 mai...
 
 [![Lacul Albastru iarna văzut din dronă](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-2-1000x750.jpg)](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-2.jpg)
 

@@ -6,6 +6,8 @@ Azi [iar](https://www.rusiczki.net/2018/01/13/imagini-aeriene-de-final-de-an/) m
 
 [![Lacul Albastru iarna văzut din dronă](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-3-1000x750.jpg)](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-3.jpg)
 
+<script src="https://static.kuula.io/embed.js" data-kuula="https://kuula.co/share/7ldy9?fs=1&vr=0&thumbs=1&chromeless=0&logo=0" data-width="100%" data-height="640px"></script>
+
 De data asta nu am mai zburat din curte ci am urcat cu mașina cât am putut, aproape am alergat până la lac de unde am decolat și am zburat mai relaxat având timp să încadrez mai bine pozele.
 
 Mulțumesc lui Cristi pentru sugestia cu pozele "top down".

@@ -1,0 +1,33 @@
+---
+layout: post
+title: Lacul Albastru văzut din dronă
+date: 2018-01-13 12:57:00 +0200
+categories:
+- RC
+- Photos
+- Drone
+- Română
+---
+Când am publicat însemnarea cu [pozele aeriene din Baia Sprie](https://www.rusiczki.net/2018/01/13/imagini-aeriene-de-final-de-an/) mi-am promis că voi reveni să le refac și în varianta cu zăpadă. Așa că astăzi iar mi-am prelungit pauza de masă, iar am ușchit-o la Baia Sprie și iar am zburat cu drona. De data aceasta nu mi-am mai setat baza în curte ci am urcat cu mașina cât am putut apoi aproape că am alergat până la lac de unde am decolat și am zburat mult mai relaxat având timp să încadrez mai bine pozele și filmările.
+
+Rezultate:
+
+[![Lacul Albastru iarna văzut din dronă](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-1-1000x750.jpg)](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-1.jpg)
+
+Această primă poză am ales-o la sugestia Ioanei căci în colțul stânga sus se poate vedea turnul combinatului din Baia Mare care dă un context imaginii, nu mai e un lac oarecare, ci e lacul acela de lângă Baia Mare. În poză se mai văd câteva locuri de care mă leagă amintiri dragi: gura de aerisire a minei unde asistam la meciuri epice de tuberman, ruinele cetății (de fapt a unei anexe de mină), câmpia unde am început să mă dau cu snowboard-ul și unde mergeam la tradiționalul grătar de 1 mai... În stânga imaginii aproape mi se vede mașina parcată.
+
+[![Lacul Albastru iarna văzut din dronă](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-2-1000x750.jpg)](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-2.jpg)
+
+[![Lacul Albastru iarna văzut din dronă](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-3-1000x750.jpg)](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-3.jpg)
+
+Două poze făcute la sugestia mai multor persoane în stil top-down, adică cu camera îndreptată drept în jos.
+
+Și acum partea multimedia:
+
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/DELZ1EbqZfw?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+
+Un survol lejer al lacului precum și panorama interactivă:
+
+<script src="https://static.kuula.io/embed.js" data-kuula="https://kuula.co/share/7ldy9?fs=1&vr=0&thumbs=1&chromeless=0&logo=0" data-width="100%" data-height="640px"></script>
+
+Din păcate prima baterie mi-am consumat-o cu poze, încadrări și zburat hai-hui iar a două cu panorama așa că nu am mai putut reface poza cu orașul în straie de iarnă. Dar mereu există o data viitoare. (Sper să țină și zăpada.)

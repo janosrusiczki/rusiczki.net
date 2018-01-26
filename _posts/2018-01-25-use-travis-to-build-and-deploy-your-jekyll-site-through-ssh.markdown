@@ -15,17 +15,17 @@ After [transitioning my blog to Jekyll](https://www.rusiczki.net/2018/01/08/a-ne
 
 I achieved this a few years ago by using [DeployBot](https://deploybot.com/) but their free plan only supports the deployment of one site and it wasn't ideal anyway because I had to run the build on my end, so I started researching how can this be done with one of the continuous integration services out there which support unlimited open source builds.
 
-While searching around I found plenty of articles out there dealing with deploying to GitHub pages (this looks to be the most popular scenario) but only a handful about deploying to your own server so once I managed to do it I wanted to document my solution so that if I happen to change the hosting I don't have to figure out everything again and maybe also help others who stumble upon this article.
+While searching around I found plenty of articles dealing with deploying to GitHub pages (this looks to be the most popular scenario) but only a handful about deploying to your own server. This motivated me to document my solution, so that if I happen to change the hosting I don't have to figure out everything again and maybe also help others who stumble upon this article.
 
 I choose [Travis](https://travis-ci.org/) as the CI service because I've used it for [jekyll_asset_pipeline](https://github.com/matthodan/jekyll-asset-pipeline) and some other open source side projects I'm working on.
 
 ## Build
 
-Building a piece of software usually consists of the build part itself followed by testing. The actual build part in Jekyll's case is straight forward, the command is actually `jekyll build`, but I was wondering about the second part: as opposed to an application what can you test on a static site? The answer came as [html-proofer](https://github.com/gjtorikian/html-proofer) which checks your site's HTML files for the correctness of local and outbound links, image references, the presence of alt tags on the images, etc.
+Building a piece of software usually consists of the build part itself followed by automated testing. The actual build part in Jekyll's case is straight forward, the command is even called `jekyll build`, but I was wondering about the second part: as opposed to an application what can you test on a static site? The answer came as [html-proofer](https://github.com/gjtorikian/html-proofer) which checks your site's HTML files for the correctness of local and outbound links, image references, the presence of alt tags on the images, etc.
 
 Continuous integration of a Jekyll site with Travis is [documented](https://jekyllrb.com/docs/continuous-integration/travis-ci/) on the official site so I will only describe what I changed.
 
-I decided to run html-proofer through rake instead of a stand alone command as described in the article above so I could add configuration more easily. My *Rakefile* looks like this:
+I decided to run html-proofer through rake instead of a stand alone command so I could add configuration more easily. My *Rakefile* looks like this:
 
     require 'html-proofer'
     task :test do

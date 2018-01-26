@@ -9,3 +9,5 @@ Azi [iar](https://www.rusiczki.net/2018/01/13/imagini-aeriene-de-final-de-an/) m
 De data asta nu am mai zburat din curte ci am urcat cu mașina cât am putut, aproape am alergat până la lac de unde am decolat și am zburat mai relaxat având timp să încadrez mai bine pozele.
 
 Mulțumesc lui Cristi pentru sugestia cu pozele "top down".
+
+Mi-am consumat bateriile și nu am mai putut reface poza cu orașul în straie de iarnă.

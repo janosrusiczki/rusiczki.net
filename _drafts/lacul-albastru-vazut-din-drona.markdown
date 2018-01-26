@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lacul Albastru văzut din dronă
-date: 2018-01-13 12:57:00 +0200
+date: 2018-01-26 22:18:00 +0200
 categories:
 - RC
 - Photos

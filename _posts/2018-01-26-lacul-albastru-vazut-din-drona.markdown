@@ -10,7 +10,7 @@ categories:
 image: https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-1-1000x750.jpg
 description: Lacul Albastru din Baia Sprie în 3 poze, o filmare și o panoramă făcute cu drona iarna.
 ---
-Când am publicat însemnarea cu [pozele aeriene din Baia Sprie](https://www.rusiczki.net/2018/01/13/imagini-aeriene-de-final-de-an/) mi-am promis că voi reveni să le refac și în varianta cu zăpadă. Așa că astăzi iar mi-am prelungit pauza de masă, iar am ușchit-o la Baia Sprie și iar am zburat cu drona. De data aceasta nu mi-am mai stabilit baza în curte ci am urcat cu mașina cât am putut apoi aproape că am alergat până la lac de unde am decolat și am zburat mult mai relaxat având timp să încadrez mai bine pozele și filmările.
+Când am publicat însemnarea cu [pozele aeriene din Baia Sprie](https://www.rusiczki.net/2018/01/13/imagini-aeriene-de-final-de-an/) mi-am promis că voi reveni să le refac și în varianta cu zăpadă. Așa că astăzi iar mi-am prelungit pauza de masă, iar am ușchit-o la Baia Sprie și iar am zburat cu drona. De data asta nu mi-am mai stabilit baza în curte ci am urcat cu mașina cât am putut apoi aproape că am alergat până la lac de unde am decolat și am zburat mult mai relaxat având timp să încadrez mai bine pozele și filmările.
 
 Rezultate:
 

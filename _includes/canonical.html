@@ -4,20 +4,20 @@
 
 {% if paginator.previous_page %}
   {% if paginator.page == 2 %}
-    <link rel="prev" href="{{ site.baseurl }}">
+    <link rel="prev" href="{{ site.url }}">
   {% else %}
-    <link rel="prev" href="{{ site.baseurl }}page/{{paginator.previous_page}}/">
+    <link rel="prev" href="{{ site.url }}/page/{{paginator.previous_page}}/">
   {% endif %}
 {% endif %}
 
 {% if paginator.next_page %}
-  <link rel="next" href="{{ site.baseurl }}page/{{paginator.next_page}}/">
+  <link rel="next" href="{{ site.url }}/page/{{paginator.next_page}}/">
 {% endif %}  
 
 {% if page.previous.url %}
-  <link rel="prev" href="{{ page.previous.url }}">
+  <link rel="prev" href="{{ site.url }}{{ page.previous.url }}">
 {% endif %}
 
 {% if page.next.url %}
-  <link rel="next" href="{{ page.next.url }}">
+  <link rel="next" href="{{ site.url }}{{ page.next.url }}">
 {% endif %}

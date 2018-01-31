@@ -135,6 +135,39 @@ And now for the grand finale! Add to the end of *.travis.yml*:
 
 `skip_cleanup` ensures that the result of the build is not deleted before we transfer it. `--delete-after`'s effect is that it will clean the directory on the hosting server before uploading the freshly built site so that there are no left overs or forgotten files.
 
+The final version of my *.travis.yml* file looks something like this:
+
+    language: ruby
+    rvm:
+    - 2.4
+    env:
+      global:
+      - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+      - secure: <secure $DEPLOY_USER>=
+      - secure: <secure $DEPLOY_HOST>=
+      - secure: <secure sDEPLOY_DIRECTORY>=
+    branches:
+      only:
+      - master
+    script:
+    - bundle exec jekyll build
+    - bundle exec rake test
+    before_deploy:
+    - openssl aes-256-cbc -K $encrypted_<stuff>_key -iv $encrypted_<stuff>_iv
+      -in ./deploy_rsa.enc -out /tmp/deploy_rsa -d
+    - eval "$(ssh-agent -s)"
+    - chmod 600 /tmp/deploy_rsa
+    - ssh-add /tmp/deploy_rsa
+    - echo $DEPLOY_HOST > ~/.ssh/known_hosts
+    deploy:
+      provider: script
+      skip_cleanup: true
+      script: rsync -r --quiet --delete-after _site/*
+        $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_DIRECTORY
+      on:
+        branch: master
+
+
 And with this we're done! Push to the master branch on GitHub and sit back and relax while your site is automagically deployed by Jenkins. Well, possibly it won't happen on the first try, but hey, once it does I guarantee an overwhelming feeling of satisfaction for the nerd inside you.
 
 As an additional note, when I'm proof reading my site and making small changes to many files by multiple commits through the GitHub web interface I usually add `[ci skip]` to the commit messages so that I don't overwhelm Travis. They're giving me something for free and I tend to respect that by not abusing their service.

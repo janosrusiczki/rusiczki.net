@@ -24,3 +24,5 @@ Cam astea ar fi poveștile din spatele celor mai vizualizate fotografii de-ale m
 **Update** 30 iunie 2017
 
 ![Screenshot Google Maps](https://content.rusiczki.net/2017/03/dedeman3.png)
+
+**Update** 1 februarie 2018 - Dedeman: 188.257 / Praktiker: 94.998

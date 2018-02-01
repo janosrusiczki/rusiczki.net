@@ -120,7 +120,7 @@ Run these on the local machine in the project directory:
 
 These will add three lines starting with `- secure` to the `env.global:` section of *.travis.yml*. Add the following to the `before_deploy:` section of the same file:
 
-    - echo $DEPLOY_HOST > ~/.ssh/known_hosts
+    - echo -e "Host $DEPLOY_HOST\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 
 This ensures that the deploy process doesn't hang waiting for user input.
 
@@ -158,7 +158,7 @@ The final version of my *.travis.yml* file looks something like this:
     - eval "$(ssh-agent -s)"
     - chmod 600 /tmp/deploy_rsa
     - ssh-add /tmp/deploy_rsa
-    - echo $DEPLOY_HOST > ~/.ssh/known_hosts
+    - echo -e "Host $DEPLOY_HOST\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
     deploy:
       provider: script
       skip_cleanup: true

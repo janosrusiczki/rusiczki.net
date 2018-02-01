@@ -145,7 +145,7 @@ The final version of my *.travis.yml* file looks something like this:
       - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
       - secure: <secure $DEPLOY_USER>=
       - secure: <secure $DEPLOY_HOST>=
-      - secure: <secure sDEPLOY_DIRECTORY>=
+      - secure: <secure $DEPLOY_DIRECTORY>=
     branches:
       only:
       - master

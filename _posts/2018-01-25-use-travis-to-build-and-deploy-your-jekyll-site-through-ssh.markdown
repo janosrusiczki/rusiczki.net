@@ -158,7 +158,8 @@ The final version of my *.travis.yml* file looks something like this:
     - eval "$(ssh-agent -s)"
     - chmod 600 /tmp/deploy_rsa
     - ssh-add /tmp/deploy_rsa
-    - echo -e "Host $DEPLOY_HOST\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
+    - echo -e
+      "Host $DEPLOY_HOST\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
     deploy:
       provider: script
       skip_cleanup: true

@@ -1,4 +1,4 @@
-Cei care nu știu ce însemnă bolund să arunce o privire în DEX. De fapt am să vă spun eu: înseamnă *nebun*. Iar bolunzenie înseamnă *nebunie*.
+Cei care nu știu ce însemnă bolund să arunce o privire în DEX. De fapt am să vă spun eu: înseamnă *nebun*. În consecință bolunzenie înseamnă *nebunie*.
 
 Iar dacă lucrați în IT sau aveți cunoștințe care-s pe val cu ce se întâmplă în lumea tehnologiei inevitabil ați auzit în ultimele luni cuvântul magic: Bitcoin. Dacă am tradus bolund am să vă traduc și Bitcoin: înseamnă "cum să te îmbogățești rapid, ediția 2018".
 

@@ -11,7 +11,7 @@ Cei care nu știu ce însemnă bolund să [arunce o privire în DEX](https://dex
 
 Iar dacă lucrați în IT sau aveți cunoștințe care-s pe val cu ce se întâmplă în lumea tehnologiei inevitabil ați auzit în ultimea perioadă cuvântul magic: Bitcoin! Dacă v-am tradus bolund am să vă traduc și Bitcoin: înseamnă "cum să te îmbogățești rapid, ediția 2018".
 
-Și de ce am denumit însemnarea așa? În afară de dorința de a inventa un cuvânt nou, fiindcă am auzit oameni care i-am crezut serioși și calculați zicând: "da, am investit ceva în Bitcoin, nu mult, 1000 de euro". Nu știu alții cum sunt dar mie mi se par cam mult de riscat 1000 de euro investindu-i în ceva atât de volatil ca și criptomonedele.
+Și de ce am denumit însemnarea așa? În afară de dorința de a inventa un cuvânt nou, fiindcă am auzit un coleg zicând: "da, am investit ceva în Bitcoin, nu mult, 1000 de euro". Nu știu alții cum sunt dar mie mi se par cam mult de riscat 1000 de euro investindu-i în ceva atât de volatil ca și criptomonedele.
 
 Dar stați, nu mă judecați, nu sunt eu anti-criptomonede, ca de obicei încerc să mă mențin undeva la mijloc, ascultând și documentându-mă cu argumentele ambilor părți.
 

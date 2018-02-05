@@ -12,7 +12,7 @@ description: Îmi dau cu părerea despre criptomonede.
 
 Cei care nu știu ce însemnă bolund să [arunce o privire în DEX](https://dexonline.ro/definitie/bol%C3%A2nd). De fapt am să vă spun eu ca să vă scutesc de un click: înseamnă *nebun*. E destul de ușor de dedus că bolunzenie înseamnă *nebunie*.
 
-Iar dacă lucrați în IT sau aveți cunoștințe care-s pe val cu ce se întâmplă în lumea tehnologiei inevitabil ați auzit în ultimea perioadă cuvântul magic: Bitcoin! Dacă v-am tradus bolund am să vă traduc și Bitcoin: înseamnă "cum să te îmbogățești rapid, ediția 2018".
+Iar dacă lucrați în IT sau aveți cunoștințe care-s pe val cu ce se întâmplă în lumea tehnologiei inevitabil ați auzit în ultimea perioadă cuvântul magic: [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)! Dacă v-am tradus bolund am să vă traduc și Bitcoin: înseamnă "cum să te îmbogățești rapid, ediția 2018".
 
 Și de ce am denumit însemnarea așa? În afară de dorința de a inventa un cuvânt nou, fiindcă am auzit recent un coleg de la lucru zicând: "da, am cumpărat ceva Bitcoin, nu mult, de 1000 de euro". Nu știu alții cum sunt dar mie mi se par cam mult de riscat 1000 de euro investindu-i în ceva atât de volatil ca și criptomonedele. Însă se pare că în ultima vreme mulți au căzut pradă acestei "nebunii".
 

@@ -25,6 +25,7 @@ group :jekyll_plugins do
   gem 'jekyll-algolia', '~> 1.0'
   gem 'jekyll-tidy'
   gem 'jekyll-sitemap'
+  gem 'jekyll-archives'
 end
 
 gem 'rake'

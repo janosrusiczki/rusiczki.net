@@ -24,6 +24,7 @@ plugins:
   - jekyll-tidy
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-archives
 
 disqus:
   username: kitsched
@@ -50,3 +51,20 @@ defaults:
       path: 'page'
     values:
       sitemap: false
+
+jekyll-archives:
+  enabled:
+    - year
+    - month
+    - day
+    - categories
+  layouts:
+    year: archive-year
+    month: archive-month
+    day: archive-day
+    category: archive-category
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    category: '/category/:name/'

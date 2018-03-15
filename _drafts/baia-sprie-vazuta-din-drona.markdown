@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Baia Sprie văzută din dronă
-date: 2018-01-01 01:01:01 +0200
+date: 2018-03-15 20:44:01 +0200
 categories:
 - RC
 - Photos

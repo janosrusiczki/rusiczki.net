@@ -1,0 +1,4 @@
+- cu toate că eram în epoca mea metal am ascultat cu mare plăcere acest album că îmi plăcea și muzica electronică
+- influențat pe vremea aia de Rico din TV Satelit :)
+- a fost prima artistă super mainstrem care a încercat ritmuri electronice
+- după scandalurile de dinainte devenise mămică și s-a calmat (privind înapoi știm că doar preț de un album)

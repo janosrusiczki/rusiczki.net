@@ -1,4 +1,6 @@
-M-am cam delăsat iarna aceasta și mă simțeam foarte îmbâcsit și fără energie. Așadar am căutat o alternativă la bicicletă căci sunt un părinte ocupat și nu am timp de ieșiri cu bicicleta care durează cu orele. De fapt găsisem alternativa în 2014 când am alergat câtva dar sincer nu-mi mai amintesc exact nici de ce m-am apucat și nici de ce am renunțat. Știu doar că îmi luasem un ceas pentru alergare de la Garmin care l-am dus cu mine la Cluj în delegație și acolo [am făcut](https://www.rusiczki.net/2014/08/22/alti-10-ani/) primele alergări în [părculețul Iuliu Prodan](https://www.openstreetmap.org/#map=18/46.75762/23.57206) aflat în aproapierea apartamentului firmei.
+Da, m-am apucat de alergat.
+
+Nu știu exact cum să încep așa că voi începe de la început: m-am cam delăsat iarna aceasta și mă simțeam foarte îmbâcsit și fără energie. Așadar am căutat o alternativă la bicicletă căci sunt un părinte ocupat și nu am timp de ieșiri cu bicicleta care durează cu orele. De fapt găsisem alternativa în 2014 când am alergat câtva dar sincer nu-mi mai amintesc exact nici de ce m-am apucat și nici de ce am renunțat. Știu doar că îmi luasem un ceas pentru alergare de la Garmin care l-am dus cu mine la Cluj în delegație și acolo [am făcut](https://www.rusiczki.net/2014/08/22/alti-10-ani/) primele alergări în [părculețul Iuliu Prodan](https://www.openstreetmap.org/#map=18/46.75762/23.57206) aflat în aproapierea apartamentului firmei.
 
 Cureaua ceasului ruptă de Anna (probabil în 2017) și ceasul reparat în aprilie.
 

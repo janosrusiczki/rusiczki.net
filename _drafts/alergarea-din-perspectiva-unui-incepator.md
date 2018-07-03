@@ -15,3 +15,5 @@ Brusc m-am trezit că am alergat cu sfințenie în fiecare luni, miercuri și vi
 am realizat ca-mi place sa alerg minimalist fara sa duc telefonul cu mine. in parc imi lipseste totusi muzica.
 
 upgrade la ceas - avand in vedere ca am citit un review in care forerunner 15 a fost numit plastic landfill eu zic ca m-a servit bine si sper sa-l serveasca bine si pe urmatorul proprietar.
+
+în liceu nu eram cunoscut ca mare sportiv, din contră. de plictiseala am mers cu bicicleta până am făcut cred de 2 ori gutinul. la următoarea alergare de rezistență am zis c-o iau încet să nu obosesc. și m-am descoperit cu o jumate de teren în avans față de colegi.

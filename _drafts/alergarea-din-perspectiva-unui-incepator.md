@@ -1,3 +1,13 @@
+---
+layout: post
+title: Alergarea din perspectiva unui începător
+date: 2018-07-10 19:00:00 +0200
+categories:
+- Cronică
+- Sport
+image: 
+description: Janos a început să alerge.
+---
 Da, m-am apucat de alergat.
 
 Nu știu exact cum să încep așa că voi începe cu motivația: m-am cam delăsat în această iarna și cum mă simțeam foarte îmbâcsit și fără energie mă gândeam să mă re-apuc anul acesta de mișcare. Am căutat o alternativă la bicicletă căci după cum probabil se știe sunt un părinte ocupat și nu mai am timp de ieșiri care durează cu orele. De fapt găsisem alternativa în 2014 când am alergat de câteva ori, dar nu prea îmi mai amintesc exact nici de ce m-am apucat (probabil de curiozitate) și nici de ce am renunțat. Știu doar că îmi luasem un ceas pentru alergare de la Garmin care l-am dus cu mine la Cluj în delegație și acolo [am făcut](https://www.rusiczki.net/2014/08/22/alti-10-ani/) primele alergări în [părculețul Iuliu Prodan](https://www.openstreetmap.org/#map=18/46.75762/23.57206) aflat în apropierea apartamentului în care eram cazat.

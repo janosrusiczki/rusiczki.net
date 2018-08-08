@@ -1,0 +1,8 @@
+- la bicicleta nu mi-am dat seama de importanta alimentatiei. la inceput am mers cu pizza mancata de 4 ore la alergat si parca aveam o caramida in stomac, dureri la apendice.
+- 100 de km alergati i-am sarbatorit ascultand muzica dar mi-am dat seama ca nu prea merge alergarea cu muzica ca-mi strica ritmul, nu-mi aud respiratia, etc.
+- de slabit nu prea am slabit insa ma tem ca daca ma las ma voi ingrasa
+- in concediu am alergat una de 7 si una de 10 si am descoperit ca dupa ce trec de 6 km intru intr-un soi de stare zen si nu prea mai simt oboseala doar sa ma duca picioarele. totusi cea de 7 am intrerupt-o pentru ca eram pe asfalt de mult timp si ma dor picioarele de la alergat pe asfalt
+- am dat tarcoale traseului crosului Lacului Albastru, prima oara cu unul din organizatori, apoi cu un musafir si apoi cu nevasta-mea pe bicicleta
+- totusi cea mai frumoasa alergare a fost cea de 10 km si culmea ca motivatia a fost Strava. Stiu, veti zice ca-s tampit dar m-am inscris la challenge-ul de 2500 m catarati. Si cum am vazut spre sfarsitul lunii ca m-am apropiat sa chiar realizez target-ul am tot planificat eu pe komoot sa-mi iasa la ultima alergare din luna metri catarati dar pana la urma tot pe traseu m-am hotarat pe unde sa ma duc :)
+- va fi primul meu experiment (la aproape 40 de ani) sa vad ce se intampla daca ma antrenez pentru ceva o vara intreaga
+- Crosul Lacului Albastru si Crosul Companiilor

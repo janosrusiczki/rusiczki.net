@@ -1,8 +1,11 @@
-- la bicicleta nu mi-am dat seama de importanta alimentatiei. la inceput am mers cu pizza mancata de 4 ore la alergat si parca aveam o caramida in stomac, dureri la apendice.
-- 100 de km alergati i-am sarbatorit ascultand muzica dar mi-am dat seama ca nu prea merge alergarea cu muzica ca-mi strica ritmul, nu-mi aud respiratia, etc.
-- de slabit nu prea am slabit insa ma tem ca daca ma las ma voi ingrasa
+Cu toate că m-am dat mulți ani cu bicicleta nu mi-am dat seama de importanța alimentației. Mai pe la începutul verii am mers la alergat cu o pizza mancată de 4 ore și simțeam de parcă aveam o caramidă în stomac. M-a durut și apendicele pe parcursul acelei alergări dar mi-am învățat lecția, merg de obicei dimineață cu o bucată de pâine unsă în mine sau dacă se nimerește să cadă pe dupămasa alergarea la prânz mănânc o salată sau ceva lejer.
+
+Primii 100 de km alergați anul acesta i-am sărbătorit ascultând muzică dar mi-am dat seama ca nu prea se împacă alergarea cu muzica că-mi strica ritmul, nu-mi aud respirația, etc. Voi mai încerca să ascult ceea ce mi-au recomandat mai mulți, și anume podcast-uri, măcar mă mai cultiv și nu-mi deranjează ritmul dar încă nu am avut ocazia. De asemenea cu ocazia unei alergări sociale mai recente a pus un prieten drum'n'bass de pe telefon și am realizat că merge de minune, acest stil de muzică având 160 - 180 BPM adică cam câți pași fac eu pe minut.
+
+De slăbit nu prea am slăbit însă mă tem că dacă mă las mă voi ingrășa. Așa că mă gândesc să-mi iau o bandă de alergat să pot continua tradiția și în zilele mohorâte de toamnă / iarnă. Nu știu unde dracu' o voi pune...
+
 - in concediu am alergat una de 7 si una de 10 si am descoperit ca dupa ce trec de 6 km intru intr-un soi de stare zen si nu prea mai simt oboseala doar sa ma duca picioarele. totusi cea de 7 am intrerupt-o pentru ca eram pe asfalt de mult timp si ma dor picioarele de la alergat pe asfalt
 - am dat tarcoale traseului crosului Lacului Albastru, prima oara cu unul din organizatori, apoi cu un musafir si apoi cu nevasta-mea pe bicicleta
-- totusi cea mai frumoasa alergare a fost cea de 10 km si culmea ca motivatia a fost Strava. Stiu, veti zice ca-s tampit dar m-am inscris la challenge-ul de 2500 m catarati. Si cum am vazut spre sfarsitul lunii ca m-am apropiat sa chiar realizez target-ul am tot planificat eu pe komoot sa-mi iasa la ultima alergare din luna metri catarati dar pana la urma tot pe traseu m-am hotarat pe unde sa ma duc :)
+- totusi cea mai frumoasa alergare a fost cea de 10 km si culmea ca motivatia a fost Strava. Stiu, veti zice ca-s tampit dar m-am inscris la challenge-ul de cățărare. Si cum am vazut spre sfarsitul lunii ca m-am apropiat sa chiar realizez target-ul de 2500 m am tot planificat eu pe komoot sa-mi iasa la ultima alergare din luna metri catarati dar pana la urma tot pe traseu m-am hotarat pe unde sa ma duc :)
 - va fi primul meu experiment (la aproape 40 de ani) sa vad ce se intampla daca ma antrenez pentru ceva o vara intreaga
 - Crosul Lacului Albastru si Crosul Companiilor

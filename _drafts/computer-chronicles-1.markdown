@@ -26,3 +26,4 @@ Mi-au cumpărat și mie părinții același tip de calculator de la magazinul de
 * în ziarele care mi le-am cumpărat (și de a căror nume trebuie să-mi amintesc) am ochit o pagină de publicitate cu un PC mare și frumos și o adresă de Hong Kong către care m-am pus eu să scriu o scrisoare de cerșit calculator
 * cartea albă cu cheat-uri de jocuri răsfoită până s-a dezintegrat
 * laboratorul de informatică de la liceu
+* emisiuni la televizor înainte să am calculator: mustăciosul cu HC, apoi la unguri ceva (îmi amintesc de un episod cu Norton Commander) mai târziu pe satelit The Site, Computer Chronicles. Le savuram minut cu minut.

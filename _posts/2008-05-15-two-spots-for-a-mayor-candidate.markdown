@@ -8,9 +8,15 @@ categories:
 ---
 Oh and talking about professionalism... Watching the videos below (made for one of Baia Mare's mayor candidates) will make you hurt. I guarantee it.
 
-<object width="420" height="339" id="flvplayer"><param name="movie" value="http://files.indavideo.hu/player/vc_o.swf?vID=bb41d06349" /><param name="menu" value="false" /><embed src="http://files.indavideo.hu/player/vc_o.swf?vID=bb41d06349" width="420" height="339" name="flvplayer" type="application/x-shockwave-flash" /></object>
+<video width="320" height="240" controls>
+  <source src="https://content.rusiczki.net/2008/05/Hai_sa_facem_Baia_MARE__.avi.360.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-<object width="420" height="339" id="flvplayer"><param name="movie" value="http://files.indavideo.hu/player/vc_o.swf?vID=2459939cb6" /><param name="menu" value="false" /><embed src="http://files.indavideo.hu/player/vc_o.swf?vID=2459939cb6" width="420" height="339" name="flvplayer" type="application/x-shockwave-flash" /></object>
+<video width="320" height="240" controls>
+  <source src="https://content.rusiczki.net/2008/05/Il_vrem_pe_Corin_primar__.avi.360.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 The spots were created by an advertising agency from Cluj. I'm sorry but I refuse to link reta... Uhm, I mean, professionals.
 

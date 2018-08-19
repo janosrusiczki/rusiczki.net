@@ -1,0 +1,3 @@
+- am dat tarcoale traseului crosului Lacului Albastru, prima oară cu unul din organizatori, apoi cu un musafir si apoi cu nevasta-mea pe bicicleta
+- va fi primul meu experiment (la aproape 40 de ani) sa vad ce se intampla daca ma antrenez pentru ceva o vara intreaga
+- Crosul Lacului Albastru si Crosul Companiilor

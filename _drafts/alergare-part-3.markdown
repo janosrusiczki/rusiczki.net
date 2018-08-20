@@ -1,3 +1,8 @@
-- am dat tarcoale traseului crosului Lacului Albastru, prima oară cu unul din organizatori, apoi cu un musafir si apoi cu nevasta-mea pe bicicleta
-- va fi primul meu experiment (la aproape 40 de ani) sa vad ce se intampla daca ma antrenez pentru ceva o vara intreaga
-- Crosul Lacului Albastru si Crosul Companiilor
+- Am dat târcoale traseului crosului Lacului Albastru, prima oară cu unul din organizatori, apoi cu un musafir și apoi cu nevasta-mea pe bicicletă. Având în vedere că traseul conține 2 ascensiuni serioase am vrut să mă antrenez mai mult în urcări chiar înainte de concurs dar am optat pentru alergări sociale cu un amic care a fost pentru scurt timp pe acasă. S-a dovedit a fi oricum irelevant dar poate era mai bine să fac totuși o încercare în care să dau tot ce pot.
+- Când am ajuns pe acolo vineri și am văzut unul dintre alergătorii locali "serioși" și câțiva băieți în tricouri de la diferite concursuri de alergare montană de prin țară am știut că nu va fi o ieșire de agrement.
+
+A fost primul meu concurs și am tot dezbătut ce soi de strategie să aplic. Cei mai experimentați mi-au zis că fiind "doar" 6 km să dau tot ce pot. Eu voiam să mă duc mai lejer pe prima parte să-mi conserv energia pentru prima urcare dar binențeles nu s-a întâmplat asta... Când am văzut că toți merg ca din pușcă după start, am zis ce, numai eu nu pot? Și dus am fost! Am făcut cel mai bun kilometru din viața mea (4:09) pe porțiunea de încălzire și puțin din prima urcare și când mi-am verificat pulsul la începutul urcării și am văzut 176 am știut instant că am încurcat-o. De fapt nu mi-am dat seama de ce eram atât de obosit, abia acasă când am analizat alergarea pe calculator mi-am dat seama cât de tare am tras pe prima porțiune. La fața locului am fost luat pur și simplu de val. Cumva am ajuns sus la capătul primei urcări unde mă aștepta nevasta și 2 amici cu suport moral. A urmat o parte pe curbă de nivel dar am trecut-o cam în delir cu viziunea încețoșată. Aici a fost și primul punct de alimentare unde am reușit să beau cca 1 mililitru de apă dar luasem doua pahare care mi le-am vărsat pe picioare să mi se răcorească. Și am aruncat paharele pe drum ca marile vedete.
+
+geluri si glucoza
+- A fost primul meu experiment, la aproape 40 de ani, să văd ce se întamplă dacă mă antrenez (de la 0) pentru ceva o vară intreagă.
+- Crosul Companiilor

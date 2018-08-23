@@ -1,4 +1,4 @@
-Să începem cu câteva adăugiri la ce am scris data trecută:
+După ce am publicat [articolul precedent](https://www.rusiczki.net/2018/07/12/alergarea-din-perspectiva-unui-incepator/) am realizat că am uitat câteva idei care le-am trecut într-o ciornă și pe parcurs am mai tot adăugat idei noi de s-au adunat de un articol nou. Apoi am participat și la primul concurs de alergare despre care iarăși am scris și mi-am dat seama că iese prea lung articolul așa că l-am spart în două.
 
 Cu toate că m-am dat mulți ani cu bicicleta (și mă dau în continuare) până acuma nu mi-am dat seama de importanța alimentației. Mai pe la începutul verii am făcut greșeala să merg la alergat cu o pizza mancată cu 4 ore înainte și simțeam de parcă aveam o caramidă în stomac. M-a durut și apendicele pe parcursul acelei ieșiri dar mi-am învățat lecția, merg de obicei dimineața cu maxim o bucată de pită în mine sau dacă se nimerește să cadă pe dupămasa alergarea la prânz mănânc o salată sau ceva cât se poate de lejer.
 

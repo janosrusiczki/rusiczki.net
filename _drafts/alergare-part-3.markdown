@@ -1,3 +1,5 @@
+![Eu în timpul concursului - Poze: Trif Cristian / Cozma Robert](https://content.rusiczki.net/2018/08/janos-la-crosul-lacului-albastru-1000x678.jpg)
+
 Am aflat de Crosului Lacului Albastru pe Strava apoi am tot dat târcoale traseului, prima oară cu unul din organizatori, apoi cu un amic și apoi cu nevasta-mea pe bicicletă. Având în vedere că traseul conține 2 ascensiuni serioase am vrut să mă antrenez mai mult în urcări chiar înainte de concursul propriu zis dar am optat pentru alergări sociale cu un prieten diasporist care a fost pentru scurt timp pe acasă. S-a dovedit a fi oricum irelevant dar poate era bine să fac totuși o încercare în care să dau tot ce pot.
 
 Când am ajuns pe acolo vineri în ziua de concurs și am văzut unul dintre alergătorii locali "serioși" și câțiva băieți în tricouri de la diferite concursuri de trail running de prin țară am știut că nu va fi o țopăială de agrement.

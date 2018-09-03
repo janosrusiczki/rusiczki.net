@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Tot despre alergare
+title: Alergarea din perspectiva unui începător - 2 luni mai târziu
 date: 2018-09-03 16:00:00 +0200
 categories:
 - Cronică
 - Sport
 image: https://content.rusiczki.net/2018/09/alergare-lacul-albastru-1000x750.jpg
-description: János a început să alerge.
+description: János continuă să alerge.
 ---
 După ce am publicat [articolul precedent](https://www.rusiczki.net/2018/07/12/alergarea-din-perspectiva-unui-incepator/) mi-am dat seama că am uitat câteva idei care le-am trecut apoi într-o ciornă și pe parcurs am mai tot scris de experiențe noi de s-a adunat material de un articol nou. Apoi am participat și la primul concurs de alergare despre care m-am simțit obligat să scriu și mi-am dat seama că iese prea lung articolul așa că l-am spart în două. Acesta este prima parte iar despre concurs puteți citi in a doua parte.
 
-[![La Lacul Albastru cu bidonul Salomon](https://content.rusiczki.net/2018/09/alergare-lacul-albastru-1000x750.jpg)](https://content.rusiczki.net/2018/09/alergare-lacul-albastru.jpg)
+[![La Lacul Albastru cu bidonul de apă Salomon](https://content.rusiczki.net/2018/09/alergare-lacul-albastru-1000x750.jpg)](https://content.rusiczki.net/2018/09/alergare-lacul-albastru.jpg)
 
 Cu toate că m-am dat mulți ani cu bicicleta (și mă dau în continuare) până acuma nu prea mi-am dat seama de importanța alimentației - bicicleta fiind se pare mai "permisivă" din acest punct de vedere. Pe la începutul verii am făcut greșeala să merg la alergat cu o pizza mancată cu 4 ore înainte și am simțit de parcă aveam o cărămidă în stomac. M-a durut și apendicele pe parcursul acelei ieșiri dar mi-am învățat lecția, de atunci merg la mișcare de obicei dimineața cu maxim o bucată de pită în mine sau dacă se nimerește să cadă pe dupămasa fuga la prânz mănânc o salată sau ceva cât se poate de lejer.
 

@@ -1,4 +1,16 @@
-După ce am publicat [articolul precedent](https://www.rusiczki.net/2018/07/12/alergarea-din-perspectiva-unui-incepator/) mi-am dat seama că am uitat câteva idei care le-am trecut apoi într-o ciornă și pe parcurs am mai tot scris de experiențe noi de s-a adunat material de un articol nou. Apoi am participat și la primul concurs de alergare despre care iarăși am scris și mi-am dat seama că iese prea lung articolul așa că l-am spart în două. Acesta este prima parte iar despre concurs puteți citi in a doua parte.
+---
+layout: post
+title: Tot despre alergare
+date: 2018-09-03 16:00:00 +0200
+categories:
+- Cronică
+- Sport
+image: https://content.rusiczki.net/2018/09/alergare-lacul-albastru-1000x750.jpg
+description: János a început să alerge.
+---
+După ce am publicat [articolul precedent](https://www.rusiczki.net/2018/07/12/alergarea-din-perspectiva-unui-incepator/) mi-am dat seama că am uitat câteva idei care le-am trecut apoi într-o ciornă și pe parcurs am mai tot scris de experiențe noi de s-a adunat material de un articol nou. Apoi am participat și la primul concurs de alergare despre care m-am simțit obligat să scriu și mi-am dat seama că iese prea lung articolul așa că l-am spart în două. Acesta este prima parte iar despre concurs puteți citi in a doua parte.
+
+[![La Lacul Albastru cu bidonul Salomon](https://content.rusiczki.net/2018/09/alergare-lacul-albastru-1000x750.jpg)](https://content.rusiczki.net/2018/09/alergare-lacul-albastru.jpg)
 
 Cu toate că m-am dat mulți ani cu bicicleta (și mă dau în continuare) până acuma nu prea mi-am dat seama de importanța alimentației - bicicleta fiind se pare mai "permisivă" din acest punct de vedere. Pe la începutul verii am făcut greșeala să merg la alergat cu o pizza mancată cu 4 ore înainte și am simțit de parcă aveam o cărămidă în stomac. M-a durut și apendicele pe parcursul acelei ieșiri dar mi-am învățat lecția, de atunci merg la mișcare de obicei dimineața cu maxim o bucată de pită în mine sau dacă se nimerește să cadă pe dupămasa fuga la prânz mănânc o salată sau ceva cât se poate de lejer.
 
@@ -10,4 +22,4 @@ Aparent am slăbit 5 kilograme, ceea ce mi se pare ușor sefe că nu prea se obs
 
 Alergând cu un bun prieten din Baia Sprie pe Árok s-a ivit întrebarea de ce nu am făcut noi asta când aveam 20 și ceva de ani? Că locurile și traseele erau dintotdeauna acolo, gata de a fi alergate. Dar noi eram prea ocupați să ne îmbătăm în fiecare weekend și să ne pierdem vremea jucând jocuri pe calculator - au trebuit să mai treacă 20 de ani să ne dam seama că trebuie să facem ceva și pentru sănătate. De asemenea un rol important îl au în ziua de astăzi diferitele dispozitive de tracking de la telefoane până la ceasuri și posibilitatea ulterioară de a împărtăși cu Internetul mărețele realizări. Pentru mulți e o motivație în plus sau motivația necesară și suficientă. Când aveam 20 de ani puteam eventual să măsurăm cu cronometrul dar în afară de cazul în care mergeam împreună la alergat nu aveam nicio garanție că într-adevăr cineva a făcut respectivul timp. Și la câți gogonatori profesioniști am avut pe stradă... :D
 
-A da, și dacă în prima însemnare spuneam că alergarea nu este pentru mine o activitate socială iată-mă acum cu ultimele 10 ieșiri făcute toate în găști mai mari sau mai mici.
+A da, și dacă în prima însemnare spuneam că alergarea nu este pentru mine o activitate socială iată-mă acum cu ultimele 10 ieșiri făcute toate în gașcă mai mare sau mai mică. Fiind la început percepțiile se schimbă rapid. :)

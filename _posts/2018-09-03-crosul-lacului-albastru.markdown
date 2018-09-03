@@ -24,7 +24,7 @@ Apoi a început prima coborâre unde spre surprinderea mea nu-mi prea răspundea
 
 A urmat ultima coborâre pe care am mers destul de bine, în sensul că nu m-au mai depășit decât vreo doi inși. Finalul a fost foarte frumos, m-au aplaudat mai mulți spre finish printre care și maică-mea plăcut impresionată că "nu ai fost primul dar nici ultimul". :-)
 
-<div class="video-wrapper"><video width="560" height="315" controls><source src="https://content.rusiczki.net/2018/09/crosul-lacului-albastru.mp4" type="video/mp4"></video></div>
+<video controls><source src="https://content.rusiczki.net/2018/09/crosul-lacului-albastru.mp4" type="video/mp4"></video>
 
 Nu știu cum era dacă aveam într-adevăr o strategie și mă țineam de ea astfel încât să nu mă epuizez fatal pe prima porțiune. Nu știu dacă aveam destule rezerve de energie și putere în picioare să-i depășesc pe cei care m-au lăsat în urmă. Analizând ce a înregistrat ceasul și anume că majoritatea traseului am fost cu pulsul la maxim nu prea aș crede. Pur și simplu am dat tot ce am putut - și atâta este momentan tot ce pot să dau.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alergarea din perspectiva unui începător - 2 luni mai târziu
-date: 2018-09-03 16:00:00 +0200
+date: 2018-09-03 14:00:00 +0200
 categories:
 - Cronică
 - Sport

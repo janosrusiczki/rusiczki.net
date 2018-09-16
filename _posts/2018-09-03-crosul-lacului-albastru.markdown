@@ -5,7 +5,7 @@ date: 2018-09-03 14:30:00 +0200
 categories:
 - Cronică
 - Sport
-image: https://content.rusiczki.net/2018/09/janos-la-crosul-lacului-albastru-1000x678.jpg
+image: https://content.rusiczki.net/2018/09/janos-la-crosul-lacului-albastru-1000x679.jpg
 description: Cum a fost primul meu concurs de alergare.
 ---
 Cu toate că are un titlu specific, acest articol este de fapt al treilea din seria "Alergarea din perspectiva unui începător". Puteți citi [prima](https://www.rusiczki.net/2018/07/12/alergarea-din-perspectiva-unui-incepator/) și [a doua](https://www.rusiczki.net/2018/09/03/alergarea-din-perspectiva-unui-incepator-2-luni-mai-tarziu/) parte.

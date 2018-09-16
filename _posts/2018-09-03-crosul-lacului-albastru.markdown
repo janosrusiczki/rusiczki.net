@@ -10,7 +10,7 @@ description: Cum a fost primul meu concurs de alergare.
 ---
 Cu toate că are un titlu specific, acest articol este de fapt al treilea din seria "Alergarea din perspectiva unui începător". Puteți citi [prima](https://www.rusiczki.net/2018/07/12/alergarea-din-perspectiva-unui-incepator/) și [a doua](https://www.rusiczki.net/2018/09/03/alergarea-din-perspectiva-unui-incepator-2-luni-mai-tarziu/) parte.
 
-![Eu în timpul concursului - Poze: Trif Cristian / Cozma Robert](https://content.rusiczki.net/2018/09/janos-la-crosul-lacului-albastru-1000x678.jpg)
+![Eu în timpul concursului - Poze: Trif Cristian / Cozma Robert](https://content.rusiczki.net/2018/09/janos-la-crosul-lacului-albastru-1000x679.jpg)
 
 Am aflat de Crosului Lacului Albastru pe Strava și m-a atras foarte mult idea unui concurs tocmai în orașul natal, tocmai în jurul locurilor atât de familiare mie. Apoi am tot "exersat" traseul, prima oară la invitația unuia dintre organizatori, apoi cu un amic care a vrut să meargă în recunoaștere și apoi eu alergând și Ioana pe bicicletă. Având în vedere că traseul conține două ascensiuni serioase am vrut să mă antrenez mai mult în urcări înainte de concurs dar fiind pus în fața unei alegeri am optat pentru alergări sociale cu un prieten din diaspora care a fost pentru scurt timp pe acasă. Privind în retrospectivă nu cred că ar fi contat foarte mult dar poate era bine să fac totuși o încercare de parcurgere a traseului "în forță".
 

@@ -5,11 +5,11 @@ date: 2004-05-18 16:38:57 +0200
 categories:
 - Life
 ---
-[![View towards the window](https://content.rusiczki.net/blogpics/new_appartment_1-thumb.jpg)](https://content.rusiczki.net/blogpics/new_appartment_1.jpg)
+![View towards the window](https://content.rusiczki.net/blogpics/new_appartment_1.jpg)
 
-[![View of the TV table with the TV on it](https://content.rusiczki.net/blogpics/new_appartment_3-thumb.jpg)](https://content.rusiczki.net/blogpics/new_appartment_3.jpg)
+![View of the TV table with the TV on it](https://content.rusiczki.net/blogpics/new_appartment_3.jpg)
 
-[![View from the window](https://content.rusiczki.net/blogpics/new_appartment_2-thumb.jpg)](https://content.rusiczki.net/blogpics/new_appartment_2.jpg)
+![View from the window](https://content.rusiczki.net/blogpics/new_appartment_2.jpg)
 
 I want to thank all those that [wished me luck](http://www.rusiczki.net/2004/05/12/offline-browsing/#comments) in finding myself a cool appartment. As you can see I succeeded. It's got one nice room, one bathroom and one kitchen for 80 Euros a month in a quite central part of Baia Mare. It's more than enough for me. Now let's see about that permanent Internet connection...
 

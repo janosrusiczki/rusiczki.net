@@ -6,15 +6,15 @@ categories:
 - Cronică
 - Sport
 image: https://content.rusiczki.net/2018/12/janos-la-november-run-1000x667.jpg
-description: Cum a fost primul meu concurs de alergare.
+description: Despre ultimele două concursuri din an și banda mea de alergare.
 ---
 Am să încep cu un banc:
 
     Anunț într-un cămin studențesc:
     Dau la schimb coală A4 (scrisă doar pe spate) pentru autoturism Audi același model.
-    
+
 Dar aici nu va fi vorba însă nici de coli A4 și nici de Audi ci de al patrulea articol din seria despre aventurile mele în domeniul alergării.
-    
+
 Până la urmă nu am participat nici la Crosul Companiilor nici la Creasta Cocoșului Trail Race așa cum [plănuisem](https://www.rusiczki.net/2018/09/03/crosul-lacului-albastru/). La Crosul Companiilor am aflat prea târziu că era de fapt cu locuri limitate care se ocupaseră de mult la momentul în care m-am trezit eu să mă înscriu și nu am reușit nici la muncă să mă organizez cu colegii. La CC Trail Race am fost speriat chiar și de lungimea traseului "scurt" și de faptul că jumate era urcare susținută, nu știam dacă pot aborda.
 
 Am participat în schimb la Crosul Castanelor, după o hotărâre luată cu o seară înainte. A fost o experiență diametral opusă față de Crosul Lacului Albastru, în primul rând pentru fiindcă m-am dus foarte relaxat - fără vreo pretenție, m-am întâlnit cu mulți prieteni și cunoștințe, a fost mai răcoare și aveam deja *ditamai* experiența primului concurs. Un rol important în luarea deciziei de a participa la concurs a fost că am văzut că se va desfășura pe poteci 100% cunoscute mie. Practic prima parte (după o buclă prin parc) era pe așa numitul Dakar care e poteca pe care am alergat-o de 3 ori pe săptămână în această vară, urmată de o porțiune de urcare pe care o cunoșteam de la bicicletă și apoi coborârea pe Route 66 de Baia Mare pe unde am venit de zeci, dacă nu sute, de ori tot cu bicicleta și în alergare odată în această vară. Mi s-a părut foarte frumoasă toată experiența, nu am mai fost mirat că după prima porțiune de după start, mânat de adrenalină am tras din greu și mi-a sărit pulsul la maxim, la urcare am reușit să țin un alergător cu experiență serioasă în spatele meu - de care am fost binențeles depășit la coborâre. Dar spre deosebire de "tragedia" de la primul concurs, de această dată m-au luat doar 2 inși în coborâre. Ha! Cei 6 kilometri jumate s-au terminat destul de rapid în percepția mea, ceasul îmi spune de fapt ca au fost 40 și ceva de minute. Socializarea de după cu amicii a fost iarăși foarte plăcută.

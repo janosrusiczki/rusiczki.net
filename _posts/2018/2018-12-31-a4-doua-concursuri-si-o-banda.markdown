@@ -10,8 +10,7 @@ description: Despre ultimele două concursuri din an și banda mea de alergare.
 ---
 Am să încep cu un banc:
 
-    Anunț într-un cămin studențesc:
-    Dau la schimb coală A4 (scrisă doar pe spate) pentru autoturism Audi același model.
+*Anunț într-un cămin studențesc: Dau la schimb coală A4 (scrisă doar pe spate) pentru autoturism Audi același model.*
 
 Dar aici nu va fi vorba însă nici de coli A4 și nici de Audi ci de al patrulea articol din seria aventurilor mele în domeniul alergării.
 

@@ -11,13 +11,12 @@ Tomorrow will be different. In the morning it looks like I'm going to see a nati
 
 At 5:30 I must be home. Because the big party starts. One of my friends is celebrating his birthday and he plans get everybody happy. The plan looks like this:
 
-<ul>
-<li>gang comes to me;
+* gang comes to me;
+* we write the card, all gang signs it;
+* we go to his place;
+* give him the card and his present, which is a wind chime, which we bought today, wish him well, blablabla;
+* then we go in our favorite club where the celebration will continue until the morning.
 
-<li>we write the card, all gang signs it;
-<li>we go to his place;
-<li>give him the card and his present, which is a wind chime, which we bought today, wish him well, blablabla;
-<li>then we go in our favorite club where the celebration will continue until the morning.</ul>
 This means that by the morning everybody will probably be flat drunk.
 
 At least it'll be a break in the pattern.

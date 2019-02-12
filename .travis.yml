@@ -11,7 +11,7 @@ branches:
   only:
   - master
 script:
-- bundle exec jekyll build
+- bundle exec jekyll build --lsi
 - bundle exec rake test
 before_deploy:
 - openssl aes-256-cbc -K $encrypted_7c9a13614df7_key -iv $encrypted_7c9a13614df7_iv

@@ -13,7 +13,8 @@ După olimpiada de matematică din clasa a V-a (da, am participat la așa ceva) 
 
 Mi-au cumpărat și mie părinții același tip de calculator de la magazinul de electronice din oraș, dacă nu mă înșel în iarna anului 1991, îmi amintesc că de Crăciun am fost foarte ocupat să tastez programele din manual și să le execut - acesta a fost primul meu contact, destul de entuziast, cu programarea - chiar remarcase taică-meu că nu m-a mai interesat împodobitul bradului ca înainte.
 
-* interfață Kempston joystick de la Ana Electronic și joystick împrumut de la o verișoară de-a vmea pe perioade îndelungate
+* interfață Kempston joystick de la Ana Electronic și joystick împrumut de la o verișoară de-a mea pe perioade îndelungate
+* îl conectam la televizorul color (o noutate și aia) când puteam, iar când părinții voiau să se uite la televizor mi-a pus tata la dispoziție un televizor Sport
 * nu îmi mai amintesc când s-a stricat, cândva în clasa a 7-a sau pe la inceputul clasei a 8-a - în orice caz știu că între momentul cumpărării și când s-a stricat au început să apară casete cu jocuri la magazinul Satelit din centrul Băii Mari și nu mai eram limitat la a face schimb și a copia de la alții, plus am pus mâna pe Lemmings care cu nivele cu tot umplea o întreagă casetă pe ambele părți (în curând va trebui să explic și ce-i aia o casetă)
 * mai era emisiunea cu mustăciosul la TVR în fiecare vineri care la final dădea niște sunete ciudate - de fapt transmiteau programele prin teveu, doar că trebuia să ai mufa de ieșire audio la TV să înregistrezi cu casetofonul - eu nu am avut această mufă, am avut doar promisiuni că va fi montată pe un TV Sport pe care l-am folosit cu calculatorul
 * Beta Basic pe 48k nu a fost de vis

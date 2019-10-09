@@ -1,21 +1,27 @@
 Perioada de dinainte de PC
 
+Anul trecut în toamnă s-au împlinit 20 de ani de când am PC și cu ceva timp înainte de eveniment m-am gândit să scriu un articol în care să-mi aștern amintirile mele despre interacțiunea cu calculatorul. Am observat o chestie, că tot revizuind articolul am citit chestii care cu toate că îmi erau destul de clare în minte când le-am scris le-am uitat după aia - acuma nu știu dacă din cauza liniștii că le-am scris și le pot uita sau pur și simplu sunt la vârsta când uit masiv. Cred că varianta b. Așadar prezentul este primul dintr-un set de articole în mai multe părți la care am tot scris și completat vreo 3 ani jumate.
+
 De când mă știu îmi ciuleam urechile spre orice legat de calculatoare, probabil că încă dinainte de primul calculator am prins emisiuni la televizor sau articole în reviste de genul Cutezătorii.
 
 Primul contact adevărat a fost în clasa a IV-a sau a V-a, când s-a ținut un cerc de informatică la casa copiilor (casa pionerilor pe atunci) - și aici când zic un cerc mă refer la o singură sesiune de circa 2 ore. Știu foarte sigur că ne-am jucat [Bruce Lee](https://www.youtube.com/watch?v=kCtnnzOiZIU) și probabil că ne-a și spus câteva chestii elementare despre calculator dar degeaba am mers foarte entuziaști în următoarea săptămână că am fost anunțați că nu se mai ține. A fost înlocuit de un alt cerc, nu mai știu exact care. Știu doar că am participat la următoarele cercuri (în ordine cred):
 
-- teatru, unde am învățat o piesă de teatru despre un magician - asta a fost primul cerc la care am participat și mi-a plăcut foarte mult, dar știu că nu am apucat să interpretăm piesa;
+- teatru, unde am învățat o piesă de teatru despre un magician - asta a fost primul cerc la care am participat și mi-a plăcut foarte mult, dar știu că nu am apucat să interpretăm piesa (sau am fost eu bolnav când a fost interpretată);
 - minerit, care de fapt era un cerc de modelism dar Baia Sprie fiind un oraș minier a trebuit denumit ca atare, aici am construit o machetă de ARO și o barcă;
+- cronologic, cred ca aici a fost acel prim cerc de info;
 - foto, unde ne-a învățat tot procesul de fotografie de la făcutul pozei până la developarea ei;
-- dendrologie, unde o doamnă mai nonconfirmistă ne-a povestit vrute și nevrute despre paranormal și religie zăpăcindu-mi considerabil percepția ușor maleabilă pe care o aveam la acea vârstă.
+- dendrologie, unde o doamnă mai nonconfirmistă ne-a povestit vrute și nevrute despre religie și paranormal zăpăcindu-mi considerabil percepția ușor maleabilă pe care o aveam la acea vârstă.
 
 După olimpiada de matematică din clasa a V-a (da, am participat la așa ceva) am mers la un coleg și bun prieten să-i văd calculatorul, avea o clonă ZX Spectrum, o Electronica CIP de primă generație. Probabil ne-am jucat ceva, nu-mi mai amintesc exact, dar am rămas fascinat.
 
 Mi-au cumpărat și mie părinții același tip de calculator de la magazinul de electronice din oraș, dacă nu mă înșel în iarna anului 1991, îmi amintesc că de Crăciun am fost foarte ocupat să tastez programele din manual și să le execut - acesta a fost primul meu contact, destul de entuziast, cu programarea - chiar remarcase taică-meu că nu m-a mai interesat împodobitul bradului ca înainte.
 
+* primele jocuri copiate, TUTANK
+* trebuia încarcat Basic-ul
+* program de copiere foarte bun, se încarcă în locul Basic-ului și îmi permitea să copiez orice joc
 * interfață Kempston joystick de la Ana Electronic și joystick împrumut de la o verișoară de-a mea pe perioade îndelungate
 * îl conectam la televizorul color (o noutate și aia) când puteam, iar când părinții voiau să se uite la televizor mi-a pus tata la dispoziție un televizor Sport
-* nu îmi mai amintesc când s-a stricat, cândva în clasa a 7-a sau pe la inceputul clasei a 8-a - în orice caz știu că între momentul cumpărării și când s-a stricat au început să apară casete cu jocuri la magazinul Satelit din centrul Băii Mari și nu mai eram limitat la a face schimb și a copia de la alții, plus am pus mâna pe Lemmings care cu nivele cu tot umplea o întreagă casetă pe ambele părți (în curând va trebui să explic și ce-i aia o casetă)
+* nu îmi mai amintesc când s-a stricat, cândva în clasa a 7-a sau pe la inceputul clasei a 8-a - în orice caz știu că eram cumva pe val căci între momentul cumpărării și când s-a stricat au început să apară casete cu jocuri la magazinul Satelit din centrul Băii Mari și nu mai eram limitat la a face schimb și a copia de la alții, plus am pus mâna pe Lemmings care cu nivele cu tot umplea o întreagă casetă pe ambele părți (în curând va trebui să explic și ce-i aia o casetă)
 * mai era emisiunea cu mustăciosul la TVR în fiecare vineri care la final dădea niște sunete ciudate - de fapt transmiteau programele prin teveu, doar că trebuia să ai mufa de ieșire audio la TV să înregistrezi cu casetofonul - eu nu am avut această mufă, am avut doar promisiuni că va fi montată pe un TV Sport pe care l-am folosit cu calculatorul
 * Beta Basic pe 48k nu a fost de vis
 * cât am așteptat să pun mână pe hisoft basic că ăla am înțeles că avea COMPILATOR, pe vremea aia eram disperat dupa compilatoare că, cod mașina nu am fost în stare să învăț
@@ -32,11 +38,11 @@ Când a trebuit să mă hotărăsc dacă să mă duc sau nu în această tabăr�
 
 * prietenia stabilită aici, m-am tot dus la om că și-a luat PC în 95, disperându-i părinții
 
-* Accesul la calculator la mină, în primă fază chemat chiar de contabilul șef care a fost fascinat de interesul meu în PC-uri - atunci m-am agățat în Norton Commander neștiind cum să trec dintr-un panou în celălalt. Apoi cred că după tabăra dintr-a 8-a a urmat capitolul 2, umblatul la biroul topografilor, dat afară de ceva director din pură răutate, revenit cu tupeu, reușit să repar ceva băieților la care au zis: acuma de ce nu a aici directorul să vadă - îmi mai amintesc că am jucat Goblins, Dune și ce mai primeam de la băieții de la liceu sau de la Ghiță, copiam texte Roxette din Ecran Magazin să le tipăresc, mă familiarizam cu Quattro Pro, varianta de DOS - în birou era mereu fum gros de țigară și discutau de episodul de dinainte cu o seară din Maddie și David. Nu sunt 100% sigur dar ulterior cred că l-am văzut pe unul dintre domnii de acolo, venise cu cineva pe la Internet Cafe-ul la care lucram la facultate. Nu mai știu exact cu ce frecvență mergeam dar îmi mai amintesc perfect de drumul pe care mergeam, scurtătura prin pădure.
-
 * Tatăl colegului menționat anterior (cu Electronica CIP) era director la liceul din Baia Sprie și cumva am nimerit și eu prin laborator acolo și m-am minunat de PC-uri (Era parcă un singur 386 pe lângă 286-uri). Cum mă uitam cu jind seara la geamurile luminate ale laboratorului de informatică de la liceu care se vedeau de la mine de acasă.
 
-* În liceu a fost în mare parte agonie, mers pe la prieteni și stat pe capul lor, cerșit intrare în laboratoare, mers cu un prieten la birou la maică-sa la facultate. Oriunde exista acces la PC, Janos incerca să se înfigă.
+* Accesul la calculator la mină, în primă fază chemat chiar de contabilul șef care a fost fascinat de interesul meu în PC-uri - atunci m-am agățat în Norton Commander neștiind cum să trec dintr-un panou în celălalt. Apoi cred că după tabăra dintr-a 8-a a urmat capitolul 2, umblatul la biroul topografilor, dat afară de ceva director din pură răutate, revenit cu tupeu, reușit să repar ceva băieților la care mi-au zis: acuma de ce nu a aici directorul să vadă - îmi mai amintesc că am jucat Goblins, Dune și ce mai primeam de la băieții de la liceu sau de la Ghiță, copiam texte Roxette din Ecran Magazin să le tipăresc, mă familiarizam cu Quattro Pro, varianta de DOS - în birou era mereu fum gros de țigară și discutau de episodul de dinainte cu o seară din Maddie și David. Nu sunt 100% sigur dar ulterior cred că l-am văzut pe unul dintre domnii de acolo, venise cu cineva pe la Internet Cafe-ul la care lucram la facultate. Nu mai știu exact cu ce frecvență mergeam dar îmi mai amintesc perfect de drumul pe care mergeam, scurtătura prin pădure.
+
+* În liceu a fost în mare parte agonie, mers pe la prieteni și stat pe capul lor, cerșit intrare în laboratoare, mers cu un prieten la biroul mamei lui la facultate. Oriunde exista acces la PC, Janos incerca să se înfigă.
 
 * dinainte să am PC mi-am tot cumpărat reviste în maghiară Computer Panorama, CHIP, PC-X câteodată din ultimii bani care-i aveam
 * în ziarele care mi le-am cumpărat (și de a căror nume trebuie să-mi amintesc) am ochit o pagină de publicitate cu un PC mare și frumos și o adresă de Hong Kong către care m-am pus eu să scriu o scrisoare de cerșit calculator

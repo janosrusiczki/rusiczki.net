@@ -12,6 +12,7 @@ Apoi în scurt timp am făcut upgrade la caseta la una bulgărească de la un ma
 
 Nu știu exact când dar cândva în această perioadă m-am echipat și cu The Look și Pearls of Passion, cumpărate ori de la piață, că la noi în Baia Sprie sâmbătă veneau unii cu taraba de casete ori din Baia Mare de la careva magazin, posibil Satelit.
 
+schimbat postere
 documentare din ecran magazin
 hype pentru crash boom bang
 gasit la piata, savurat efectiv

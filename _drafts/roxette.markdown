@@ -1,6 +1,6 @@
 Luni a murit Marie Fredriksson. :(
 
-Am căutat Roxette aici pe blog și spre mirarea mea nu am găsit nimic. Nu prea mi-a venit să cred, am investigat situați, și mi-am dat seama că era din cauza unei proaste configurări a modulului de căutare. Configurare care am corectat-o și [reîncercând](https://www.rusiczki.net/search/?q=roxette&) se pare că am menționat de 2 ori că am fost fan înrăit. Prima oară într-un [articol cu "secrete" despre mine](https://www.rusiczki.net/2007/01/26/5-things-you-didnt-know-about-me/) publicat în 2007 și a doua oară relativ [recent](https://www.rusiczki.net/2018/01/16/capsula-timpului-muzicala/). Mi-am dat seama că aceste două postări nu prea reflectă situația reală, respectiv relația mea cu această formație și am decis să scriu o povestioară.
+Am căutat Roxette aici pe blog și spre mirarea mea nu am găsit nimic. Nu prea mi-a venit să cred că nu erau menționați deloc, am investigat situația și mi-am dat seama că lipsa de rezultate se datora unei proaste configurări a modulului de căutare. Configurație care am corectat-o și [reîncercând](https://www.rusiczki.net/search/?q=roxette) se pare că am scris de 2 ori că am fost fan. Prima oară într-un [articol cu "secrete" despre mine](https://www.rusiczki.net/2007/01/26/5-things-you-didnt-know-about-me/) publicat în 2007 și a doua oară relativ [recent](https://www.rusiczki.net/2018/01/16/capsula-timpului-muzicala/). Mi-am dat seama că aceste două postări nu prea reflectă situația reală, respectiv relația mea cu această formație și am decis să scriu o povestioară.
 
 Cultura mea muzicală până pe la vârsta de 10 ani era formată din înregistrări aleatoare de la radio făcute inițial pe Vef Sigma apoi pe combina Electronica 3220 cumpărată de tata cândva în ultimii ani de comunism. Știu că am mai primit împrumut o casetă cu Modern Talking și mi se părea a șaptea minune a lumii...
 
@@ -18,8 +18,8 @@ gasit la piata, savurat efectiv
 copiate textele din ecran magazin pe calculator si tiparite (la mina)
 
 perioada liceului
-caseta cu greatest hits si cateva piese noi cumparata tocmai de la brasov
-orientarea muzicala s-a schimbat mult si intens (muzica electronica, mike oldfield, metal, apoi house de pe viva)
+caseta cu greatest hits si cateva piese noi cumparata tocmai de la brasov cu ocazia unei excursii
+orientarea muzicala s-a schimbat mult si intens. Muzica electronica și instrumentală de genul lui Vangelis și Mike Oldfield, metal - trecând prin mai multe etape de la Halloween până la Dream Theater, apoi încet încet m-a prins curentul de house de pe Viva și MCM.
 
 in 98 mi-au luat calculator, am avut in sfarsit cd player (mai precis CD-ROM) si cu toate ca pot numara pe doua maini cate cd-uri mi-am luat, inainte de a descoperi ca pot sa descarc orice muzica de pe net, mi-am luat have a nice day, binenteles tot bulgaresc (an?)
 
@@ -27,7 +27,7 @@ in 2006 mi-am descarcat discografia si am avut un maxim moment de nostalgie de m
 
 2012 concert. ceva extraordinar. nu imi venea sa cred ca sunt acolo, pustiul care era atat de incantat de Joyride, Tourism si Crash, Boom, Bang nu-si putea imagina vreodata ca isi va vedea formatia preferata live. stiam ca a fost bolnava Marie, dar nu eram foarte bine informat cat de bolnava, am observat la concert ca se misca greoi, apoi am aflat ca trebuit sa reinvete sa vorbeasca si sa cante si ca in acel moment era deja oara la un ochi.
 
-citisem in 2016 ca i-au recomandat doctorii sa nu mai concerteze, motiv din care au anulat sau intrerupt turneul planificat pe acel an.
+citisem in 2016 ca i-au recomandat doctorii sa nu mai concerteze, motiv din care au anulat sau intrerupt turneul planificat pe acel an. Tot începând din 2016 de când m-am apucat de vinyl-uri am făcut un efort de a cumpăra discuri cu Roxette dar nu am avut tocmai mult succes.
 
 recent am cumparat roxxxbox care l-am ascultat destul de mult in masina. acu cateva saptamani (maxim 3) am tras o raita de cautari despre ei, si am vazut ca nu a mai fost niciun update, in afara catorva titluri de scandal. cel mai recent Sambata, montand ceva instalatii electrice am rugat google-ul sa-mi cante "some Roxette". Si apoi marți a venit vestea...
 

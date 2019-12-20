@@ -29,6 +29,8 @@ orientarea muzicala s-a schimbat mult si intens. Muzica electronica și instrume
 
 in 98 mi-au luat calculator, am avut in sfarsit cd player (mai precis CD-ROM) si cu toate ca pot numara pe doua maini cate cd-uri mi-am luat, inainte de a descoperi ca pot sa descarc orice muzica de pe net, mi-am luat have a nice day, binenteles tot bulgaresc (an?)
 
+Tot cândva prin perioada facultății am văzut la o prietenă CD-uri originale cu Roxette primite împrumut. Am fost invidios.
+
 in 2006 mi-am descarcat discografia si am avut un maxim moment de nostalgie de mi-au urcat Roxette in topul ascultarilor pe last.fm, si, prost fiind, am fost stânjenit și am sters. Consideram probabil că nu erau destul de cool să-mi reflecte gusturile rafinate din acea perioadă. Tot atunci mi-am dat seama că înțeleg cu ușurință 99% din texte care cu 10 ani înainte mi se păreau o adevărată aventură de descifrat. Am descoperit că exista piesa *I Remember You* pe albumul Joyride care eu nu am auzit-o că nu o fi încăput pe casetă dar oricum lipsea de pe ambele copii care le-am avut.
 
 2012 concert. ceva extraordinar. nu imi venea sa cred ca sunt acolo, pustiul care era atat de incantat de Joyride, Tourism si Crash, Boom, Bang nu-si putea imagina vreodata ca isi va vedea formatia preferata live. stiam ca a fost bolnava Marie, dar nu eram foarte bine informat cat de bolnava, am observat la concert ca se misca greoi, apoi am aflat ca trebuit sa reinvete sa vorbeasca si sa cante si ca in acel moment era deja oara la un ochi.

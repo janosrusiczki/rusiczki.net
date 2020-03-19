@@ -5,7 +5,7 @@ date: 2007-01-24 14:02:39 +0100
 categories:
 - Technical
 ---
-**IMPORTANT** [SQLDumpSplitter has been updated to version 3](https://philiplb.de/sqldumpsplitter3/) which is multiplatform (Windows / Mac / Linux). See my second update below.
+**IMPORTANT** [SQLDumpSplitter has been updated to version 3](https://philiplb.de/sqldumpsplitter3/) which is multiplatform (Windows / Mac / Linux). [See my second update below.](#second-update-december-28-2018)
 
 ---
 

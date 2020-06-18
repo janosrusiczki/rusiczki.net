@@ -10,7 +10,7 @@ description: Despre începuturile mele în d'ale calculatoarelor.
 ---
 Acum câțiva ani m-am gândit să scriu un articol în care să-mi aștern amintirile despre interacțiunea cu calculatorul și am tot modificat și adăugat la el până m-am gândit că va fi un moment fain să-l public în 2018 la aniversarea a 20 de când am PC dar apoi am depășit termenul și a trecut și 2019... Dar sunt hotărât să încep să public seria în prima parte a lui 2020!
 
-Tot revizuind articolul mi-am dat seama că citesc chestii care cu toate că îmi erau destul de clare în minte când le-am scris, le-am uitat după aia - acuma nu știu dacă din cauza liniștii sufletești că le am în scris și-s la loc sigur sau pur și simplu deoarece sunt la vârsta la care uit masiv. Cred că este vorba de varianta B.
+Tot revizuind articolul mi-am dat seama că citeam chestii care cu toate că îmi erau destul de clare în minte când le-am scris, le-am uitat după aia - acuma nu știu dacă din cauza liniștii sufletești că le am scrise și-s la loc sigur sau pur și simplu deoarece sunt la vârsta la care uit masiv. Cred că este vorba de varianta B. În orice caz mă bucur că le-am scris și încerc să mai scriu lucruri înainte să le uit și să știți că pentru unele chestii pe care urmează să le citiți mi-am răscolit binișor mintea și după caz am întrebat prieteni... Care mi-au zis în mare parte că-s nebun. :)
 
 Și cu asta am terminat cu introducerea, să începem călătoria în timp.
 

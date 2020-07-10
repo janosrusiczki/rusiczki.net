@@ -5,7 +5,9 @@ date: 2007-01-24 14:02:39 +0100
 categories:
 - Technical
 ---
-**IMPORTANT** [SQLDumpSplitter has been updated to version 3](https://philiplb.de/sqldumpsplitter3/) which is multiplatform (Windows / Mac / Linux). See my second update below.
+**IMPORTANT** [SQLDumpSplitter has been updated to version 3](https://philiplb.de/sqldumpsplitter3/) which is multiplatform (Windows / Mac / Linux). [See my second update below.](#second-update-december-28-2018)
+
+---
 
 Scenario: You are a conscious user and you back up your site's database every once in a while. And you sit smiling and content knowing that your precious data is safe. Just to discover after disaster strikes that you can't restore the contents of the SQL dump file because of upload size limitations or because [phpMyAdmin](http://www.phpmyadmin.net/) would run out of memory while decompressing the gzip / zip file.
 
@@ -17,16 +19,18 @@ Today I encountered a problem like this. And since I had no console access and I
 
 So here it is ladies and gentlemen: [download SQLDumpSplitter 2](https://content.rusiczki.net/blogstuff/SQLDumpSplitter.rar) (or [zip compressed](https://content.rusiczki.net/blogstuff/SQLDumpSplitter.zip)). All credits for writing this program go to Philip Lehmann-Böhm ([http://www.philiplb.de](http://www.philiplb.de)).
 
-**Update (almost 8 years later on November 7, 2014)**: Since this is by far the most popular post on this blog, I believe it deserves an update.
+## Update (almost 8 years later on November 7, 2014)
+
+Since this is by far the most popular post on this blog, I believe it deserves an update.
 
 If you're having problems with SQLDumpSplitter 2 please have a look at the following resources (picked from your super helpful comments):
 
 * [BigDump: Staggered MySQL Dump Importer](http://www.ozerov.de/bigdump/) - Imports large and very large MySQL dumps (like phpMyAdmin dumps) even through web servers with hard runtime limits and those in safe mode. The script imports only a small part of the huge dump and restarts itself. The next session starts where the last one left off.
 * [SQL splitter](http://codesnap.blogspot.com/2011/07/sql-splitter.html) - A PHP script to split your SQL file into an array. Note that you'll probably need PHP installed locally and configured pretty loosely (with high memory limit) to be able to process large SQL dumps with this script.
 
-**Second Update (December 28, 2018)**
+## Second Update (December 28, 2018)
 
-So I've been hosting this file for almost 12 years and this morning I received a comment:
+So I've been hosting this file for almost 12 years now and this morning I received a comment:
 
 ![Philip's Comment](https://content.rusiczki.net/2018/12/philips-comment.png)
 

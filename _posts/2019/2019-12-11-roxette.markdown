@@ -5,6 +5,7 @@ date: 2019-12-11 18:00:00 +0200
 categories:
 - Cronică
 - Music
+image: https://content.rusiczki.net/2019/12/casete-cu-roxette-1000x667.jpg
 description: Am fost un mare fan Roxette.
 ---
 [![Casete cu Roxette](https://content.rusiczki.net/2019/12/casete-cu-roxette-1000x667.jpg)](https://content.rusiczki.net/2019/12/casete-cu-roxette.jpg)

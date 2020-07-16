@@ -5,6 +5,7 @@ date: 2018-12-31 11:51:00 +0200
 categories:
 - Cronică
 - Sport
+- Alergare
 image: https://content.rusiczki.net/2018/12/janos-la-november-run-1000x667.jpg
 description: Despre ultimele două concursuri din an și banda mea de alergare.
 ---

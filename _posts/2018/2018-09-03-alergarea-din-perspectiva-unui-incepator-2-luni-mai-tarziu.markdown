@@ -5,6 +5,7 @@ date: 2018-09-03 14:00:00 +0200
 categories:
 - Cronică
 - Sport
+- Alergare
 image: https://content.rusiczki.net/2018/09/alergare-lacul-albastru-1000x750.jpg
 description: János continuă să alerge.
 ---

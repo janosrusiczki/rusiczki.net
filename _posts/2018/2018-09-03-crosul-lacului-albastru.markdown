@@ -5,6 +5,7 @@ date: 2018-09-03 14:30:00 +0200
 categories:
 - Cronică
 - Sport
+- Alergare
 image: https://content.rusiczki.net/2018/09/janos-la-crosul-lacului-albastru-1000x679.jpg
 description: Cum a fost primul meu concurs de alergare.
 ---

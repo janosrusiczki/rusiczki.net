@@ -5,6 +5,7 @@ date: 2018-07-12 15:00:00 +0200
 categories:
 - Cronică
 - Sport
+- Alergare
 image: https://content.rusiczki.net/2018/07/alergare-nike-wildhorse-4-1000x1000.jpg
 description: János a început să alerge.
 ---

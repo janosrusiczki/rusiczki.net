@@ -25,4 +25,4 @@ Too bad.
 
 **Another update (on that same date 15 years later)** It seems Audiogalaxy called it quits on June 17, 2002.
 
-**Update (on 10.06.2019 - 16 years later):** According to some photos I found in my archive the snack shop was there during my visits in the spring of of 2002, so it probably started sometime in 2001.
+**Update (on 10.06.2019 - 16 years later):** According to some photos I found in my archive the snack shop was there during my visits in the spring of 2002, so it probably started sometime in 2001.

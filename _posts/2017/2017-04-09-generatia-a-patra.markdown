@@ -34,7 +34,7 @@ Sacrificiul care a trebuit să-l fac a fost să renunț la experiența stock And
 
 PS. Da, așa cum se vede în poză încă le mai am toate, cu niște mici asteriscuri: Galaxy S3 e acum al cumnatului iar Galaxy S e de fapt ex-telefonul Ioanei.
 
-<a id="update-1"></a>**Update - 7 octombrie 2020**
+### Update - 7 octombrie 2020
 
 După 3 ani jumate în această dupămasă am schimbat bateria în Huawei P10.
 

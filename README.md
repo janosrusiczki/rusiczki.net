@@ -11,6 +11,10 @@ This is my blog converted from Wordpress to Jekyll.
 
 Nope, IDDQD will not work, try:
 
+* To open an image in the lightbox append {:.glightbox} to the end of the link
+
+  `[![Casetă Roxette - Joyride](https://content.rusiczki.net/2019/12/roxette-joyride-1000x667.jpg)](https://content.rusiczki.net/2019/12/roxette-joyride.jpg){:.glightbox}`
+
 * MP4 Video:
 
   `<video controls><source src="https://content.rusiczki.net/2018/09/crosul-lacului-albastru.mp4" type="video/mp4">Dacă aici nu vedeți un video vizitați-mi blogul. :-)</video>`

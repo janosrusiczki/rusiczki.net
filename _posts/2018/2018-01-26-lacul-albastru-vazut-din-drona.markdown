@@ -14,13 +14,13 @@ Când am publicat însemnarea cu [pozele aeriene din Baia Sprie](https://www.rus
 
 Rezultate:
 
-[![Lacul Albastru iarna văzut din dronă](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-1-1000x750.jpg)](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-1.jpg)
+[![Lacul Albastru iarna văzut din dronă](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-1-1000x750.jpg)](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-1.jpg){:.glightbox}
 
 Această primă poză am ales-o la sugestia Ioanei căci în colțul stânga sus vede turnul combinatului din Baia Mare care dă un context peisajului, nu mai e un lac oarecare, ci e lacul acela de lângă Baia Mare. În poză se mai văd câteva locuri de care mă leagă amintiri dragi: gura de aerisire a minei unde asistam la meciuri epice de tuberman, ruinele cetății (de fapt ale unei anexe de mină) unde s-au tras niște chefuri, câmpia unde am început să mă dau cu snowboard-ul și unde mergeam la tradiționalul grătar de 1 mai...
 
-[![Lacul Albastru iarna văzut din dronă](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-2-1000x750.jpg)](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-2.jpg)
+[![Lacul Albastru iarna văzut din dronă](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-2-1000x750.jpg)](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-2.jpg){:.glightbox}
 
-[![Lacul Albastru iarna văzut din dronă](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-3-1000x750.jpg)](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-3.jpg)
+[![Lacul Albastru iarna văzut din dronă](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-3-1000x750.jpg)](https://content.rusiczki.net/2018/01/lacul-albastru-iarna-din-drona-3.jpg){:.glightbox}
 
 Două poze făcute la sugestia mai multor persoane în stil top-down, adică cu camera îndreptată drept în jos. În ambele e vizibil János și ghiozdanul lui într-un colț al lacului.
 

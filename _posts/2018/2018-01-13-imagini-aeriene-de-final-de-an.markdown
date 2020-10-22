@@ -8,9 +8,9 @@ categories:
 - Drone
 - Română
 ---
-[![Lacul Albastru văzut din dronă](https://content.rusiczki.net/2018/01/drona-lacul-albastru-1000x750.jpg)](https://content.rusiczki.net/2018/01/drona-lacul-albastru.jpg)
+[![Lacul Albastru văzut din dronă](https://content.rusiczki.net/2018/01/drona-lacul-albastru-1000x750.jpg)](https://content.rusiczki.net/2018/01/drona-lacul-albastru.jpg){:.glightbox}
 
-[![Baia Sprie văzută din dronă](https://content.rusiczki.net/2018/01/drona-baia-sprie-1000x750.jpg)](https://content.rusiczki.net/2018/01/drona-baia-sprie.jpg)
+[![Baia Sprie văzută din dronă](https://content.rusiczki.net/2018/01/drona-baia-sprie-1000x750.jpg)](https://content.rusiczki.net/2018/01/drona-baia-sprie.jpg){:.glightbox}
 
 În timp ce [schimbam motorul blogului](https://www.rusiczki.net/2018/01/08/a-new-blogging-engine/) și mai reciteam însemnări aleatorii mă gândeam că s-au cam dus zilele când făceam premiera la ceva aici pe blog. În exemplul de față am pus aceste poze peste tot ([Instagram](https://www.instagram.com/janosrusiczki), Facebook, [Flickr](https://www.flickr.com/janos)) mai puțin aici. Dar mi-e cumva dor să fac asta și să pun și povestioarele aferente.
 

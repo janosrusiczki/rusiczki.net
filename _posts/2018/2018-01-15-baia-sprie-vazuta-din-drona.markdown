@@ -18,7 +18,7 @@ De fapt acest articol este deznodământul "trilogiei" *Baia Sprie văzută din 
 
 Am încercat să mă conformez în 11 februarie dar vremea nu a ținut cu mine: am pornit pe soare din Baia Mare dar până am ajuns la Baia Sprie s-a înorat urât și nu prea am mai avut chef să decolez. Chiar dacă am făcut-o până la urmă la insistențele Ioanei nu mi-a ieșit panorama dorită. Dar nu a fost complet pierdută ieșirea căci am continuat pe munte unde am combinat o plimbare de duminică cu un zbor de explorare. Am filmat și fotografiat în jurul [gurii de aerisire numite Poni de pe Dealul Minei](https://content.rusiczki.net/2018/03/trilogia-baia-sprie-poni.jpg){:.glightbox} și după câte se poate vedea, chiar dacă nu a plouat vremea a fost mohorâtă rău. De fapt, vreme tipică de februarie.
 
-Apoi nu am mai reușit să zbor o vreme, ori fiind vremea nasoală ori fiind eu prins cu alte treburi dar până la urmă la începutul lui martie a venit weekend-ul cu zăpada surpriză (vineri, 2 martie, a nins aproape continuu). Am profitat imediat sâmbăta explorând cu prietenii rute de pădure pe snowboard iar duminică am fost la Baia Sprie unde am zburat din belșug iar rezultatele sunt vizibile mai jos (și în poza care deschide articolul).
+Apoi nu am mai reușit să zbor o vreme, ori fiind vremea nasoală ori fiind eu prins cu alte treburi dar până la urmă la începutul lui martie a venit weekend-ul cu zăpada surpriză (vineri, 2 martie, a nins aproape continuu). Am profitat imediat sâmbăta explorând cu prietenii rute de pădure pe snowboard iar duminică am fost la Baia Sprie unde am zburat din belșug și rezultatele sunt vizibile mai jos (plus în poza care deschide articolul).
 
 Ceva ce doream să fac este o poză cu centrul de la mare înălțime (cca 300 de metri de la locul decolării):
 

@@ -28,7 +28,7 @@ Acestea ar fi:
   <li>baterie care ține o zi și la utilizare intensă (nu pot să zic același lucru despre Nexus 5 care mă cam lasă în miez de zi dacă trag de el)</li>
   <li>64 Gb de stocare, expandabil prin SD card</li>
 </ul>
-Sacrificiul care a trebuit să-l fac a fost să renunț la experiența stock Android care o aveam pe Nexus, dar asta ar fi fost disponibilă doar pe Google Pixel și încă nu sunt pregătit să-mi vând un rinichi pentru un telefon.
+Sacrificiul pe care a trebuit să-l fac a fost să renunț la experiența stock Android care o aveam pe Nexus, dar asta ar fi fost disponibilă doar pe Google Pixel și încă nu sunt pregătit să-mi vând un rinichi pentru un telefon.
 
 În rest cum se va descurca telefonul și cum o să-mi placă voi vedea pe parcurs.
 

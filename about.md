@@ -16,7 +16,7 @@ My name is János Rusiczki and this is my personal space on the Internet, but yo
 
 ## Contact details
 
-- **E-Mail:** [Get my e-mail address](http://scr.im/3dm).
+- **E-Mail:** janos rusiczki net (just add an at sign and a dot).
 - **Telephone:** Please ask.
 
 ## Random things, all about me

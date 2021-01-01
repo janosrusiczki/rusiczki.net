@@ -1,3 +1,6 @@
+arch: amd64
+os: linux
+dist: bionic
 language: ruby
 rvm:
 - 2.4
@@ -26,7 +29,6 @@ before_deploy:
 - echo -e "Host $DEPLOY_HOST\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 deploy:
   provider: script
-  skip_cleanup: true
   script: rsync -r --quiet --delete-after _site/*
     $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_DIRECTORY
   on:

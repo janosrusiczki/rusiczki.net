@@ -1,10 +1,10 @@
 am incercat la trodat ștampile. am găsit un prieten pe irc de la interscope, am incercat la interscope - ulterior acest prieten mi-a influențat niște achiziții din domeniul calculatoarelor (sunt sigur că al doilea monitor un Hansol el mi l-a recomandat), mi-am amintit de el în timp ce redactam articolul acesta. am fost la o firma, am primit assignment să fac o galerie foto pentru un festival din Sighetul Marmației, l-am facut, l-am dus, nu m-au luat, dar galeria foto a ajuns online, salutari domnule Lobonțiu.
 
-fratele lui Racolța și upgrade-urile lui prin anul 2 de facultate (99 - 2000), pentru mine acceleratorul grafic era ceva de domeniul viselor
+Fratele lui Racolța și upgrade-urile lui prin anul 2 de facultate (99 - 2000), pentru mine acceleratoarele grafice văzute la el (Voodoo) erau ceva de domeniul viselor
 
-in 2001 chiar făceam ceva super ieșit din comun pentru un băisprian :)
+in 2001 chiar făceam ceva ieșit din comun pentru un băisprian :)
 
-În primavara lui 2002 am primit aparatul digital (primele poze cu data corectă sunt din 6 martie 2002)
+În primăvara lui 2002 am primit aparatul digital (primele poze cu data corectă sunt din 6 martie 2002)
 
 Dialup rdslink începând din vara lui 2002 https://www.rusiczki.net/2002/12/21/of-webcams-and-saboteurs/
 
@@ -42,9 +42,11 @@ Un prieten, Radu, a luat deodată cu mine un P II 350 MHz "Klamath", Placa de ba
 
 2. 2001, ianuarie - AMD 800 GeForce MX 2 (cumpărat separat?), Soltek sl-75kv2-x / Duron 800 / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 ram, probabil am inceput cu 128 si am pus inca 64 de undeva
 
-Îmi amintesc că aveam o colegă care în ultimul an de facultate lucra la o firmă numită Cumulus Logic care funcționa în clădirea în care este momentan Eurohotel și ea mi-a făcut o ofertă care includea să îmi cumpere componentele vechi. Banii au provenit din salariul infim pe care-l primeam la Internet Cafe-ul la care lucram, economisiți pentru o vacanță de vară care nu s-a mai întâmplat. Dar de la începutul lui 2001 am început să și lucrez la prima firmă "serioasă".
+Îmi amintesc că aveam o colegă care în ultimul an de facultate lucra la o firmă numită Cumulus Logic care funcționa în clădirea în care este de mulți ani Eurohotel. Ea mi-a făcut o ofertă care includea să îmi cumpere componentele vechi. Banii au provenit din salariul infim pe care-l primeam la Internet Cafe-ul la care lucram, economisiți pentru o vacanță de vară care nu s-a mai întâmplat. Dar de la începutul lui 2001 am început să și lucrez la prima firmă "serioasă".
 
 14-07-2002 aveam deja inscriptor teac 24x
+
+Tot din 2002 datează și monitorul Hansol.
 
 În 2002 mi-am cumpărat o Palit Daytona Geforce 4 Ti care "fell off a truck" - la un preț absolut incredibil https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/
 

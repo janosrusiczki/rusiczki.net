@@ -1,26 +1,16 @@
-Frustrant că deși am avut blogul acesta în mare parte din timpul pe care vreau să-l documentez aici, arareori am scris despre calculator. Cu atât mai puțin despre upgrade-uri. Din păcate majoritatea discuțiilor pe care le-am avut, le-am avut pe Yahoo! Messenger care a murit de o vreme. Am avut un noroc enorm că înainte să se aplice GDPR mi-a scris un prieten că uite, se închide și forumul computergames.ro și aruncând o privire am găsit foarte - foarte multe informații despre calculatoarele mele din epoca când eram foarte activ pe acel forum, adică în jurul schimbării mileniului.
-
 am incercat la trodat ștampile. am găsit un prieten pe irc de la interscope, am incercat la interscope - ulterior acest prieten mi-a influențat niște achiziții din domeniul calculatoarelor (sunt sigur că al doilea monitor un Hansol el mi l-a recomandat), mi-am amintit de el în timp ce redactam articolul acesta. am fost la o firma, am primit assignment să fac o galerie foto pentru un festival din Sighetul Marmației, l-am facut, l-am dus, nu m-au luat, dar galeria foto a ajuns online, salutari domnule Lobonțiu.
-
-Fratele lui Racolța și upgrade-urile lui prin anul 2 de facultate (99 - 2000), pentru mine acceleratoarele grafice văzute la el (Voodoo) erau ceva de domeniul viselor
 
 in 2001 chiar făceam ceva ieșit din comun pentru un băisprian :)
 
-În primăvara lui 2002 am primit aparatul digital (primele poze cu data corectă sunt din 6 martie 2002)
-
-Dialup rdslink începând din vara lui 2002 https://www.rusiczki.net/2002/12/21/of-webcams-and-saboteurs/
 
 de când am avut acces la internet broadband la internet cafe și până s-a terminat temporar accesul https://www.rusiczki.net/2002/12/27/the-end-of-broadband/ am stat cu frica în sân temându-mă de acel moment, dar și pregătindu-mă pentru el, am scris 80 de cd-uri cu mp3 care am avut ocazia să le ascult după aia - chiar și în ziua de azi mai iau câte unul și-l bag în playerul din mașină să "descopăr" ce-i pe el
 
 internet prin satelit (probabil prin 2003 - 2004) - În timp ce am avut abonament am prins un test de transponder cu download nelimitat și viteză mult mai bună, am descărcat tone de jocuri pe mai multe CD-uri. Îmi amintesc că în perioada asta îmi programam calculatorul să se oprească sau să închidă conexiunea fix înainte de ora 8 (ora de la care se termina dial-up-ul ieftin de noapte).
 
-primul cd-rom - cyberdrive, era oribil, tot freca cd-urile in loc sa le citeasca, pana nu am mai rezistat si i-am dat un pumn. S-a stricat complet. L-am dus înapoi la Sprint. "nu stim ce a avut, nu am mai vazut defectiunea asta dar v-am pus un philips" uraaaa!
 
 Amic cu inscriptor de CD-uri prin 99, propriul inscriptor în 2002 - https://www.rusiczki.net/2003/10/03/high-speed-cd-burning-doesnt-work/ îmi amintesc că mergeam la metro și-mi luam tone de cd-uri, taică-meu a observat de atunci ce cheltuială mare sunt și m-a întrebat dacă chiar îmi trebuie
 
 cd-uri cu arhive cu kit-uri, poze salvate de pe net și bineînțeles cd-uri cu muzică și nelipsitele filme
-
-planuri de upgrade https://www.rusiczki.net/2003/04/13/plans-for-a-pc-upgrade/
 
 despre harddisc-uri https://www.rusiczki.net/2003/10/23/the-price-of-laziness/</li>
 
@@ -36,11 +26,17 @@ moartea lui palit daytona https://www.rusiczki.net/2004/08/27/palit-daytona-gefo
 
 mac! https://www.rusiczki.net/2007/10/04/time-for-a-switch/
 
+Frustrant că deși am avut deja acest blog în mare parte din perioada pe care vreau să o documentez aici, arareori am scris despre calculator. Cu atât mai puțin despre upgrade-uri și din păcate majoritatea discuțiilor pe care le-am avut despre subiect, le-am avut pe Yahoo! Messenger care a murit de o vreme - și nu am fost maniac să salvez arhivele așa cum am fost pe vremuri cu log-urile de canale IRC. Am avut însă un noroc enorm deorece la un moment dat mi-a scris un prieten că uite, din cauza GDPR-ului (care urma să intre în vigoare) se va închide și forumul computergames.ro și aruncând o privire am găsit acolo foarte - foarte multe informații despre calculatoarele mele din epoca când eram foarte activ pe acel forum, adică în jurul schimbării mileniului.
+
 ## Calculatoarele mele
 
-1. 1998, toamna - VXPro 2, Pentium 233 MHz mmx, (credeam ca a fost pentium 2 266 mmx) hard disc de 4,3 gb, credeam că îmi va lua o eternitate să-l umplu, monitor LG de 14", video SiS cu 2 MB + 2 MB upgrade (singurul upgrade pe care l-am ales), cumparat de la Sprint ca "e mai bine sa cumperi de la firma cu garantie decat de la bisnitari" - WRONG. Aparent a avut 32 MB EDO RAM.
+1. 1998, toamna - VXPro 2, Pentium 233 MHz mmx, (înainte să accesez forumului computergames.ro eram convins că a fost un Pentium 2 266 MMX) hard disc de 4,3 gb credeam că îmi va lua o eternitate să-l umplu, monitor LG de 14", video SiS cu 2 MB + 2 MB upgrade (singurul upgrade pe care l-am ales), cumparat de la Sprint ca "e mai bine sa cumperi de la firma cu garantie decat de la bisnitari" - WRONG. Aparent a avut 32 MB EDO RAM.
 
 Un prieten, Radu, a luat deodată cu mine un P II 350 MHz "Klamath", Placa de baza Intel 440BX, Video i740. El nu și l-a luat de la firmă, parcă a fost și mai ieftin decât ce luasem eu și știu că mergeam pe la el și mă minunam că-i mergeau jocurile care solicitau accelerator grafic.
+
+primul cd-rom - cyberdrive, era oribil, tot freca cd-urile in loc sa le citeasca, pana nu am mai rezistat si i-am dat un pumn. S-a stricat complet. L-am dus înapoi la Sprint. "nu stim ce a avut, nu am mai vazut defectiunea asta dar v-am pus un philips" uraaaa!
+
+Fratele lui Racolța și upgrade-urile lui prin anul 2 de facultate (99 - 2000), pentru mine acceleratoarele grafice văzute la el (Voodoo) erau ceva de domeniul viselor
 
 2. 2001, ianuarie - AMD 800 GeForce MX 2 (cumpărat separat?), Soltek sl-75kv2-x / Duron 800 / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 ram, probabil am inceput cu 128 si am pus inca 64 de undeva
 
@@ -56,13 +52,24 @@ Tot din 2002 datează și monitorul Hansol 710D - 280_8050.JPG / https://www.rus
 
 Nu mai știu la cine am vândut placa asta de bază + procesorul.
 
-3. 2002 - Epox EP-8RDA - AMD Athlon XP 2000+
-mențiune ca am amd xp1800+ https://www.rusiczki.net/2003/09/03/100-days-is-quite-a-long-time/
+În primăvara lui 2002 am primit aparatul digital (primele poze cu data corectă sunt din 6 martie 2002)
+
+Dialup rdslink începând din vara lui 2002 https://www.rusiczki.net/2002/12/21/of-webcams-and-saboteurs/
+
+3. 2003, probabil în mai sau vara - Epox EP-8RDA - AMD Athlon XP 2000+
+
+planuri de upgrade https://www.rusiczki.net/2003/04/13/plans-for-a-pc-upgrade/
+
+Din păcate nu îmi amintesc mai nimic despre acest upgrade și îmi vine cumva greu a crede că am rezistat cu acest procesor 3 ani jumate.
+
+Am găsit ambalajul plăcii de bază din această configurație precum și cutia plăcii de bază de la următoarea configurație într-una din săpăturile arheologice efectuate în fosta mea cameră din Baia Sprie, iar mai recent efectuând cercetări prin pod am găsit și plăcile de bază efective - dar mă confuzează că am găsit o mențiune din 2003 în care ziceam că am amd xp1800+ https://www.rusiczki.net/2003/09/03/100-days-is-quite-a-long-time/ și eu am găsit procesorul ăsta 2000+ 
 
 4. 2004.04.23 - Epox EP-8RDA3I - AMD Athlon XP 2000+
 rocada intre cele 2 epox-uri https://www.rusiczki.net/2004/04/23/re-building-a-computer/
 Placa de bază am găsit-o cu 768 MB RAM instalați
 asta a fost era UltraPro Computers (RIP)
+
+cu calculatorul asta m-am mutat la bloc
 
 Samsung Syncmaster 913N 31.01.2006 - https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/
 

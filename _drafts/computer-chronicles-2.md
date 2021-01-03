@@ -1,3 +1,5 @@
+Frustrant că deși am avut blogul acesta în mare parte din timpul pe care vreau să-l documentez aici, arareori am scris despre calculator. Cu atât mai puțin despre upgrade-uri.
+
 am incercat la trodat ștampile. am găsit un prieten pe irc de la interscope, am incercat la interscope - ulterior acest prieten mi-a influențat niște achiziții din domeniul calculatoarelor (sunt sigur că al doilea monitor un Hansol el mi l-a recomandat), mi-am amintit de el în timp ce redactam articolul acesta. am fost la o firma, am primit assignment să fac o galerie foto pentru un festival din Sighetul Marmației, l-am facut, l-am dus, nu m-au luat, dar galeria foto a ajuns online, salutari domnule Lobonțiu.
 
 Fratele lui Racolța și upgrade-urile lui prin anul 2 de facultate (99 - 2000), pentru mine acceleratoarele grafice văzute la el (Voodoo) erau ceva de domeniul viselor

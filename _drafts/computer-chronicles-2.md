@@ -50,7 +50,7 @@ La început de 2002 s-a și încheiat firma asta și am început să lucrez de a
 
 14-07-2002 aveam deja inscriptor teac 24x
 
-Tot din 2002 datează și monitorul Hansol 710D - 280_8050.JPG
+Tot din 2002 datează și monitorul Hansol 710D - 280_8050.JPG / https://www.rusiczki.net/2005/12/29/lcd-suggestions-anyone/
 
 În 2002 mi-am cumpărat o Palit Daytona Geforce 4 Ti care "fell off a truck" - la un preț absolut incredibil https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/
 

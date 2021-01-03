@@ -42,6 +42,8 @@ Un prieten, Radu, a luat deodată cu mine un P II 350 MHz "Klamath", Placa de ba
 
 2. 2001, ianuarie - AMD 800 GeForce MX 2 (cumpărat separat?), Soltek sl-75kv2-x / Duron 800 / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 ram, probabil am inceput cu 128 si am pus inca 64 de undeva
 
+Îmi amintesc că aveam o colegă care în ultimul an de facultate lucra la o firmă numită Cumulus Logic care funcționa în clădirea în care este momentan Eurohotel și ea mi-a făcut o ofertă care includea să îmi cumpere componentele vechi. Banii au provenit din salariul infim pe care-l primeam la Internet Cafe-ul la care lucram, economisiți pentru o vacanță de vară care nu s-a mai întâmplat. Dar de la începutul lui 2001 am început să și lucrez la prima firmă "serioasă".
+
 14-07-2002 aveam deja inscriptor teac 24x
 
 În 2002 mi-am cumpărat o Palit Daytona Geforce 4 Ti care "fell off a truck" - la un preț absolut incredibil https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/
@@ -52,6 +54,9 @@ mențiune ca am amd xp1800+ https://www.rusiczki.net/2003/09/03/100-days-is-quit
 4. 2004.04.23 - Epox EP-8RDA3I - AMD Athlon XP 2000+
 rocada intre cele 2 epox-uri https://www.rusiczki.net/2004/04/23/re-building-a-computer/
 Placa de bază am găsit-o cu 768 MB RAM instalați
+asta a fost era UltraPro Computers (RIP)
+
+Samsung Syncmaster 913N 31.01.2006 - https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/
 
 5. 2007.02.06 - Intel Dual Core
 

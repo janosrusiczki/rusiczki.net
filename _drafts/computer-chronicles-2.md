@@ -44,11 +44,15 @@ Un prieten, Radu, a luat deodată cu mine un P II 350 MHz "Klamath", Placa de ba
 
 Îmi amintesc că aveam o colegă care în ultimul an de facultate lucra la o firmă numită Cumulus Logic care funcționa în clădirea în care este de mulți ani Eurohotel. Ea mi-a făcut o ofertă care includea să îmi cumpere componentele vechi. Banii au provenit din salariul infim pe care-l primeam la Internet Cafe-ul la care lucram, economisiți pentru o vacanță de vară care nu s-a mai întâmplat. Dar de la începutul lui 2001 am început să și lucrez la prima firmă "serioasă".
 
+La început de 2002 s-a și încheiat firma asta și am început să lucrez de acasă cu clientul pentru care lucram și de la firmă, câștigam mult mai bine, eram toată ziua la calculatorul propriu și am investit în componente.
+
 14-07-2002 aveam deja inscriptor teac 24x
 
-Tot din 2002 datează și monitorul Hansol.
+Tot din 2002 datează și monitorul Hansol 710D - 280_8050.JPG
 
 În 2002 mi-am cumpărat o Palit Daytona Geforce 4 Ti care "fell off a truck" - la un preț absolut incredibil https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/
+
+Nu mai știu la cine am vândut placa asta de bază + procesorul.
 
 3. 2002 - Epox EP-8RDA - AMD Athlon XP 2000+
 mențiune ca am amd xp1800+ https://www.rusiczki.net/2003/09/03/100-days-is-quite-a-long-time/

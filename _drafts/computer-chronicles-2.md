@@ -2,17 +2,13 @@ am incercat la trodat ștampile. am găsit un prieten pe irc de la interscope, a
 
 in 2001 chiar făceam ceva ieșit din comun pentru un băisprian :)
 
-
 de când am avut acces la internet broadband la internet cafe și până s-a terminat temporar accesul https://www.rusiczki.net/2002/12/27/the-end-of-broadband/ am stat cu frica în sân temându-mă de acel moment, dar și pregătindu-mă pentru el, am scris 80 de cd-uri cu mp3 care am avut ocazia să le ascult după aia - chiar și în ziua de azi mai iau câte unul și-l bag în playerul din mașină să "descopăr" ce-i pe el
-
-internet prin satelit (probabil prin 2003 - 2004) - În timp ce am avut abonament am prins un test de transponder cu download nelimitat și viteză mult mai bună, am descărcat tone de jocuri pe mai multe CD-uri. Îmi amintesc că în perioada asta îmi programam calculatorul să se oprească sau să închidă conexiunea fix înainte de ora 8 (ora de la care se termina dial-up-ul ieftin de noapte).
-
 
 Amic cu inscriptor de CD-uri prin 99, propriul inscriptor în 2002 - https://www.rusiczki.net/2003/10/03/high-speed-cd-burning-doesnt-work/ îmi amintesc că mergeam la metro și-mi luam tone de cd-uri, taică-meu a observat de atunci ce cheltuială mare sunt și m-a întrebat dacă chiar îmi trebuie
 
 cd-uri cu arhive cu kit-uri, poze salvate de pe net și bineînțeles cd-uri cu muzică și nelipsitele filme
 
-despre harddisc-uri https://www.rusiczki.net/2003/10/23/the-price-of-laziness/</li>
+despre harddisc-uri https://www.rusiczki.net/2003/10/23/the-price-of-laziness/
 
 dvd writer Teac DV-W58G https://www.rusiczki.net/2004/04/01/brief/ - https://www.cnet.com/products/teac-dv-w58g-dvdrw-drive-ide-internal/
 
@@ -38,13 +34,17 @@ primul cd-rom - cyberdrive, era oribil, tot freca cd-urile in loc sa le citeasca
 
 Fratele lui Racolța și upgrade-urile lui prin anul 2 de facultate (99 - 2000), pentru mine acceleratoarele grafice văzute la el (Voodoo) erau ceva de domeniul viselor
 
+Jocuri cu prietenii: campionate de NFS2, Worms 2, CD-ul cu Faithless - Sunday 8 PM in drive.
+
+După aproximativ un an de la cumpărarea calculatorului, în toamna anului 1999, am reușit să mă angajez la Internet Cafe-ul facultății - în sfârșit am avut acces la Internet.
+
 2. 2001, ianuarie - AMD 800 GeForce MX 2 (cumpărat separat?), Soltek sl-75kv2-x / Duron 800 / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 ram, probabil am inceput cu 128 si am pus inca 64 de undeva
 
 Îmi amintesc că aveam o colegă care în ultimul an de facultate lucra la o firmă numită Cumulus Logic care funcționa în clădirea în care este de mulți ani Eurohotel. Ea mi-a făcut o ofertă care includea să îmi cumpere componentele vechi. Banii au provenit din salariul infim pe care-l primeam la Internet Cafe-ul la care lucram, economisiți pentru o vacanță de vară care nu s-a mai întâmplat. Dar de la începutul lui 2001 am început să și lucrez la prima firmă "serioasă".
 
 La început de 2002 s-a și încheiat firma asta și am început să lucrez de acasă cu clientul pentru care lucram și de la firmă, câștigam mult mai bine, eram toată ziua la calculatorul propriu și am investit în componente.
 
-14-07-2002 aveam deja inscriptor teac 24x
+14-07-2002 aveam deja inscriptor teac 24x (cred că din poze)
 
 Tot din 2002 datează și monitorul Hansol 710D - 280_8050.JPG / https://www.rusiczki.net/2005/12/29/lcd-suggestions-anyone/
 
@@ -54,7 +54,9 @@ Nu mai știu la cine am vândut placa asta de bază + procesorul.
 
 În primăvara lui 2002 am primit aparatul digital (primele poze cu data corectă sunt din 6 martie 2002)
 
-Dialup rdslink începând din vara lui 2002 https://www.rusiczki.net/2002/12/21/of-webcams-and-saboteurs/
+Dialup RDSLink începând din vara lui 2002 https://www.rusiczki.net/2002/12/21/of-webcams-and-saboteurs/ - Până atunci intram pe Xnet, unde era greu să găsești loc, abia mergea, te arunca afară, dar era gratis! Știu că intrasem și înainte pe Net (în octombrie 21, 2001, vezi pe blogspot) doar că a venit totul pe factura vecinilor cu care eram "cuplați".
+
+internet prin satelit (probabil prin 2003 - 2004) - În timp ce am avut abonament am prins un test de transponder cu download nelimitat și viteză mult mai bună, am descărcat tone de jocuri pe mai multe CD-uri. Îmi amintesc că în perioada asta îmi programam calculatorul să se oprească sau să închidă conexiunea fix înainte de ora 8 (ora de la care se termina dial-up-ul ieftin de noapte).
 
 3. 2003, probabil în mai sau vara - Epox EP-8RDA - AMD Athlon XP 2000+
 
@@ -72,6 +74,8 @@ asta a fost era UltraPro Computers (RIP)
 cu calculatorul asta m-am mutat la bloc
 
 Samsung Syncmaster 913N 31.01.2006 - https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/
+
+https://www.rusiczki.net/2007/01/23/need-for-hardware-upgrade-painfully-felt/
 
 5. 2007.02.06 - Intel Dual Core
 

@@ -26,7 +26,7 @@ Frustrant că deși am avut deja acest blog în mare parte din perioada pe care 
 
 ## Calculatoarele mele
 
-1. 1998, toamna - VXPro 2, Pentium 233 MHz mmx, (înainte să accesez forumului computergames.ro eram convins că a fost un Pentium 2 266 MMX) hard disc de 4,3 gb credeam că îmi va lua o eternitate să-l umplu, monitor LG de 14", video SiS cu 2 MB + 2 MB upgrade (singurul upgrade pe care l-am ales), cumparat de la Sprint ca "e mai bine sa cumperi de la firma cu garantie decat de la bisnitari" - WRONG. Aparent a avut 32 MB EDO RAM.
+1. 1998, toamna - VXPro 2, Pentium 233 MHz mmx, (înainte să accesez forumului computergames.ro eram convins că a fost un Pentium 2 266 MMX) hard disc de 4,3 gb credeam că îmi va lua o eternitate să-l umplu, monitor LG de 14", video SiS cu 2 MB + 2 MB upgrade (singurul upgrade pe care l-am ales), cumpărat de la Sprint ca "e mai bine să cumperi de la o firmă cu garanție decât de la bișnițari" - WRONG. Aparent a avut 32 MB EDO RAM.
 
 Un prieten, Radu, a luat deodată cu mine un P II 350 MHz "Klamath", Placa de baza Intel 440BX, Video i740. El nu și l-a luat de la firmă, parcă a fost și mai ieftin decât ce luasem eu și știu că mergeam pe la el și mă minunam că-i mergeau jocurile care solicitau accelerator grafic.
 
@@ -38,35 +38,42 @@ Jocuri cu prietenii: campionate de NFS2, Worms 2, CD-ul cu Faithless - Sunday 8 
 
 După aproximativ un an de la cumpărarea calculatorului, în toamna anului 1999, am reușit să mă angajez la Internet Cafe-ul facultății - în sfârșit am avut acces la Internet.
 
-2. 2001, ianuarie - AMD 800 GeForce MX 2 (cumpărat separat?), Soltek sl-75kv2-x / Duron 800 / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 ram, probabil am inceput cu 128 si am pus inca 64 de undeva
+Demos și muzică în format XM. Știu că nu era în stare să redea filmele DivX fără să sacadeze. M-am chinuit să convertesc ceva film (cred că Fight Club) și după ore bune de conversie în VirtualDub a dat eroare. Nici VST-urile nu mergeau, dar mergea FastTracker 2, mergea softul de la Bram Bros.
 
-Îmi amintesc că aveam o colegă care în ultimul an de facultate lucra la o firmă numită Cumulus Logic care funcționa în clădirea în care este de mulți ani Eurohotel. Ea mi-a făcut o ofertă care includea să îmi cumpere componentele vechi. Banii au provenit din salariul infim pe care-l primeam la Internet Cafe-ul la care lucram, economisiți pentru o vacanță de vară care nu s-a mai întâmplat. Dar de la începutul lui 2001 am început să și lucrez la prima firmă "serioasă".
+Diskmag în Pascal și OS grafic în Rhide minunându-mă de ce poate face programarea orientată pe obiecte.
+
+2. 2001, ianuarie - AMD 800, GeForce MX 2 (cumpărat separat?), Soltek sl-75kv2-x / Duron 800 / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 ram, probabil am inceput cu 128 si am pus inca 64 de undeva
+
+Am avut noroc că aveam o colegă de facultate care în ultimul an lucra la o firmă numită Cumulus Logic care funcționa în clădirea în care este de foarte mulți ani Eurohotel. Ea mi-a făcut o ofertă care includea să îmi cumpere componentele vechi. Restul banilor au provenit din salariul infim pe care-l primeam la Internet Cafe-ul la care lucram, puși de-o parte pentru o vacanță de vară care nu s-a mai întâmplat. Dar de la începutul lui 2001 am început să și lucrez la prima firmă "serioasă".
 
 La început de 2002 s-a și încheiat firma asta și am început să lucrez de acasă cu clientul pentru care lucram și de la firmă, câștigam mult mai bine, eram toată ziua la calculatorul propriu și am investit în componente.
 
+În primăvara lui 2002 am primit aparatul digital (primele poze cu data corectă sunt din 6 martie 2002)
+
 14-07-2002 aveam deja inscriptor teac 24x (cred că din poze)
+
+Skystar 1, mă laud cu ea in 12 august 2002
 
 Tot din 2002 datează și monitorul Hansol 710D - 280_8050.JPG / https://www.rusiczki.net/2005/12/29/lcd-suggestions-anyone/
 
 În 2002 mi-am cumpărat o Palit Daytona Geforce 4 Ti care "fell off a truck" - la un preț absolut incredibil https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/
 
-Nu mai știu la cine am vândut placa asta de bază + procesorul.
-
-În primăvara lui 2002 am primit aparatul digital (primele poze cu data corectă sunt din 6 martie 2002)
-
 Dialup RDSLink începând din vara lui 2002 https://www.rusiczki.net/2002/12/21/of-webcams-and-saboteurs/ - Până atunci intram pe Xnet, unde era greu să găsești loc, abia mergea, te arunca afară, dar era gratis! Știu că intrasem și înainte pe Net (în octombrie 21, 2001, vezi pe blogspot) doar că a venit totul pe factura vecinilor cu care eram "cuplați".
 
-internet prin satelit (probabil prin 2003 - 2004) - În timp ce am avut abonament am prins un test de transponder cu download nelimitat și viteză mult mai bună, am descărcat tone de jocuri pe mai multe CD-uri. Îmi amintesc că în perioada asta îmi programam calculatorul să se oprească sau să închidă conexiunea fix înainte de ora 8 (ora de la care se termina dial-up-ul ieftin de noapte).
+Internet prin satelit, am găsit un formular din 15 mai 2003 - În timp ce am avut abonament am prins un test de transponder cu download nelimitat și viteză mult mai bună, am descărcat tone de jocuri pe mai multe CD-uri. Îmi amintesc că în perioada asta îmi programam calculatorul să se oprească sau să închidă conexiunea fix înainte de ora 8 (ora de la care se termina dial-up-ul ieftin de noapte).
+
+Nu mai știu la cine am vândut placa asta de bază + procesorul.
 
 3. 2003, probabil în mai sau vara - Epox EP-8RDA - AMD Athlon XP 2000+
 
-planuri de upgrade https://www.rusiczki.net/2003/04/13/plans-for-a-pc-upgrade/
+Din păcate nu îmi amintesc mai nimic despre acest upgrade și îmi vine cumva greu a crede că am rezistat cu acest procesor 3 ani jumate. Probabil de la Conseco.
 
-Din păcate nu îmi amintesc mai nimic despre acest upgrade și îmi vine cumva greu a crede că am rezistat cu acest procesor 3 ani jumate.
+planuri de upgrade https://www.rusiczki.net/2003/04/13/plans-for-a-pc-upgrade/
 
 Am găsit ambalajul plăcii de bază din această configurație precum și cutia plăcii de bază de la următoarea configurație într-una din săpăturile arheologice efectuate în fosta mea cameră din Baia Sprie, iar mai recent efectuând cercetări prin pod am găsit și plăcile de bază efective - dar mă confuzează că am găsit o mențiune din 2003 în care ziceam că am amd xp1800+ https://www.rusiczki.net/2003/09/03/100-days-is-quite-a-long-time/ și eu am găsit procesorul ăsta 2000+ 
 
 4. 2004.04.23 - Epox EP-8RDA3I - AMD Athlon XP 2000+
+
 rocada intre cele 2 epox-uri https://www.rusiczki.net/2004/04/23/re-building-a-computer/
 Placa de bază am găsit-o cu 768 MB RAM instalați
 asta a fost era UltraPro Computers (RIP)
@@ -95,7 +102,7 @@ August 16, 2011 - Marea pauza Mac. Today I started up my PC which I haven't used
 
 6. 2011.10.07 - Intel i5 2500k
 
-cumparata de la debo.ro, 2011.10.07, poza cu garantia pe Google Photos, actele probabil printre facturile PFA :)
+Cumpărată de la debo.ro, 2011.10.07, poză cu garantia pe Google Photos, actele probabil printre facturile PFA :)
 
 2011.11.04 - Placa video ASUS nVidia GeForce GTX560, 1024MB, GDDR5, DVI, HDMI, PCI-E
 
@@ -131,10 +138,7 @@ Placi de sunet:
 * Ceva pe ISA probabil, nu mergea Fast Tracker 2 pe el, a fost prioritate maximă să o schimb
 * Sound Blaster 16 luat de la Arhimedes, nu mai știu exact de la cine am primit un pont că au de vânzare, sunt destul de sigur că era iarnă, am "împrumutat" 100 Deutsche Mark de la părinți fără știrea lor dar i-am pus înapoi când am luat bursa, știu că am întrebat la schimbul valutar dacă sigur nu sunt falși - Sigur a fost în cursul primului an de facultate că din anul 2 nu am mai avut bursă.
 * Cu ocazia unei vizite la Cluj am ochit, mai precis urechit niște boxe albe la un magazin de calculatoare, am remarcat cât de bine sună, apoi le-am și cumpărat, dar nu la Cluj ci la Baia Mare. Cu ocazia unei scotociri a fostei mele camere din Baia Sprie am găsit manualul de utilizare și am aflat că era vorba de niște boxe Samsung SMS-5100. Le-am dus pe vremuri (împreună cu placa de sunet) și pe la Internet Cafe-ul unde lucram și unde nu era nimic multimedia ca să ascult muzică când rămâneam de serviciu peste noapte.
-* Sound blaster live 5.1 impreuna cu cambridge soundworks dtt 2200, cumpărate conform computergames.ro în toamna lui 2001 de la Conseco, distribuitor Flamingo, placa de sunet mi s-a stricat in ianuarie 2002, mi-au înlocuit-o in garanție. Cred că în perioada asta îmi tot recomanda doamna de la Conseco stabilizator de tensiune, se pare că a reușit să vândă unora din Baia Sprie, și era ferm convinsă că la noi sunt variațiuni de tensiune care ne afectează componentele. Posibil să fi fost, dar eu nu mi-am cumpărat niciodată stabilizator de tensiune.
+* Sound blaster live 5.1 împreună cu Cambridge Soundworks DTT 2200, cumpărate conform computergames.ro în toamna lui 2001 de la Conseco, distribuitor Flamingo, placa de sunet mi s-a stricat în ianuarie 2002, mi-au înlocuit-o în garanție. Cred că în perioada asta îmi tot recomanda doamna de la Conseco stabilizator de tensiune, se pare că a reușit să vândă unora din Baia Sprie, și era ferm convinsă că la noi sunt variațiuni de tensiune care ne afectează componentele. Posibil să fi fost, dar eu nu mi-am cumpărat niciodată stabilizator de tensiune.
 * Vise de DJ, îmi trebuia o placă de sunet cu 2 ieșiri, pe o ieșire să meargă ce se aude și pe celaltă să pot asculta în căști ce pregătesc. Placa de sunet mi-am luat-o, și a fost una dintre cele mai bune investiții în hardware, dar DJ nu am ajuns. m-audio firewire audiophile - 2006 - https://www.rusiczki.net/2010/06/29/best-piece-of-hardware-ever/
 * 2012.01.24 - Apoi am luat un Traktor Audio 2 DJ de pe Okazii, cred că ăsta a fost al doilea.
 * Apoi încet am revenit la plăcile de sunet on-board.
-
-
-* skystar 1, ma laud cu ea in 12 august 2002

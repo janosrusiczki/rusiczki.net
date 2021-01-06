@@ -4,11 +4,7 @@ in 2001 chiar făceam ceva ieșit din comun pentru un băisprian :)
 
 de când am avut acces la internet broadband la internet cafe și până s-a terminat temporar accesul https://www.rusiczki.net/2002/12/27/the-end-of-broadband/ am stat cu frica în sân temându-mă de acel moment, dar și pregătindu-mă pentru el, am scris 80 de cd-uri cu mp3 care am avut ocazia să le ascult după aia - chiar și în ziua de azi mai iau câte unul și-l bag în playerul din mașină să "descopăr" ce-i pe el
 
-Amic cu inscriptor de CD-uri prin 99, propriul inscriptor în 2002 - https://www.rusiczki.net/2003/10/03/high-speed-cd-burning-doesnt-work/ îmi amintesc că mergeam la metro și-mi luam tone de cd-uri, taică-meu a observat de atunci ce cheltuială mare sunt și m-a întrebat dacă chiar îmi trebuie
-
 cd-uri cu arhive cu kit-uri, poze salvate de pe net și bineînțeles cd-uri cu muzică și nelipsitele filme
-
-despre harddisc-uri https://www.rusiczki.net/2003/10/23/the-price-of-laziness/
 
 dvd writer Teac DV-W58G https://www.rusiczki.net/2004/04/01/brief/ - https://www.cnet.com/products/teac-dv-w58g-dvdrw-drive-ide-internal/
 
@@ -52,6 +48,8 @@ La început de 2002 s-a și încheiat firma asta și am început să lucrez de a
 
 14-07-2002 aveam deja inscriptor teac 24x (cred că din poze)
 
+Amic cu inscriptor de CD-uri prin 99, propriul inscriptor în 2002 - https://www.rusiczki.net/2003/10/03/high-speed-cd-burning-doesnt-work/ îmi amintesc că mergeam la metro și-mi luam tone de cd-uri, taică-meu a observat de atunci ce cheltuială mare sunt și m-a întrebat dacă chiar îmi trebuie
+
 Skystar 1, mă laud cu ea in 12 august 2002
 
 Tot din 2002 datează și monitorul Hansol 710D - 280_8050.JPG / https://www.rusiczki.net/2005/12/29/lcd-suggestions-anyone/
@@ -71,6 +69,8 @@ Din păcate nu îmi amintesc mai nimic despre acest upgrade și îmi vine cumva 
 planuri de upgrade https://www.rusiczki.net/2003/04/13/plans-for-a-pc-upgrade/
 
 Am găsit ambalajul plăcii de bază din această configurație precum și cutia plăcii de bază de la următoarea configurație într-una din săpăturile arheologice efectuate în fosta mea cameră din Baia Sprie, iar mai recent efectuând cercetări prin pod am găsit și plăcile de bază efective - dar mă confuzează că am găsit o mențiune din 2003 în care ziceam că am amd xp1800+ https://www.rusiczki.net/2003/09/03/100-days-is-quite-a-long-time/ și eu am găsit procesorul ăsta 2000+ 
+
+despre harddisc-uri https://www.rusiczki.net/2003/10/23/the-price-of-laziness/
 
 4. 2004.04.23 - Epox EP-8RDA3I - AMD Athlon XP 2000+
 

@@ -142,3 +142,5 @@ Placi de sunet:
 * Vise de DJ, îmi trebuia o placă de sunet cu 2 ieșiri, pe o ieșire să meargă ce se aude și pe celaltă să pot asculta în căști ce pregătesc. Placa de sunet mi-am luat-o, și a fost una dintre cele mai bune investiții în hardware, dar DJ nu am ajuns. m-audio firewire audiophile - 2006 - https://www.rusiczki.net/2010/06/29/best-piece-of-hardware-ever/
 * 2012.01.24 - Apoi am luat un Traktor Audio 2 DJ de pe Okazii, cred că ăsta a fost al doilea.
 * Apoi încet am revenit la plăcile de sunet on-board.
+
+Poză cu volanul 126-2693_IMG.JPG 20 iunie 2002 - Amintiri foarte plăcute cu NFS Porsche Unleashed. Volanul era de la un fost coleg de clasă, primit printr-un prieten care din păcate nu mai e printre noi. :(

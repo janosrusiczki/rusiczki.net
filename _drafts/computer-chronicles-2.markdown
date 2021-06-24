@@ -78,7 +78,7 @@ asta a fost era UltraPro Computers (RIP)
 
 cu calculatorul asta m-am mutat la bloc
 
-in august 2004 a murit palit daytona https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/ si am primit de la soacra la schimb o placa video slaba dar stabila
+in august 2004 a murit palit daytona https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/ si am primit de la soacra la schimb o placa video slaba dar stabila ATI 9200 - https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/
 
 Primul LCD - Samsung Syncmaster 913N 31.01.2006 - https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/
 

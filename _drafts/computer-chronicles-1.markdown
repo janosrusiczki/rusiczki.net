@@ -1,11 +1,11 @@
 ---
 layout: post
-title: The Computer Chronicles - Perioada de dinainte de PC
-date: 2018-12-31 11:51:00 +0200
+title: Cronici Calculatoricești - Perioada de dinainte de PC
+date: 2021-06-30 22:00:00 +0200
 categories:
 - Cronică
 - Tehnic
-image: https://content.rusiczki.net/2020/01/
+image: https://content.rusiczki.net/2021/06/
 description: Despre începuturile mele în d'ale calculatoarelor.
 ---
 Acum câțiva ani (vreo 5 🥺) m-am gândit să scriu un articol despre interacțiunea mea cu calculatoarele și am tot modificat și adăugat la el până m-am gândit că va fi frumos să-l public în 2018 la aniversarea a 20 de când am PC dar apoi am depășit termenul și au trecut 2019 și 2020 cu multe probleme... Dar sunt hotărât să încep să public seria (adică acest articol) în prima jumate al lui 2021, adică până la final de iunie!

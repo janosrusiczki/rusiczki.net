@@ -62,7 +62,7 @@ Nu mai știu la cine am vândut placa asta de bază + procesorul.
 
 3. 2003, probabil în mai sau vara - Epox EP-8RDA - AMD Athlon XP 2000+
 
-Din păcate nu îmi amintesc mai nimic despre acest upgrade și îmi vine cumva greu a crede că am rezistat cu acest procesor 3 ani jumate. Probabil de la Conseco.
+Din păcate nu îmi amintesc mai nimic despre acest upgrade și îmi vine cumva greu a crede că am rezistat cu acest procesor 3 ani jumate. De la Remus Kolozsvari -  https://www.rusiczki.net/2004/04/23/re-building-a-computer/ pe la final.
 
 planuri de upgrade https://www.rusiczki.net/2003/04/13/plans-for-a-pc-upgrade/
 

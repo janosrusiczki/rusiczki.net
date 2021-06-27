@@ -44,7 +44,18 @@ La capitoul "periferice":
 
 Nu îmi mai amintesc exact când s-a stricat CIP-ul, probabil cândva în clasa a 7-a sau pe la inceputul clasei a 8-a - în orice caz știu că eram cumva _pe val_ căci între momentul cumpărării și când s-a stricat au început să apară casete cu jocuri și programe la magazinul Satelit din centrul Băii Mari și nu mai eram limitat la a face schimb și a copia programe de la alții, plus am pus mâna pe [Lemmings](https://worldofspectrum.org/archive/software/games/lemmings-psygnosis-ltd) care cu nivele cu tot umplea o casetă întreagă pe ambele părți (în curând va trebui să explic și ce-i aia o casetă). Cumva îmi amintesc că am acceptat foarte ușor constatarea că s-a stricat - l-am deschis într-o zi și se reseta continuu, apoi nici nu prea l-am mai încercat - cred că eram deja prins în febra PC-urilor.
 
-Jocurile pe care le-am jucat cu mare plăcere: Spy Hunter (joc de "pătruns" cu mașina și barca), Saboteur 2 (incredibil de multe dupămese topite cu acest joc - Shuriken Helo în loc de Held), Deflektor (descoperit într-o sămbătă și savurat la maxim), Hades Nebula (grafică foarte frumoasă, muzica din meniu extraordinară, jocul imposibil de greu), ATV Challenge (vărul meu a fost cu tatăl lui în delegație la Borșa, unde a venit un alt inspector tot cu fiul lui, care-și adusese ZX Spectrum-ul și avea jocul ăsta - atâta mi l-a slăvit vărul meu până l-am făcut rost și eu și chiar era mișto). Pe la final Ironman (curse).
+Jocurile pe care le-am jucat cu mare plăcere:
+
+- Spy Hunter (joc de "pătruns" cu mașina și barca)
+- Saboteur 2 (incredibil de multe dupămese topite cu acest joc - Shuriken Helo în loc de Held)
+- Deflektor (descoperit într-o sămbătă și savurat la maxim)
+- Hades Nebula (grafică foarte frumoasă, muzica din meniu extraordinară, jocul imposibil de greu)
+- ATV Challenge (vărul meu a fost cu tatăl lui în delegație la Borșa, unde a venit un alt inspector tot cu fiul lui, care-și adusese ZX Spectrum-ul și avea jocul ăsta - atâta mi l-a slăvit vărul meu până l-am făcut rost și eu și chiar era mișto)
+- Pe la final Ironman (curse)
+- Highway Encounter (1 și 2)
+- WHAM! - Muzică de la formația omonimă, eram gură cască cât de bine poate să sune
+
+Citit despre VU-3D și Database.
 
 Ca orice copil am avut idei de a face propriile jocuri, dar cum nu prea se puteau scrie in BASIC (din cauza vitezei reduse) m-am rezumat la a desena "screen-uri" (adică grafică introductivă care apărea în timp ce se încărca jocul) în Art Studio. Știu că jocul pe care voiam să-l fac avea să se numească Thumper Joe. Nu mă întrebați ce însemna "thumper" și nici ce trebuia să faci în joc. De asemenea desenam cu mare plăcere fonturi în Art Studio și am aflat că se pot salva, apoi încarca și dacă dădeai o instruncțiune: POKE 23607, CEVA puteai folosi fontul custom. De asemenea POKE 23609, NUMAR îți prelungea sunetul pe care îl scotea calculatorul la apăsarea fiecărei taste. Interesant cum acum, la 42 de ani, mi-am adus aminte de chestiile astea fără prea mult efort dar habar nu am ce am făcut acum o zi...
 

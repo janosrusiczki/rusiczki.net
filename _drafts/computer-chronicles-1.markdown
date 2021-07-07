@@ -54,6 +54,7 @@ Jocurile pe care le-am jucat cu mare plăcere:
 - Pe la final Ironman (curse)
 - Highway Encounter (1 și 2)
 - WHAM! - Muzică de la formația omonimă, eram gură cască cât de bine poate să sune
+- Quazatron - Interesant că cu toate că au trecut mulți ani (un sfert de secol) tot mai apar articole despre cum a fost scris câte un joc. Mai de mult am citit [cartea](http://www.theaveragegamer.com/2013/09/23/making-r-type-zx-spectrum/) unui tip care a făcut conversia lui R-Type pentru Spectrum și recent a apărut și mi-a recomandat Google [un articol despre Quazatron](https://www.antstream.com/post/the-making-of-quazatron).
 
 Citit despre VU-3D și Database.
 

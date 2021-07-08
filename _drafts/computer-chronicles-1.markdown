@@ -5,7 +5,7 @@ date: 2021-06-30 22:00:00 +0200
 categories:
 - Cronică
 - Tehnic
-image: https://content.rusiczki.net/2021/06/
+image: https://content.rusiczki.net/2021/07/electronica-cip-1000x667.jpg
 description: Despre începuturile mele în d'ale calculatoarelor.
 ---
 Acum câțiva ani (vreo 5 🥺) m-am gândit să scriu un articol despre interacțiunea mea cu calculatoarele și am tot modificat și adăugat la el până m-am gândit că va fi frumos să-l public în toamna lui 2018 la aniversarea a 20 de când am PC. Apoi am depășit termenul și au trecut 2019 și 2020 cu multe probleme personale... Dar sunt hotărât să încep să public seria (adică acest articol) în prima jumate al lui 2021, adică iunie sau iulie!
@@ -26,7 +26,7 @@ Voi face aici o mică paranteză și voi scrie despre cercurile la care am parti
 
 Să revenim la calculatoare. După olimpiada de matematică din clasa a V-a (da, am participat la așa ceva și chiar am ajuns la etapa județeană!) am mers la un coleg și bun prieten să-i văd calculatorul, avea o clonă ZX Spectrum, o Electronica CIP de primă generație. Probabil ne-am jucat ceva, nu-mi mai amintesc exact ce, dar am rămas fascinat.
 
-POZĂ CU CIP
+[![Electronica CIP](https://content.rusiczki.net/2021/07/electronica-cip-1000x667.jpg)](https://content.rusiczki.net/2021/07/electronica-cip.jpg){:.glightbox}
 
 Îmi scapă motivul (or fi fost rezultatele acceptabile la învățătură?) dar mi-au cumpărat și mie părinții același tip de calculator de la magazinul de electronice din oraș, dacă nu mă înșel în iarna anului 1991 și îmi amintesc că de Crăciun am fost foarte ocupat să copiez programele din manual și să le execut. Acesta a fost primul meu contact, foarte entuziast, cu programarea - chiar remarcase tatăl meu că nu m-a mai interesat împodobitul bradului ca înainte. Am revenit cu tatăl meu la prietenul amintit anterior imediat după ce mi-a cumpărat calculatorul, și mi-am copiat pe o caseta primele jocuri, dintre care îmi amintesc de [TUTANK](https://www.youtube.com/watch?v=Nc5SACvkMZU), mai precis Tutankhamun, un joculeț simplu în care explorai mormântul faraonului respectiv. Acesta a fost cam printre primele jocuri pe care le-am jucat pe calculatorul propriu și după câteva zile m-am interesat la colegul meu pe la ce nivel a ajuns și mi-a spus că de fapt ei nu prea joacă jocul ăla, s-a întâmplat doar să fie la îndemână când mi-au copiat caseta.
 

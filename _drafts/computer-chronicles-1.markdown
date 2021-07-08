@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cronici Calculatoricești - CIP
-date: 2021-06-30 22:00:00 +0200
+date: 2021-07-08 10:09:00 +0200
 categories:
 - Cronică
 - Tehnic
@@ -46,20 +46,20 @@ Nu îmi mai amintesc exact când s-a stricat CIP-ul, probabil cândva în clasa 
 
 Jocurile pe care le-am jucat cu mare plăcere:
 
-- Spy Hunter (joc de "pătruns" cu mașina și barca)
-- Saboteur 2 (incredibil de multe dupămese topite cu acest joc - Shuriken Helo în loc de Held)
-- Deflektor (descoperit într-o sămbătă și savurat la maxim)
-- Hades Nebula (grafică foarte frumoasă, muzica din meniu extraordinară, jocul imposibil de greu)
-- ATV Challenge (vărul meu a fost cu tatăl lui în delegație la Borșa, unde a venit un alt inspector tot cu fiul lui, care-și adusese ZX Spectrum-ul și avea jocul ăsta - atâta mi l-a slăvit vărul meu până l-am făcut rost și eu și chiar era mișto)
-- Pe la final Ironman (curse)
+- Spy Hunter - Joc de "pătruns" cu mașina care se transforma în barcă și înapoi.
+- Saboteur 2 - Incredibil de multe dupămese topite cu acest joc - În colțul dreapta jos apărea ce armă ai, și eu citeam Shuriken Helo în loc de Held.
+- Deflektor - Descoperit parcă într-o sămbătă și savurat la maxim.
+- Hades Nebula - Muzica din meniu extraordinară, grafică foarte frumoasă dar jocul imposibil de greu.
+- ATV Challenge - Vărul meu a fost cu tatăl lui în delegație la Borșa, unde a venit un alt inspector tot cu fiul lui, care-și adusese ZX Spectrum-ul și avea jocul ăsta - atâta mi l-a slăvit vărul meu până l-am făcut rost și eu și chiar era mișto mai ales să-l jucăm în doi.
+- Pe la final Ironman.
 - Highway Encounter (1 și 2)
 - WHAM! - Muzică de la formația omonimă, eram gură cască cât de bine poate să sune
-- Quazatron - Interesant că cu toate că au trecut mulți ani (un sfert de secol) tot mai apar articole despre cum a fost scris câte un joc. Mai de mult am citit [cartea](http://www.theaveragegamer.com/2013/09/23/making-r-type-zx-spectrum/) unui tip care a făcut conversia lui R-Type pentru Spectrum și recent a apărut și mi-a recomandat Google [un articol despre Quazatron](https://www.antstream.com/post/the-making-of-quazatron).
+- Quazatron - Interesant că cu toate că au trecut mulți ani (un sfert de secol) tot mai apar articole despre cum a fost dezvoltat câte un joc. Mai de mult am citit [cartea](http://www.theaveragegamer.com/2013/09/23/making-r-type-zx-spectrum/) unui tip care a făcut conversia lui R-Type pentru Spectrum și recent a apărut și mi-a recomandat Google [un articol despre Quazatron](https://www.antstream.com/post/the-making-of-quazatron).
 
 Citit despre VU-3D și Database.
 
 Ca orice copil am avut idei de a face propriile jocuri, dar cum nu prea se puteau scrie in BASIC (din cauza vitezei reduse) m-am rezumat la a desena "screen-uri" (adică grafică introductivă care apărea în timp ce se încărca jocul) în Art Studio. Știu că jocul pe care voiam să-l fac avea să se numească Thumper Joe. Nu mă întrebați ce însemna "thumper" și nici ce trebuia să faci în joc. De asemenea desenam cu mare plăcere fonturi în Art Studio și am aflat că se pot salva, apoi încarca și dacă dădeai o instruncțiune: POKE 23607, CEVA puteai folosi fontul custom. De asemenea POKE 23609, NUMAR îți prelungea sunetul pe care îl scotea calculatorul la apăsarea fiecărei taste. Interesant cum acum, la 42 de ani, mi-am adus aminte de chestiile astea fără prea mult efort dar habar nu am ce am făcut acum o zi...
 
-Dacă vine vorba de programare îmi plăcea foarte mult să încarc căteodată [Beta Basic](https://worldofspectrum.org/archive/software/utilities/beta-basic-betasoft), că avea niște facilități interesante ca de exemplu grafică mult optimizată față de BASIC-ul clasic. După ce am dat buzna în manual acum că este disponibil mi-am amintit că avea structuri de looping noi și chiar puteai face programare procedurală nu doar spaghetti cu GO TO-uri.
+Dacă vine vorba de programare îmi plăcea foarte mult să încarc căteodată [Beta Basic](https://worldofspectrum.org/archive/software/utilities/beta-basic-betasoft), că avea niște facilități interesante ca de exemplu grafică mult optimizată față de BASIC-ul clasic. După ce m-am uitat în manual acum că este disponibil mi-am amintit că avea structuri de looping și chiar puteai programa procedural nu doar spaghetti cu GO TO-uri.
 
 Cât am mai așteptat eu să pun mână pe Hisoft Basic că citisem sau auzisem că ăla are _COMPILATOR_, pe vremea aia eram disperat după compilatoare că nu am fost în stare să învăț să programez în cod mașină în care erau făcute toate jocurile și programele de pe ZX Spectrum. Apropo, îmi amintesc de Tutor găsit pe o casetă, era un program românesc care te învăța cod mașina. De fapt în timp ce redactam acest articol m-am pus și am căutat Tutor, și am dat peste grupul Romanian Home Computer de pe Yahoo Groups (ulterior Google Groups), unde printre altele am găsit acest progrămel precum și multe altele și foarte multe discuții interesante. Pe această listă de discuții am dat și peste un link către un articol din Today Software Magazine ăl cărui fondator este fratele celui la care m-a dus prima oară să-i văd calculatorul după olimpiada de matematică din clasa a V-a. Practic s-a închis cercul. 🙂

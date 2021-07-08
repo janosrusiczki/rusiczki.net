@@ -9,6 +9,7 @@ description: Ruby & Web Developer. Photographer. Drone Pilot. Snowboarder. Etc.
 url: https://www.rusiczki.net
 baseurl: /
 permalink: /:year/:month/:day/:title/
+future: true
 
 author:
   name: János Rusiczki

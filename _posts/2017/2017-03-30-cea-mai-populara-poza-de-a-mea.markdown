@@ -28,3 +28,5 @@ Cam astea ar fi poveștile din spatele celor mai vizualizate fotografii de-ale m
 **Update** 1 februarie 2018 - Dedeman: 188.257 / Praktiker: 94.998
 
 **Update** 18 august 2020 - Dedeman: 1.379.668 (**WOW!**) / Brico Depot: 248.764
+
+**Update** 13 iulie 2021 - Dedeman: 2.207.478 / Brico Depot: 256.529

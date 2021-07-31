@@ -10,7 +10,7 @@ Aveam avut acest colț în fosta mea cameră (cammera în care am crescut și mi
 
 Acel dulăpior / comodă a fost mereu mobila destinată chestiilor "multimedia". Pe vremuri, când am stat la bloc am avut televizorul pe el (are și un blat rotativ pentru a ajuta la orientarea televizorului), apoi a găzduit miniturnul Electronica mulți ani până într-o zi din noiembrie 2003 când l-am împachetat și l-am depozitat altundeva. La un moment dat mama a simțit nevoia de mai mult spațiu de depozitare și am cumpărat acel raft negru, care față de poză avea un etaj în plus și era poziționat cumva mai în față, într-o poziție ciudată, obturând o parte din fereastră. Apoi de la o vreme am început să îmi iau scule hi-fi vintage și am repopulat încet raftul și pe dulăpior stătea pickup-ul. Dar că mi-am luat un CD changer care era mai adânc ca raftul și a trebuit să îl pun sub pickup.
 
-Și cum m-am apucat eu să aranjez prin cameră tocmai cu acel colț, montând alarma pe perete (până nu de mult a stat pe jos) mi-am dat seama că aș avea nevoie de ceva mult mai practic. Am măsurat chestiile hi-fi și am făcut un desen.
+Și cum m-am apucat eu să aranjez camera tocmai cu acel colț, montând centrala de alarmă care stâtea aruncată pe jos (în poză se vede doar patul de cablu care duce spre ea), mi-am dat seama că aș avea nevoie de ceva mult mai practic. Am măsurat chestiile hi-fi și am făcut un desen.
 
 
 

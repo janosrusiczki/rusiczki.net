@@ -20,41 +20,41 @@ Frustrant că deși am avut deja acest blog în mare parte din perioada pe care 
 
 ## Calculatoarele mele
 
-1. 1998, toamna - VXPro 2, Pentium 233 MHz mmx, (înainte să accesez forumului computergames.ro eram convins că a fost un Pentium 2 266 MMX) hard disc de 4,3 gb care credeam că îmi va lua o eternitate să-l umplu, monitor LG Studioworks de 14", video SiS cu 2 MB + 2 MB upgrade (singurul upgrade pe care l-am ales), cumpărat de la Sprint ca "e mai bine să cumperi de la o firmă cu garanție decât de la bișnițari" - WRONG. Aparent a avut 32 MB EDO RAM.
+1. 1998, toamna - VXPro 2, Pentium 233 MHz MMX, (înainte să accesez forumului computergames.ro eram convins că a fost un Pentium 2 266 MMX) cu hard disc de 4,3 GB care credeam că îmi va lua o eternitate să-l umplu, monitor LG StudioWorks de 14", video SiS cu 2 MB + 2 MB upgrade (singurul upgrade pe care l-am ales), cumpărat de la Sprint că "e mai bine să cumperi de la o firmă cu garanție decât de la bișnițari" - WRONG. Aparent a avut 32 MB EDO RAM.
 
-Un prieten, Radu, a luat deodată cu mine un P II 350 MHz "Klamath", Placa de baza Intel 440BX, Video i740. El nu și l-a luat de la firmă, parcă a fost și mai ieftin decât ce luasem eu și știu că mergeam pe la el și mă minunam că-i mergeau jocurile care solicitau accelerator grafic.
+Un prieten, Radu, a luat deodată cu mine un Pentium 2 "Klamath" la 350 MHz, placa de baza Intel 440BX, video i740. El nu și l-a luat de la firmă, parcă a fost și mai ieftin decât ce luasem eu și știu că mergeam pe la el și mă minunam că-i mergeau jocurile care solicitau accelerator grafic.
 
-primul cd-rom - cyberdrive, era oribil, tot freca cd-urile in loc sa le citeasca, pana nu am mai rezistat si i-am dat un pumn. S-a stricat complet. L-am dus înapoi la Sprint. "nu stim ce a avut, nu am mai vazut defectiunea asta dar v-am pus un philips" uraaaa!
+Primul CD-ROM venit cu calculatorul, marca Cyberdrive, era oribil, tot "freca" unele CD-uri în loc să le citească, până nu am mai rezistat si i-am dat un pumn moment în care nu a mai citit nimic. S-a stricat complet. L-am dus înapoi la Sprint și după o vreme m-au chemat: "nu știm ce a avut, nu am mai vazut defecțiunea asta dar v-am pus un Philips". Uraaaa!
 
-Jocuri cu prietenii: campionate de NFS2, Worms 2, CD-ul cu Faithless - Sunday 8 PM in drive.
+Jocuri cu prietenii: campionate de NFS2, Worms 2, CD-urile cu Faithless - Sunday 8 PM și Chemical Brothers - Brothers Gonna Work it out constant in drive.
 
 După aproximativ un an de la cumpărarea calculatorului, în toamna anului 1999, am reușit să mă angajez la Internet Cafe-ul facultății - în sfârșit am avut acces la Internet.
 
-Fratele lui Racolța și upgrade-urile lui prin anul 2 de facultate (99 - 2000), pentru mine acceleratoarele grafice văzute la el (Voodoo) erau ceva de domeniul viselor
+Fratele lui Racolța și upgrade-urile lui prin anul 2 de facultate (99 - 2000), pentru mine acceleratoarele grafice văzute la el (Voodoo) erau ceva de domeniul viselor.
 
-Demos și muzică în format XM. Știu că nu era în stare să redea filmele DivX fără să sacadeze. M-am chinuit să convertesc ceva film (cred că Fight Club) și după ore bune de conversie în VirtualDub a dat eroare. Nici VST-urile nu mergeau, dar mergea FastTracker 2, mergea Hammerhead de la Bram Bros.
+Demos și muzică în format XM. Știu că nu era în stare să redea filmele DivX fără să sacadeze. M-am chinuit să convertesc ceva film (cred că a fost vorba de Fight Club) și după ore bune de conversie în VirtualDub a dat eroare. Nici VST-urile nu mergeau, dar mergea FastTracker 2, mergea Hammerhead de la Bram Bros.
 
 Diskmag scris în Pascal și OS grafic în Rhide minunându-mă de ce poate face programarea orientată pe obiecte.
 
-2. 2001, ianuarie - AMD 800, GeForce MX 2 (cumpărat separat?), Soltek sl-75kv2-x / Duron 800 / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 ram, probabil am inceput cu 128 si am pus inca 64 de undeva
+2. 2001, ianuarie - AMD 800, GeForce MX 2 (cumpărat separat?), Soltek sl-75kv2-x / Duron 800 / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 MB RAM, probabil am început cu 128 și am pus pus ulterior 64 de mega de undeva.
 
-Am avut noroc că aveam o colegă care în ultimul an de facultate lucra deja la o firmă numită Cumulus Logic care funcționa în clădirea în care este de foarte mulți ani Eurohotel. Ea mi-a făcut o ofertă care includea să îmi cumpere componentele vechi. Restul banilor au provenit din salariul infim pe care-l primeam la Internet Cafe-ul la care lucram, puși de-o parte pentru o vacanță de vară care nu s-a mai întâmplat. Dar de la începutul lui 2001 am început să și lucrez la prima firmă "serioasă".
+Am avut noroc că aveam o colegă care în ultimul an de facultate lucra deja la o firmă numită Cumulus Logic care funcționa în clădirea în care este de foarte mulți ani Eurohotel. Ea mi-a făcut o ofertă care presupunea și să îmi cumpere componentele vechi. Restul banilor au provenit din salariul infim pe care-l primeam la Internet Cafe-ul la care lucram, puși de-o parte pentru o vacanță de vară care nu s-a mai întâmplat. Dar de la începutul lui 2001 am început să și lucrez la prima firmă "serioasă".
 
 La început de 2002 s-a și încheiat firma asta și am început să lucrez de acasă cu clientul pentru care lucram și de la firmă, câștigam mult mai bine, eram toată ziua la calculatorul propriu și am investit în componente.
 
 În primăvara lui 2002 am primit aparatul digital (primele poze cu data corectă sunt din 6 martie 2002)
 
-14-07-2002 aveam deja inscriptor teac 24x (cred că din poze)
+În 14 iulie 2002 aveam deja inscriptor TEAC 24x (cred că din poze).
 
-Amic cu inscriptor de CD-uri prin 99, propriul inscriptor în 2002 - https://www.rusiczki.net/2003/10/03/high-speed-cd-burning-doesnt-work/ îmi amintesc că mergeam la Metro (singurul supermarket din zonă pe vremea aia) și-mi luam tone de CD-uri, taică-meu a observat de atunci ce cheltuială mare sunt și m-a întrebat dacă chiar îmi trebuie.
-
-Skystar 1, mă laud cu ea in 12 august 2002
+Amic cu inscriptor de CD-uri prin 99, propriul inscriptor în 2002 - https://www.rusiczki.net/2003/10/03/high-speed-cd-burning-doesnt-work/ îmi amintesc că mergeam la Metro (singurul supermarket din zonă pe vremea aia) și-mi luam tone de CD-uri, taică-meu a observat de atunci ce cheltuială mare sunt și m-a întrebat dacă chiar îmi trebuie. Ei bine, a avut dreptate, nu prea îmi trebuiau. Majoritatea discurilor scrise nu prea au mai ajuns înapoi în drive vreodată.
 
 Tot din 2002 datează și monitorul Hansol 710D - 280_8050.JPG / https://www.rusiczki.net/2005/12/29/lcd-suggestions-anyone/
 
 În 2002 mi-am cumpărat o Palit Daytona Geforce 4 Ti care "fell off a truck" - la un preț absolut incredibil https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/
 
 Dialup RDSLink începând din vara lui 2002 https://www.rusiczki.net/2002/12/21/of-webcams-and-saboteurs/ - Până atunci intram pe Xnet, unde era greu să găsești loc, abia mergea, te arunca afară, dar era gratis! Știu că intrasem și înainte pe Net (în octombrie 21, 2001, vezi pe blogspot) doar că a venit totul pe factura vecinilor cu care eram "cuplați".
+
+Skystar 1, mă laud cu ea in 12 august 2002
 
 Internet prin satelit, am găsit un formular din 15 mai 2003 - În timp ce am avut abonament am prins un stress test de transponder cu download nelimitat și viteză mult mai bună, am descărcat tone de jocuri pe mai multe CD-uri. Îmi amintesc că în perioada asta îmi programam calculatorul să se oprească sau să închidă conexiunea fix înainte de ora 8 (ora de la care se termina dial-up-ul ieftin de noapte).
 
@@ -76,9 +76,9 @@ rocada intre cele 2 epox-uri https://www.rusiczki.net/2004/04/23/re-building-a-c
 Placa de bază am găsit-o cu 768 MB RAM instalați
 asta a fost era UltraPro Computers (RIP)
 
-cu calculatorul asta m-am mutat la bloc
+cu calculatorul asta m-am mutat la bloc - mutarea s-a întâmplat în a doua parte a lunii mai 2004 - https://www.rusiczki.net/2004/05/18/the-new-home/
 
-in august 2004 a murit palit daytona https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/ si am primit de la soacra la schimb o placa video slaba dar stabila ATI 9200 - https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/
+În august 2004, după o vară super fierbinte, a murit palit daytona https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/ și am primit de la soacra la schimb o placă video slabă dar stabilă ATI 9200 - https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/
 
 Primul LCD - Samsung Syncmaster 913N 31.01.2006 - https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/
 
@@ -139,7 +139,7 @@ Placi de sunet:
 
 * Ceva pe ISA probabil, nu mergea Fast Tracker 2 pe el, a fost prioritate maximă să o schimb
 * Sound Blaster 16 luat de la Arhimedes, nu mai știu exact de la cine am primit un pont că au de vânzare, sunt destul de sigur că era iarnă, am "împrumutat" 100 Deutsche Mark de la părinți fără știrea lor dar i-am pus înapoi când am luat bursa, știu că am întrebat la schimbul valutar dacă sigur nu sunt falși - Sigur a fost în cursul primului an de facultate că din anul 2 nu am mai avut bursă.
-* Cu ocazia unei vizite la Cluj am ochit, mai precis urechit niște boxe albe la un magazin de calculatoare - posibil Sprint, am remarcat cât de bine sună, apoi le-am și cumpărat, dar nu la Cluj ci la Baia Mare. Cu ocazia unei scotociri a fostei mele camere din Baia Sprie am găsit manualul de utilizare și am aflat că era vorba de niște boxe Samsung SMS-5100. Le-am dus pe vremuri (împreună cu placa de sunet) și pe la Internet Cafe-ul unde lucram și unde nu era nimic multimedia ca să ascult muzică când rămâneam de serviciu peste noapte.
+* Cu ocazia unei vizite la Cluj am ochit, mai precis urechit niște boxe albe la un magazin de calculatoare - posibil Sprint, am remarcat cât de bine sună, apoi le-am și cumpărat, dar nu la Cluj ci la Baia Mare. Cu ocazia unei scotociri a fostei mele camere din Baia Sprie am găsit absolut accidental manualul de utilizare și am aflat că era vorba de niște boxe Samsung SMS-5100. Le-am dus pe vremuri (împreună cu placa de sunet) și pe la Internet Cafe-ul unde lucram și unde nu era nimic multimedia ca să ascult muzică când rămâneam de serviciu peste noapte.
 * Sound blaster live 5.1 împreună cu Cambridge Soundworks DTT 2200, cumpărate conform computergames.ro în toamna lui 2001 de la Conseco, distribuitor Flamingo, placa de sunet mi s-a stricat în ianuarie 2002, mi-au înlocuit-o în garanție. Cred că în perioada asta îmi tot recomanda doamna de la Conseco stabilizator de tensiune, se pare că a reușit să vândă unora din Baia Sprie, și era ferm convinsă că la noi sunt variațiuni de tensiune care ne afectează componentele. Posibil să fi fost, dar eu nu mi-am cumpărat niciodată stabilizator de tensiune.
 * Căști Kenwood KPM-510 luate de la etajul 4 al magazinului Universal Maramureșul. I-am luat cândva pe la începutul anilor 2000 în perioada de glorie de după prima firmă când lucram de acasă și câștigam bine, [e confirmat aici pe blog](https://www.rusiczki.net/2003/04/05/cd-copy-protection-and-shit/) că îi aveam deja când încă stăteam în casa părintească, [îi foloseam](https://www.rusiczki.net/2005/11/17/days-of-silence/) pe la finalul anului 2005 când lucram la Softzone, dar parcă după ce am plecat de acolo în Octombrie 2006 mi-am luat prima cască Sennheiser. Îmi amintesc că s-au rupt, i-am lipit, s-au rupt iar și până la urmă când încă stăteam la bloc prin 2006 sau 2007 le-am pus la gunoi.
 * Vise de DJ, îmi trebuia o placă de sunet cu 2 ieșiri, pe o ieșire să meargă ce se aude și pe celaltă să pot asculta în căști ce pregătesc. Placa de sunet mi-am luat-o, și a fost una dintre cele mai bune investiții în hardware, dar DJ nu am ajuns. m-audio firewire audiophile - 2006 - https://www.rusiczki.net/2010/06/29/best-piece-of-hardware-ever/

@@ -2,7 +2,7 @@ Am incercat la Trodat Ștampile. Am găsit un prieten pe IRC care lucra la Inter
 
 in 2001 chiar făceam ceva ieșit din comun pentru un băisprian :)
 
-de când am avut acces la internet broadband la internet cafe și până s-a terminat temporar accesul https://www.rusiczki.net/2002/12/27/the-end-of-broadband/ am stat cu frica în sân temându-mă de acel moment, dar și pregătindu-mă pentru el, am scris 80 de cd-uri cu mp3 care am avut ocazia să le ascult după aia - chiar și în ziua de azi mai iau câte unul și-l bag în playerul din mașină să "descopăr" ce-i pe el
+de când am avut acces la internet broadband la internet cafe și până s-a terminat temporar accesul https://www.rusiczki.net/2002/12/27/the-end-of-broadband/ am stat cu frica în sân temându-mă de acel moment, dar și pregătindu-mă pentru el, am scris 80 de cd-uri cu MP3 pe care am avut ocazia să le ascult după aia - chiar și în ziua de azi mai iau câte unul și-l bag în playerul din mașină să "descopăr" ce-i pe el.
 
 cd-uri cu arhive cu kit-uri, poze salvate de pe net și bineînțeles cd-uri cu muzică și nelipsitele filme
 
@@ -20,17 +20,17 @@ Frustrant că deși am avut deja acest blog în mare parte din perioada pe care 
 
 ## Calculatoarele mele
 
-1. 1998, toamna - VXPro 2, Pentium 233 MHz mmx, (înainte să accesez forumului computergames.ro eram convins că a fost un Pentium 2 266 MMX) hard disc de 4,3 gb credeam că îmi va lua o eternitate să-l umplu, monitor LG de 14", video SiS cu 2 MB + 2 MB upgrade (singurul upgrade pe care l-am ales), cumpărat de la Sprint ca "e mai bine să cumperi de la o firmă cu garanție decât de la bișnițari" - WRONG. Aparent a avut 32 MB EDO RAM.
+1. 1998, toamna - VXPro 2, Pentium 233 MHz mmx, (înainte să accesez forumului computergames.ro eram convins că a fost un Pentium 2 266 MMX) hard disc de 4,3 gb care credeam că îmi va lua o eternitate să-l umplu, monitor LG Studioworks de 14", video SiS cu 2 MB + 2 MB upgrade (singurul upgrade pe care l-am ales), cumpărat de la Sprint ca "e mai bine să cumperi de la o firmă cu garanție decât de la bișnițari" - WRONG. Aparent a avut 32 MB EDO RAM.
 
 Un prieten, Radu, a luat deodată cu mine un P II 350 MHz "Klamath", Placa de baza Intel 440BX, Video i740. El nu și l-a luat de la firmă, parcă a fost și mai ieftin decât ce luasem eu și știu că mergeam pe la el și mă minunam că-i mergeau jocurile care solicitau accelerator grafic.
 
 primul cd-rom - cyberdrive, era oribil, tot freca cd-urile in loc sa le citeasca, pana nu am mai rezistat si i-am dat un pumn. S-a stricat complet. L-am dus înapoi la Sprint. "nu stim ce a avut, nu am mai vazut defectiunea asta dar v-am pus un philips" uraaaa!
 
-Fratele lui Racolța și upgrade-urile lui prin anul 2 de facultate (99 - 2000), pentru mine acceleratoarele grafice văzute la el (Voodoo) erau ceva de domeniul viselor
-
 Jocuri cu prietenii: campionate de NFS2, Worms 2, CD-ul cu Faithless - Sunday 8 PM in drive.
 
 După aproximativ un an de la cumpărarea calculatorului, în toamna anului 1999, am reușit să mă angajez la Internet Cafe-ul facultății - în sfârșit am avut acces la Internet.
+
+Fratele lui Racolța și upgrade-urile lui prin anul 2 de facultate (99 - 2000), pentru mine acceleratoarele grafice văzute la el (Voodoo) erau ceva de domeniul viselor
 
 Demos și muzică în format XM. Știu că nu era în stare să redea filmele DivX fără să sacadeze. M-am chinuit să convertesc ceva film (cred că Fight Club) și după ore bune de conversie în VirtualDub a dat eroare. Nici VST-urile nu mergeau, dar mergea FastTracker 2, mergea Hammerhead de la Bram Bros.
 
@@ -66,7 +66,7 @@ Din păcate nu îmi amintesc mai nimic despre acest upgrade și îmi vine cumva 
 
 planuri de upgrade https://www.rusiczki.net/2003/04/13/plans-for-a-pc-upgrade/
 
-Am găsit ambalajul plăcii de bază din această configurație precum și cutia plăcii de bază de la următoarea configurație într-una din săpăturile arheologice efectuate în fosta mea cameră din Baia Sprie, iar mai recent efectuând cercetări prin pod am găsit și plăcile de bază efective - dar mă confuzează că am găsit o mențiune din 2003 în care ziceam că am amd xp1800+ https://www.rusiczki.net/2003/09/03/100-days-is-quite-a-long-time/ și eu am găsit procesorul ăsta 2000+ 
+Am găsit ambalajul plăcii de bază din această configurație precum și cutia plăcii de bază de la următoarea configurație într-una din săpăturile arheologice efectuate în fosta mea cameră din Baia Sprie, iar mai recent efectuând cercetări prin pod am găsit și plăcile de bază efective - dar mă confuzează că am găsit o mențiune din 2003 în care ziceam că am amd xp1800+ https://www.rusiczki.net/2003/09/03/100-days-is-quite-a-long-time/ și eu am găsit procesorul ăsta 2000+
 
 despre harddisc-uri https://www.rusiczki.net/2003/10/23/the-price-of-laziness/
 

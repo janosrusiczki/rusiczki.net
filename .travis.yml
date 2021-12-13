@@ -18,7 +18,7 @@ script:
 - bundle exec jekyll build
 - bundle exec rake test
 before_deploy:
-- openssl aes-256-cbc -K $encrypted_7c9a13614df7_key -iv $encrypted_7c9a13614df7_iv
+- openssl aes-256-cbc -K $encrypted_db2095f63ba3_key -iv $encrypted_db2095f63ba3_iv
   -in ./_support/deploy/deploy_rsa.enc -out /tmp/deploy_rsa -d
 - eval "$(ssh-agent -s)"
 - chmod 600 /tmp/deploy_rsa
@@ -27,7 +27,7 @@ before_deploy:
 deploy:
   provider: script
   edge: true
-  script: rsync -r --quiet --delete-after _site/*
+  script: rsync -r -e 'ssh -p $DEPLOY_PORT' --quiet --delete-after _site/*
     $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_DIRECTORY
   on:
     branch: master

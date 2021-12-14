@@ -22,7 +22,7 @@ Voi face aici o mică paranteză și voi scrie despre cercurile la care am parti
 - Minerit - Care de fapt era un cerc de modelism, dar fiind epoca odiosului și Baia Sprie fiind un oraș minier a trebuit denumit ca atare. Aici am construit o machetă de ARO 240 și o barcă, ambele din placaj. Cred că am umblat 3 sau 4 ani la acest cerc și mi-a plăcut foarte mult.
 - Cronologic cred că aici au picat acele 2 ore de cerc de info.
 - Foto - Unde ne-a învățat tot procesul de fotografie de la făcutul de poze până la developarea lor. Pe film binențeles.
-- Dendrologie - Aici o doamnă mai nonconfirmistă (soția unui chirurg renumit din Baia Mare) ne-a povestit vrute și nevrute despre religie, paranormal și legătura dintre ele zăpăcindu-ne considerabil percepția ușor maleabilă pe care o aveam la acea vârstă. Asta cred că a fost ultimul cerc la care am umblat, până prin clasa a șaptea...
+- Dendrologie - Aici o doamnă mai nonconfirmistă (soția unui chirurg renumit din Baia Mare) ne-a povestit vrute și nevrute despre religie, paranormal și legătura dintre ele, zăpăcindu-ne considerabil percepția ușor maleabilă pe care o aveam la acea vârstă. Ăsta a fost, cred, ultimul cerc pe care l-am frecventat.
 
 Să revenim la calculatoare. După olimpiada de matematică din clasa a V-a (da, am participat la așa ceva și chiar am ajuns la etapa județeană!) am mers la un coleg și bun prieten să-i văd calculatorul, avea o clonă ZX Spectrum, o Electronica CIP de primă generație. Probabil ne-am jucat ceva, nu-mi mai amintesc exact ce, dar am rămas fascinat.
 

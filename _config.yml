@@ -9,6 +9,7 @@ description: Ruby & Web Developer. Photographer. Drone Pilot. Snowboarder. Etc.
 url: https://www.rusiczki.net
 baseurl: /
 permalink: /:year/:month/:day/:title/
+future: true
 
 author:
   name: János Rusiczki
@@ -37,9 +38,10 @@ exclude:
   - Rakefile
 
 algolia:
-   application_id: WMKRED0LJU
-   index_name: janosrusiczki
-   search_only_api_key: 925c854d627ec98d0ca55addbecd6b82
+  application_id: WMKRED0LJU
+  index_name: janosrusiczki
+  search_only_api_key: 925c854d627ec98d0ca55addbecd6b82
+  nodes_to_index: 'p,li,blockquote'
 
 github:
   repository_url: https://github.com/janosrusiczki/janosrusiczki

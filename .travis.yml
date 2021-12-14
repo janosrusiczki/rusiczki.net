@@ -1,6 +1,10 @@
+arch: amd64
+os: linux
+dist: bionic
 language: ruby
 rvm:
 - 2.4
+cache: bundler
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
@@ -10,6 +14,9 @@ env:
 branches:
   only:
   - master
+install:
+- bundle config path vendor/bundle
+- bundle install  
 script:
 - bundle exec jekyll build
 - bundle exec rake test
@@ -22,7 +29,7 @@ before_deploy:
 - echo -e "Host $DEPLOY_HOST\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 deploy:
   provider: script
-  skip_cleanup: true
+  edge: true
   script: rsync -r --quiet --delete-after _site/*
     $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_DIRECTORY
   on:

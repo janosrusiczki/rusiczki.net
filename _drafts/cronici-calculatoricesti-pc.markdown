@@ -16,7 +16,7 @@ moartea lui palit daytona https://www.rusiczki.net/2004/08/27/palit-daytona-gefo
 
 mac! https://www.rusiczki.net/2007/10/04/time-for-a-switch/
 
-Frustrant că deși am avut deja acest blog în mare parte din perioada pe care vreau să o documentez aici, arareori am scris despre calculator. Cu atât mai puțin despre upgrade-uri și din păcate majoritatea discuțiilor pe care le-am avut despre subiect, le-am avut pe Yahoo! Messenger care a murit de o vreme - și nu am fost maniac să salvez arhivele așa cum am fost pe vremuri cu log-urile de canale IRC. Am avut însă un noroc enorm deorece la un moment dat mi-a scris un prieten că uite, din cauza GDPR-ului (care urma să intre în vigoare) se va închide și forumul computergames.ro și aruncând o privire am găsit acolo foarte - foarte multe informații despre calculatoarele mele din epoca când eram foarte activ pe acel forum, adică în jurul schimbării mileniului.
+Frustrant că deși am avut deja acest blog în mare parte din perioada pe care vreau să o documentez aici, arareori am scris despre calculator. Cu atât mai puțin despre upgrade-uri și din păcate majoritatea discuțiilor pe care le-am avut despre subiect, le-am avut pe Yahoo! Messenger care după cum știți a murit de o vreme - și nu am fost maniac să salvez arhivele așa cum am fost pe vremuri cu log-urile de canale IRC. Am avut însă un noroc enorm deorece la un moment dat mi-a scris un prieten că uite, din cauza GDPR-ului (care urma să intre în vigoare) se va închide și forumul computergames.ro și aruncând o privire am găsit acolo foarte - foarte multe informații despre calculatoarele mele din epoca când eram foarte activ pe acel forum, adică în jurul schimbării mileniului.
 
 ## Calculatoarele mele
 
@@ -38,7 +38,7 @@ Diskmag scris în Pascal și OS grafic în Rhide minunându-mă de ce poate face
 
 2. 2001, ianuarie - AMD 800, GeForce MX 2 (cumpărat separat?), Soltek sl-75kv2-x / Duron 800 / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 MB RAM, probabil am început cu 128 și am pus pus ulterior 64 de mega de undeva.
 
-Am avut noroc că aveam o colegă care în ultimul an de facultate lucra deja la o firmă numită Cumulus Logic care funcționa în clădirea în care este de foarte mulți ani Eurohotel. Ea mi-a făcut o ofertă care presupunea și să îmi cumpere componentele vechi. Restul banilor au provenit din salariul infim pe care-l primeam la Internet Cafe-ul la care lucram, puși de-o parte pentru o vacanță de vară care nu s-a mai întâmplat. Dar de la începutul lui 2001 am început să și lucrez la prima firmă "serioasă".
+Am avut noroc că aveam o colegă care în ultimul an de facultate lucra deja la o firmă numită Cumulus Logic care funcționa în clădirea în care este de foarte mulți ani Eurohotel. Ea mi-a făcut o ofertă care presupunea să îmi cumpere și componentele vechi. Restul banilor au provenit din salariul infim pe care-l primeam la Internet Cafe-ul la care lucram, puși de-o parte pentru o vacanță de vară care nu s-a mai întâmplat. Dar de la începutul lui 2001 am început să și lucrez la prima firmă "serioasă".
 
 La început de 2002 s-a și încheiat firma asta și am început să lucrez de acasă cu clientul pentru care lucram și de la firmă, câștigam mult mai bine, eram toată ziua la calculatorul propriu și am investit în componente.
 

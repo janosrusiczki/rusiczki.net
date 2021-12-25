@@ -68,6 +68,8 @@ planuri de upgrade https://www.rusiczki.net/2003/04/13/plans-for-a-pc-upgrade/
 
 Am găsit ambalajul plăcii de bază din această configurație precum și cutia plăcii de bază de la următoarea configurație într-una din săpăturile arheologice efectuate în fosta mea cameră din Baia Sprie, iar mai recent efectuând cercetări prin pod am găsit și plăcile de bază efective - dar mă confuzează că am găsit o mențiune din 2003 în care ziceam că am amd xp1800+ https://www.rusiczki.net/2003/09/03/100-days-is-quite-a-long-time/ și eu am găsit procesorul ăsta 2000+
 
+Ca să fie și mai confuz, aici spun că am un procesor de 1.66 ghz care corespunde cu 2000+ https://www.rusiczki.net/2005/07/24/windows-reinstall/
+
 despre harddisc-uri https://www.rusiczki.net/2003/10/23/the-price-of-laziness/
 
 4. 2004.04.23 - Epox EP-8RDA3I - AMD Athlon XP 2000+

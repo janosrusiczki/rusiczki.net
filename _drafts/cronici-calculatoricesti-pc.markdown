@@ -36,7 +36,7 @@ Demos și muzică în format XM. Știu că nu era în stare să redea filmele Di
 
 Diskmag scris în Pascal și OS grafic în Rhide minunându-mă de ce poate face programarea orientată pe obiecte.
 
-2. 2001, ianuarie - AMD 800, GeForce MX 2 (cumpărat separat?), Soltek sl-75kv2-x / Duron 800 / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 MB RAM, probabil am început cu 128 și am pus pus ulterior 64 de mega de undeva.
+2. 2001, ianuarie - AMD 800, GeForce MX 2 (cumpărat separat? - nu știu dacă a fost cumpărat separat, îl aveam deja în februarie 2002), Soltek sl-75kv2-x / Duron 800 / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 MB RAM, probabil am început cu 128 și am pus pus ulterior 64 de mega de undeva.
 
 Am avut noroc că aveam o colegă care în ultimul an de facultate lucra deja la o firmă numită Cumulus Logic care funcționa în clădirea în care este de foarte mulți ani Eurohotel. Ea mi-a făcut o ofertă care presupunea să îmi cumpere și componentele vechi. Restul banilor au provenit din salariul infim pe care-l primeam la Internet Cafe-ul la care lucram, puși de-o parte pentru o vacanță de vară care nu s-a mai întâmplat. Dar de la începutul lui 2001 am început să și lucrez la prima firmă "serioasă".
 

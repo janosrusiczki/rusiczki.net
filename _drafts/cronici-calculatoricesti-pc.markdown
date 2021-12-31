@@ -54,7 +54,7 @@ Tot din 2002 datează și monitorul Hansol 710D - 280_8050.JPG / https://www.rus
 
 Dialup RDSLink începând din vara lui 2002 https://www.rusiczki.net/2002/12/21/of-webcams-and-saboteurs/ - Până atunci intram pe Xnet, unde era greu să găsești loc, abia mergea, te arunca afară, dar era gratis! Știu că intrasem și înainte pe Net (în octombrie 21, 2001, vezi pe blogspot) doar că a venit totul pe factura vecinilor cu care eram "cuplați".
 
-Skystar 1, mă laud cu ea in 12 august 2002
+Skystar 1, mă laud cu ea in 12 august 2002 pe computer games, tot conform computer games forum l-am luat în 7 august 2002.
 
 Internet prin satelit, am găsit un formular din 15 mai 2003 - În timp ce am avut abonament am prins un stress test de transponder cu download nelimitat și viteză mult mai bună, am descărcat tone de jocuri pe mai multe CD-uri. Îmi amintesc că în perioada asta îmi programam calculatorul să se oprească sau să închidă conexiunea fix înainte de ora 8 (ora de la care se termina dial-up-ul ieftin de noapte).
 

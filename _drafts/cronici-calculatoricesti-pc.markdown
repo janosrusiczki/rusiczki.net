@@ -137,6 +137,8 @@ Reservoir: Innovatek AGB-O-Matic
 
 7. Intel i7 7700k
 
+Din 2017 tot duceam la Baia Sprie laptop-ul să plătesc facturile prin Internet până m-am enervat și am luat o placă de bază de putere laptop low end.
+
 Placi de sunet:
 
 * Ceva pe ISA probabil, nu mergea Fast Tracker 2 pe el, a fost prioritate maximă să o schimb

@@ -2,7 +2,7 @@ Am incercat la Trodat Ștampile. Am găsit un prieten pe IRC care lucra la Inter
 
 in 2001 chiar făceam ceva ieșit din comun pentru un băisprian :)
 
-de când am avut acces la internet broadband la internet cafe și până s-a terminat temporar accesul https://www.rusiczki.net/2002/12/27/the-end-of-broadband/ am stat cu frica în sân temându-mă de acel moment, dar și pregătindu-mă pentru el, am scris 80 de cd-uri cu MP3 pe care am avut ocazia să le ascult după aia - chiar și în ziua de azi mai iau câte unul și-l bag în playerul din mașină să "descopăr" ce-i pe el.
+De când am avut acces la internet broadband la internet cafe și până s-a terminat temporar accesul https://www.rusiczki.net/2002/12/27/the-end-of-broadband/ am stat cu frica în sân temându-mă de acel moment, dar și pregătindu-mă pentru el, am scris mai mult de 80 de CD-uri cu MP3 pe care am avut ocazia să le ascult după aia - chiar și în ziua de azi mai iau câte unul și-l bag în playerul din mașină să "descopăr" ce-i pe el.
 
 cd-uri cu arhive cu kit-uri, poze salvate de pe net și bineînțeles cd-uri cu muzică și nelipsitele filme
 
@@ -18,7 +18,7 @@ mac! https://www.rusiczki.net/2007/10/04/time-for-a-switch/
 
 Câteva cuvinte despre procesul de documentare: Frustrant este că deși am avut deja acest blog în mare parte din perioada pe care vreau să o descriu aici, arareori am scris despre calculatoare. Mă rog, de fapt veți găsi destul de multe linkuri în cele ce urmează - dar procentual totuși au fost rare mențiunile). Cu atât mai puțin am scris despre upgrade-uri și din păcate majoritatea discuțiilor pe care le-am avut despre subiect, le-am avut pe Yahoo! Messenger care după cum știți a murit de o vreme bună - și nu am fost maniac să salvez arhivele așa cum am fost pe vremuri cu mail-urile și log-urile de IRC. Am avut însă un noroc enorm deorece la un moment dat mi-a scris [un prieten](https://www.lucianmarin.se) că din cauza GDPR-ului (care urma să intre în vigoare) se va închide și forumul computergames.ro și aruncând o privire am găsit acolo foarte - foarte multe informații despre calculatoarele mele din epoca când eram foarte activ pe acel forum, adică în jurul schimbării mileniului. Până în acel moment, cea mai bună șansă de a afla configurația primelor mele calculatoare o consideram să găsesc pe CD-urile mele cu arhive scrisorile trimise la diferiți omuleți cu care corespondam, dar din păcate am cam eșuat pentru că fix primul CD cu arhive, s-a decojit tocmai la margine, unde era arhiva de scrisori. De asemenea încercasem de câțiva ani hard discurile din acele vremuri dar am constatat că au început să cloncăne. După aia, pe la începutul lui 2022, făcând ordine în camera din Baia Sprie am găsit un CD care nu făcea parte din seria mea oficială de CD-uri cu arhive dar am găsit pe el arhiva mail-boxurilor de pe vremea când lucram la Internet Cafe. De asemenea am găsit facturi și garanții pentru aproape toate cumpărăturile din 2001 - 2004 (când m-am mutat din Baia Sprie). Facturile din perioada 2004 - 2007 (cât am stat în chirie la bloc), oricât le-am căutat, se pare că s-au pierdut.
 
-## Calculatoarele mele
+## PC-urile mele
 
 1. 1998, toamna - VXPro 2, Pentium 233 MHz MMX, (înainte să accesez forumului computergames.ro eram convins că a fost un Pentium 2 266 MMX) cu hard disc de 4,3 GB care credeam că îmi va lua o eternitate să-l umplu, monitor LG StudioWorks de 14", video SiS cu 2 MB + 2 MB upgrade (singurul upgrade pe care l-am ales), cumpărat de la Sprint că "e mai bine să cumperi de la o firmă cu garanție decât de la bișnițari" - WRONG. Aparent a avut 32 MB EDO RAM.
 
@@ -52,7 +52,7 @@ Tot din 2002 datează și monitorul Hansol 710D - 280_8050.JPG / https://www.rus
 
 În 2002 mi-am cumpărat o Palit Daytona Geforce 4 Ti care "fell off a truck" - la un preț absolut incredibil https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/
 
-Dialup RDSLink începând din vara lui 2002 https://www.rusiczki.net/2002/12/21/of-webcams-and-saboteurs/ - Până atunci intram pe Xnet, unde era greu să găsești loc, abia mergea, te arunca afară, dar era gratis! Știu că intrasem și înainte pe Net (în octombrie 21, 2001, vezi pe blogspot) doar că a venit totul pe factura vecinilor cu care eram "cuplați". Nu știu de la cine am avut modem în această perioadă.
+Dialup RDSLink începând din vara lui 2002 https://www.rusiczki.net/2002/12/21/of-webcams-and-saboteurs/ - Până atunci intram pe Xnet, unde era greu să găsești loc, abia mergea, te arunca afară, dar era gratis! Știu că intrasem și înainte pe Net (în octombrie 21, 2001, vezi pe blogspot) doar că a venit totul pe factura vecinilor cu care eram "cuplați". Nu știu de la cine am avut modem pentru această primă aventură.
 
 Skystar 1, mă laud cu ea in 12 august 2002 pe computer games, tot conform computer games forum l-am luat în 7 august 2002.
 

@@ -22,11 +22,19 @@ Restabilind directorul de mailuri și pornind clientul de mail, am demarat pract
 
 Pentru cei pe care îi deranjează directorul crack din screenshot, am să menționez că unul dintre primele softuri pe care le-am cumpărat (în viața mea), pare-mi-se imediat cum am ajuns să lucru de acasă în primăvara lui 2002, a fost [The Bat!](https://www.ritlabs.com/en/products/thebat/) Sau un joc de jigsaw puzzle. Nu mai știu care sau în ce ordine. The Bat! era un client grozav de email, fără problemele de securitate ale Outlook-ului, l-am dat uitării abia cândva după ce am făcut rost de contul de Gmail.
 
+Memoria m-a înșelat, iar, pentru că prin mailbox-uri am găsit doar acest mail referitor la o configrație dorită, dar nu a fost și cea obținută.
+
+[![Screenshot The Bat! cu configurația dorită de calculator](https://content.rusiczki.net/2022/01/virtual-box-screenshot-the-bat-config.png)](https://content.rusiczki.net/2022/01/virtual-box-screenshot-the-bat-config.png){:.glightbox}
+
 Tot pe CD-urile cu arhive am mai găsit directoare denumite internet, care arătau așa:
 
-Practic îmi salvam pagini și fișiere de pe net și le duceam acasă să le lecturez în liniște. Asta a fost era purtatului chestiilor pe dischete și de aia consideram că sunt demne de a fi arhivate și puse pe CD-uri pentru că făceam un efort să ajungă fișierele întregi acasă. Cumva sunt invidios pe Janos din acele vremuri, comparativ era miliardar de timp.
+Practic îmi salvam chestii de pe net și le duceam acasă să le lecturez în liniște. Asta a fost era purtatului fișierelor pe dischete și de aia consideram că sunt demne de a fi arhivate și puse pe CD-uri pentru că făceam un efort să ajungă întregi acasă. Cumva sunt invidios pe Janos din acele vremuri, comparativ cu cel de acum era miliardar de timp.
 
-Dacă tot veni vorba de WebWebStudio, mai trebuie să menționez trei chestii pe care le-am luat de acolo. Unul a fost un webcam Philips pe care l-am folosit ca webcam și cu care am făcut primele poze și filmări digitale prin camera mea - de fapt alea le-am făcut cu aparatul digital al patronului de la aceași firmă pe care îl împrumutasem pentru o seară. Mouse-ul Logitech wireless pe care l-am folosit mult și bine chiar și după ce m-am mutat în garsonieră în 2004. Ultima, și poate cea mai dragă chestie a fost o șurubelnița galbenă pe care am folosit-o practic din acel moment pentru a-mi desface și reface calculatoarele și nu numai și mă servește și în ziua de astăzi fără probleme. Nu știu cine a cumpărat-o inițial, îmi amintesc că era pe un raft lângă ușa de la balcon și atât de tare mi-a plăcut, încât am profitat de ocazie la un moment dat și am luat-o acasă. Da, am furat-o.
+Dacă tot veni vorba de WebWebStudio, mai trebuie să menționez trei chestii pe care le-am luat de acolo:
+
+* Un webcam Philips pe care l-am folosit mai puțin ca webcam și mai mult ca și cameră digitală pentru poze și filmări digitale pe acasă. De fapt chiar primele poze și filmări digitale acasă în cameră le-am făcut cu aparatul digital al patronului de la aceași firmă pe care îl împrumutasem pentru o seară.
+* Mouse-ul Logitech wireless pe care l-am folosit mult și bine chiar și după ce m-am mutat în garsonieră în 2004.
+* Ultima, și poate cea mai dragă chestie a fost o șurubelnița cu mâner galben pe care am folosit-o practic din acel moment pentru a-mi desface și reface calculatoarele și nu numai și mă servește chiar și în ziua de azi fără probleme. Nu știu cine a cumpărat-o inițial, îmi amintesc că era pe un raft lângă ușa de la balcon și atât de tare mi-a plăcut, încât am profitat de ocazie la un moment dat (probabil pe la finalul firmei) și am luat-o acasă. Da, am furat-o.
 
 Discurile s-au păstrat foarte bine fiind ținute într-un mediu oarecum controlat, fără umiditate excesivă sau temperaturi extreme.
 
@@ -40,3 +48,5 @@ Mai păstrez o vreme:
 
 * CD-urile cu arhive menționate mai sus
 * Celebra mea colecție de 80 și ceva de CD-uri cu MP3-uri
+
+Nu îmi mai amintesc cum ajungeam de la facultate la firmă. Nu îmi amintesc cu ce frecvență am mers dinspre toamnă când au dispărut patronii. Îmi amintesc în schimb de miile de luptele cu apă. De amicul răposat pe care îl lăsam vineri să joace niște Fallout și luni dimineața tot acolo îl găseam.

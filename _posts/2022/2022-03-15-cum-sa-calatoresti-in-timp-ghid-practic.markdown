@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Cum să călătorești în timp - Ghid Practic
-date: 2021-01-07 10:00:00 +0200
+date: 2021-03-15 10:00:00 +0200
 categories:
 - Cronică
 - Tehnic
-image: https://content.rusiczki.net/2022/01/internet-folder-1.png
+image: https://content.rusiczki.net/2022/03/internet-folder-1.png
 description: Despre ce "comori" am găsit în arhiva mea de CD-uri.
 ---
 Sunt în plin proces de documentare a părții cu numărul trei din seria articolelor despre calculatoarele mele (cu toate că în momentul redactării articolului de față nu a apărut pe blog nici partea a doua). Spoiler: în a treia parte va fi vorba despre PC-urile mele și încerc să adun câte informații pot despre această perioadă. Totodată îmi fac curat prin casa din Baia Sprie, respectiv în fosta (și actuala) mea cameră, unde, până anul trecut, timpul înghețase din 2004 când m-am mutat de acolo. Răposații mei părinți nu s-au atins de tona de CD-uri inscripționate pe care le-am lăsat în dulap. M-am atins doar eu de ele și cu precădere de cele cu MP3-uri.
@@ -16,25 +16,25 @@ Pe unul dintre aceste CD-uri am găsit un fișier _my_webwebstudio_mailbox.rar_ 
 
 Restabilind directorul de mailuri și pornind clientul de mail, am demarat practic DeLorean-ul... A fost o experiență sureală să găsesc mailuri necitite cu diferite newslettere și să le citesc acuma, după 20 de ani. De asemenea am fost foarte mirat să văd cu câți oameni corespondam prin mail pe lângă IRC-ul cel de toate zilele - se vede că nu existau platforme de socializare în acele vremuri iar mesageria instant era într-o fază emergentă.
 
-[![Screenshot The Bat! cu newsletterul Daily Ha-Ha din 16 ianuarie 2001](https://content.rusiczki.net/2022/01/virtual-box-screenshot-the-bat-newsletter.png)](https://content.rusiczki.net/2022/01/virtual-box-screenshot-the-bat-newsletter.png){:.glightbox}
+[![Screenshot The Bat! cu newsletterul Daily Ha-Ha din 16 ianuarie 2001](https://content.rusiczki.net/2022/03/virtual-box-screenshot-the-bat-newsletter.png)](https://content.rusiczki.net/2022/03/virtual-box-screenshot-the-bat-newsletter.png){:.glightbox}
 
 Pentru cei pe care îi deranjează directorul crack din screenshot, am să menționez că unul dintre primele softuri pe care le-am cumpărat (în viața mea), pare-mi-se imediat cum am ajuns să lucru de acasă în primăvara lui 2002, a fost [The Bat!](https://www.ritlabs.com/en/products/thebat/). Sau un joc de jigsaw puzzle. Nu mai știu care sau în ce ordine. The Bat! era un client grozav de email, fără problemele de securitate ale Outlook-ului, am încetat să-l folosesc abia cândva după ce am făcut rost de contul de Gmail.
 
 Memoria m-a semi-înșelat însă, pentru că prin mailbox-uri am găsit doar acest mail referitor la o configrație dorită pentru al doilea calculator, care nu a fost și cea obținută. În schimb am găsit (și confirmat) configurația primului PC.
 
-[![Screenshot The Bat! cu configurația dorită de calculator](https://content.rusiczki.net/2022/01/virtual-box-screenshot-the-bat-config.png)](https://content.rusiczki.net/2022/01/virtual-box-screenshot-the-bat-config.png){:.glightbox}
+[![Screenshot The Bat! cu configurația dorită de calculator](https://content.rusiczki.net/2022/03/virtual-box-screenshot-the-bat-config.png)](https://content.rusiczki.net/2022/03/virtual-box-screenshot-the-bat-config.png){:.glightbox}
 
 Tot pe CD-urile cu arhive am mai găsit câteva directoare denumite internet, a căror conținut era:
 
-![Screenshot folder internet cu conținutul împărțit pe zile](https://content.rusiczki.net/2022/01/internet-folder-1.png)
+![Screenshot folder internet cu conținutul împărțit pe zile](https://content.rusiczki.net/2022/03/internet-folder-1.png)
 
 Practic îmi duceam acasă pe dischete chestii de pe unde aveam acces la internet (în exemplul de mai sus [eram deja angajat la Internet Cafe-ul facultății](https://www.rusiczki.net/2002/12/27/the-end-of-broadband/)) ca să le pot lectura în liniște. Intrând pe o zi aveam sortate chestiile pe categorii, să nu fie debandadă:
 
-![Screenshot folder internet cu conținutul unei zile](https://content.rusiczki.net/2022/01/internet-folder-2.png)
+![Screenshot folder internet cu conținutul unei zile](https://content.rusiczki.net/2022/03/internet-folder-2.png)
 
 Și în final conținutul directorului fun pentru această zi, o pagină salvată cu un top de piese în format .xm (module) și probabil log-uri de IRC arhivate cu [ACE](https://en.wikipedia.org/wiki/ACE_(compressed_file_format)) pe care eu îl foloseam în loc de RAR că citisem că ar comprima mai bine. De asemenea am înclinat spre ACE pentru că am văzut că în acea perioadă și jocurile piratate veneau arhivate în acest format și am bănuit că dacă "scena" de pirați folosește ACE, trebuie să fie bun.
 
-![Screenshot folder internet cu conținutul unei folder dintr-o anumită zi](https://content.rusiczki.net/2022/01/internet-folder-3.png)
+![Screenshot folder internet cu conținutul unei folder dintr-o anumită zi](https://content.rusiczki.net/2022/03/internet-folder-3.png)
 
 Acesta a fost era purtatului datelor pe dischete și pentru că făceam un efort să ajungă întregi acasă am considerat ulterior că sunt demne de a fi arhivate pe CD-uri. Cumva sunt invidios pe János din acele vremuri, comparativ cu cel de acum era miliardar de timp.
 

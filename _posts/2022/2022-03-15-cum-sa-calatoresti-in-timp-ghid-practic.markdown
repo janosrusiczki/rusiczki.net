@@ -20,7 +20,7 @@ Restabilind directorul de mailuri și pornind clientul de mail, am demarat pract
 
 Pentru cei pe care îi deranjează directorul crack din screenshot, am să menționez că unul dintre primele softuri pe care le-am cumpărat (în viața mea), pare-mi-se imediat cum am ajuns să lucru de acasă în primăvara lui 2002, a fost [The Bat!](https://www.ritlabs.com/en/products/thebat/). Sau un joc de jigsaw puzzle. Nu mai știu care sau în ce ordine. The Bat! era un client grozav de email, fără problemele de securitate ale Outlook-ului, am încetat să-l folosesc abia cândva după ce am făcut rost de contul de Gmail.
 
-Memoria m-a semi-înșelat însă, pentru că prin mailbox-uri am găsit doar acest mail referitor la o configrație dorită pentru al doilea calculator, care nu a fost și cea obținută. În schimb am găsit (și confirmat) configurația primului PC.
+Memoria m-a semi-înșelat însă, pentru că prin mailbox-uri am găsit doar acest mail referitor la o configurație dorită pentru al doilea calculator, care nu a fost și cea obținută. În schimb am găsit (și confirmat) configurația primului PC.
 
 [![Screenshot The Bat! cu configurația dorită de calculator](https://content.rusiczki.net/2022/03/virtual-box-screenshot-the-bat-config.png)](https://content.rusiczki.net/2022/03/virtual-box-screenshot-the-bat-config.png){:.glightbox}
 

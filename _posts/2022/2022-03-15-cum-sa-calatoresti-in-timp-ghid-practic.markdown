@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cum să călătorești în timp - Ghid Practic
-date: 2021-03-15 10:00:00 +0200
+date: 2022-03-15 09:00:00 +0200
 categories:
 - Cronică
 - Tehnic

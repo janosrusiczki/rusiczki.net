@@ -38,23 +38,23 @@ Practic îmi duceam acasă pe dischete chestii de pe unde aveam acces la interne
 
 Acesta a fost era purtatului datelor pe dischete și pentru că făceam un efort să ajungă întregi acasă am considerat ulterior că sunt demne de a fi arhivate pe CD-uri. Cumva sunt invidios pe János din acele vremuri, comparativ cu cel de acum era miliardar de timp.
 
-Și dacă tot veni vorba de WebWebStudio, îmi amintesc că am fost angajat acolo aproape la fix anul 2001 începând din ianuarie și terminând în decembrie. Nu pot să nu menționez câteva chestii pe care le-am "luat" de acolo:
+Și dacă tot veni vorba de WebWebStudio, îmi amintesc că perioada cât am fost angajat acolo coincide aproape la fix cu anul 2001, am început în ianuarie și s-a terminat, așa cum spuneam, în decembrie. Nu pot să nu menționez câteva chestii pe care le-am "luat" de acolo:
 
 * Un webcam Philips pe care l-am folosit mai puțin ca webcam și mai mult pentru poze și filmări. De fapt chiar primele poze și filmări digitale acasă la mine le-am făcut cu aparatul digital al patronului de la aceași firmă pe care îl împrumutasem pentru o seară.
 * Logitech Wireless Wheel Mouse pe care l-am folosit mult și bine chiar și după ce m-am mutat în garsonieră în 2004 până nu a mai mers unul dintre butoane.
 * Mousepad cu gel care mi se părea foarte comfortabil și după ce l-am uzat pe acesta, mi-am tot cumpărat ale mele.
 * Ultima, și poate cea mai dragă chestie a fost o șurubelnița cu mâner galben pe care am folosit-o practic din acel moment pentru a-mi desface și reface calculatoarele și nu numai și mă servește chiar și în ziua de azi fără probleme. A fost o lungă perioadă de vreme șurubelnița mea în cruce. Nu știu cine a cumpărat-o inițial, dar îmi amintesc că era pe un raft lângă ușa de la balcon și atât de tare mi-a plăcut, încât am profitat de ocazie la un moment dat (probabil pe la finalul firmei) și am luat-o acasă. Da, cu alte cuvinte, am furat-o. Ca și restul chestiilor de mai sus.
 
-Nu îmi mai amintesc cum ajungeam de la facultate la firmă. Nu îmi amintesc cu ce frecvență am mers începând cu toamnă când au dispărut patronii. Îmi amintesc în schimb de miile de luptele cu apă. De amicul răposat pe care îl lăsam vineri să joace niște Fallout și luni dimineața tot acolo îl găseam.
+La un moment dat am făcut un efort dar nu am reușit să-mi amintesc pe ce traseu ajungeam de la facultate la firmă. Nu îmi mai amintesc nici cu ce frecvență am mers pe acolo începând cu toamna când au dispărut patronii. Îmi amintesc în schimb de luptele cu apă din vară de la birou (o idee absolut genială având în vedere că erau calculatoare în jur), de pizza adusă câteodată pentru cină, de skateboarderii care se desfășurau în fața casei de cultură pe unde treceam eu în drum spre casă de la firmă spre stația de autobus și de Lucian pe care îl lăsam vineri să joace niște Fallout și luni dimineața tot acolo îl găseam - el a decedat din păcate acum câțiva ani...
 
-Revenind la arhive: discurile s-au păstrat surprinzător de bine fiind ținute într-un mediu oarecum controlat, fără umiditate excesivă sau temperaturi extreme.
+Revenind la arhive: discurile s-au păstrat surprinzător de bine fiind ținute în cameră într-un mediu oarecum controlat, fără umiditate excesivă sau temperaturi extreme.
 
 M-am gândit că acuma că am inscriptor BluRay dacă chiar doresc să păstrez datele pot reduce foarte mult numărul de discuri având în vedere că pe un disc BluRay de 50 de giga încap mai mult de 70 de CD-uri. Mai multă lume mi-a spus: "dar nu ai vrea să se zgârie acel disc"... E OK, le încarc și în cloud și oricum în general nu sunt informații super valoroase. Alea valoroase le-am identificat oricum de ceva vreme și le-am pus bine în mai multe locuri...
 
-Am aruncat la gunoi:
+Am aruncat deja la gunoi:
 
 * CD-urile cu filme
-* Tonele de DVD-uri cu filme cu mai multe filme pe un disc - care după inscripționare nu au mai ajuns înapoi în veci în calculator
+* Tonele de DVD-uri cu filme - care după inscripționare nu au mai ajuns înapoi în veci în calculator
 * CD-urile cu kituri de jocuri
 
 Mai păstrez o vreme:

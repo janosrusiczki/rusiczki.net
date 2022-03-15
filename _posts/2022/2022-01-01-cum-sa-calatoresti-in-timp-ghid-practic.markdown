@@ -5,8 +5,8 @@ date: 2021-01-07 10:00:00 +0200
 categories:
 - Cronică
 - Tehnic
-image: https://content.rusiczki.net/2021/07/electronica-cip-1000x667.jpg
-description: Despre ce am găsit în arhiva mea de CD-uri.
+image: https://content.rusiczki.net/2022/01/internet-folder-1.png
+description: Despre ce "comori" am găsit în arhiva mea de CD-uri.
 ---
 Sunt în plin proces de documentare a părții cu numărul trei din seria articolelor despre calculatoarele mele (cu toate că în momentul redactării articolului de față nu a apărut pe blog nici partea a doua). Spoiler: în a treia parte va fi vorba despre PC-urile mele și încerc să adun câte informații pot despre această perioadă. Totodată îmi fac curat prin casa din Baia Sprie, respectiv în fosta (și actuala) mea cameră, unde, până anul trecut, timpul înghețase din 2004 când m-am mutat de acolo. Răposații mei părinți nu s-au atins de tona de CD-uri inscripționate pe care le-am lăsat în dulap. M-am atins doar eu de ele și cu precădere de cele cu MP3-uri.
 
@@ -26,15 +26,15 @@ Memoria m-a semi-înșelat însă, pentru că prin mailbox-uri am găsit doar ac
 
 Tot pe CD-urile cu arhive am mai găsit câteva directoare denumite internet, a căror conținut era:
 
-[![Screenshot folder internet cu conținutul împărțit pe zile](https://content.rusiczki.net/2022/01/internet-folder-1.png)](https://content.rusiczki.net/2022/01/internet-folder-1.png){:.glightbox}
+![Screenshot folder internet cu conținutul împărțit pe zile](https://content.rusiczki.net/2022/01/internet-folder-1.png)
 
 Practic îmi duceam acasă pe dischete chestii de pe unde aveam acces la internet (în exemplul de mai sus [eram deja angajat la Internet Cafe-ul facultății](https://www.rusiczki.net/2002/12/27/the-end-of-broadband/)) ca să le pot lectura în liniște. Intrând pe o zi aveam sortate chestiile pe categorii, să nu fie debandadă:
 
-[![Screenshot folder internet cu conținutul unei zile](https://content.rusiczki.net/2022/01/internet-folder-2.png)](https://content.rusiczki.net/2022/01/internet-folder-2.png){:.glightbox}
+![Screenshot folder internet cu conținutul unei zile](https://content.rusiczki.net/2022/01/internet-folder-2.png)
 
 Și în final conținutul directorului fun pentru această zi, o pagină salvată cu un top de piese în format .xm (module) și probabil log-uri de IRC arhivate cu [ACE](https://en.wikipedia.org/wiki/ACE_(compressed_file_format)) pe care eu îl foloseam în loc de RAR că citisem că ar comprima mai bine. De asemenea am înclinat spre ACE pentru că am văzut că în acea perioadă și jocurile piratate veneau arhivate în acest format și am bănuit că dacă "scena" de pirați folosește ACE, trebuie să fie bun.
 
-[![Screenshot folder internet cu conținutul unei folder dintr-o anumită zi](https://content.rusiczki.net/2022/01/internet-folder-3.png)](https://content.rusiczki.net/2022/01/internet-folder-3.png){:.glightbox}
+![Screenshot folder internet cu conținutul unei folder dintr-o anumită zi](https://content.rusiczki.net/2022/01/internet-folder-3.png)
 
 Acesta a fost era purtatului datelor pe dischete și pentru că făceam un efort să ajungă întregi acasă am considerat ulterior că sunt demne de a fi arhivate pe CD-uri. Cumva sunt invidios pe János din acele vremuri, comparativ cu cel de acum era miliardar de timp.
 
@@ -49,7 +49,7 @@ La un moment dat am făcut un efort dar nu am reușit să-mi amintesc pe ce tras
 
 Revenind la arhive: discurile s-au păstrat surprinzător de bine fiind ținute în cameră într-un mediu oarecum controlat, fără umiditate excesivă sau temperaturi extreme.
 
-M-am gândit că acuma că am inscriptor BluRay dacă chiar doresc să păstrez datele pot reduce foarte mult numărul de discuri având în vedere că pe un disc BluRay de 50 de giga încap mai mult de 70 de CD-uri. Mai multă lume mi-a spus: "dar nu ai vrea să se zgârie acel disc"... E OK, le încarc și în cloud și oricum în general nu sunt informații super valoroase. Alea valoroase le-am identificat oricum de ceva vreme și le-am pus bine în mai multe locuri...
+M-am gândit că acuma că am inscriptor BluRay dacă chiar doresc să păstrez datele, pot reduce foarte mult numărul de discuri având în vedere că pe un disc BluRay de 50 de giga încap mai mult de 70 de CD-uri. Mai multă lume mi-a spus: "dar nu ai vrea să se zgârie acel disc"... E OK, le încarc și în cloud și oricum în general nu sunt informații super valoroase. Alea valoroase le-am identificat de ceva vreme și le-am pus bine în mai multe locuri.
 
 Am aruncat deja la gunoi:
 

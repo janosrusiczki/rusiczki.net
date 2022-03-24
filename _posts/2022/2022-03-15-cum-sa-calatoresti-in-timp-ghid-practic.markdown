@@ -8,7 +8,7 @@ categories:
 image: https://content.rusiczki.net/2022/03/cd-uri-resized.jpg
 description: Despre ce "comori" am găsit în arhiva mea de CD-uri.
 ---
-Sunt în plin proces de documentare a părții cu numărul trei din seria articolelor despre calculatoarele mele (cu toate că în momentul redactării articolului de față nu a apărut pe blog nici partea a doua). Spoiler: în a treia parte va fi vorba despre PC-urile mele și încerc să adun câte informații pot despre această perioadă. Totodată îmi fac curat prin casa din Baia Sprie, respectiv în fosta (și actuala) mea cameră, unde, până anul trecut, timpul înghețase din 2004 când m-am mutat de acolo. Răposații mei părinți nu s-au atins de tona de CD-uri inscripționate pe care le-am lăsat în dulap. M-am atins doar eu de ele și cu precădere de cele cu MP3-uri.
+Sunt în plin proces de documentare a părții cu numărul trei din seria articolelor despre calculatoarele mele (cu toate că în momentul redactării articolului de față nu a apărut pe blog nici partea a doua). Spoiler: în a treia parte va fi vorba despre PC-urile mele și încerc să adun câte informații pot despre această perioadă. Totodată îmi fac curat prin casa din Baia Sprie, respectiv în fosta (și actuala) mea cameră, unde, până anul trecut, timpul înghețase din 2004 când m-am mutat de acolo. Răposații mei părinți nu s-au atins de tona de CD-uri inscripționate pe care le-am lăsat în dulap. Am umblat doar cu ele și cu precădere cu cele cu MP3-uri.
 
 [![Poză cu CD-urile descoperite](https://content.rusiczki.net/2022/03/cd-uri-resized.jpg)](https://content.rusiczki.net/2022/03/cd-uri.jpg){:.glightbox}
 
@@ -26,7 +26,7 @@ Memoria m-a semi-înșelat însă, pentru că prin mailbox-uri am găsit doar ac
 
 [![Screenshot The Bat! cu configurația dorită de calculator](https://content.rusiczki.net/2022/03/virtual-box-screenshot-the-bat-config.png)](https://content.rusiczki.net/2022/03/virtual-box-screenshot-the-bat-config.png){:.glightbox}
 
-Tot pe CD-urile cu arhive am mai găsit câteva directoare denumite internet, a căror conținut era:
+Tot pe CD-urile cu arhive am mai găsit câteva directoare denumite internet, ale căror conținut era:
 
 ![Screenshot folder internet cu conținutul împărțit pe zile](https://content.rusiczki.net/2022/03/internet-folder-1.png)
 
@@ -45,7 +45,7 @@ Acesta a fost era purtatului datelor pe dischete și pentru că făceam un efort
 * Un webcam Philips pe care l-am folosit mai puțin ca webcam și mai mult pentru poze și filmări. De fapt chiar primele poze și filmări digitale acasă la mine le-am făcut cu aparatul digital al patronului de la aceași firmă pe care îl împrumutasem pentru o seară.
 * Logitech Wireless Wheel Mouse pe care l-am folosit mult și bine chiar și după ce m-am mutat în garsonieră în 2004 până nu a mai mers unul dintre butoane.
 * Mousepad cu gel care mi se părea foarte comfortabil și după ce l-am uzat pe acesta, mi-am tot cumpărat ale mele.
-* Ultima, și poate chestia cea mai dragă mie, a fost o șurubelnița cu mâner galben pe care am folosit-o practic din acel moment pentru a-mi desface și reface calculatoarele și nu numai și mă servește chiar și în ziua de azi. A fost o lungă perioadă de vreme șurubelnița mea în cruce. Nu știu cine a cumpărat-o inițial - patronul sau vreunul din colegi, dar îmi amintesc că era pe un raft lângă ușa de la balcon și atât de tare mi-a plăcut, încât am profitat de ocazie la un moment dat (probabil pe la finalul firmei) și am luat-o acasă. Da, cu alte cuvinte, am furat-o. Ca și restul chestiilor de mai sus.
+* Ultima, și poate chestia cea mai dragă mie, a fost o șurubelnița cu mâner galben pe care am folosit-o practic din acel moment pentru a-mi desface și reface calculatoarele și nu numai și mă servește chiar și în ziua de azi. A fost o lungă perioadă de vreme șurubelnița mea în cruce. Nu știu cine a cumpărat-o inițial - patronul sau vreunul din colegi, dar îmi amintesc că era pe un raft lângă ușa de la balcon și atât de tare mi-a plăcut, încât am profitat de ocazie într-o zi mai liniștită (probabil pe la finalul firmei) și am luat-o acasă. Da, cu alte cuvinte, am furat-o. Ca și restul chestiilor de mai sus.
 
 [![Șurubelnița galbenă](https://content.rusiczki.net/2022/03/surubelnita-galbena-resized.jpg)](https://content.rusiczki.net/2022/03/surubelnita-galbena.jpg){:.glightbox}
 

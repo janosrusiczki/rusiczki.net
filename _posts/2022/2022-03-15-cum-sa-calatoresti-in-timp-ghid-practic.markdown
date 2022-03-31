@@ -43,7 +43,7 @@ Acesta a fost era purtatului datelor pe dischete și pentru că făceam un efort
 Și dacă tot veni vorba de WebWebStudio, îmi amintesc că perioada cât am fost angajat acolo coincide aproape la fix cu anul 2001, am început în ianuarie și s-a terminat, așa cum spuneam, în decembrie. Nu pot să nu menționez câteva lucruri pe care le-am "luat" de acolo:
 
 * Un webcam Philips pe care l-am folosit mai puțin ca webcam și mai mult pentru poze și filmări. De fapt chiar primele poze și filmări digitale acasă la mine le-am făcut cu aparatul digital al patronului de la aceași firmă pe care îl împrumutasem pentru o seară.
-* Logitech Wireless Wheel Mouse pe care l-am folosit mult și bine chiar și după ce m-am mutat în garsonieră în 2004 până nu a mai mers unul dintre butoane.
+* Logitech Wireless Wheel Mouse pe care l-am folosit mult și bine chiar și după ce [m-am mutat în garsonieră în 2004](https://www.rusiczki.net/2004/05/18/the-new-home/) până nu a mai mers unul dintre butoane.
 * Mousepad cu gel care mi se părea foarte comfortabil și după ce l-am uzat pe acesta, mi-am tot cumpărat ale mele.
 * Ultima, și poate chestia cea mai dragă mie, a fost o șurubelnița cu mâner galben pe care am folosit-o practic din acel moment pentru a-mi desface și reface calculatoarele și nu numai și mă servește chiar și în ziua de azi. A fost o lungă perioadă de vreme șurubelnița mea în cruce. Nu știu cine a cumpărat-o inițial - patronul sau vreunul din colegi, dar îmi amintesc că era pe un raft lângă ușa de la balcon și atât de tare mi-a plăcut, încât am profitat de ocazie într-o zi mai liniștită (probabil pe la finalul firmei) și am luat-o acasă. Da, cu alte cuvinte, am furat-o. Ca și restul chestiilor de mai sus.
 

@@ -8,7 +8,7 @@ categories:
 image: https://content.rusiczki.net/2022/03/cd-uri-resized.jpg
 description: Despre ce "comori" am găsit în arhiva mea de CD-uri.
 ---
-Sunt în plin proces de documentare a părții cu numărul trei din seria articolelor despre calculatoarele mele (cu toate că în momentul redactării articolului de față nu a apărut pe blog nici partea a doua). Spoiler: în a treia parte va fi vorba despre PC-urile mele și încerc să adun câte informații pot despre această perioadă. Totodată îmi fac curat prin casa din Baia Sprie, respectiv în fosta (și actuala) mea cameră, unde, până anul trecut, timpul înghețase din 2004 când m-am mutat de acolo. Răposații mei părinți nu s-au atins de tona de CD-uri inscripționate pe care le-am lăsat în dulap. Am umblat doar cu ele și cu precădere cu cele cu MP3-uri.
+Sunt în plin proces de documentare a părții cu numărul trei din seria articolelor despre calculatoarele mele (cu toate că în momentul redactării articolului de față nu a apărut pe blog nici partea a doua). Spoiler: în a treia parte va fi vorba despre PC-urile mele și încerc să adun câte informații pot despre această perioadă. Totodată îmi fac curat prin casa din Baia Sprie, respectiv în fosta (și actuala) mea cameră, unde, până anul trecut, timpul înghețase din 2004 când m-am mutat de acolo. Răposații mei părinți nu s-au atins de tona de CD-uri inscripționate pe care le-am lăsat în dulap. Am mai umblat eu cu ele dar cu precădere cu cele cu MP3-uri pe care le luam să le ascult (și să le redescopăr conținutul) în mașină.
 
 [![Poză cu CD-urile descoperite](https://content.rusiczki.net/2022/03/cd-uri-resized.jpg)](https://content.rusiczki.net/2022/03/cd-uri.jpg){:.glightbox}
 

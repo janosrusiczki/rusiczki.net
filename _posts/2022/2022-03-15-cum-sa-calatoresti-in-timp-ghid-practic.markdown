@@ -58,7 +58,7 @@ M-am gândit că acuma că am inscriptor BluRay dacă chiar doresc să păstrez 
 Am aruncat deja la gunoi:
 
 * CD-urile cu filme (chiar și două CD-uri pentru un film)
-* Tonele de DVD-uri cu filme - care după inscripționare nu au mai ajuns înapoi în veci în calculator
+* Tonele de DVD-uri cu filme - care după inscripționare nu au mai ajuns înapoi niciodată în calculator
 * CD-urile cu kituri de jocuri
 * CD-urile cu kituri de softuri (care ocupau unul sau mai multe CD-uri întregi)
 

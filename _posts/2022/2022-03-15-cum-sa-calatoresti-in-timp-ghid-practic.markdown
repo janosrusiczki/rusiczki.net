@@ -26,11 +26,11 @@ Memoria m-a semi-înșelat însă, pentru că prin mailbox-uri am găsit doar ac
 
 [![Screenshot The Bat! cu configurația dorită de calculator](https://content.rusiczki.net/2022/03/virtual-box-screenshot-the-bat-config.png)](https://content.rusiczki.net/2022/03/virtual-box-screenshot-the-bat-config.png){:.glightbox}
 
-Tot pe CD-urile cu arhive am mai găsit câteva directoare denumite internet, ale căror conținut era:
+Și dacă veni vorba de organizatul conținutului CD-urilor cu arhive, am găsit pe ele câteva directoare denumite internet, ale căror conținut era:
 
 ![Screenshot folder internet cu conținutul împărțit pe zile](https://content.rusiczki.net/2022/03/internet-folder-1.png)
 
-Practic îmi duceam acasă pe dischete chestii de pe unde aveam acces la internet (în exemplul de mai sus [eram deja angajat la Internet Cafe-ul facultății](https://www.rusiczki.net/2002/12/27/the-end-of-broadband/)) ca să le pot lectura în liniște. Intrând pe o zi aveam sortate chestiile pe categorii, să nu fie debandadă:
+Practic îmi duceam acasă pe dischete chestii de pe unde aveam acces la net (în exemplul de mai sus [eram deja angajat la Internet Cafe-ul facultății](https://www.rusiczki.net/2002/12/27/the-end-of-broadband/)) ca să le pot lectura în liniște. Intrând pe o zi aveam sortate chestiile pe categorii, să nu fie debandadă:
 
 ![Screenshot folder internet cu conținutul unei zile](https://content.rusiczki.net/2022/03/internet-folder-2.png)
 
@@ -40,31 +40,31 @@ Practic îmi duceam acasă pe dischete chestii de pe unde aveam acces la interne
 
 Acesta a fost era purtatului datelor pe dischete și pentru că făceam un efort să ajungă întregi acasă am considerat ulterior că sunt demne de a fi arhivate pe CD-uri. Cumva sunt invidios pe János din acele vremuri, comparativ cu cel de acum era miliardar de timp.
 
-Și dacă tot veni vorba de WebWebStudio, îmi amintesc că perioada cât am fost angajat acolo coincide aproape la fix cu anul 2001, am început în ianuarie și s-a terminat, așa cum spuneam, în decembrie. Nu pot să nu menționez câteva lucruri pe care le-am "luat" de acolo:
+Iar despre WebWebStudio, îmi amintesc că perioada cât am fost angajat acolo coincide aproape la fix cu anul 2001, am început în ianuarie și s-a terminat, așa cum spuneam, în decembrie. Nu pot să nu menționez câteva lucruri pe care le-am "luat" de acolo:
 
 * Un webcam Philips pe care l-am folosit mai puțin ca webcam și mai mult pentru poze și filmări. De fapt chiar primele poze și filmări digitale acasă la mine le-am făcut cu aparatul digital al patronului de la aceași firmă pe care îl împrumutasem pentru o seară.
 * Logitech Wireless Wheel Mouse pe care l-am folosit mult și bine chiar și după ce [m-am mutat în garsonieră în 2004](https://www.rusiczki.net/2004/05/18/the-new-home/) până nu a mai mers unul dintre butoane.
-* Mousepad cu gel care mi se părea foarte comfortabil și după ce l-am uzat pe acesta, mi-am tot cumpărat ale mele.
+* Mousepad cu gel care mi se părea foarte comfortabil și după ce l-am uzat pe cel luat acasă de la firmă, mi-am tot cumpărat ale mele.
 * Ultima, și poate chestia cea mai dragă mie, a fost o șurubelnița cu mâner galben pe care am folosit-o practic din acel moment pentru a-mi desface și reface calculatoarele și nu numai și mă servește chiar și în ziua de azi. A fost o lungă perioadă de vreme _șurubelnița mea în cruce_. Nu știu cine a cumpărat-o inițial - patronul sau vreunul dintre colegi, dar îmi amintesc că era pe un raft lângă ușa de la balcon și atât de tare mi-a plăcut, încât am profitat de ocazie într-o zi mai liniștită (probabil pe la finalul firmei) și am luat-o acasă. Da, cu alte cuvinte, am furat-o. Ca și restul chestiilor de mai sus.
 
 [![Șurubelnița galbenă](https://content.rusiczki.net/2022/03/surubelnita-galbena-resized.jpg)](https://content.rusiczki.net/2022/03/surubelnita-galbena.jpg){:.glightbox}
 
-La un moment dat am făcut un efort dar nu am reușit să-mi amintesc pe ce traseu ajungeam de la facultate (unde în 2001 eram în ultimul an) la firmă. Nu îmi mai amintesc nici cum mă împărțeam cu prezența la facultate, învățat și mers la muncă și nici cu ce frecvență am mers pe acolo începând cu toamna când au dispărut patronii. Îmi amintesc în schimb de luptele cu apă de la birou din acea vară (o idee absolut genială având în vedere că erau calculatoare în jur), de pizza adusă câteodată pentru cină, de skateboarderii care se desfășurau în fața casei de cultură pe unde treceam eu în drum spre casă de la firmă spre stația de autobus și de Lucian pe care îl lăsam vineri să joace niște Fallout și luni dimineața tot acolo îl găseam - el a decedat din păcate acum câțiva ani...
+La un moment dat pe parcursul redactării acestei serii de articole am făcut un efort dar nu am reușit să-mi amintesc pe ce traseu ajungeam de la facultate (unde în 2001 eram în ultimul an) la firmă. Nu îmi mai amintesc nici cum mă împărțeam cu prezența la facultate, învățat și mers la muncă și nici cu ce frecvență am mers pe acolo începând cu toamna când au dispărut patronii. Îmi amintesc în schimb de luptele cu apă de la birou din acea vară (o idee absolut genială având în vedere că erau calculatoare în jur), de pizza adusă câteodată pentru cină, de skateboarderii și rockerii pe care îi vedeam în drum spre stația de autobus și de Lucian pe care îl lăsam vineri să joace niște Fallout și luni dimineața tot acolo îl găseam. Din păcate el ne-a părăsit acum câțiva ani...
 
-Revenind la arhive: discurile s-au păstrat surprinzător de bine fiind ținute în cameră într-un mediu oarecum controlat, fără umiditate excesivă sau temperaturi extreme. Chiar am fost mirat de cât de bine s-au comportat CD-urile care ilustrează articolul, după câte se vede au fost ceva super ieftin, nici măcăr o inserție mată nu aveau fiind un coșmar de fotografiat dar după 20 de ani am putut copia totul de pe ele fără probleme.
+Revenind la arhive: discurile s-au păstrat surprinzător de bine fiind ținute în cameră într-un mediu oarecum controlat, fără umiditate excesivă sau temperaturi extreme. Chiar am fost mirat de cât de bine s-au comportat CD-urile care ilustrează articolul, care după câte se vede au fost ceva super ieftin neavând nici măcăr o inserție mată (fiind un coșmar de fotografiat) dar după 20 de ani am putut copia totul de pe ele fără probleme.
 
-M-am gândit că acuma că am inscriptor BluRay dacă chiar doresc să păstrez datele, pot reduce foarte mult numărul de discuri având în vedere că pe un disc BluRay de 50 de giga încap mai mult de 70 de CD-uri. Mai multă lume mi-a spus: "dar nu ai vrea să se zgârie acel disc"... E OK, le încarc și în cloud și oricum în general nu sunt informații super valoroase. Alea valoroase le-am identificat de ceva vreme și le-am pus bine în mai multe locuri.
+M-am gândit că acuma că am inscriptor BluRay dacă chiar doresc să păstrez datele, pot reduce foarte mult numărul de discuri având în vedere că pe un disc BluRay de 50 de giga încap mai mult de 70 de CD-uri. Mai multă lume mi-a spus: "dar nu ai vrea să se zgârie acel disc"... E OK, le încarc și în cloud și oricum în general nu sunt informații super valoroase. Alea valoroase le-am identificat deja de ceva vreme și le-am pus bine în mai multe locuri.
 
 Am aruncat deja la gunoi:
 
-* CD-urile cu filme (chiar și două CD-uri pentru un film)
-* Tonele de DVD-uri cu filme - care după inscripționare nu au mai ajuns înapoi niciodată în calculator
-* CD-urile cu kituri de jocuri
-* CD-urile cu kituri de softuri (care ocupau unul sau mai multe CD-uri întregi)
+* CD-urile cu filme (chiar și două CD-uri pentru un film);
+* Tonele de DVD-uri cu filme (mai multe filme în format DivX / Xvid pe un DVD) - care după inscripționare nu au mai ajuns înapoi niciodată în calculator;
+* CD-urile cu kituri de jocuri;
+* CD-urile cu kituri de softuri (care ocupau unul sau mai multe CD-uri întregi).
 
 Mai păstrez o vreme (cu toate că le-am pus deja în nori):
 
-* CD-urile cu arhivele menționate mai sus
-* Celebra mea colecție de 80 și ceva de CD-uri cu MP3-uri
+* CD-urile cu arhivele menționate mai sus;
+* Celebra mea colecție de 80 și ceva de CD-uri cu MP3-uri.
 
 Cam astea ar fi o parte din amintirile despre anii turnurii de mileniu, primul job la internet cafe și mai ales prima firmă la care am lucrat cu adevărat... Mă amuzam într-o zi gândindu-mă că din ceea ce se dorea a fi un articol cu amintiri despre calculatoarele mele, au ieșit trei scrieri de lungime considerabilă, dintre care două nu sunt încă terminate. Cel de față este un soi de addendum cu clarificări, descrierea procesului de documentare, deci practic vor fi în final patru articole. Minim. Sunt deja un soi de George R. R. Martin Junior. 🙂

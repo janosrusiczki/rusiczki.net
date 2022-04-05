@@ -153,3 +153,23 @@ Placi de sunet:
 Poză cu volanul 126-2693_IMG.JPG 20 iunie 2002 - Amintiri foarte plăcute cu NFS Porsche Unleashed. Volanul era de la un fost coleg de clasă, primit printr-un prieten care din păcate nu mai e printre noi. :(
 
 Cum am recuperat CD-urile cu MP3-uri. M-am apucat sa le copiez la Baia Sprie, știam că pe vremuri luasem câte unul sau câteva să le mai ascult prin mașină. Erau o parte într-o cutie care a stat la soacra în cameră (acolo am pus când am făcut zugrăvit la un moment dat camera), o parte în pod într-o cutie găsită din greșeală - unul dintre carcase era goală, discul l-am găsit într-o mapă din garaj.
+
+Informații de pe facturi
+
+12.07.2000 - Placa TV - Home Computers
+16.10.2001 - SoundBlaster Live 5.1 + Boxe - Conseco
+10.01.2002 - Hansol 710D - Conseco
+11.03.2002 - HDD WD 40 GB - Conseco
+05.04.2002 - CD-RW TEAC CD-W524EB - Conseco
+20.06.2002 - Modem Extern 56k Ambient 2 - Conseco
+24.06.2002 - RDSLink propriu
+26.08.2002 - Telefonul cordless GE - Germanos
+04.11.2002 - Palit Daytona - SC Creative CD COM SRL
+23.05.2003 - EPOX 8RDA, K7 XP2000, 256 RAM, Cooler, PSU 400W - Systek
+27.10.2003 - HDD Maxtor 80 GB - UltraPro
+27.10.2003 - Case Blue - UltraPro
+30.10.2003 - 256 RAM - UltraPro
+08.01.2004 - Placa Firewire - Flamingo
+01.04.2004 - DVD Writer TEAC DVW58G
+16.04.2004 - EPOX 8RDA31 - UltraPro
+16.04.2004 - Duron 1600, 256 RAM, Cooler - UltraPro

@@ -12,6 +12,8 @@ ipod nou https://www.rusiczki.net/2004/01/11/a-week-of-packages-part-2-ipod/
 
 waitec hip hop, cumparat in 2002 https://www.rusiczki.net/2004/04/13/waitec-hiphop-sold/
 
+minidisc sony - 2001 - (probabil) 2004 - https://www.rusiczki.net/2004/04/13/waitec-hiphop-sold/
+
 moartea lui palit daytona https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/
 
 mac! https://www.rusiczki.net/2007/10/04/time-for-a-switch/

@@ -1,4 +1,4 @@
-Au apărut pe Facebook vești că s-ar organiza petrecere aniversară de 20 de ani de drumandbass.ro - și am citit câteva chestii care nu reflectă pe deplin realitatea despre începuturile acestui site așa că m-am hotărât să vă spun o povestioară din punctul de vedere al lui nenea rev, unul dintre cei care au fost acolo încă de la începuturi.
+Au apărut pe Facebook vești că s-ar organiza petrecere aniversară de 20 de ani de drumandbass.ro - și am citit câteva chestii care nu reflectă pe deplin realitatea despre începuturile acestui site așa că m-am hotărât să vă spun o povestioară din punctul de vedere al lui nenea **rev**, unul dintre omuleții care au fost acolo de la început.
 
 În acea perioadă era foarte important pentru mine să ascult, ceea ce credeam eu că este, muzică underground / non-comercială.
 

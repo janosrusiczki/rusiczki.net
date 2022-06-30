@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prima tranta adevarata (cu sange)
+title: Prima trântă adevărată (cu sânge)
 date: 2011-09-07 11:50:43 +0200
 categories:
 - Bike

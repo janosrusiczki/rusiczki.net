@@ -26,7 +26,7 @@ Cred că încă în timpul CIP-ului îmi luasem o carte în maghiară cu limbaju
 
 Cu mult înainte să am PC mi-am tot cumpărat reviste de specialitate: Computer Panorama în maghiară (inițial venea cu discuri de 5.25" pe care le-am dus și le-am explorat la mină și le mai am și acum), ulterior CHIP-ul unguresc iar apoi PC-X câteodată din ultimii bani pe care-i aveam. CHIP-ul românesc nu mi-l prea cumpăram pentru că și-l cumpăra prietenul Ghiță și primeam cumva un rezumat cu ce se merită citit și mai lecturam la el sau împrumutam câte o revistă.
 
-Într-unul din ziarele ungurești pe care mi le-am tot tot de la magazinul Compact din Baia Mare (magazinul mai există și azi), numit Heti CHIP (CHIP săptămânal) am ochit o pagină de publicitate cu o poză cu un PC mare și frumos și o adresă de Hong Kong către care m-am pus eu să scriu o scrisoare de cerșit calculator. Știu că am tot scris și redactat la ea (pe hârtie), și um în perioada aia țineam și jurnal, am găsit notat în jurnal că azi am mai îmbunătățit scrisoarea de cerșit. 🙂
+Într-unul din ziarele ungurești pe care mi le-am tot tot de la magazinul Compact din Baia Mare (magazinul mai există și azi), numit Heti CHIP (CHIP săptămânal) am ochit o pagină de publicitate cu o poză cu un PC mare și frumos și o adresă de Hong Kong către care m-am pus eu să scriu o scrisoare de cerșit calculator. Știu că am tot scris și redactat la ea (pe hârtie), și cum în perioada aia țineam și jurnal, am găsit notat la un moment dat că azi mi-am mai îmbunătățit scrisoarea de cerșit. 🙂
 
 [screenshot cu reclama]
 

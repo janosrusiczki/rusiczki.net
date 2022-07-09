@@ -22,18 +22,20 @@ Ziceam în articolul anterior că pe vremuri am prins la TVR emisiunea cu mustă
 
 Cred că încă în timpul CIP-ului îmi luasem o carte în maghiară cu limbajul Forth de la sediul local UDMR de unde îmi cumpăram și revistele imediat după revoluție. Am învățat ceva și din acest limbaj la rece, citind din carte și încercând să memorez. Privind înapoi a fost un efort cam degeaba. La un moment dat am făcut rost de interpretor Forth pentru CIP și m-am bucurat că am putut să încerc în sfârșit ceea ce învățasem. Ulterior m-am  bucurat și mai tare că m-am putut scăpa de carte la anticariat cu toate că era depășită moral binișor încă de când mi-am cumpărat-o. Tot atunci am vândut și cartea cu Corel Draw menționată mai sus.
 
-Cu mult înainte să am PC mi-am tot cumpărat reviste de specialitate: Computer Panorama în maghiară (venea cu discuri de 5.25" pe care le-am dus și le-am explorat la mină și le mai am și acum), ulterior CHIP-ul unguresc iar apoi PC-X câteodată din ultimii bani pe care-i aveam. CHIP-ul românesc nu mi-l cumpăram pentru că și-l cumpăra prietenul Ghiță și primeam cumva un rezumat cu ce se merită citit și mai lecturam la el sau împrumutam câte o revistă.
+[poza cu computer panorama]
 
-[poză cu Computer Panorama]
+Cu mult înainte să am PC mi-am tot cumpărat reviste de specialitate: Computer Panorama în maghiară (inițial venea cu discuri de 5.25" pe care le-am dus și le-am explorat la mină și le mai am și acum), ulterior CHIP-ul unguresc iar apoi PC-X câteodată din ultimii bani pe care-i aveam. CHIP-ul românesc nu mi-l prea cumpăram pentru că și-l cumpăra prietenul Ghiță și primeam cumva un rezumat cu ce se merită citit și mai lecturam la el sau împrumutam câte o revistă.
 
-Într-unul din ziarele ungurești pe care mi le-am tot cumpărat de la magazinul Compact din Baia Mare (magazinul mai există și azi), numit Heti CHIP (CHIP săptămânal) am ochit o pagină de publicitate cu o poză cu un PC mare și frumos și o adresă de Hong Kong către care m-am pus eu să scriu o scrisoare de cerșit calculator. Știu că am tot scris și redactat la ea (pe hârtie), și chiar îmi cum în perioada aia țineam și jurnal, am găsit notat în jurnal că azi am mai îmbunătățit scrisoarea de cerșit. 🙂 Nu îmi vine să cred, dar într-o sesiune de redactare a acestui articol în 2020 chiar mi-am amintit de numele revistei, am căutat-o, am găsit câteva numere scanate pe un [site unguresc](https://retroujsag.com/), am descărcat la plesneală un PDF cu un număr din '93, am derulat instinctiv pe ultima pagina, unde știam că era reclama - și chiar acolo a fost. 😀
+Într-unul din ziarele ungurești pe care mi le-am tot tot de la magazinul Compact din Baia Mare (magazinul mai există și azi), numit Heti CHIP (CHIP săptămânal) am ochit o pagină de publicitate cu o poză cu un PC mare și frumos și o adresă de Hong Kong către care m-am pus eu să scriu o scrisoare de cerșit calculator. Știu că am tot scris și redactat la ea (pe hârtie), și um în perioada aia țineam și jurnal, am găsit notat în jurnal că azi am mai îmbunătățit scrisoarea de cerșit. 🙂
 
 [screenshot cu reclama]
 
-Din PC-X am aflat de demoscene și am găsit xm-uri făcute de cititori. Prietenia cu Attila. Cu toate că PC-X era o revistă despre jocuri, eu nu m-am concentrat la asta, nu am fost un mare gamer (poate pentru articolul următor?) erau unii morți după warcraft, starcraft și alte jocuri. Pe mine m-au lăsat în mare parte rece.
+Nu îmi vine să cred, dar într-o sesiune de redactare a acestui articol în 2020 chiar mi-am amintit de numele revistei, am căutat-o, am găsit câteva numere scanate pe un [site unguresc](https://retroujsag.com/), am descărcat la plesneală un PDF cu un număr din '93, am derulat instinctiv pe ultima pagina, unde știam că era reclama - și chiar acolo a fost. 😀 Ah și tot într-unul din caietele cu jurnale am găsit și scrisoarea, în forma ei finală probabil, plină de greșeli de engleză care mi se par acum hazlii. Mai trebuie să adaug aici că nu am trimis niciodată respectiva scrisoare.
 
-În vacanța dintre liceu și facultate am mers pe la o cunoștință din Baia Sprie care avea un 286 (super depășit moral deja) și ce-mi amintesc este că m-am jucat mult Civilization acolo.
+[poza cu pcx si unul sau doua cd-uri]
+
+PC-X a fost ultima dintre revistele descoperite înainte să primesc propriul calculator și a fost cumva definitorie pentru mine. Și revista era interesantă că pe lângă jocuri avea multe pagini dedicate chestiilor conexe multimedia, de aici am aflat de demoscene de exemplu, dar CD-ul era o adevărată mină de aur. Pe lângă demo-uri de jocuri, am găsit demo-uri din demoscene și, poate cel mai important, muzică făcută de cititori în format de module (.xm, .it) - care era cumva muzică open source, puteai vedea cum a fost făcută, o puteai modifica, puteai lua sample-uri... Prietenia cu Attila. Cu toate că PC-X era o revistă despre jocuri, eu nu m-am concentrat la asta, nu am fost un mare gamer (poate pentru articolul următor?) erau unii morți după warcraft, starcraft și alte jocuri. Pe mine m-au lăsat în mare parte rece.
+
+În vacanța dintre liceu și facultate (vara 1998) am mers pe la o cunoștință din Baia Sprie care avea un 286 și parcă m-am jucat mult Civilization acolo. Știu că au fost cumva melancolice vizitele astea, mai mult mă duceam să mai povestesc și să socializez, 286-le fiind deja super depășit la acea vreme.
 
 La facultate am încercat în Cluj-Napoca la Universitatea Tehnică dar nu am intrat, cu aceași notă aș fi intrat la Babeș Bolyai. Am intrat însă la Baia Mare și încă cu bursă.
-
-

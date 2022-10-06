@@ -12,7 +12,7 @@ My name is János Rusiczki and this is my personal space on the Internet, but yo
 
 - **Birthday:** April 17, 1979 ([my exact age](https://www.wolframalpha.com/input/?i=april+17,+1979)).
 - **Location:** [Baia Mare, Romania](http://www.openstreetmap.org/?lat=47.6522&lon=23.5652&zoom=13&layers=M).
-- **Working as:** Developer at [SoftVision](https://www.cognizantsoftvision.com/).
+- **Working as:** Developer at [Unified Post Group](https://www.unifiedpost.com/).
 
 ## Contact details
 
@@ -31,7 +31,7 @@ My name is János Rusiczki and this is my personal space on the Internet, but yo
 
 ## About the site
 
-Back in the day, the first iteration of this site was built using [Movable Type](http://www.movabletype.org/) with lots of customizations and homebrewn scripts. Original color palette help by [Meister Adnan](http://www.adnan.ro/) with additional styling and some header graphics done by [Luci](http://www.lucianmarin.ro/). The link blog section, when it existed, was powered by [delicious](http://del.icio.us/) via their sweet RSS feed (delicious is now long dead - but there are promises it will return).
+Back in the day, the first iteration of this site was built using [Movable Type](http://www.movabletype.org/) with lots of customizations and homebrewn scripts. Original color palette help by [Meister Adnan](http://www.adnan.ro/) with additional styling and some header graphics done by [Luci](http://www.lucianmarin.ro/). The link blog section, when it existed, [was powered](https://www.rusiczki.net/2004/10/02/the-brand-spanking-new-link-blog/) by [delicious](http://del.icio.us/) via their sweet RSS feed (delicious was dead for a long while - and then it returned in some sort of crippled read only mode).
 
 In the second iteration it was built upon WordPress with a fairly customized template. You can find more information about the upgrade in [this post](http://www.rusiczki.net/2009/04/02/keeping-up-with-the-times/).
 

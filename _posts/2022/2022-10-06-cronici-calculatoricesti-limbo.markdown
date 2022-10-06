@@ -1,3 +1,13 @@
+---
+layout: post
+title: Cronici Calculatoricești - Limbo
+date: 2022-10-06 22:40:00 +0200
+categories:
+- Cronică
+- Tehnic
+image: https://content.rusiczki.net/2022/10/ecuson-tabara-informatica.jpg
+description: Aproximativ despre perioada liceului când nu am avut calculator.
+---
 Continui cu amintirile mele despre calculatoare fiind vorba în rândurile de mai jos de finalul școlii generale și perioada liceului când nu am avut calculatorul propriu și am fost cum ar veni între două calculatoare: CIP-ul despre care a fost vorba [în articolul anterior](https://www.rusiczki.net/2021/07/08/cronici-calculatoricesti-cip/) și care s-a stricat cândva pe la începutul clasei a opta și PC-ul pe care l-am primit în primul semestru al primului an de facultate. De aici subtitlul "inspirat" al acestui articol.
 
 Menționasem că primul contact cu un calculator compatibil ZX Spectrum l-am avut cu ocazia acelui cerc de informatică, mai precis o oră sau cât a fost și că după aia nu s-a mai ținut. Ce nu am zis este că s-a reluat (probabil în următorul an) și că am continuat să-l frecventez chiar și după ce am avut calculator acasă. Și am umblat nu neapărat pentru jocuri, căci cam aia se făcea acolo, ci mai mult pentru socializare. Și foarte bine am făcut, pentru că la un moment dat m-a contactat profesoara de acolo că i-a fost încredințat să aleagă pe cine duce din Maramureș în tabăra națională de informatică din acel an. Și pe lângă 3 băieți din Baia Mare (clasele V, VI și VII) m-a ales pe mine ca reprezentant al clasei a VIII-a.
@@ -42,6 +52,6 @@ Cu mult înainte să am PC mi-am tot cumpărat reviste de specialitate: Computer
 
 PC-X a fost ultima dintre revistele descoperite înainte să primesc propriul meu PC și a fost iarăși cumva definitorie pentru mine. Era interesantă și revista în sine căci pe lângă jocuri avea multe pagini dedicate chestiilor conexe multimedia, din paginile ei am aflat de demoscene de exemplu, dar CD-ul era o adevărată mină de aur. Pe lângă demo-uri de jocuri, am găsit demo-uri din demoscene și, poate cel mai important, multă muzică făcută de cititori în format modul (.xm, .it) - care era cum ar veni muzică open source, puteai vedea cum a fost făcută, o puteai modifica, puteai lua sample-uri... De asemenea mulți își scriau adresa de email și cea poștală în zona de informații din fișier și astfel am stabilit prietenia cu Attila cu care am corespondat întâi prin scrisori (de hârtie), apoi scrisori în format .txt [trimise în plicuri burdușite de dischete](https://www.rusiczki.net/2013/03/11/o-nu-nu-posta-romana/) și în final email-uri evident. Mai ținem legătura și în ziua de azi.
 
-În vacanța dintre liceu și facultate (vara 1998) am mers pe la o cunoștință din Baia Sprie care avea un 286 și m-am jucat mult Civilization acolo. Știu că au fost cumva melancolice vizitele astea, mai mult mă duceam să mai povestesc și să socializez, 286-le fiind deja super depășit la acea vreme.
+În vacanța dintre liceu și facultate (vara lui 1998) am mers pe la un amic din Baia Sprie care avea un 286 și m-am jucat mult Civilization acolo. Știu că au fost cumva melancolice acele vizite, mai mult mă duceam să mai povestesc și să socializez, 286-le fiind deja super depășit la acea vreme.
 
-La facultate am încercat în Cluj-Napoca la Universitatea Tehnică dar nu am intrat, cu aceași notă aș fi intrat la Babeș Bolyai. Am intrat însă la Baia Mare și încă cu bursă!
+La facultate am încercat în Cluj-Napoca la Universitatea Tehnică dar nu am intrat, cu aceași notă aș fi intrat la Babeș Bolyai... Am intrat însă la Baia Mare și încă cu bursă!

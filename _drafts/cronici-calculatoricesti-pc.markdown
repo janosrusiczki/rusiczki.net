@@ -70,6 +70,8 @@ Internet prin satelit, am găsit un formular din 15 mai 2003 - În timp ce am av
 
 Nu mai știu la cine am dat această placa asta de bază și procesorul.
 
+prin această perioadă sau perioada următoare am făcut rețea cu vecinul.
+
 3. 2003, probabil în mai sau vara - Epox EP-8RDA - AMD Athlon XP 2000+
 
 Din păcate nu îmi amintesc mai nimic despre acest upgrade și îmi vine cumva greu a crede că am rezistat cu acest procesor 3 ani jumate. De la Remus Kolozsvari -  https://www.rusiczki.net/2004/04/23/re-building-a-computer/ pe la final.
@@ -113,6 +115,8 @@ despre upgrade-ul din 2006 / 2007 - https://www.rusiczki.net/2007/03/14/the-mast
 total = 3176 ron (la cursul din 6 februarie 2007)
 
 2007 vara - MacBook
+
+cred ca dupa ce mi-am luat lcd-ul si am avut un "calculator în plus" după ce am făcut upgrade-ul ăsta, am dus sus la Baia Sprie calculatorul vechi. Nu mai știu de unde am avut un stick wifi cu care prindeam wifi de la vecini.
 
 August 16, 2011 - Marea pauza Mac. Today I started up my PC which I haven't used since last year and look what I found in Chrome
 

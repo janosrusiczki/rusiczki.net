@@ -27,4 +27,4 @@ Nope, IDDQD will not work, try:
   `<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/DELZ1EbqZfw?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>`
 * Update Algolia Index:
 
-  `ALGOLIA_API_KEY='SECRET' jekyll algolia --verbose`
+  `ALGOLIA_API_KEY='SECRET' bundle exec jekyll algolia --verbose`

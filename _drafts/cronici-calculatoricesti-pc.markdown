@@ -1,4 +1,6 @@
-Am incercat la Trodat Ștampile. Am găsit un prieten pe IRC care lucra la Interscope, am incercat la Interscope. Ulterior acest prieten mi-a influențat niște achiziții din domeniul calculatoarelor (sunt sigur că al doilea monitor, un Hansol, el mi l-a recomandat), mi-am amintit de el în timp ce redactam articolul acesta. Am mai fost și am încercat la o firmă, am primit assignment să fac o galerie foto pentru un festival folcloric din Sighetul Marmației, am făcut-o, le-am dus-o, nu m-au luat, dar galeria foto a ajuns online. Salutări domnule Lobonțiu!
+Am să încep acest ultim articol din seria celor dedicate amintirilor despre calculatoarele mele cu câteva cuvinte despre procesul de documentare: frustrant este că deși am avut deja acest blog în mare parte din perioada pe care vreau să o descriu aici, nu prea am scris despre calculatoare. Mă rog, de fapt veți găsi destul de multe linkuri în cele ce urmează - dar procentual au fost totuși rare mențiunile. Cu atât mai puțin am scris despre upgrade-uri și din păcate majoritatea discuțiilor pe care le-am avut despre acest subiect, le-am avut pe Yahoo! Messenger care după cum știți a murit de o vreme bună - și nu am salvat arhivele discuțiilor așa cum am făcut-o pe vremuri cu mail-urile și log-urile de IRC.
+
+Am avut însă un noroc enorm deorece la un moment dat mi-a scris [un prieten](https://www.lucianmarin.se) că din cauza GDPR-ului (care urma să intre în vigoare) se va închide forumul computergames.ro și aruncând o privire fără să mă aștept la mare lucru, am găsit acolo o tonă de informații despre calculatoarele mele din epoca când eram foarte activ pe acel forum, adică tocmai în jurul turnurii de mileniu. Până în acel moment, cea mai bună șansă de a afla configurația primelor mele calculatoare o consideram să găsesc pe CD-urile mele cu arhive scrisorile (în format .txt) trimise la diferiți omuleți cu care corespondam, dar din păcate am cam eșuat pentru că fix primul meu CD cu arhive, s-a decojit la margine unde era arhiva de scrisori. De asemenea încercasem de câțiva ani să mă uit pe hard discurile din acele vremuri dar am constatat că din păcate au cedat și au început să cloncăne. După aia, pe la începutul lui 2022, făcând ordine în camera mea din Baia Sprie am găsit un CD care nu făcea parte din seria mea oficială de CD-uri cu arhive dar am găsit pe el arhiva mail-boxurilor de pe vremea când lucram la Internet Cafe. De asemenea, într-una dintre cutii am găsit un plic care nu dădea prea multe de bănuit, dar în el erau cam toate bonurile, facturile și garanțiile pentru cumpărăturile IT din 2001 până în 2004 (când m-am mutat din Baia Sprie). În schimb facturile din perioada 2004 - 2007 (cât am stat în chirie la bloc), oricât le-am căutat, se pare că s-au pierdut.
 
 in 2001 chiar făceam ceva ieșit din comun pentru un băisprian :)
 
@@ -18,17 +20,19 @@ moartea lui palit daytona https://www.rusiczki.net/2004/08/27/palit-daytona-gefo
 
 mac! https://www.rusiczki.net/2007/10/04/time-for-a-switch/
 
-Câteva cuvinte despre procesul de documentare: Frustrant este că deși am avut deja acest blog în mare parte din perioada pe care vreau să o descriu aici, arareori am scris despre calculatoare. Mă rog, de fapt veți găsi destul de multe linkuri în cele ce urmează - dar procentual totuși au fost rare mențiunile). Cu atât mai puțin am scris despre upgrade-uri și din păcate majoritatea discuțiilor pe care le-am avut despre subiect, le-am avut pe Yahoo! Messenger care după cum știți a murit de o vreme bună - și nu am fost maniac să salvez arhivele așa cum am fost pe vremuri cu mail-urile și log-urile de IRC. Am avut însă un noroc enorm deorece la un moment dat mi-a scris [un prieten](https://www.lucianmarin.se) că din cauza GDPR-ului (care urma să intre în vigoare) se va închide și forumul computergames.ro și aruncând o privire am găsit acolo foarte - foarte multe informații despre calculatoarele mele din epoca când eram foarte activ pe acel forum, adică în jurul schimbării mileniului. Până în acel moment, cea mai bună șansă de a afla configurația primelor mele calculatoare o consideram să găsesc pe CD-urile mele cu arhive scrisorile trimise la diferiți omuleți cu care corespondam, dar din păcate am cam eșuat pentru că fix primul CD cu arhive, s-a decojit tocmai la margine, unde era arhiva de scrisori. De asemenea încercasem de câțiva ani hard discurile din acele vremuri dar am constatat că au început să cloncăne. După aia, pe la începutul lui 2022, făcând ordine în camera din Baia Sprie am găsit un CD care nu făcea parte din seria mea oficială de CD-uri cu arhive dar am găsit pe el arhiva mail-boxurilor de pe vremea când lucram la Internet Cafe. De asemenea am găsit facturi și garanții pentru aproape toate cumpărăturile din 2001 - 2004 (când m-am mutat din Baia Sprie). Facturile din perioada 2004 - 2007 (cât am stat în chirie la bloc), oricât le-am căutat, se pare că s-au pierdut.
-
 ## PC-urile mele
 
-1. 1998, toamna - VXPro 2, Pentium 233 MHz MMX, (înainte să accesez forumului computergames.ro eram convins că a fost un Pentium 2 266 MMX) cu hard disc de 4,3 GB care credeam că îmi va lua o eternitate să-l umplu, monitor LG StudioWorks de 14", video SiS cu 2 MB + 2 MB upgrade (singurul upgrade pe care l-am ales), cumpărat de la Sprint că "e mai bine să cumperi de la o firmă cu garanție decât de la bișnițari" - WRONG. Aparent a avut 32 MB EDO RAM.
+Am terminat articolul anterior zicând că în 1998 am intrat la facultate în Baia Mare și încă cu bursă. Spre finalul anului, a murit ultima mătușă a tătălui meu și astfel s-a putut da spre vânzare o casă din Ocna Șugatag al unui unchi de-al lui tata de care el avuse multă grijă în ultimii ani de viață ai bătrânului. Banii rezultați din vânzarea casei s-au împărțit la 3 după câte știu și tot după câte știu aproape toți banii care reprezentau partea lui tata, 5.000.000 și ceva de lei, i-a băgat în calculatorul meu. Tata, dacă vezi de unde ești acum ceea ce scriu aici, să știi că îți mulțumesc și îți sunt foarte recunoscător, și îmi pare rău că nu ți-am spus asta până ți-am putut spune.
+
+ toamna - VXPro 2, Pentium 233 MHz MMX, (înainte să accesez forumului computergames.ro eram convins că a fost un Pentium 2 266 MMX) cu hard disc de 4,3 GB care credeam că îmi va lua o eternitate să-l umplu, monitor LG StudioWorks de 14", video SiS cu 2 MB + 2 MB upgrade (singurul upgrade pe care l-am ales), cumpărat de la Sprint că "e mai bine să cumperi de la o firmă cu garanție decât de la bișnițari" - WRONG. Aparent a avut 32 MB EDO RAM.
 
 Un prieten, Radu, a luat deodată cu mine un Pentium 2 "Klamath" la 350 MHz, placa de baza Intel 440BX, video i740. El nu și l-a luat de la firmă, parcă a fost și mai ieftin decât ce luasem eu și știu că mergeam pe la el și mă minunam că-i mergeau jocurile care solicitau accelerator grafic.
 
 Primul CD-ROM venit cu calculatorul, marca Cyberdrive, era oribil, tot "freca" unele CD-uri în loc să le citească, până nu am mai rezistat si i-am dat un pumn moment în care nu a mai citit nimic. S-a stricat complet. L-am dus înapoi la Sprint și după o vreme m-au chemat: "nu știm ce a avut, nu am mai vazut defecțiunea asta dar v-am pus un Philips". Uraaaa!
 
 Jocuri cu prietenii: campionate de NFS2, Worms 2, CD-urile cu Faithless - Sunday 8 PM și Chemical Brothers - Brothers Gonna Work it out constant in drive.
+
+Am incercat la Trodat Ștampile. Am găsit un prieten pe IRC care lucra la Interscope, am incercat la Interscope. Ulterior acest prieten mi-a influențat niște achiziții din domeniul calculatoarelor (sunt sigur că al doilea monitor, un Hansol, el mi l-a recomandat), mi-am amintit de el în timp ce redactam articolul acesta. Am mai fost și am încercat la o firmă, am primit assignment să fac o galerie foto pentru un festival folcloric din Sighetul Marmației, am făcut-o, le-am dus-o, nu m-au luat, dar galeria foto a ajuns online. Salutări domnule Lobonțiu!
 
 După aproximativ un an de la cumpărarea calculatorului, în toamna anului 1999, am reușit să mă angajez la Internet Cafe-ul facultății - în sfârșit am avut acces la Internet.
 
@@ -38,9 +42,13 @@ Demos și muzică în format XM. Știu că nu era în stare să redea filmele Di
 
 Diskmag scris în Pascal și OS grafic în Rhide minunându-mă de ce poate face programarea orientată pe obiecte.
 
-2. 2001, ianuarie - AMD 800, GeForce MX 2 (cumpărat separat? - nu știu dacă a fost cumpărat separat, îl aveam deja în februarie 2002), Soltek sl-75kv2-x / Duron 800 / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 MB RAM, probabil am început cu 128 și am pus pus ulterior 64 de mega de undeva.
+2. 2001, ianuarie (conform CG Forum probabil) - AMD 800, GeForce MX 2 (cumpărat separat???, îl aveam deja în februarie 2002), Soltek sl-75kv2-x / Duron 800 / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 MB RAM, probabil am început cu 128 și am pus pus ulterior 64 de mega de undeva.
 
-Am avut noroc că aveam o colegă care în ultimul an de facultate lucra deja la o firmă numită Cumulus Logic care funcționa în clădirea în care este de foarte mulți ani Eurohotel. Ea mi-a făcut o ofertă care presupunea să îmi cumpere și componentele vechi. Restul banilor au provenit din salariul infim pe care-l primeam la Internet Cafe-ul la care lucram, puși de-o parte pentru o vacanță de vară care nu s-a mai întâmplat. Dar de la începutul lui 2001 am început să și lucrez la prima firmă "serioasă".
+Am avut noroc că aveam o colegă care în ultimul an de facultate lucra deja la o firmă numită Cumulus Logic care funcționa în clădirea în care este acum (de foarte mulți ani, de fapt) Eurohotel. Ea mi-a făcut o ofertă care presupunea să îmi cumpere componentele vechi. Restul banilor au provenit din salariul infim pe care-l primeam la Internet Cafe-ul la care lucram, puși de-o parte pentru o vacanță de vară care nu s-a mai întâmplat.
+
+Dar tot de pe la începutul lui 2001 am început să și lucrez la prima firmă "serioasă".
+
+Când mi-am luat acceleratorul grafic am fost efectiv în al noulea cer, am putut să iau la rând jocurile la care am râvnit și care nu-mi mergeau pe configurația anterioare. Știu că am terminat tot ce era Half Life cu toate de expansiunile existente și apoi am jucat foarte mult Tony Hawk's Pro Skater 2.
 
 La început de 2002 s-a și încheiat firma asta și am început să lucrez de acasă cu clientul pentru care lucram și de la firmă, câștigam mult mai bine, eram toată ziua la calculatorul propriu și am investit foarte mult în componente și periferice.
 
@@ -48,7 +56,7 @@ La început de 2002 s-a și încheiat firma asta și am început să lucrez de a
 
 În 14 iulie 2002 aveam deja inscriptor TEAC 24x (cred că din poze).
 
-Amic cu inscriptor de CD-uri prin 99, propriul inscriptor în 2002 - https://www.rusiczki.net/2003/10/03/high-speed-cd-burning-doesnt-work/ îmi amintesc că mergeam la Metro (singurul supermarket din zonă pe vremea aia) și-mi luam tone de CD-uri, taică-meu a observat de atunci ce cheltuială mare sunt și m-a întrebat dacă chiar îmi trebuie. Ei bine, a avut dreptate, nu prea îmi trebuiau. Majoritatea discurilor scrise nu prea au mai ajuns înapoi în drive vreodată.
+Amic cu inscriptor de CD-uri prin 99, propriul inscriptor în 2002 - https://www.rusiczki.net/2003/10/03/high-speed-cd-burning-doesnt-work/ îmi amintesc că mergeam la Metro (singurul supermarket din zonă pe vremea aia) și-mi luam tone de CD-uri, tata, care a fost aprovizioner la viața lui și una dintre chestiile care îi placeau să le facă era să studieze facturile mele de la Metro, a observat de atunci ce cheltuială mare sunt și m-a întrebat dacă chiar îmi trebuie. Ei bine, a avut dreptate, nu prea îmi trebuiau. Majoritatea discurilor scrise nu prea au mai ajuns înapoi în drive vreodată.
 
 Tot din 2002 datează și monitorul Hansol 710D - 280_8050.JPG / https://www.rusiczki.net/2005/12/29/lcd-suggestions-anyone/
 
@@ -58,9 +66,9 @@ Dialup RDSLink începând din vara lui 2002 https://www.rusiczki.net/2002/12/21/
 
 Skystar 1, mă laud cu ea in 12 august 2002 pe computer games, tot conform computer games forum l-am luat în 7 august 2002.
 
-Internet prin satelit, am găsit un formular din 15 mai 2003 - În timp ce am avut abonament am prins un stress test de transponder cu download nelimitat și viteză mult mai bună, am descărcat tone de jocuri pe mai multe CD-uri. Îmi amintesc că în perioada asta îmi programam calculatorul să se oprească sau să închidă conexiunea fix înainte de ora 8 (ora de la care se termina dial-up-ul ieftin de noapte).
+Internet prin satelit, am găsit un formular din 15 mai 2003 - În timp ce am avut abonament am prins un stress test de transponder cu download nelimitat și viteză mult mai bună, am descărcat tone de jocuri pe mai multe CD-uri. Îmi amintesc că în perioada asta îmi programam calculatorul să se oprească sau să închidă conexiunea fix înainte de ora 8 (ora de la care se termina dial-up-ul ieftin de noapte) și mă culcam.
 
-Nu mai știu la cine am vândut placa asta de bază + procesorul.
+Nu mai știu la cine am dat această placa asta de bază și procesorul.
 
 3. 2003, probabil în mai sau vara - Epox EP-8RDA - AMD Athlon XP 2000+
 
@@ -79,6 +87,8 @@ despre harddisc-uri https://www.rusiczki.net/2003/10/23/the-price-of-laziness/
 rocada intre cele 2 epox-uri https://www.rusiczki.net/2004/04/23/re-building-a-computer/
 Placa de bază am găsit-o cu 768 MB RAM instalați
 asta a fost era UltraPro Computers (RIP)
+
+Nu știu ce s-a ales de modemul de telefon care nu mi-a trebuit odată ce m-am mutat la internet prin cablu.
 
 cu calculatorul asta m-am mutat la bloc - mutarea s-a întâmplat în a doua parte a lunii mai 2004 - https://www.rusiczki.net/2004/05/18/the-new-home/
 

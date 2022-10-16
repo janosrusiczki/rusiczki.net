@@ -8,7 +8,7 @@ categories:
 image: https://content.rusiczki.net/2021/07/electronica-cip-1000x667.jpg
 description: Despre începuturile mele în d'ale calculatoarelor.
 ---
-Uite că aproape am reușit, am publicat articolul la început de iulie.
+Acum câțiva ani (vreo 5 sau 6 🥺) m-am apucat să scriu un articol despre interacțiunea mea cu calculatoarele și am tot modificat și adăugat la el până m-am gândit că ar fi frumos să-l public în toamna lui 2018 la aniversarea a 20 ani de când am PC. Apoi am depășit termenul și au trecut 2019 și 2020 cu multe probleme personale... Dar sunt hotărât să încep să public seria (adică acest articol) în prima jumate al lui 2021! --- Uite că aproape am reușit, am publicat articolul la început de iulie.
 
 Tot recitind articolul în cadrul sesiunilor de redactare mi-am dat seama că lecturam unele chestii care cu toate că îmi erau destul de clare în minte când le-am scris, le-am uitat după aia - acuma nu știu dacă din cauza liniștii sufletești că le am scrise și-s la loc sigur sau pur și simplu deoarece sunt la vârsta la care uit masiv. Cred că este vorba de varianta B. În orice caz mă bucur că le-am scris și încerc să mai scriu lucruri înainte să le uit și să știți că pentru unele chestii pe care urmează să le citiți mi-am răscolit binișor mintea și după caz am întrebat amici și cunoștințe... Care mi-au zis în mare parte că-s nebun. 🙂
 

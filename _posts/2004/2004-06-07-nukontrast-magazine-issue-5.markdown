@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Nukontrast Magazine Issue 5
-date: 2004-06-07 22:29:42 +0200
+date: 2004-06-07 22:29:42.000000000 +02:00
 categories:
-- Web
+- web
 ---
 <img src="https://content.rusiczki.net/blogpics/nukontrast_5.jpg" width="490" height="90" border="0" alt="Nukontrast 5 clip" class="image" />
 

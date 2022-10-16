@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Oh no...
-date: 2003-02-03 23:07:18 +0100
+date: 2003-02-03 23:07:18.000000000 +01:00
 categories:
-- Web
+- web
 ---
 [ Mon 02/03/2003 07:43 PM ] Delayed due to customs inspection // Event localization : BUCHAREST
 

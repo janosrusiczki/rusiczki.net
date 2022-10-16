@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Countries of the world
-date: 2007-05-31 15:31:31 +0200
+date: 2007-05-31 15:31:31.000000000 +02:00
 categories:
-- Web
-- Technical
+- web
+- technical
 ---
 At least according to Apple...
 

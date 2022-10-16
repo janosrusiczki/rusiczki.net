@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Values these days
-date: 2003-01-04 03:41:41 +0100
+date: 2003-01-04 03:41:41.000000000 +01:00
 categories:
-- General
+- general
 ---
 One more thought about the NYE party and then I'll burry the thought. I'll try at least.
 

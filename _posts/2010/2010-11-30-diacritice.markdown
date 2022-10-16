@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Diacritice
-date: 2010-11-30 14:44:12 +0100
+date: 2010-11-30 14:44:12.000000000 +01:00
 categories:
-- Technical
-- Română
+- technical
+- română
 ---
 Da, diacricritice, bata-le vina. Mai precis lipsa lor.
 

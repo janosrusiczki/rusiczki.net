@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Cronici Calculatoricești - Limbo
-date: 2022-10-06 22:40:00 +0200
+date: 2022-10-06 22:40:00.000000000 +02:00
 categories:
-- Cronică
-- Tehnic
+- cronică
+- tehnic
 image: https://content.rusiczki.net/2022/10/ecuson-tabara-informatica.jpg
 description: Aproximativ despre perioada liceului când nu am avut calculator.
 ---

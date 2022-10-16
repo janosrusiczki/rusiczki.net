@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Rally photos (again)
-date: 2006-05-07 21:05:55 +0200
+date: 2006-05-07 21:05:55.000000000 +02:00
 categories:
-- Life
+- life
 ---
 <a href="http://www.flickr.com/photos/janos/141894332/"><img src="http://static.flickr.com/48/141894332_104cbd235d.jpg" alt="Siromex Rally 2006" width="500" height="357" border="0" class="image" /></a>
 

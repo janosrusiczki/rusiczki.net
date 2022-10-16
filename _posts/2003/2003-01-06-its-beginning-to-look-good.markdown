@@ -1,9 +1,9 @@
 ---
 layout: post
 title: It's beginning to look good!
-date: 2003-01-06 07:25:06 +0100
+date: 2003-01-06 07:25:06.000000000 +01:00
 categories:
-- General
+- general
 ---
 <a href="https://content.rusiczki.net/blogpics/snow.php" onclick="window.open('https://content.rusiczki.net/blogpics/snow.php','popup','width=533,height=400,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="https://content.rusiczki.net/blogpics/snow-thumb.jpg" width="200" height="150" border="0" alt="Snowing..." class="postimage" /></a> I hope that I'm not getting my hopes high again... Though it's not that cold outside. I'm just keeping my fingers crossed! Please please please. If only a week of boarding. I'll be there. Day by day. 6 hours. As much as I can. Just a little snow. Pleeease!
 

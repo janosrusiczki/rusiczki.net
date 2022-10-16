@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Back from THE Festival
-date: 2003-10-14 16:34:22 +0200
+date: 2003-10-14 16:34:22.000000000 +02:00
 categories:
-- Life
-- Music
+- life
+- music
 ---
 <img alt="My badge with the site's name messed up..." src="https://content.rusiczki.net/blogpics/tm03base_badge.jpg" width="112" height="150" border="0" class="postimage" /> Now this last one was one <b>TIGHT</b> weekend. The most intense of this year that's for sure! And one of the best of my entire life! <a href="http://www.tmbase.ro/v3/festival/">TM03Base</a> was a real <b>blast</b>, but that's no wonder knowing the amount of work the <a href="http://www.tmbase.ro/" title="The TMBase Organization">organizers</a> and their helping hands put into it! That Jay Cunning set, that Suv set, those MCs, that crowd, that people, oh dear, oh dear! It was something extraordinary even if you look at it by a non-Romanian perspective. Proof: Jay Cunning himself <a href="http://www.tmbase.ro/v3/forum/viewtopic.php?t=279">stated on the official TMBase forum</a> that it was the best party he played at this year... People are raving about the event on <a href="http://www.drumandbass.ro/dnb/forum/" title="DrumAndBass.RO's Forum">our forum</a> and on others too probably.
 

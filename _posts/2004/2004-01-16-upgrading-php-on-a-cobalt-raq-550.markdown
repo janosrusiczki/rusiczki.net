@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Upgrading PHP on a Cobalt RaQ 550
-date: 2004-01-16 14:20:15 +0100
+date: 2004-01-16 14:20:15.000000000 +01:00
 categories:
-- Technical
+- technical
 ---
 So, after the success of <a href="http://www.rusiczki.net/2004/01/16/starting-mysql-at-boot-time-on-a-cobalt-raq-550/" title="Starting MySQL at boot time on a Cobalt RaQ 550">getting MySQL to work properly</a> on the server I installed <a href="http://www.phpmyadmin.net" title="THE PHP based MySQL admin tool of choice">phpMyAdmin</a>. It didn't work at first but I changed something in php.ini (described later) and then it did but it was complaining and suggesting a PHP upgrade. So I checked the version and my jaw nearly dropped when I saw the spanking new RaQ 550 was running stone age old PHP 4.0.6. Argh. It was time to search for a guide on upgrading PHP on RaQ 550. <a href="http://www.cobaltfaqs.com/wiki/index.php/Upgrade%20PHP%20on%20RaQ%20550" title="PhpWiki - Upgrade PHP on RaQ 550">I found it quick.</a>
 

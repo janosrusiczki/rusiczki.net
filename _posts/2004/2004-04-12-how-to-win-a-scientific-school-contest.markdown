@@ -1,9 +1,9 @@
 ---
 layout: post
 title: How to win a scientific school contest?
-date: 2004-04-12 16:29:48 +0200
+date: 2004-04-12 16:29:48.000000000 +02:00
 categories:
-- Life
+- life
 ---
 <img alt="My prize book and the diploma" src="https://content.rusiczki.net/blogpics/manager_contra_curentului_diploma.jpg" width="150" height="112" border="0" class="postimage" /> First of all offer to write a nice paper on 'Business Opportunities on the Internet' for your university's scientific communication session (I don't really know how to translate 'sesiune de comunicari stiintifice' to English) to a teacher who you can't fail or else your face will burn for months.
 

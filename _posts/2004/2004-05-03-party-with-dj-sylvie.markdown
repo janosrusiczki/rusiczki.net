@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Party with DJ Sylvie
-date: 2004-05-03 14:14:43 +0200
+date: 2004-05-03 14:14:43.000000000 +02:00
 categories:
-- Life
+- life
 ---
 After <a href="http://www.rusiczki.net/2004/05/03/the-official-may-1st-food-fest/" title="Kitsched - The official May 1st food fest!">all that eating</a> it was time for a real party! With some real people. And a real DJ. Or DJess. As you wish.
 

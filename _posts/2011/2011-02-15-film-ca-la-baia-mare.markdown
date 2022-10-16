@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Film, ca la Baia Mare
-date: 2011-02-15 09:50:57 +0100
+date: 2011-02-15 09:50:57.000000000 +01:00
 categories:
-- Life
-- Movies
-- Română
+- life
+- movies
+- română
 ---
 Am fost ieri la film. La Cinema City-ul nostru cel de toate zilele din relativ noul nostru <a href="http://goldplaza.ro/">Mall</a>. A fost si ocazie, zica cine ce vrea de ziua lui Valentin, dar noi 3 colegi de lucru ne-am luat prietenele si sotiile si ne-am prezentat. Se anunta un film bunicel: <a href="http://www.imdb.com/title/tt0377981/">Gnomeo si Julieta</a>. Desen animat axat pe eternul subiect de iubire interzisa - ceva destul de potrivit pentru ocazie.
 

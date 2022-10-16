@@ -1,9 +1,9 @@
 ---
 layout: post
 title: I'm randomly alive
-date: 2005-08-30 21:26:48 +0200
+date: 2005-08-30 21:26:48.000000000 +02:00
 categories:
-- General
+- general
 ---
 Stuff worth mentioning (in no particular order, as usual):
 

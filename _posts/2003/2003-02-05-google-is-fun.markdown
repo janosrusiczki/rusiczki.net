@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google is FUN
-date: 2003-02-05 02:54:06 +0100
+date: 2003-02-05 02:54:06.000000000 +01:00
 categories:
-- Web
+- web
 ---
 And I'm a geek!
 

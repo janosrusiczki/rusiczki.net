@@ -1,9 +1,9 @@
 ---
 layout: post
 title: SSX 3 game footage &amp; Deekline live at Timisoara
-date: 2004-03-24 13:34:51 +0100
+date: 2004-03-24 13:34:51.000000000 +01:00
 categories:
-- General
+- general
 ---
 Lately I uploaded some video content for friends and forum buddies and I thought that since I made kind of an effort to upload them (dial-up, as we all know, purely rules!) I should make them publicly available. So here they are:
 

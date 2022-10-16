@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Back from birthday madness!
-date: 2003-04-24 01:02:57 +0200
+date: 2003-04-24 01:02:57.000000000 +02:00
 categories:
-- General
+- general
 ---
 I'm back. Phew! What a weekend last weekend was!
 

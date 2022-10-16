@@ -1,9 +1,9 @@
 ---
 layout: post
 title: One less site to list my name
-date: 2003-02-13 04:30:39 +0100
+date: 2003-02-13 04:30:39.000000000 +01:00
 categories:
-- Web
+- web
 ---
 It was with great sadness that I read an announcement on <a href="http://www.baiamare.net" title="It went offline... :-(">baiamare.net</a> saying that it won't be updated anymore. It's sad that it closes since it was the leading "portal" site for Baia Mare and one of the best in the country.
 

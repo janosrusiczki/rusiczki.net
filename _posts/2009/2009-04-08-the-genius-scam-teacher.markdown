@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The genius scam teacher
-date: 2009-04-08 11:19:00 +0200
+date: 2009-04-08 11:19:00.000000000 +02:00
 categories:
-- General
+- general
 ---
 You might remember I had a post about scamming people on eBay - it was one of the most popular ones posted to this blog, judging by the keywords people search for and then pop in here from Google. Actually, it was an anti-post, calling the scammers idiots because back then I was very pissed off about not being able to buy things from <a href="http://www.ebay.com">the small e</a>, but it seems that many did not get that. I was getting e-mails and instant messages from time to time, asking me to teach them scamming and then...
 

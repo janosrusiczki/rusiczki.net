@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Baia Sprie seen from a paraglider
-date: 2010-04-22 15:00:08 +0200
+date: 2010-04-22 15:00:08.000000000 +02:00
 categories:
-- Life
-- Photos
+- life
+- photos
 ---
 I think the following are the two most awesome photos of my hometown:
 

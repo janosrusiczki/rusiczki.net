@@ -1,9 +1,9 @@
 ---
 layout: post
 title: I've been a good Secret Santa!
-date: 2005-01-20 20:09:15 +0100
+date: 2005-01-20 20:09:15.000000000 +01:00
 categories:
-- Life
+- life
 ---
 <img src="https://content.rusiczki.net/blogpics/secret_santa_2004.jpg" width="490" height="89" alt="A note from Andy on the gift package" class="image" />
 

@@ -2,7 +2,7 @@
 layout: post
 title: Concediu de vară - Cum am ajuns
 categories:
-- Cronică
+- cronică
 ---
 Concediu. De. Vară. Trei cuvinte cu rezonanță mitică. Haha, nici chiar așa, dar tocmai bune de introducere.
 

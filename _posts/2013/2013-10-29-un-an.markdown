@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Un an!
-date: 2013-10-29 20:13:04 +0100
+date: 2013-10-29 20:13:04.000000000 +01:00
 categories:
-- Română
+- română
 ---
 <a href="https://content.rusiczki.net/2013/10/oficial.jpg"><img src="https://content.rusiczki.net/2013/10/oficial-693x460.jpg" alt="Noi doi, cu inele pe degete." width="693" height="460" class="alignnone size-medium wp-image-4605" /></a>
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prima trântă adevărată (cu sânge)
-date: 2011-09-07 11:50:43 +0200
+date: 2011-09-07 11:50:43.000000000 +02:00
 categories:
 - bike
 ---

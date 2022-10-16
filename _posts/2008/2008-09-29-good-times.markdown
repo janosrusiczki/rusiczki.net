@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Good times
-date: 2008-09-29 16:37:25 +0200
+date: 2008-09-29 16:37:25.000000000 +02:00
 categories:
-- Fun
-- Video
-- Helicopter
+- fun
+- video
+- helicopter
 ---
 I'll keep it short and let the videos do the talking.
 

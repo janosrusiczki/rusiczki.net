@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Another bad night
-date: 2003-01-12 02:37:56 +0100
+date: 2003-01-12 02:37:56.000000000 +01:00
 categories:
-- Life
+- life
 ---
 Or should I say: just the usual? This time I haven't even been drunk. And still I made an idiotic move. Which makes me feel like shit now.
 

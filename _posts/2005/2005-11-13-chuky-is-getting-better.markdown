@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Chuky is getting better
-date: 2005-11-13 21:35:37 +0100
+date: 2005-11-13 21:35:37.000000000 +01:00
 categories:
-- Life
+- life
 ---
 <a href="http://www.flickr.com/photos/janos/62884860/"><img src="http://static.flickr.com/28/62884860_2d5789c8df.jpg" alt="Chuky is getting better" border="0" class="image" /></a>
 

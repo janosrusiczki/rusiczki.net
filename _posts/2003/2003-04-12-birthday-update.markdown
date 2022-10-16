@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Birthday update
-date: 2003-04-12 21:24:29 +0200
+date: 2003-04-12 21:24:29.000000000 +02:00
 categories:
-- General
+- general
 ---
 Oh, and I'm not celebrating my birthday today, since the bar where I wanted to take the gang to get everybody happy by getting them drunk is taken by somebody else for tonight... I found out about this Wednesday in the evening and I was quite disappointed plus I had to announce everyone in time that it's not today.
 

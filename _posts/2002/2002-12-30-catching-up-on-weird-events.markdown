@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Catching up on weird events
-date: 2002-12-30 02:16:06 +0100
+date: 2002-12-30 02:16:06.000000000 +01:00
 categories:
-- General
+- general
 ---
 End of the year. Having nothing else to do it's time to sum up the weirdest events. I found one that I really wouldn't like to happen to me:
 

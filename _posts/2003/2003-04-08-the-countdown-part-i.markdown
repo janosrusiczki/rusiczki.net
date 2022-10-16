@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The countdown - Part I
-date: 2003-04-08 10:01:43 +0200
+date: 2003-04-08 10:01:43.000000000 +02:00
 categories:
-- General
+- general
 ---
 Nine days 'til my birthday.
 

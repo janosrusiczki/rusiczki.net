@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A wish
-date: 2003-04-03 03:08:38 +0200
+date: 2003-04-03 03:08:38.000000000 +02:00
 categories:
-- General
+- general
 ---
 Oh, how I wish I would have PHP on my Palm. But then again. If I think about it...
 

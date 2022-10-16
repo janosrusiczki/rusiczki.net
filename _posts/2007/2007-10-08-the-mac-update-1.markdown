@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ! 'The Mac update #1'
-date: 2007-10-08 12:43:23 +0200
+title: 'The Mac update #1'
+date: 2007-10-08 12:43:23.000000000 +02:00
 categories:
-- Technical
-- Mac
+- technical
+- mac
 ---
 Hopefully this will be the first of a series written by a recent switcher... :)
 

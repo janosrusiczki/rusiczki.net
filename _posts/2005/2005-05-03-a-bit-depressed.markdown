@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A bit depressed
-date: 2005-05-03 16:38:48 +0200
+date: 2005-05-03 16:38:48.000000000 +02:00
 categories:
-- Life
+- life
 ---
 Yesterday I met with some ex-collegues from the company I worked at during the year of 2001 and I realized that everybody is in a better financial state than I am currently. I can only blame myself for this because I attached myself professionaly to a certain person far too long even if I knew that it was a dead end partnership. But at least I got out of it a month or so ago, marking the end of my so called freelancing era and considerably reducing my monthly income. Almost to the limit I could say.
 

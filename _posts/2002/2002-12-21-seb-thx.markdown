@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Seb - Thx
-date: 2002-12-21 21:06:24 +0100
+date: 2002-12-21 21:06:24.000000000 +01:00
 categories:
-- General
+- general
 ---
 <a href="http://www.drumandbass.ro/dnb/mp3/seb/" title="yeah!">Here's the mix.</a>

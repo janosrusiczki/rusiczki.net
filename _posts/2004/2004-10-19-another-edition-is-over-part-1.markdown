@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Another edition is over - Part 1
-date: 2004-10-19 09:03:32 +0200
+date: 2004-10-19 09:03:32.000000000 +02:00
 categories:
-- Life
+- life
 ---
 I'm back home since Sunday night but I had to catch my breath before writing anything about the massiveness that TM04Base was. I'm sad that it's over and that all that's left to wait for this year is Christmas because basically nothing related to drum'n'bass, breaks or generally any quality electronic music will happen here in Baia Mare. Even less since our much loved and hated bar, Cuba (aka Upstairs), closed. And Christmas is so far away...
 

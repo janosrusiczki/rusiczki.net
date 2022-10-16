@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Boom!
-date: 2008-06-04 15:29:33 +0200
+date: 2008-06-04 15:29:33.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 Just my luck. One month after <a href="http://www.rusiczki.net/2008/05/10/the-end-of-a-hosting-era/">I get</a> a dedicated server the data center that's hosting it <a href="http://forums.theplanet.com/index.php?showtopic=90185">goes boom</a>. To be more precise:
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Upgrade time!
-date: 2002-12-27 20:23:38 +0100
+date: 2002-12-27 20:23:38.000000000 +01:00
 categories:
-- General
+- general
 ---
 Mailing lists are so good. You spare lots of time. :)
 

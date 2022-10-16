@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A sucky Freeland saved by some super friends
-date: 2003-10-21 01:04:14 +0200
+date: 2003-10-21 01:04:14.000000000 +02:00
 categories:
-- Life
+- life
 ---
 I'm back home from a rather disappointing party fortunately saved by a fantastic warm-up with some fantastic friends.
 

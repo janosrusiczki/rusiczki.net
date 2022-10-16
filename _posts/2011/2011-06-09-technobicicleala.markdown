@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Technobicicleala
-date: 2011-06-09 14:28:12 +0200
+date: 2011-06-09 14:28:12.000000000 +02:00
 categories:
-- Technical
+- technical
 - bike
-- Română
+- română
 ---
 Din seria "sunt un geek si ma mandresc cu asta" sau "nu lasati nerds sa faca sport"... :)
 

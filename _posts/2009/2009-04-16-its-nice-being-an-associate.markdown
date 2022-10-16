@@ -1,9 +1,9 @@
 ---
 layout: post
 title: It's nice being an associate
-date: 2009-04-16 08:41:28 +0200
+date: 2009-04-16 08:41:28.000000000 +02:00
 categories:
-- Web
+- web
 ---
 Mark the date of April the 9th, 2009. It was the day I first helped Amazon sell a book. I would have blogged earlier about this, but I only checked my Amazon Associates account yesterday night...
 

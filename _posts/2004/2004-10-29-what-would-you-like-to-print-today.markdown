@@ -1,9 +1,9 @@
 ---
 layout: post
 title: What would you like to print today?
-date: 2004-10-29 15:00:02 +0200
+date: 2004-10-29 15:00:02.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 <img src="https://content.rusiczki.net/blogpics/cascading_style_cheatsheet.jpg" width="490" height="91" alt="Cascading Style Cheatsheet" class="image" />
 

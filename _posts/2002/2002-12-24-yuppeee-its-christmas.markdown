@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Yuppeee! It's Christmas!
-date: 2002-12-24 23:49:12 +0100
+date: 2002-12-24 23:49:12.000000000 +01:00
 categories:
-- General
+- general
 ---
 <a href="https://content.rusiczki.net/blogpics/chrismtas_tree-final.php" onclick="window.open('https://content.rusiczki.net/blogpics/chrismtas_tree-final.php','popup','width=400,height=533,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="https://content.rusiczki.net/blogpics/chrismtas_tree-final-thumb.jpg" width="150" height="199" border="0" alt="Christmas Tree - Final Phase" class="postimage" /></a> Here it is! You can see about an afternoon's work on the left side. Taking photos of a Christmas tree is kind of problematic because all those shiny things reflect the camera's flash and you end up with an ugly pic. So I assure you that the actual tree is a lot more beautiful than what you can see here.
 

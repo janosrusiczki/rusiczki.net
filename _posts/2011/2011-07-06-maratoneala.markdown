@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Maratoneala
-date: 2011-07-06 10:36:51 +0200
+date: 2011-07-06 10:36:51.000000000 +02:00
 categories:
 - bike
-- Română
+- română
 ---
 <img src="https://content.rusiczki.net/2011/07/maraton-izvoare-2011-500x331.jpg" alt="Eu la Maratonul de la Izvoare 2011" title="Eu la Maratonul de la Izvoare 2011" width="500" height="331"/>
 

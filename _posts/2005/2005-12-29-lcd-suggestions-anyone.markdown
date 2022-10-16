@@ -1,9 +1,9 @@
 ---
 layout: post
 title: LCD suggestions anyone?
-date: 2005-12-29 15:07:36 +0100
+date: 2005-12-29 15:07:36.000000000 +01:00
 categories:
-- Technical
+- technical
 ---
 My Hansol 710D is slowly waving its goodbyes. I bought it a few years ago following a friend's advice but I wasn't ever satisfied with this piece of hardware due to the audible noise it makes while displaying bright images and the geometric distortion it exhibits while showing screens containing strong contrast.
 

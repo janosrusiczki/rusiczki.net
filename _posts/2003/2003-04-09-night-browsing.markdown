@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Night browsing
-date: 2003-04-09 03:11:01 +0200
+date: 2003-04-09 03:11:01.000000000 +02:00
 categories:
-- General
+- general
 ---
 Damn, I'm up very late again! And I don't know if I'll be able to go to school tomorrow or I'll just lay lazily in my bed. I guess I'll force myself somehow... Here's the link harvest:
 

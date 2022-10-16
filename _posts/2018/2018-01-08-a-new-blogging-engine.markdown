@@ -1,11 +1,11 @@
 ---
 layout: post
 title: A new blogging engine
-date: 2018-01-08 23:18:00 +0200
+date: 2018-01-08 23:18:00.000000000 +02:00
 categories:
-- Blog
-- Ruby
-- Technical
+- blog
+- ruby
+- technical
 ---
 ![Code screenshot](https://content.rusiczki.net/2018/01/code-screenshot.jpg "Code screenshot")
 

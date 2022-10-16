@@ -2,8 +2,8 @@
 layout: post
 title: Întoarcerea în Zell am See
 categories:
-- Cronică
-- Photos
+- cronică
+- photos
 image: https://content.rusiczki.net/2014/11/Zell-am-See-panorama-resized-980x377.jpg
 description: Despre concediul de iarnă din Zell am See.
 ---

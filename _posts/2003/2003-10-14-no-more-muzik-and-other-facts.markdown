@@ -1,9 +1,9 @@
 ---
 layout: post
 title: No more Muzik and other facts
-date: 2003-10-14 17:00:08 +0200
+date: 2003-10-14 17:00:08.000000000 +02:00
 categories:
-- General
+- general
 ---
 Here are some tidbits which I consider <i>news</i>:
 

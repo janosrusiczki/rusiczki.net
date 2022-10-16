@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Fun with numbers
-date: 2003-01-13 23:57:55 +0100
+date: 2003-01-13 23:57:55.000000000 +01:00
 categories:
-- Web
+- web
 ---
 You can see so much stupidity on IRC. But sometimes you can see fun things too:
 

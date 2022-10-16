@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Some good news
-date: 2004-12-13 12:50:22 +0100
+date: 2004-12-13 12:50:22.000000000 +01:00
 categories:
-- Life
+- life
 ---
 Yesterday night I arrived to Baia Sprie with a friend and when we reached the school where we were supposed to vote it was 8:59. We boldly entered and asked the police guy if it was still possible to vote. He said we have 50 seconds. Right... So we put the stamps on the right places, received some 'thank you'-s for the fact that we voted and then went home. The first surprise came when I saw the percents on ProTV which were announcing a tie and respectively a very small advantage for Mr Nastase.
 

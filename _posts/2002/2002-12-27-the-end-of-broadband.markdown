@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The end of broadband
-date: 2002-12-27 19:49:42 +0100
+date: 2002-12-27 19:49:42.000000000 +01:00
 categories:
-- General
+- general
 ---
 I'm so sad. I do not have access to broadband Internet anymore. Here's the full story:
 

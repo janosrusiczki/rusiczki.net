@@ -1,9 +1,9 @@
 ---
 layout: post
 title: This winter BLOWS!
-date: 2004-01-14 09:49:27 +0100
+date: 2004-01-14 09:49:27.000000000 +01:00
 categories:
-- Life
+- life
 ---
 Well, compared to the last one when I was praying for more snow to be able to go boarding this winter really sucks. I mean there was no real amount of snow until now and now when there are finally some precipitations of course the temperature has to be 3&deg;C. So... It's raining. Heavily. And it's more than ugly outside. It surely looks like the start of spring, not the middle of January.
 

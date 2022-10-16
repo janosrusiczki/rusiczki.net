@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Traian by night
-date: 2004-06-05 23:35:47 +0200
+date: 2004-06-05 23:35:47.000000000 +02:00
 categories:
-- Photos
+- photos
 ---
 <img alt="View from my window" src="https://content.rusiczki.net/blogpics/view_from_my_window.jpg" width="488" height="263" border="0" class="image" />
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A few photos
-date: 2003-03-16 07:07:46 +0100
+date: 2003-03-16 07:07:46.000000000 +01:00
 categories:
-- General
+- general
 ---
 Well I just got home from the party...
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cold, exams, more memory and some books
-date: 2004-01-27 12:46:37 +0100
+date: 2004-01-27 12:46:37.000000000 +01:00
 categories:
-- Life
+- life
 ---
 Well, winter stayed alright. I didn't have any time for updates lately because most of the last days I went out and snowboarded my ass off... And when I didn't went out I was "learning" for my damn exams. One of which I blew badly. And tomorrow comes the hardest one. And I don't know how I'll manage. I should learn some but... I'll try anyway.
 

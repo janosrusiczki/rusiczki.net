@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Winamp 5 rocks
-date: 2003-10-21 01:33:26 +0200
+date: 2003-10-21 01:33:26.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 <img alt="Winamp 5 Beta" src="https://content.rusiczki.net/blogpics/winamp_5.gif" width="354" height="147" border="0" />
 

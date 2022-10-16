@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Crosul Lacului Albastru
-date: 2018-09-03 14:30:00 +0200
+date: 2018-09-03 14:30:00.000000000 +02:00
 categories:
-- Cronică
-- Sport
-- Alergare
+- cronică
+- sport
+- alergare
 image: https://content.rusiczki.net/2018/09/janos-la-crosul-lacului-albastru-1000x679.jpg
 description: Cum a fost primul meu concurs de alergare.
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Another Threadless pack
-date: 2004-12-07 20:09:59 +0100
+date: 2004-12-07 20:09:59.000000000 +01:00
 categories:
-- Life
+- life
 ---
 ![Threadless package freshly opened](https://content.rusiczki.net/blogpics/threadless_december_2004_01.jpg)
 

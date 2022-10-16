@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Champagne please
-date: 2008-04-08 11:58:50 +0200
+date: 2008-04-08 11:58:50.000000000 +02:00
 categories:
-- Web
+- web
 ---
 Entry number 500. FIVE HUNDRED. Whoohoo, hurray me!
 

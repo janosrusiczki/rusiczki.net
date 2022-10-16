@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Party time!
-date: 2003-10-03 01:35:37 +0200
+date: 2003-10-03 01:35:37.000000000 +02:00
 categories:
-- Music
+- music
 ---
 It seems that fun comes in waves. At least this is what's happening to me nowadays. I mean for a few months nothing important happens and then suddenly there comes the <b>party season</b>!
 

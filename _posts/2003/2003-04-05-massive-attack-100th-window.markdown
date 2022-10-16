@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Massive Attack - 100th Window
-date: 2003-04-05 22:21:48 +0200
+date: 2003-04-05 22:21:48.000000000 +02:00
 categories:
-- General
+- general
 ---
 After so much frustration let's talk about the music!
 

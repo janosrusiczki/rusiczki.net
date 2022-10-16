@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Las Vegas is just downstairs
-date: 2004-12-21 21:41:38 +0100
+date: 2004-12-21 21:41:38.000000000 +01:00
 categories:
-- Life
+- life
 ---
 <img src="https://content.rusiczki.net/blogpics/las_vegas_downstairs.jpg" width="490" height="112" alt="Las Vegas sign" class="image" />
 

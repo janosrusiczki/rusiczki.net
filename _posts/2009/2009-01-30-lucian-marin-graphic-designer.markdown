@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Lucian Marin, graphic designer
-date: 2009-01-30 09:03:40 +0100
+date: 2009-01-30 09:03:40.000000000 +01:00
 categories:
-- Work
-- Portofolio
+- work
+- portofolio
 ---
 The title is obviously a pun, as <em>someone</em> is so obsessed with SEO... :-)
 

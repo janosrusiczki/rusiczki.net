@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Capsula timpului muzicală
-date: 2018-01-17 00:48:00 +0200
+date: 2018-01-17 00:48:00.000000000 +02:00
 categories:
-- Music
-- Română
+- music
+- română
 image: https://content.rusiczki.net/2018/01/ctm-01-organizator-de-casete-1000x667.jpg
-description: Sau cum am descoperit o veritabilă comoară nostalgică în interiorul bătrânului meu suport de casete.
+description: Sau cum am descoperit o veritabilă comoară nostalgică în interiorul bătrânului
+  meu suport de casete.
 ---
 După atâția ani de MP3 și muzică digitală, anul trecut m-a prins și pe mine fascinația sculelor audio "vintage" și printre altele mi-am luat un casetofon deck Technics la un preț incredibil față de cât costa pe vremea adolescenței mele când un asemenea aparat aparținea de domeniul viselor.
 

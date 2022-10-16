@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The X day
-date: 2004-03-13 01:53:59 +0100
+date: 2004-03-13 01:53:59.000000000 +01:00
 categories:
-- Movies
+- movies
 ---
 ![X-Men - Az X csomag](https://content.rusiczki.net/blogpics/xmen_az_xcsomag.jpg)
 

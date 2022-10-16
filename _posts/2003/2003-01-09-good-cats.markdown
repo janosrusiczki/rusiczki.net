@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Good cats
-date: 2003-01-09 02:39:21 +0100
+date: 2003-01-09 02:39:21.000000000 +01:00
 categories:
-- Life
+- life
 ---
 <a href="https://content.rusiczki.net/blogpics/kittens_in_a_box.php" onclick="window.open('https://content.rusiczki.net/blogpics/kittens_in_a_box.php','popup','width=700,height=700,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="https://content.rusiczki.net/blogpics/kittens_in_a_box-thumb.jpg" width="200" height="200" border="0" alt="Good cats" class="postimage" /></a> "Many good people fit well in a small space" teaches us a Hungarian saying. I don't know if it works for cats too but judging from this picture it seems so. However saying this is a little exagerated, because that black cat isn't exactly the definition of "good". He's naughty. Really-really naughty.
 

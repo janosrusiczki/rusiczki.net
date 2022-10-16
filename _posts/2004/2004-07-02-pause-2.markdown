@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Pause
-date: 2004-07-02 14:55:19 +0200
+date: 2004-07-02 14:55:19.000000000 +02:00
 categories:
-- Life
+- life
 ---
 Work. Work. Work. And more work.
 

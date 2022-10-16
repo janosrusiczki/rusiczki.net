@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Cavnic - 3 years later
-date: 2007-01-28 13:05:38 +0100
+date: 2007-01-28 13:05:38.000000000 +01:00
 categories:
-- Life
-- Snowboard
+- life
+- snowboard
 ---
 <img src="https://content.rusiczki.net/blogpics/cavnic_night_lighting.jpg" width="500" height="148" alt="The slopes at Icoana now featuring night lighting!" class="image" />
 

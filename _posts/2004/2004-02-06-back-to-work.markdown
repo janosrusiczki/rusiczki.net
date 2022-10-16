@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Back to work
-date: 2004-02-06 23:34:38 +0100
+date: 2004-02-06 23:34:38.000000000 +01:00
 categories:
-- Life
+- life
 ---
 Although my exam period is officially over as of today I still have one exam on the 11th. A retry of the exam I blew last year's second semester. And I have a lot to learn for that exam. A lot. But as usual life is not that simple.
 

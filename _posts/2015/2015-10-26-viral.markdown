@@ -2,9 +2,9 @@
 layout: post
 title: Viral!
 categories:
-- RC
-- Video
-- Română
+- rc
+- video
+- română
 ---
 <div class="video-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/57Bk_bE3EsQ?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>

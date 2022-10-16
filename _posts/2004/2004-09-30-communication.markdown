@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Communication
-date: 2004-09-30 14:35:59 +0200
+date: 2004-09-30 14:35:59.000000000 +02:00
 categories:
-- Life
+- life
 ---
 Yesterday evening, walking Ioana (as in, Ioana my lovely girlfriend) from my place to her's we were talking technical stuff and I found out that she's got an "internal" e-mail address at the bank where she got hired not so long ago, right after finishing her university. "Internal?" I ask. She supposed it is internal but then she tells me that her workmate watches funny videos almost each day. OK, I was convinced, it's not internal.
 

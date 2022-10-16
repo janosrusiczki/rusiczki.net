@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Kindle Paperwhite - Differences between first (2012) and second (2013) generations
-date: 2013-11-23 22:02:30 +0100
+date: 2013-11-23 22:02:30.000000000 +01:00
 categories:
-- Technical
-- Photos
+- technical
+- photos
 ---
 The older Kindle (and its box) is always on the left.
 

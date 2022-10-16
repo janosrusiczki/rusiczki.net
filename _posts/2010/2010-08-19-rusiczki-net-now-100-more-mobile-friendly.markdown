@@ -1,10 +1,10 @@
 ---
 layout: post
 title: rusiczki.net - now 100% more mobile friendly
-date: 2010-08-19 15:57:21 +0200
+date: 2010-08-19 15:57:21.000000000 +02:00
 categories:
-- Technical
-- Android
+- technical
+- android
 ---
 Oh yeah, since last Friday I'm a proud smartphone owner. You might even ask what took me so long and you'd be quite right. Well, I considered that I don't really need a smartphone since 80% of the day I'm sitting in front of the computer but I sort of got the gadget lust after <a href="http://www.flickr.com/ioana">Ioana</a> bought herself a <a href="http://galaxys.samsungmobile.com">Samsung Galaxy S</a>. She got hers on Tuesday and Friday I had mine. Go figure... I just sat there Thursday night and decided it's way too nice and good value for the money and that I need one.
 

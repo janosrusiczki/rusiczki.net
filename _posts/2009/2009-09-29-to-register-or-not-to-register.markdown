@@ -1,9 +1,9 @@
 ---
 layout: post
 title: To register or not to register...
-date: 2009-09-29 21:08:33 +0200
+date: 2009-09-29 21:08:33.000000000 +02:00
 categories:
-- Mac
+- mac
 ---
 ... this is the question.
 

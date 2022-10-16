@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Roxette
-date: 2019-12-11 18:00:00 +0200
+date: 2019-12-11 18:00:00.000000000 +02:00
 categories:
-- Cronică
-- Music
+- cronică
+- music
 image: https://content.rusiczki.net/2019/12/casete-cu-roxette-1000x667.jpg
 description: Am fost un mare fan Roxette.
 ---

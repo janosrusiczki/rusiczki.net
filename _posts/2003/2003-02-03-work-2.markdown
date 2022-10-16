@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Work
-date: 2003-02-03 01:25:09 +0100
+date: 2003-02-03 01:25:09.000000000 +01:00
 categories:
-- Work
+- work
 ---
 I'm overwhelmed of it. For the moment I have to do a <a href="http://www.zonegsm.com/logger.php" title="Will be available here shortly...">pretty complicated system</a> for my french partner in crime. This new assignment pissed me off a little because I had to interrupt work on a <a href="http://www.ma-soiree.com/" title="Party and fun in the south of France">current project</a> which wasn't the funniest work either. And it also pissed me off because it was GSM related. Again. GSM. Yuk. It seems that all my life I've been doing GSM sites.
 

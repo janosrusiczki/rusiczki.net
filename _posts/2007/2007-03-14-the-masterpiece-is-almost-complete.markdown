@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The masterpiece is (almost) complete!
-date: 2007-03-14 11:07:11 +0100
+date: 2007-03-14 11:07:11.000000000 +01:00
 categories:
-- Technical
+- technical
 ---
 <img src="https://content.rusiczki.net/blogpics/corsair_memory.jpg" width="500" height="148" alt="1 gigabyte of Corsair memory" class="image" />
 

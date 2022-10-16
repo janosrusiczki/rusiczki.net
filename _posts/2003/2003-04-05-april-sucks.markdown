@@ -1,9 +1,9 @@
 ---
 layout: post
 title: April sucks
-date: 2003-04-05 22:23:34 +0200
+date: 2003-04-05 22:23:34.000000000 +02:00
 categories:
-- General
+- general
 ---
 It's snowing outside. How annoying!
 

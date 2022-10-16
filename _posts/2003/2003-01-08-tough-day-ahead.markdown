@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Tough day ahead
-date: 2003-01-08 01:25:35 +0100
+date: 2003-01-08 01:25:35.000000000 +01:00
 categories:
-- General
+- general
 ---
 Tomorrow I have to write roughly <b>a ton</b> of PHP admin scripts.
 

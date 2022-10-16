@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Quoted!
-date: 2008-10-28 09:01:14 +0100
+date: 2008-10-28 09:01:14.000000000 +01:00
 categories:
-- Web
-- Technical
+- web
+- technical
 ---
 Wow, I'm such a web celebrity! Look, I'm quoted on the main page of <a href="http://www.pixlr.com">Pixlr</a>:
 

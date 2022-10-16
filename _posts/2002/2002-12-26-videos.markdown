@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Videos
-date: 2002-12-26 03:13:46 +0100
+date: 2002-12-26 03:13:46.000000000 +01:00
 categories:
-- General
+- general
 ---
 Warning! Watching the new Bj&ouml;rk video while eating can be dangerous for those with weaker stomachs. Same as Layo & Bushcwacka!'s <i>Love Story</i>. The tunes are great in both cases. As a note, Bj&ouml;rk seems to love having shocking videos. I remember <i>Pagan Poetry</i> and those hooks in her back. Yayks!
 

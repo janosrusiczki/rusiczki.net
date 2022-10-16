@@ -1,9 +1,9 @@
 ---
 layout: post
 title: How to find the username associated with a given UID
-date: 2007-03-09 14:07:48 +0100
+date: 2007-03-09 14:07:48.000000000 +01:00
 categories:
-- Technical
+- technical
 ---
 In Unix based systems, obviously...
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: I feel so good!
-date: 2003-03-26 01:44:33 +0100
+date: 2003-03-26 01:44:33.000000000 +01:00
 categories:
-- General
+- general
 ---
 <blockquote><i>Dear Ioan Rusiczki
 

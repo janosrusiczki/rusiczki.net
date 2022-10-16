@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Back home
-date: 2003-04-08 10:55:09 +0200
+date: 2003-04-08 10:55:09.000000000 +02:00
 categories:
-- General
+- general
 ---
 OK. Nice morning. I went out in the bus station. Waited for the bus and when it came it just passed by the station. It was a "tincan" as we call it, Roman Diesel: a bus made in Romania. 1 cm of free space around the doors and some windows. Plastic chairs. Yes, these are really warm inside. Not. And the price of the tickets... Well, I'd better not talk about this... It passed by the station speeding down the road and I looked at the clock. It was 10:23 and there was no way I could reach the second class in time. So I better came home with the intention to work. And that's what I'll do.
 

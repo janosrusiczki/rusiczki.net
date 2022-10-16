@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Pause ][
-date: 2003-01-04 03:28:12 +0100
+date: 2003-01-04 03:28:12.000000000 +01:00
 categories:
-- General
+- general
 ---
 I'll take a break.
 

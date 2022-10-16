@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Something is wrong...
-date: 2003-08-27 01:32:09 +0200
+date: 2003-08-27 01:32:09.000000000 +02:00
 categories:
-- Work
+- work
 ---
 Lately I've been really productive.
 

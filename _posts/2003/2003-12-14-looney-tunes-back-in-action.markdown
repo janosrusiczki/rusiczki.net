@@ -1,9 +1,9 @@
 ---
 layout: post
-title: ! 'Looney Tunes: Back in Action'
-date: 2003-12-14 22:47:16 +0100
+title: 'Looney Tunes: Back in Action'
+date: 2003-12-14 22:47:16.000000000 +01:00
 categories:
-- Movies
+- movies
 ---
 <img alt="Looney Tunes: Back in Action (Movie Poster)" src="https://content.rusiczki.net/blogpics/looney_tunes_back_in_action.jpg" width="94" height="140" border="0" class="postimage" /> I went to Cluj-Napoca this weekend (actually Thursday night) and while trying to spend some quality time with my girlfriend we went to <a href="http://www.imdb.com/title/tt0318155/" title="Looney Tunes: Back in Action at the Internet Movie Database">this movie</a> in a quite nice theater (Victoria). The public was not so nice because it seemed like some gipsy kids from an orphan house got their Christmas money and so they inhabited some of the main room of the theater the "normal" public being forced to the balcony. No one really wanted to be around them since they were acting quite weird. Drugs maybe... I don't know.
 

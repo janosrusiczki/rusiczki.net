@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Sunt fierbinte pe OSM
-date: 2011-09-07 11:52:21 +0200
+date: 2011-09-07 11:52:21.000000000 +02:00
 categories:
-- Technical
-- Română
-- Mapping
-- OpenStreetMap
+- technical
+- română
+- mapping
+- openstreetmap
 ---
 <a href="https://content.rusiczki.net/2011/09/osm-heatmap.png"><img src="https://content.rusiczki.net/2011/09/osm-heatmap-500x231.png" alt="OpenStreetMap Heatmap" title="OpenStreetMap Heatmap" width="500" height="231" class="alignnone size-medium wp-image-1433" /></a>
 

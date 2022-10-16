@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Template Monster = Bad
-date: 2009-10-27 11:33:09 +0100
+date: 2009-10-27 11:33:09.000000000 +01:00
 categories:
-- Work
+- work
 - template monster
-- Work
+- work
 ---
 I'll post this here because this blog is less volatile than Twitter:
 

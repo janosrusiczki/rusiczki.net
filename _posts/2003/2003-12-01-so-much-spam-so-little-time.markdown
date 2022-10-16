@@ -1,9 +1,9 @@
 ---
 layout: post
 title: So much spam so little time...
-date: 2003-12-01 22:48:59 +0100
+date: 2003-12-01 22:48:59.000000000 +01:00
 categories:
-- Technical
+- technical
 ---
 Fighting spam is always actual. Because once you think that, yes!, I finally found the ultimate tool to filter all that nasty spam out, spammers figure out a way to avoid the filter the majority is using applying various methods, some of them rather dumb others quite clever. That's why I gave up on using the <a href="http://www.statalabs.com/products/saproxy/overview.php">SpamAssassin proxy</a>. It was letting an increasing number of messages through into my Inbox and the only way to make it catch them would have been to lower the spam score to a ridiculously low level. This in turn would meant lots of false positives (completely harmless mail identified as SPAM) which I was getting anyway meaning I had to fiddle with the whitelist... All this fiddling meant work, work and more work. And who likes work? Who doesn't like comfort?
 

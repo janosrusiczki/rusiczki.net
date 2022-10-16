@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A bitter update
-date: 2009-01-26 10:54:25 +0100
+date: 2009-01-26 10:54:25.000000000 +01:00
 categories:
-- Life
+- life
 ---
 The new year came. And with it one of the worst things in my life.
 

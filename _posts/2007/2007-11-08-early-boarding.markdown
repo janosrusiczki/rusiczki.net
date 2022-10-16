@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Early boarding?
-date: 2007-11-08 00:23:14 +0100
+date: 2007-11-08 00:23:14.000000000 +01:00
 categories:
-- Life
+- life
 ---
 <img src="https://content.rusiczki.net/blogpics/weather-2007-11-08.gif" width="273" height="180" alt="Weather Widget" class="image"/>
 

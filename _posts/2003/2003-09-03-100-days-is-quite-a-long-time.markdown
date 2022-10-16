@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 100 days is quite a long time
-date: 2003-09-03 03:19:17 +0200
+date: 2003-09-03 03:19:17.000000000 +02:00
 categories:
-- General
+- general
 ---
 ![UD Agent Screenshot](https://content.rusiczki.net/blogpics/100_days.gif)
 

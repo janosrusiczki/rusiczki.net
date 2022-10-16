@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Solaris
-date: 2004-02-06 23:15:10 +0100
+date: 2004-02-06 23:15:10.000000000 +01:00
 categories:
-- Movies
+- movies
 ---
 <img alt="solaris_poster.jpg" src="https://content.rusiczki.net/blogpics/solaris_poster.jpg" width="87" height="130" border="0" alt="Solaris" class="postimage" /> To test the DVD playback capabilities of my recently acquired PS2 I rented and saw Soderbergh and Cameron's <a href="http://www.imdb.com/title/tt0307479/" title="Solaris at IMDB">Solaris</a> today. I like the movie. A lot.
 

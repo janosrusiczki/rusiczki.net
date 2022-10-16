@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Pe dealurile de deasupra Plopisului
-date: 2011-05-27 17:54:16 +0200
+date: 2011-05-27 17:54:16.000000000 +02:00
 categories:
-- Photos
+- photos
 - bike
 ---
 Sau cum am ajuns din greseala la premierea maratonului de la Preluca...

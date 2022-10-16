@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Snow(board) report for the first weekend of February 2007
-date: 2007-02-08 09:46:05 +0100
+date: 2007-02-08 09:46:05.000000000 +01:00
 categories:
-- Life
-- Snowboard
+- life
+- snowboard
 ---
 <img src="https://content.rusiczki.net/blogpics/the_three_apostles.jpg" width="500" height="148" alt="The Three Apostles" class="image" />
 

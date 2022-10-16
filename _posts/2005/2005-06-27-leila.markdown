@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Leila
-date: 2005-06-27 20:47:05 +0200
+date: 2005-06-27 20:47:05.000000000 +02:00
 categories:
-- Life
+- life
 ---
 <img src="https://content.rusiczki.net/blogpics/leila.jpg" width="490" height="369" class="image" style="background: #000;" alt="Leila" />
 

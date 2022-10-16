@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Today is a day for celebration
-date: 2007-05-11 09:14:19 +0200
+date: 2007-05-11 09:14:19.000000000 +02:00
 categories:
-- Web
-- Life
+- web
+- life
 ---
 <a href="http://www.paypal.com">Paypal</a> is <a href="http://www.seopedia.org/seo-news/paypal-for-romania-now-available-send-only/">finally available in Romania</a>.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Orange doesn't want to sell
-date: 2005-11-23 09:42:06 +0100
+date: 2005-11-23 09:42:06.000000000 +01:00
 categories:
-- Life
+- life
 ---
 <img src="https://content.rusiczki.net/blogpics/nokia_6030.jpg" width="111" height="200" alt="Nokia 6030" class="postimage" /> Yesterday morning after paying my electricity and gas bills I headed to the Orange shop because I intend to get my mother a new phone for Christmas. I was thinking about the Nokia 6030 (pictured here) because it's a relatively small phone, it's moderatly priced, it has a color screen, polyphonic ringtones, etc. In one word: it's sweet. Plus I did some some reading on the web, and as all the reviews ended in a positive tone I got pretty well decided, that yes this is the phone I want to buy. I just needed a bit of hands on experience.
 

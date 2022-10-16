@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Use a browser
-date: 2004-08-04 15:14:17 +0200
+date: 2004-08-04 15:14:17.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 <img src="https://content.rusiczki.net/blogpics/mozilla_firefox.gif" width="490" height="126" border="0" alt="Mozilla Firefox Screenshot" class="image" />
 

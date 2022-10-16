@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Micile bucurii ale vietii
-date: 2011-03-21 18:15:24 +0100
+date: 2011-03-21 18:15:24.000000000 +01:00
 categories:
-- Photos
-- Snowboard
-- Română
+- photos
+- snowboard
+- română
 ---
 Afis pentru un eveniment ce se va desfasura saptamana asta pe partia Roata de la Cavnic:
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: '29'
-date: 2008-04-17 08:41:51 +0200
+date: 2008-04-17 08:41:51.000000000 +02:00
 categories:
-- Life
+- life
 ---
 <a href="http://flickr.com/photos/janos/2421694914/"><img src="http://farm4.static.flickr.com/3132/2421694914_e025690f21.jpg" width="500" height="334" border="0" class="image" alt="Opening a bottle of champagne for my 29th birthday"/></a>
 

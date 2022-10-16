@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The automotive pleasures of life
-date: 2008-04-03 17:15:23 +0200
+date: 2008-04-03 17:15:23.000000000 +02:00
 categories:
-- Life
+- life
 ---
 Hey, I have to share this.
 

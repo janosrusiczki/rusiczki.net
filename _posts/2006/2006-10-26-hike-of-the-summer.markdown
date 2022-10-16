@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Hike of the summer
-date: 2006-10-26 16:20:51 +0200
+date: 2006-10-26 16:20:51.000000000 +02:00
 categories:
-- Photos
+- photos
 ---
 <a href="http://www.flickr.com/photos/janos/tags/20060910tttrc/"><img src="http://static.flickr.com/106/279736077_6b7a846e1d.jpg" alt="The Rooster's Crest" border="0" width="500" height="357" class="image" /></a>
 

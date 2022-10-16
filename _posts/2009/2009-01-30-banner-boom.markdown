@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Banner boom
-date: 2009-01-30 09:51:08 +0100
+date: 2009-01-30 09:51:08.000000000 +01:00
 categories:
-- Web
-- Work
+- web
+- work
 ---
 Two days ago I moved the hosting and delivery of all the advertising I publish on my sites to <a href="http://www.openx.org/ad-server/get-openx-hosted">OpenX Hosted</a>. The results are easily visible on the chart below:
 

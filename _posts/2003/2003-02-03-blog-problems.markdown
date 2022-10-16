@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Blog problems
-date: 2003-02-03 01:35:35 +0100
+date: 2003-02-03 01:35:35.000000000 +01:00
 categories:
-- Technical
+- technical
 ---
 At a given moment my webspace got filled up and since then I was having problems with my blog. I could use this as an excuse for not posting anything...
 

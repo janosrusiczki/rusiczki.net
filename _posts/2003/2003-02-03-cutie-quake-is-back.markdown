@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cutie quake is back!
-date: 2003-02-03 01:47:10 +0100
+date: 2003-02-03 01:47:10.000000000 +01:00
 categories:
-- Web
+- web
 ---
 Well <a href="http://www.computergames.ro/jocuri.php?optiune=online_games&game=31" title="Cutie Quake in all it's glory">here it is</a> again. I had the 1000th page load. I must be lucky or something...
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Declaration
-date: 2003-01-07 15:38:40 +0100
+date: 2003-01-07 15:38:40.000000000 +01:00
 categories:
-- General
+- general
 ---
 This winter is officially a big pile of shit.
 

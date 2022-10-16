@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Yahoo! Mail strikes back!
-date: 2004-06-15 15:36:38 +0200
+date: 2004-06-15 15:36:38.000000000 +02:00
 categories:
-- Web
+- web
 ---
 It's always great to receive stuff like this in your email:
 

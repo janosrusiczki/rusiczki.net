@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Ready to shop 'til I drop
-date: 2003-02-19 03:38:24 +0100
+date: 2003-02-19 03:38:24.000000000 +01:00
 categories:
-- Life
+- life
 ---
 <img src="https://content.rusiczki.net/blogpics/credit_cards.jpg" width="200" height="266" border="0" alt="BancPost's Taifun Cards" class="postimage" /> Well, yes, I received my Internet enabled credit card. Actually I got it Friday, and I could've got it Tuesday because it was ready, and already waiting for me at the bank. But the important thing is I got it.
 

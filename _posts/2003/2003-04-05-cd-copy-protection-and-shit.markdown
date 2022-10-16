@@ -1,9 +1,9 @@
 ---
 layout: post
 title: CD Copy Protection and shit...
-date: 2003-04-05 21:54:22 +0200
+date: 2003-04-05 21:54:22.000000000 +02:00
 categories:
-- General
+- general
 ---
 ![MiniDisc recorder next to my monitor](https://content.rusiczki.net/blogpics/minidisc-big.jpg)
 

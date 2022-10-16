@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Baia Sprie from satellite
-date: 2008-05-30 17:42:19 +0200
+date: 2008-05-30 17:42:19.000000000 +02:00
 categories:
-- Web
+- web
 ---
 <a href="http://www.flickr.com/photos/janos/2536485692/"><img src="http://farm4.static.flickr.com/3281/2536485692_08ecbc727c.jpg" width="500" height="353" border="0" alt="Baia Sprie - Satellite view - High Resolution" class="image"/></a>
 

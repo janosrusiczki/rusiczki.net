@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Top 5 weird search phrases
-date: 2003-12-27 01:14:47 +0100
+date: 2003-12-27 01:14:47.000000000 +01:00
 categories:
-- Web
+- web
 ---
 It's always somehow funny to study your personal site's statistics. For example I found some weirdness looking at the list of 148 different keyphrases visitors typed in a search engine before reaching my blog's pages in December. Of course the leading one was the seasonal "Christmas thoughts" which leads to <a href="http://www.rusiczki.net/2002/12/21/some-more-christmas-thoughts/">a relevant entry</a> (what a surprise!) discussing last year's pre-Christmas madness. Well, for me it looked like it was at least two times bigger this year! The funny thing is, that as the time of writing this, my Christmas thoughts page shows up as a result on page 8 of the Google query but it still received a serious amount of visits.
 

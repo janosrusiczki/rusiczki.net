@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Our 15 minutes of (in)fame
-date: 2008-04-15 09:54:56 +0200
+date: 2008-04-15 09:54:56.000000000 +02:00
 categories:
-- Life
+- life
 ---
 <a href="http://www.jurnalul.ro/articole/122421/%CEn-aceeasi-zi-am-scapat-de-doua-ori-de-moarte"><img alt="Recovering Ioana's board after the avalanche" src="https://content.rusiczki.net/blogpics/our_15_minutes_of_infame.jpg" width="500" height="375" border="0" class="image"/></a>
 

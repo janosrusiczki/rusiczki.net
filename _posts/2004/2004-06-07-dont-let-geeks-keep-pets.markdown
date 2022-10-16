@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Don't let geeks keep pets
-date: 2004-06-07 10:14:33 +0200
+date: 2004-06-07 10:14:33.000000000 +02:00
 categories:
-- Web
+- web
 ---
 <img src="https://content.rusiczki.net/blogpics/dog_robot_dog_and_cat.jpg" width="150" height="123" border="0" class="postimage" alt="A dog, a robot dog and a cat..." /> Here's some <a href="http://pt.textamerica.com/?r=903249">proof</a> (via a <a href="http://www.engadget.com/entry/0253838737315705/">post</a> on <a href="http://www.engadget.com">Engadget</a>) that cats are a lot smarter than dogs. But really what would you expect? A dog was 'designed' to guard the house or help it's owner in hunting while cats nowadays usually just lay around doing almost nothing except some occasional purring. :-)
 

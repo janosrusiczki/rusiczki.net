@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Wanna write like a wanker?
-date: 2003-01-05 05:36:35 +0100
+date: 2003-01-05 05:36:35.000000000 +01:00
 categories:
-- General
+- general
 ---
 Found this guideline on <a href="http://www.infernus.net/rants/write_like_a_wanker.html" title="Hilarious!">How to Write Like A Wanker</a>. Really amusing but also sad somehow, as are all these satirical writings.
 

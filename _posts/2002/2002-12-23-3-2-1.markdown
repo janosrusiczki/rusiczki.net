@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 3... 2... 1...
-date: 2002-12-23 21:01:54 +0100
+date: 2002-12-23 21:01:54.000000000 +01:00
 categories:
-- General
+- general
 ---
 <a href="https://content.rusiczki.net/blogpics/christmas_tree.php" onclick="window.open('https://content.rusiczki.net/blogpics/christmas_tree.php','popup','width=400,height=533,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="https://content.rusiczki.net/blogpics/christmas_tree-thumb.jpg" width="150" height="199" border="0" alt="Christmas Tree" class="postimage" /></a> OK. I rushed it with my last entry. Story: I woke up (phone call). Peeked out on the window. Saw snow falling. Wrote blog entry. Went back to sleep. When I woke up again after about 3 hours there was no trace of snow falling from the sky. The level of snow only raised with about 3 centimeters. Too bad.
 

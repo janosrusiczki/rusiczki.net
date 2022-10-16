@@ -1,9 +1,9 @@
 ---
 layout: post
 title: My next gadget
-date: 2003-04-24 01:35:21 +0200
+date: 2003-04-24 01:35:21.000000000 +02:00
 categories:
-- General
+- general
 ---
 <a href="https://content.rusiczki.net/blogpics/gameboy_advance_sp.html" onclick="window.open('https://content.rusiczki.net/blogpics/gameboy_advance_sp.html','popup','width=500,height=414,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="https://content.rusiczki.net/blogpics/gameboy_advance_sp-thumb.jpg" width="100" height="82" border="0" class="postimage" alt="Nintendo Gameboy Advance SP"/></a> I can't be stopped. Even I myself can't stop myself.
 

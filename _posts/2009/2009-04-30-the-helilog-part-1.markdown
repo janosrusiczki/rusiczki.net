@@ -1,12 +1,12 @@
 ---
 layout: post
 title: The Helilog - Part 1
-date: 2009-04-30 09:06:37 +0200
+date: 2009-04-30 09:06:37.000000000 +02:00
 categories:
-- Helicopter
+- helicopter
 - rc helicopter
-- RC
-- Helicopter
+- rc
+- helicopter
 - align t-rex 450se v2
 - align trex
 - align trex 450se v2

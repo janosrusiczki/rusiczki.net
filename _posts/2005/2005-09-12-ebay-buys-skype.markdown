@@ -1,9 +1,9 @@
 ---
 layout: post
 title: eBay buys Skype
-date: 2005-09-12 17:36:41 +0200
+date: 2005-09-12 17:36:41.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 Oh, the wonders of the Internet!
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Vroom vroom!
-date: 2009-12-28 23:51:25 +0100
+date: 2009-12-28 23:51:25.000000000 +01:00
 categories:
-- Games
-- Photos
+- games
+- photos
 ---
 <a href="http://www.flickr.com/photos/janos/4222723540/"><img src="https://content.rusiczki.net/2009/12/raliu-500x334.jpg" alt="Playing Richard Burns Rally..." width="500" height="334"/></a>
 

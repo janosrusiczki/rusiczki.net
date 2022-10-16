@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 2009 - My year in pictures
-date: 2009-12-31 01:29:50 +0100
+date: 2009-12-31 01:29:50.000000000 +01:00
 categories:
-- Life
-- Photos
+- life
+- photos
 ---
 On one of the evenings at the start of December I got nostalgic looking at my Flickr photos taken this year and this idea popped in my mind: how about a blog post like this? Since then this post has been brewing as a draft and it turned out huge. So grab a pack of popcorn and here we go!
 

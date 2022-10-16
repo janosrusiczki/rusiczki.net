@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Some winter pics
-date: 2004-01-28 00:40:48 +0100
+date: 2004-01-28 00:40:48.000000000 +01:00
 categories:
-- Photos
-- Snowboard
+- photos
+- snowboard
 ---
 <a href="https://content.rusiczki.net/blogpics/baia_sprie_is_down_in_the_fog.jpg"><img src="https://content.rusiczki.net/blogpics/baia_sprie_is_down_in_the_fog-thumb.jpg" alt="Baia Sprie is down in the fog" width="155" height="116" border="0" class="image" /></a> <a href="https://content.rusiczki.net/blogpics/snowboard_jumping.jpg"><img src="https://content.rusiczki.net/blogpics/snowboard_jumping-thumb.jpg" alt="Jumping!" width="155" height="116" border="0" class="image" /></a> <a href="https://content.rusiczki.net/blogpics/snowboard_riding_smoothly.jpg"><img src="https://content.rusiczki.net/blogpics/snowboard_riding_smoothly-thumb.jpg" alt="Riding smoothly" width="155" height="116" border="0" class="image" /></a>
 

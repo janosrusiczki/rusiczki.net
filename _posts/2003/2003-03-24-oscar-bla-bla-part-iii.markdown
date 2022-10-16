@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Oscar Bla Bla - Part III
-date: 2003-03-24 06:03:11 +0100
+date: 2003-03-24 06:03:11.000000000 +01:00
 categories:
-- General
+- general
 ---
 Woaaa!!! Now this was an antiwar speech! It gave me the shivers!!! But somehow I knew this would happen. It was a great speech. He's got some guts.
 

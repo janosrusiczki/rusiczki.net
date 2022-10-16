@@ -7,7 +7,8 @@ categories:
 - tehnic
 image: https://content.rusiczki.net/2021/07/electronica-cip-1000x667.jpg
 description: Despre începuturile mele în d'ale calculatoarelor.
---- Uite că aproape am reușit, am publicat articolul la început de iulie.
+---
+Uite că aproape am reușit, am publicat articolul la început de iulie.
 
 Tot recitind articolul în cadrul sesiunilor de redactare mi-am dat seama că lecturam unele chestii care cu toate că îmi erau destul de clare în minte când le-am scris, le-am uitat după aia - acuma nu știu dacă din cauza liniștii sufletești că le am scrise și-s la loc sigur sau pur și simplu deoarece sunt la vârsta la care uit masiv. Cred că este vorba de varianta B. În orice caz mă bucur că le-am scris și încerc să mai scriu lucruri înainte să le uit și să știți că pentru unele chestii pe care urmează să le citiți mi-am răscolit binișor mintea și după caz am întrebat amici și cunoștințe... Care mi-au zis în mare parte că-s nebun. 🙂
 

@@ -1,32 +1,6 @@
 ---
 layout: post
 title: Pe dealurile de deasupra Plopisului
-excerpt: ! "Sau cum am ajuns din greseala la premierea maratonului de la Preluca...\r\n\r\nDar
-  inainte de a ma lansa in ditamai romanul, o scurta introducere: ma gandeam mai de
-  de mult sa ma apuc sa descriu pe undeva turele noastre de bicicleta fiindca sunt
-  destul de numeroase si frumoase. La urma urmei vara, daca vremea ne permite, iesim
-  in fiecare weekend cel putin odata la pedalat. Locuri de explorat sunt. Am fost
-  naiv cand am crezut acum vreo doi ani ca nu mai e nimic nou de vazut prin zona,
-  mi-am dat seama ulterior ca explorasem doar o parte din nordul baii mari asa ca
-  in a doua jumate a lui 2010 m-am pus pe descoperirea sudului, iar acum o iau incet
-  dar sigur spre sud-est. Si cum Maramuresul e cunoscut ca o zona pitoreasca, daca
-  iau si aparatul foto cu mine si fac cateva poze care ulterior le atasez articolului
-  rezulta o cronica frumos ilustrata - care nu in ultimul rand imi va place mie s-o
-  recitesc.\r\n\r\nInitial pendulam intre infiintarea unui nou blog nou in acest scop
-  sau adaugarea scrierilor pe unul din blogurile mele \"alternative\" dar dupa ce
-  am cugetat putin mi-am dat seama ca daca e s-o luam din punct de vedere al timpului
-  investit, bicicleta e chiar unul dintre hobby-urile care ma definesc in sezonul
-  estival, si cum blogul asta se doreste a fi un soi de definitie de-a mea, tadaaa!
-  Insa am facut tranzitia acestui blog pe limba romana <a href=\"http://www.rusiczki.net/2010/08/30/romana/\">destul
-  de recent</a> si inainte sa fac trecerea nu prea aveam chef sa scriu cate un articol
-  voluminos de genul asta in engleza.\r\n\r\nUn alt lucru care m-a impiedicat sa scriu
-  insemnarile de genul asta este chiar lungimea lor, si nu fiindca mi-e lene mie sa
-  le scriu ca eu in timp ce le scriu retraiesc parca excursia ci fiindca nu stiu cati
-  vor avea rabdarea de a le citi. Insa m-am hotarat s-o fac la modul arta pentru arta.
-  Cine vrea sa le citeasca sa le citeasca, cel putin stiu ca track-urile inregistrate
-  cu GPS-ul vor fi folositoare catorva persoane (chiar si indirect via <a href=\"http://www.openstreetmap.org\">OSM</a>).
-  Iar mie, asa cum spuneam mai sus, imi va face mereu placere sa recitesc.\r\n\r\nAcestea
-  fiind spuse, sa-i dam drumul! :)\r\n\r\n"
 date: 2011-05-27 17:54:16 +0200
 categories:
 - Photos

@@ -1,10 +1,6 @@
 ---
 layout: post
 title: 2009 - My year in pictures
-excerpt: ! "On one of the evenings at the start of December I got nostalgic looking
-  at my Flickr photos taken this year and this idea popped in my mind: how about a
-  blog post like this? Since then this post has been brewing as a draft and it turned
-  out huge. So grab a pack of popcorn and here we go!\r\n\r\n"
 date: 2009-12-31 01:29:50 +0100
 categories:
 - Life

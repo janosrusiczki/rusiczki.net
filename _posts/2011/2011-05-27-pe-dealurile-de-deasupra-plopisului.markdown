@@ -16,7 +16,7 @@ Un alt lucru care m-a impiedicat sa scriu insemnarile de genul asta este chiar l
 
 Acestea fiind spuse, sa-i dam drumul! :)
 
-<a id="more"></a><a id="more-1225"></a>In primul rand: <a href="http://www.bikemap.net/route/972312">traseul</a>! Trasat de <a href="http://www.flickr.com/photos/janos/3808204711/">Garmin-ul meu de nadejde</a> fixat pe ghidonul bicicletei. Asta se poate considera un soi de regula: <a href="http://www.bikemap.net/user/kitsched/routes">toate traseele publicate de mine pe Bikemap</a>, in afara de cele desemnate explicit prin prefixul <em>[TEST]</em>, sunt inregistrate de GPS si incarcate pe Net fara modificari. Puteti merge linistiti dupa ele, nu veti da brusc de o stanca enorma in fata voastra pe unde cica as fi trecut eu. Si tind sa incep cu traseul sa se poata urmari descrierea in paralel.
+In primul rand: <a href="http://www.bikemap.net/route/972312">traseul</a>! Trasat de <a href="http://www.flickr.com/photos/janos/3808204711/">Garmin-ul meu de nadejde</a> fixat pe ghidonul bicicletei. Asta se poate considera un soi de regula: <a href="http://www.bikemap.net/user/kitsched/routes">toate traseele publicate de mine pe Bikemap</a>, in afara de cele desemnate explicit prin prefixul <em>[TEST]</em>, sunt inregistrate de GPS si incarcate pe Net fara modificari. Puteti merge linistiti dupa ele, nu veti da brusc de o stanca enorma in fata voastra pe unde cica as fi trecut eu. Si tind sa incep cu traseul sa se poata urmari descrierea in paralel.
 
 Bun, trecand peste a doua introducere, sa incepem cu adevarat!
 

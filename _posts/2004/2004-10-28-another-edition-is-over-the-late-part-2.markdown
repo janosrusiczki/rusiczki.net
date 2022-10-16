@@ -7,8 +7,6 @@ categories:
 ---
 So after <a href="http://www.rusiczki.net/2004/10/19/another-edition-is-over-part-1/" title="Kitsched - Another edition is over - Part 1">all those bad experiences</a> I was out to party. With some 4 hours of sleep or something like this. It couldn't turn out well... But it did. Much better than I expected.
 
-<a id="more"></a><a id="more-330"></a>
-
 I arrived to the party place a littlebit earlier to have time to set up the minidisc recorder. Which I did. After getting one of the organizers to introduce me because I couldn't just go to the mixing table and stick my cables around... People started arriving and time passed quicker as I found some chatting partners.
 
 <a href="https://content.rusiczki.net/blogpics/tm04base_flyer.php" onclick="window.open('https://content.rusiczki.net/blogpics/tm04base_flyer.php','popup','width=640,height=337,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="https://content.rusiczki.net/blogpics/tm04base_flyer-thumb.jpg" width="120" height="63" border="0" class="postimage" alt="TM04Base Flyer" /></a> To begin I have to note that there were 2 scenes, the first one dedicated to DJs and the second (smaller) one ready for the live acts. This was mostly respected but there were also DJs at scene 2 (S2) and live acts at S1. On the left of scene 1 there was a nice big projection screen which was showing the visuals during the two nights. Truly professional visuals this time not just a screening of Akira, Ghost In The Shell or some other hip anime...

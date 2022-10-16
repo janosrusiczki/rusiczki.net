@@ -8,7 +8,7 @@ categories:
 ---
 On one of the evenings at the start of December I got nostalgic looking at my Flickr photos taken this year and this idea popped in my mind: how about a blog post like this? Since then this post has been brewing as a draft and it turned out huge. So grab a pack of popcorn and here we go!
 
-<a id="more"></a><a id="more-1002"></a><a href="http://www.flickr.com/photos/janos/3183781359/" title="The base of Stiol by rev, on Flickr"><img src="http://farm4.static.flickr.com/3393/3183781359_14594ca95a.jpg" width="500" height="334" alt="The base of Stiol" /></a>
+<a href="http://www.flickr.com/photos/janos/3183781359/" title="The base of Stiol by rev, on Flickr"><img src="http://farm4.static.flickr.com/3393/3183781359_14594ca95a.jpg" width="500" height="334" alt="The base of Stiol" /></a>
 
 The year started out on the negative side, with us being at work (which turned out to be unpayed work) and being unsure about the future as the so called economic depression hit the construction company we were working for, both me and Ioana. But then we took a day off and went to Borsa only to find the secondary skilift closed. And this secondary superior skilift would have been the one that would have made our trip worthy - but we had a great time nevertheless managing to snowboard the badly maintained slopes.
 

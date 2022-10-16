@@ -1,9 +1,9 @@
 ---
 layout: post
 title: ego++
-date: 2010-08-27 12:33:19 +0200
+date: 2010-08-27 12:33:19.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 Well, I just did <a href="http://www.google.com/search?q=janos">an ego search</a> and guess what...
 

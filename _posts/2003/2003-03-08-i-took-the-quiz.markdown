@@ -1,9 +1,9 @@
 ---
 layout: post
 title: I took the quiz
-date: 2003-03-08 01:46:12 +0100
+date: 2003-03-08 01:46:12.000000000 +01:00
 categories:
-- Technical
+- technical
 ---
 <a href="http://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML">W3Schools HTML Quiz</a>
 

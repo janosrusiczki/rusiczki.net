@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Trail-uri de Baia Mare
-date: 2011-08-29 11:04:16 +0200
+date: 2011-08-29 11:04:16.000000000 +02:00
 categories:
-- Video
-- Bike
-- Română
+- video
+- bike
+- română
 ---
 Poate că e ușor exagerat să le numesc trail-uri dar oricum se apropie de definiție. În alte cuvinte: dacă asta avem, cu asta ne mândrim.
 

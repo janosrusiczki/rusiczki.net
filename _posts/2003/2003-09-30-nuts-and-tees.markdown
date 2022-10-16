@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Nuts and tees
-date: 2003-09-30 16:10:01 +0200
+date: 2003-09-30 16:10:01.000000000 +02:00
 categories:
-- Life
+- life
 ---
 <img alt="My dirty left hand" src="https://content.rusiczki.net/blogpics/my_dirty_hand.jpg" width="100" height="133" border="0" class="postimage" />That's my hand. I've been working in the garden, picking nuts today and yesterday and even if I constantly wore rubber gloves it shows badly. I don't really understand how because I tested the gloves with water and they aren't punctured. I have to live with it. At least until it washes off.
 

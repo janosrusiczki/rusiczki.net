@@ -1,9 +1,9 @@
 ---
 layout: post
 title: I wanted it? Here it is!
-date: 2004-01-20 17:04:27 +0100
+date: 2004-01-20 17:04:27.000000000 +01:00
 categories:
-- Life
+- life
 ---
 <a href="https://content.rusiczki.net/blogpics/winter_in_front_of_my_house.php" onclick="window.open('https://content.rusiczki.net/blogpics/winter_in_front_of_my_house.php','popup','width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="https://content.rusiczki.net/blogpics/winter_in_front_of_my_house-thumb.jpg" width="120" height="90" border="0" alt="Winter in front of my house" class="postimage" /></a> Snow and winter. The first obviously brought the second even if the second was theoretically here a long time ago. What a philosopher I am.
 

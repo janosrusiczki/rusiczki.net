@@ -1,9 +1,9 @@
 ---
 layout: post
 title: One last TM04Base related entry
-date: 2004-11-03 11:04:52 +0100
+date: 2004-11-03 11:04:52.000000000 +01:00
 categories:
-- Life
+- life
 ---
 OK, one last update. It's a list of updates in fact, so here it goes...
 

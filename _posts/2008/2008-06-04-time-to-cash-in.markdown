@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Time to cash in
-date: 2008-06-04 16:07:05 +0200
+date: 2008-06-04 16:07:05.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 Big time.
 

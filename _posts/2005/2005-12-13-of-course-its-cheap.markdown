@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Of course it's cheap
-date: 2005-12-13 00:10:29 +0100
+date: 2005-12-13 00:10:29.000000000 +01:00
 categories:
-- Fun
+- fun
 ---
 <a href="http://www.flickr.com/photos/janos/72959308/"><img src="http://static.flickr.com/20/72959308_aefb14263b.jpg" alt="IMG_9221" border="0" class="image" /></a>
 

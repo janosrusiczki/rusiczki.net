@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Baia Mare on Google Maps
-date: 2008-10-28 09:33:38 +0100
+date: 2008-10-28 09:33:38.000000000 +01:00
 categories:
-- Web
-- Technical
+- web
+- technical
 ---
 Finally, I'd say.
 

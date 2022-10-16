@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The end of another era
-date: 2010-01-11 15:17:38 +0100
+date: 2010-01-11 15:17:38.000000000 +01:00
 categories:
-- Technical
+- technical
 ---
 I just uninstalled Winamp.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Those Z80 days
-date: 2004-02-05 22:50:12 +0100
+date: 2004-02-05 22:50:12.000000000 +01:00
 categories:
-- Technical
+- technical
 ---
 Reading a post in the <a href="http://homepage.mac.com/cpaul/iblog/index.html">Kit.blog</a> about <a href="http://homepage.mac.com/cpaul/iblog/C1156848003/E1870687037/index.html" title="Google celebrating Gaston Maurice Julia">fractals</a> and more specifically about trying to create fractals on a ZX Spectrum brought some quite nice memories into my head. And not about fractals because I was never fascinated by them (maybe because I never studied them more closely or because I was much too young when the fractal craze was on) but about the "creative work" I was doing at about the same time as Cristian was making software to generate fractal images on that less than 1MHz Z80 processor.
 

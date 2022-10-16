@@ -1,9 +1,9 @@
 ---
 layout: post
 title: You watch them and you win!
-date: 2004-08-04 14:40:44 +0200
+date: 2004-08-04 14:40:44.000000000 +02:00
 categories:
-- Life
+- life
 ---
 So, why <a href="http://www.rusiczki.net/2004/08/04/morning-tv-session/" title="Kitsched - Morning TV session">did I say</a> that I like the news on ProTV so much?
 

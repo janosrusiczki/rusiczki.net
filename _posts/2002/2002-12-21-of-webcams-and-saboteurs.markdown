@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Of webcams and saboteurs
-date: 2002-12-21 20:18:21 +0100
+date: 2002-12-21 20:18:21.000000000 +01:00
 categories:
-- General
+- general
 ---
 I did some pre 22 hours browsing today. And after sending an SMS i remembered to check out <a href="http://www.myx.net/static/ro/webcam.htm" title="Cool WebCams, mostly in the winter">Myx.Net's webcams</a> and this made me nearly bang my head into the wall... Seeing so many happy people skiing. Whoaaa. I'm so full of envy right now. Even if Poiana Brasov isn't the cheapest place in my country. I'm still hoping for the snow to get bigger around here. And today my hopes grew together with the sky getting cloudy. Still, nothing happened.
 

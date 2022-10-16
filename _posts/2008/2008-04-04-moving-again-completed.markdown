@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Moving again - Completed
-date: 2008-04-04 15:37:37 +0200
+date: 2008-04-04 15:37:37.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 Tadaaa! Hailing from <a href="http://www.totalchoicehosting.com">TotalChoice</a> where everything is nice and zippy fast. Just as I expected.
 

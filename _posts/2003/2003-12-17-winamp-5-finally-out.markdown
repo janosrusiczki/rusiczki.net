@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Winamp 5 finally out
-date: 2003-12-17 13:01:51 +0100
+date: 2003-12-17 13:01:51.000000000 +01:00
 categories:
-- Technical
+- technical
 ---
 As I <a href="http://www.rusiczki.net/2003/10/21/winamp-5-rocks/">already mentioned</a> I really love Winamp 5. I loved it in it's beta phase, I downloaded two release candidates and it looks like <a title="Winamp 5 download" href="http://www.winamp.com/player/">the final version 5</a> is out. The new skins are pretty slick too. So I'm getting a few of them.
 

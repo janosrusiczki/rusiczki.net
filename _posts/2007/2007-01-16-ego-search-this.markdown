@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Ego search this!
-date: 2007-01-16 16:50:32 +0100
+date: 2007-01-16 16:50:32.000000000 +01:00
 categories:
-- Web
-- Fun
+- web
+- fun
 ---
 I mean this (click on the image for the bigger version):
 

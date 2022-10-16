@@ -1,10 +1,10 @@
 ---
 layout: post
 title: A landmark day
-date: 2009-10-28 11:24:29 +0100
+date: 2009-10-28 11:24:29.000000000 +01:00
 categories:
-- Life
-- Technical
+- life
+- technical
 ---
 I'm talking about yesterday. I have two reasons to say it was an important day:
 

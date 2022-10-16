@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Restarting... Again...
-date: 2003-09-21 20:24:06 +0200
+date: 2003-09-21 20:24:06.000000000 +02:00
 categories:
-- Web
+- web
 ---
 Well, to tell the truth I lost count. I lost count how many times I restarted blogging. But it wasn't always my fault.
 

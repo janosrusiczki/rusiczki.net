@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Romania from satellite
-date: 2005-06-21 16:53:18 +0200
+date: 2005-06-21 16:53:18.000000000 +02:00
 categories:
-- Web
+- web
 ---
 This is ultra cool! <a href="http://maps.google.com">Google Maps</a> now features satellite images for Romania!
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: XBMC - My media center of choice
-date: 2009-02-09 11:42:56 +0100
+date: 2009-02-09 11:42:56.000000000 +01:00
 categories:
-- Technical
+- technical
 ---
 <a href="http://xbmc.org/">XBMC Media Center</a> or XBox Media Center to avoid the recurssion.
 

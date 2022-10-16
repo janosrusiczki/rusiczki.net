@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Fun!
-date: 2003-02-07 20:52:12 +0100
+date: 2003-02-07 20:52:12.000000000 +01:00
 categories:
-- Life
+- life
 ---
 Got the package!
 

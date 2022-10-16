@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Feeling generous?
-date: 2003-10-16 23:25:16 +0200
+date: 2003-10-16 23:25:16.000000000 +02:00
 categories:
-- Fun
+- fun
 ---
 I found a funny phrase on the <a title="mIRC Online Registration" href="https://www.regsoft.net/regsoft/order.php3?productid=36841">mIRC online registration page</a>. It says:
 

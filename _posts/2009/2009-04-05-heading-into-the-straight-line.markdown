@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Heading into the straight line
-date: 2009-04-05 11:59:11 +0200
+date: 2009-04-05 11:59:11.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 ... with the WordPress installation.
 

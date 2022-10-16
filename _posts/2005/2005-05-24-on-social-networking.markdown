@@ -1,9 +1,9 @@
 ---
 layout: post
 title: On social networking
-date: 2005-05-24 09:12:07 +0200
+date: 2005-05-24 09:12:07.000000000 +02:00
 categories:
-- Web
+- web
 ---
 <a href="http://www.kitblog.com">Kit</a> asked in his <a href="http://homepage.mac.com/cpaul/iblog/C1156848003/E137499451/index.html">latest entry</a> about his reader's opinions regarding social networking and I thought the subject was worth a post in my own blog. So here are my purely technical 2 cents. Wait! Wasn't this entry about <i>social</i> (you know... people) networking? Never mind.
 

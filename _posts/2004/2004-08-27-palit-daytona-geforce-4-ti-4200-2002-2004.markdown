@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Palit Daytona Geforce 4 Ti 4200 (2002 - 2004)
-date: 2004-08-27 14:32:06 +0200
+date: 2004-08-27 14:32:06.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 <img src="https://content.rusiczki.net/blogpics/palit_daytona_small.jpg" width="490" height="117" border="0" alt="Palit Daytona Geforce 4 Ti 4200" class="image" />
 

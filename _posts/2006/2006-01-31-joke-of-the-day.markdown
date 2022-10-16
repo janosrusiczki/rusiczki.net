@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Joke of the day
-date: 2006-01-31 12:58:34 +0100
+date: 2006-01-31 12:58:34.000000000 +01:00
 categories:
-- Fun
+- fun
 ---
 "A statistician, who refused to fly after reading of the alarmingly high probability that there will be a bomb on any given plane, realized that the probability of there being two bombs on any given flight is very low. Now, whenever he flies, he carries a bomb with him."
 

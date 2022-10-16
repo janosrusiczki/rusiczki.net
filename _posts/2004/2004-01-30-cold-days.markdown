@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cold days
-date: 2004-01-30 18:05:37 +0100
+date: 2004-01-30 18:05:37.000000000 +01:00
 categories:
-- Life
+- life
 ---
 Not much happening. I should learn but I don't. Exams come and go. Some I take. Some not. I should work but I don't. Projects are on hold.
 

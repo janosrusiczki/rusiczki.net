@@ -1,10 +1,10 @@
 ---
 layout: post
 title: All WAS well in Spamland
-date: 2008-04-03 20:29:39 +0200
+date: 2008-04-03 20:29:39.000000000 +02:00
 categories:
-- Web
-- Technical
+- web
+- technical
 ---
 Just a few weeks ago <a href="http://www.rusiczki.net/2008/03/12/all-is-well-in-spamland/">I was bragging</a> about how spamless my blog was. Seriously, MT-Keystrokes kept everything miraculously clean, in the 3 years since <a href="http://www.rusiczki.net/2005/03/28/mt-keystrokes/">I installed it</a> I received a total of maybe 5 spam comment notification e-mails. These were the results of uber-hardcore spammers who actually took the time to copy paste their spam comments into the text area and then press the 'Post' button instead of doing what thousands of other "Average Joe" spammers do, setting up some bot to spam away or worse, having hundreds of zombie PCs do the dirty work instead of them.
 

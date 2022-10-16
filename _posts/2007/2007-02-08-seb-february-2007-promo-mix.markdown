@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Seb - February 2007 Promo Mix
-date: 2007-02-08 11:51:40 +0100
+date: 2007-02-08 11:51:40.000000000 +01:00
 categories:
-- Music
+- music
 ---
 Shake your ass to this:
 

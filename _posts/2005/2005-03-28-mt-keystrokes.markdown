@@ -1,9 +1,9 @@
 ---
 layout: post
 title: MT-Keystrokes
-date: 2005-03-28 13:12:29 +0200
+date: 2005-03-28 13:12:29.000000000 +02:00
 categories:
-- Web
+- web
 ---
 Hey spammers, bite my shiny metal... <a href="http://overstated.net/projects/mt-keystrokes/">MT-Keystrokes</a>. Wow! I could almost say that this is the best invention since sliced bread! It's based on such a simple ideea but it proves to be really effective in practice.
 

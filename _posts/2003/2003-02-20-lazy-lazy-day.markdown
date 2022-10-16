@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Lazy, lazy day
-date: 2003-02-20 23:46:02 +0100
+date: 2003-02-20 23:46:02.000000000 +01:00
 categories:
-- Movies
+- movies
 ---
 Today was just the average school day. In the morning I woke up really late. So I thought I'd miss the first hour of the first class, English. I went online and I got almost all the <a href="http://www.happytreefriends.com/watch_episodes/index.html" title="Cute, cuddly animals whose daily adventures always end up going horribly wrong.">Happy Tree Friends</a> episodes. I feel safer if I have them on my harddrive. I ended up missing the first three hours of school. So I dropped in at 11:00 instead of 8:00 looking forward to attend six hours of economics... I found out that our English teacher (my neighbour, mother of a good friend of mine) freaked out because there were the usual two students (out of 17) at her class. There would have been three if I weren't that lazy... So we moved the English class to 11:00 on Mondays.
 

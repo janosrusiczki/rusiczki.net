@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Elasticity of the demand / offer
-date: 2003-01-11 06:49:39 +0100
+date: 2003-01-11 06:49:39.000000000 +01:00
 categories:
-- Life
+- life
 ---
 Elasticity of the demand:
 

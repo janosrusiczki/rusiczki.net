@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Turn my PC into a what?
-date: 2004-06-10 11:48:38 +0200
+date: 2004-06-10 11:48:38.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 After <a href="http://www.timbru.com/">Gabriel</a> posted <a href="http://www.engadget.com/entry/1139359724757783/" title="Make digital movies the easy way">a link</a> to <a href="http://www.engadget.com">Engadget's</a> how-to guide on how to make nice home movies on your PC using nothing but your miniDV camera and Microsoft Movie Maker, I'm posting the link to this week's bonus how-to on Engadget: '<a href="http://www.engadget.com/entry/8828351836181248/">Turn your PC into a Mac</a>'.
 

@@ -2,9 +2,9 @@
 layout: post
 title: Zbor!
 categories:
-- Life
-- Photos
-- RC
+- life
+- photos
+- rc
 ---
 <a href="https://content.rusiczki.net/2014/12/dronesie.jpg"><img src="https://content.rusiczki.net/2014/12/dronesie.jpg" alt="#dronesie" /></a>
 

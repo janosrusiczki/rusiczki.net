@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Album of the now
-date: 2008-04-25 09:24:45 +0200
+date: 2008-04-25 09:24:45.000000000 +02:00
 categories:
-- Music
+- music
 ---
 Album of the week even.
 

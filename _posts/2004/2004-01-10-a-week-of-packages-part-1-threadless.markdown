@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A week of packages (Part 1 - Threadless)
-date: 2004-01-10 14:58:19 +0100
+date: 2004-01-10 14:58:19.000000000 +01:00
 categories:
-- Life
+- life
 ---
 
 ![The two packages](https://content.rusiczki.net/blogpics/threadless_packages.jpg)

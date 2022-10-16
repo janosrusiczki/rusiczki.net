@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Keeping up with the times
-date: 2009-04-02 12:15:04 +0200
+date: 2009-04-02 12:15:04.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 Yep, I finally migrated this blog to <a href="http://wordpress.com">WordPress</a>.
 

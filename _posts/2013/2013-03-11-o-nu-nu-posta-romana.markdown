@@ -1,9 +1,9 @@
 ---
 layout: post
 title: O nu, nu Poșta Română!
-date: 2013-03-11 18:21:08 +0100
+date: 2013-03-11 18:21:08.000000000 +01:00
 categories:
-- Română
+- română
 ---
 <a href="https://content.rusiczki.net/2013/10/DSC_3307.jpg"><img class="alignnone size-medium wp-image-4562" alt="Cărți poștale" src="https://content.rusiczki.net/2013/10/DSC_3307-693x358.jpg" width="693" height="358" /></a>
 

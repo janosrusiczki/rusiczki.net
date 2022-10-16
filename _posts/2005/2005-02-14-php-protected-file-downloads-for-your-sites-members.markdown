@@ -1,9 +1,9 @@
 ---
 layout: post
 title: PHP protected file downloads for your site's members
-date: 2005-02-14 13:57:35 +0100
+date: 2005-02-14 13:57:35.000000000 +01:00
 categories:
-- PHP
+- php
 ---
 Hey, look! I just made a Google friendly entry title... And I did it because I want people to learn from the mistakes I made.
 

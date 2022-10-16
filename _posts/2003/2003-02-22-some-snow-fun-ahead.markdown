@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Some snow fun ahead!
-date: 2003-02-22 14:26:32 +0100
+date: 2003-02-22 14:26:32.000000000 +01:00
 categories:
-- Life
+- life
 ---
 I have some acquaintances (because I can't call some people who I usually meet once every two weeks, friends) who were telling me a long time ago about some kind of a snow festival of the Hungarian community. Telling me how great it is. How big of a party it is each year. And asking me to go / come. So the question was asked. And I asked for some time to think about it. Today they woke me up (at 1:30 PM, yeah...) and as the weather was bright and everything I suddenly said: yes. :-)
 

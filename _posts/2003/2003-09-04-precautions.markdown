@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Precautions
-date: 2003-09-04 01:13:04 +0200
+date: 2003-09-04 01:13:04.000000000 +02:00
 categories:
-- General
+- general
 ---
 Yes, I am paranoid. Today I made digital pics of my credit card because I was required to fax a photocopy or mail a good quality scan to confirm an order I made yesterday. Yes, well, us Romanian aren't the most trusted nation. Because of our cool background. Gypsies, legislation that drowns pretty well in corruption and other juicy things like this.
 

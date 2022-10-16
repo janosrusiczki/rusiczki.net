@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Sfarsit de saptamana activ
-date: 2011-09-13 10:46:32 +0200
+date: 2011-09-13 10:46:32.000000000 +02:00
 categories:
-- Life
-- Photos
-- Bike
-- Română
+- life
+- photos
+- bike
+- română
 ---
 O toamna, cat te-am asteptat!
 

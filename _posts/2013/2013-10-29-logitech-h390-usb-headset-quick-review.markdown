@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Logitech H390 USB headset - quick review
-date: 2013-10-29 16:35:12 +0100
+date: 2013-10-29 16:35:12.000000000 +01:00
 categories:
-- Technical
+- technical
 - blue yeti
 - blue microphones
 - yeti

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: RDS Baia Mare sucks
-date: 2005-05-17 11:13:46 +0200
+date: 2005-05-17 11:13:46.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 Yesterday I was home in my (extended) lunch break and as I was downloading something right before my eyes the speed went up to something around 90kB/s. What the!? It stayed there for a few minutes, the files were flowing in and then it dropped back to 30kB/s which is still double the speed I get during the day. I thought the guys at RDS were messing around with their config and something went wrong but as I got back to work I opened the <a href="http://www.rdslink.ro">RDSLink</a> page and there it was. <a href="http://www.rdslink.ro/stiri/stire7.htm">Good news.</a> Great news in fact.
 

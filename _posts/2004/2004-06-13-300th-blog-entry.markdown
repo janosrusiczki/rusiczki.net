@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 300th blog entry
-date: 2004-06-13 22:23:23 +0200
+date: 2004-06-13 22:23:23.000000000 +02:00
 categories:
-- Web
+- web
 ---
 I just wanted to mark this important event. Ummm...
 

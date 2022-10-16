@@ -1,9 +1,9 @@
 ---
 layout: post
 title: To Cluj and back
-date: 2004-03-31 23:33:31 +0200
+date: 2004-03-31 23:33:31.000000000 +02:00
 categories:
-- Life
+- life
 ---
 I was out for the very end of last weekend and the start of this week. I had a thought on Sunday afternoon and the next thing was that I climbed the bus and I was on my way to Cluj-Napoca. I had a lovely girlfriend and an iPod battery waiting for me after all. And boy, we had some great fun these days!
 

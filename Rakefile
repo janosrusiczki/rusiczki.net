@@ -3,7 +3,8 @@ require 'html-proofer'
 task :test do
   options = {
     disable_external: true,
-    url_ignore: [
+    enforce_https: false,
+    ignore_urls: [
       '/feed/'
     ]
   }

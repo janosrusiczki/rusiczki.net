@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google ads and even more spam
-date: 2005-02-12 11:24:07 +0100
+date: 2005-02-12 11:24:07.000000000 +01:00
 categories:
-- Technical
+- technical
 ---
 So here they are. On the individual posts page, right under the post text and above the comments. According to Google's policies I can't encourage people to click them so I'm not. ;) And yeah, I know the page flickers while loading in Firefox but I guess that's a browser problem.
 

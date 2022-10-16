@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Hot
-date: 2003-08-19 15:09:43 +0200
+date: 2003-08-19 15:09:43.000000000 +02:00
 categories:
-- General
+- general
 ---
 It's so hot!
 

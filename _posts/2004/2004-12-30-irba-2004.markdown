@@ -1,9 +1,9 @@
 ---
 layout: post
 title: IRBA 2004
-date: 2004-12-30 10:39:46 +0100
+date: 2004-12-30 10:39:46.000000000 +01:00
 categories:
-- Web
+- web
 ---
 Gabriel of <a href="http://www.individualism.ro">individualism.ro</a> is running the IRBA 2004 aka the <a href="http://www.individualism.ro/archives/2004/12/individualism_romanian_blogging_awards_2004.php">Individualism Blogging Romanian Awards 2004</a>. Go there now and post a comment to nominate your favorite bloggers in 7 categories.
 

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: RC Helicopter Wiki
-date: 2008-10-30 13:39:45 +0100
+date: 2008-10-30 13:39:45.000000000 +01:00
 categories:
-- Life
-- Helicopter
-- RC
+- life
+- helicopter
+- rc
 ---
 I rarely promote other projects of mine around here, a notable exception being the left sidebar, but this time I'll make an exception as it's something which I very much like.
 

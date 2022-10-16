@@ -1,10 +1,10 @@
 ---
 layout: post
 title: The weekend was absolutely amazing
-date: 2007-11-12 14:32:13 +0100
+date: 2007-11-12 14:32:13.000000000 +01:00
 categories:
-- Life
-- Snowboard
+- life
+- snowboard
 ---
 <a href="http://www.flickr.com/photos/janos/sets/72157603067576867/"><img src="https://content.rusiczki.net/blogpics/first-boarding-session-2007-2008.jpg" width="471" height="315" border="0" alt="First boarding session for the 2007 - 2008 season" class="image"/></a>
 

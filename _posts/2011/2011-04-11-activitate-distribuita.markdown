@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Activitate distribuita
-date: 2011-04-11 12:06:48 +0200
+date: 2011-04-11 12:06:48.000000000 +02:00
 categories:
-- Web
-- Technical
-- Română
+- web
+- technical
+- română
 ---
 Sau pe unde mai activez pe Internet.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Epic feed whoops
-date: 2009-04-16 21:05:33 +0200
+date: 2009-04-16 21:05:33.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 It looks like when <a href="http://www.rusiczki.net/2009/04/05/heading-into-the-straight-line/">I moved everything to the root of the site</a> and created the redirects I forgot an essential one: the FEED!
 

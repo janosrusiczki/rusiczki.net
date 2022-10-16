@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Offering 1 (one) Joost invite
-date: 2007-03-01 08:02:04 +0100
+date: 2007-03-01 08:02:04.000000000 +01:00
 categories:
-- Web
-- Technical
+- web
+- technical
 ---
 Leave a comment. I need need your first and last name plus e-mail. First come, first served. Hurry!
 

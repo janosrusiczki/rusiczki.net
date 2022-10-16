@@ -1,9 +1,9 @@
 ---
 layout: post
 title: T Six Ten
-date: 2004-05-05 22:05:35 +0200
+date: 2004-05-05 22:05:35.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 Since almost a week I'm the proud owner of a Sony Ericsson T610 (pronounced <a href="http://www.sonyericsson.com/t610/" title="The official site">t-six-ten</a>) mobile phone and all I can say is that I'm truly impressed! This phone is purely fantastic! The features are what I call exhaustive: integrated camera (not so useful, but oh well), 65k colour screen, GPRS with XHTML compatible browser and integrated email client, MMS, polyphonic ringtones, Java and Mophun support, Bluetooth, IrDA, 2 megabytes of user memory (ready for my pics, themes, applications & games) plus memory for 100 SMS-es and 510 contacts... Enough? And all this packed in a 10 by 4 cm extra stylish case.
 

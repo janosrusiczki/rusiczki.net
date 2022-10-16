@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The drama update
-date: 2009-02-05 08:59:24 +0100
+date: 2009-02-05 08:59:24.000000000 +01:00
 categories:
-- Life
+- life
 ---
 As <a href="http://www.rusiczki.net/2009/01/26/a-bitter-update/">predicted</a> my father cracked (read: started drinking heavily) so yesterday evening I had to move my mother to my grandfather to make sure she's getting the minimal care she needs. That's a warm place to rest, food and medication - 3 things my "dear" father failed to provide after less than a week of soberness. All this after the horrific scene he made when wanted to place my mother at my grandfather's place right after we took her out of the hospital. However for the moment I have no next step planned.
 

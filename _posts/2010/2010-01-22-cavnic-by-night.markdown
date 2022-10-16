@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Cavnic by night
-date: 2010-01-22 02:53:55 +0100
+date: 2010-01-22 02:53:55.000000000 +01:00
 categories:
-- Life
-- Snowboard
-- Video
+- life
+- snowboard
+- video
 ---
 Alrighty, after that post added before we left the house, here are not one but two fresh videos from Cavnic. Made tonight:
 

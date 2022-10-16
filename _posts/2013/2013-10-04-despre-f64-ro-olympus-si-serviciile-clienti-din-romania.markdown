@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Despre f64.ro, Olympus și serviciile clienți din România
-date: 2013-10-04 17:16:42 +0200
+date: 2013-10-04 17:16:42.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 <a href="https://content.rusiczki.net/2013/10/OI000020.jpg"><img class="alignnone size-medium wp-image-4570" alt="Card fidelitate f64.ro" src="https://content.rusiczki.net/2013/10/OI000020-693x519.jpg" width="693" height="519" /></a>
 

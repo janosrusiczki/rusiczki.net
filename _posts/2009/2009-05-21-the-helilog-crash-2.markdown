@@ -1,13 +1,13 @@
 ---
 layout: post
-title: ! 'The Helilog - Crash #2'
-date: 2009-05-21 08:41:31 +0200
+title: 'The Helilog - Crash #2'
+date: 2009-05-21 08:41:31.000000000 +02:00
 categories:
-- Helicopter
-- RC
+- helicopter
+- rc
 - rc helicopter
-- RC
-- Helicopter
+- rc
+- helicopter
 - align t-rex 450se v2
 - align trex
 - align trex 450se v2

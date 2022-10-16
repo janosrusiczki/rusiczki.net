@@ -1,10 +1,10 @@
 ---
 layout: post
 title: My 1:46 minutes of fame
-date: 2009-05-29 13:56:40 +0200
+date: 2009-05-29 13:56:40.000000000 +02:00
 categories:
-- Web
-- Helicopter
+- web
+- helicopter
 ---
 Hehe, what a couple of e-mails can do. Oh, fair warning: get your propeller hats on, because this is yet another post about RC.
 

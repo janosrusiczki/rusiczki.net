@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Girl talk
-date: 2003-02-12 23:35:28 +0100
+date: 2003-02-12 23:35:28.000000000 +01:00
 categories:
-- Life
+- life
 ---
 This week I really started going to school. Well except today, which I skipped because of being awake far too long last night. Anyway our first class today wasn't held (at least these were the previsions, and I hope they came true) and there was a math class after that. So I said: no thank you. I'm not quite ready for maths. Yet.
 

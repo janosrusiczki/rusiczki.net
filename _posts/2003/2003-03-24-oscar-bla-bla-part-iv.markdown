@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Oscar Bla Bla - Part IV
-date: 2003-03-24 06:59:04 +0100
+date: 2003-03-24 06:59:04.000000000 +01:00
 categories:
-- General
+- general
 ---
 Peter O'Toole. Oh. He's, well, old. But a great actor nonetheless.
 

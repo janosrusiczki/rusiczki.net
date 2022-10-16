@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cabled headaches
-date: 2004-06-01 06:53:41 +0200
+date: 2004-06-01 06:53:41.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 So, last Wednesday I moved into my new appartment. And waited for two days for the permanent Internet connection. As it turned out I gave the guys from the cable company a wrong phone number and they tried to call me early on Monday but to no avail. I still don't know how I was able to do this. Anyway I got cable installed on Friday.
 

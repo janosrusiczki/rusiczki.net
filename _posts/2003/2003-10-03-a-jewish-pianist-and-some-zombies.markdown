@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A Jewish pianist and some zombies
-date: 2003-10-03 23:12:07 +0200
+date: 2003-10-03 23:12:07.000000000 +02:00
 categories:
-- Movies
+- movies
 ---
 <img alt="28_days_later.jpg" src="https://content.rusiczki.net/blogpics/28_days_later.jpg" width="94" height="140" border="0" class="postimage" /> The two movies that stuck in my mind, from the ones I saw recently, were Roman Polanski's <a href="http://www.imdb.com/title/tt0253474/">The Pianist</a> which had such an effect on me that I lay in my bed for about an hour after seeing it not being able to sleep but being hunted by those nightmarish images of torture and suffering. It had me thinking days after seeing it. I still can't imagine how human beings can do and endure such horrors...
 

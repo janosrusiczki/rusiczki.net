@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Desktop news aggregators > web based news aggregators
-date: 2008-04-03 17:46:29 +0200
+date: 2008-04-03 17:46:29.000000000 +02:00
 categories:
-- Web
-- Technical
+- web
+- technical
 ---
 I noticed that lately I started preferring desktop feed readers to web based ones.
 

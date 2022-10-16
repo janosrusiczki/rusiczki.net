@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Uhoh!
-date: 2002-12-31 13:34:19 +0100
+date: 2002-12-31 13:34:19.000000000 +01:00
 categories:
-- General
+- general
 ---
 I received Muzik.
 

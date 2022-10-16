@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Alergarea din perspectiva unui începător - 2 luni mai târziu
-date: 2018-09-03 14:00:00 +0200
+date: 2018-09-03 14:00:00.000000000 +02:00
 categories:
-- Cronică
-- Sport
-- Alergare
+- cronică
+- sport
+- alergare
 image: https://content.rusiczki.net/2018/09/alergare-lacul-albastru-1000x750.jpg
 description: János continuă să alerge.
 ---

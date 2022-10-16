@@ -1,20 +1,11 @@
 ---
 layout: post
 title: Another edition is over - The late part 2
-excerpt: ! 'So after <a href="http://www.rusiczki.net/2004/10/19/another-edition-is-over-part-1/"
-  title="Kitsched - Another edition is over - Part 1">all those bad experiences</a>
-  I was out to party. With some 4 hours of sleep or something like this. It couldn''t
-  turn out well... But it did. Much better than I expected.
-
-
-'
-date: 2004-10-28 17:59:44 +0200
+date: 2004-10-28 17:59:44.000000000 +02:00
 categories:
-- Life
+- life
 ---
 So after <a href="http://www.rusiczki.net/2004/10/19/another-edition-is-over-part-1/" title="Kitsched - Another edition is over - Part 1">all those bad experiences</a> I was out to party. With some 4 hours of sleep or something like this. It couldn't turn out well... But it did. Much better than I expected.
-
-<a id="more"></a><a id="more-330"></a>
 
 I arrived to the party place a littlebit earlier to have time to set up the minidisc recorder. Which I did. After getting one of the organizers to introduce me because I couldn't just go to the mixing table and stick my cables around... People started arriving and time passed quicker as I found some chatting partners.
 

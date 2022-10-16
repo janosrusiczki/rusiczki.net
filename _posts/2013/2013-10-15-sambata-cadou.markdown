@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Sâmbăta cadou
-date: 2013-10-15 09:09:43 +0200
+date: 2013-10-15 09:09:43.000000000 +02:00
 categories:
-- Photos
-- Română
+- photos
+- română
 ---
 <a href="http://www.flickr.com/photos/janos/10249140043/"><img class="alignnone size-medium wp-image-4575" alt="Eu și Ina pe Igniș" src="https://content.rusiczki.net/2013/10/PA120146-1024-693x519.jpg" width="693" height="519" /></a>
 

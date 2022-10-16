@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google dissappoints for the first time
-date: 2005-11-16 11:29:27 +0100
+date: 2005-11-16 11:29:27.000000000 +01:00
 categories:
-- Technical
+- technical
 ---
 <img src="https://content.rusiczki.net/blogpics/google_analytics_logo.gif" width="200" height="44" alt="Google Analytics Logo" class="postimage" /> Well, it's a bit far fetched to say that I'm dissappointed. But it's a well known fact that when Google launches something new web geeks and early adopters jump on it like it's pure gold or the sweetest candy or whatever turns you on. It's been exactly like this two days ago when they rolled out <a href="http://www.google.com/analytics/">Google Analytics</a>. Only that it's been a bit more complicated this time as they weren't able to toy around with a Beta version which they could just throw out and if something breaks they would say: well, it's a beta, what do you expect? Nope. This time they were inheriting a base of Urchin customers which were paying $200 per month for the service they started offering for free from one day to another.
 

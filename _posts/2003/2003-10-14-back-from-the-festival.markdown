@@ -1,33 +1,14 @@
 ---
 layout: post
 title: Back from THE Festival
-excerpt: ! '<img alt="My badge with the site''s name messed up..." src="https://content.rusiczki.net/blogpics/tm03base_badge.jpg"
-  width="112" height="150" border="0" class="postimage" /> Now this last one was one
-  <b>TIGHT</b> weekend. The most intense of this year that''s for sure! And one of
-  the best of my entire life! <a href="http://www.tmbase.ro/v3/festival/">TM03Base</a>
-  was a real <b>blast</b>, but that''s no wonder knowing the amount of work the <a
-  href="http://www.tmbase.ro/" title="The TMBase Organization">organizers</a> and
-  their helping hands put into it! That Jay Cunning set, that Suv set, those MCs,
-  that crowd, that people, oh dear, oh dear! It was something extraordinary even if
-  you look at it by a non-Romanian perspective. Proof: Jay Cunning himself <a href="http://www.tmbase.ro/v3/forum/viewtopic.php?t=279">stated
-  on the official TMBase forum</a> that it was the best party he played at this year...
-  People are raving about the event on <a href="http://www.drumandbass.ro/dnb/forum/"
-  title="DrumAndBass.RO''s Forum">our forum</a> and on others too probably.
-
-  But let''s see what happened step by step. From my point of view at least.
-
-
-'
-date: 2003-10-14 16:34:22 +0200
+date: 2003-10-14 16:34:22.000000000 +02:00
 categories:
-- Life
-- Music
+- life
+- music
 ---
 <img alt="My badge with the site's name messed up..." src="https://content.rusiczki.net/blogpics/tm03base_badge.jpg" width="112" height="150" border="0" class="postimage" /> Now this last one was one <b>TIGHT</b> weekend. The most intense of this year that's for sure! And one of the best of my entire life! <a href="http://www.tmbase.ro/v3/festival/">TM03Base</a> was a real <b>blast</b>, but that's no wonder knowing the amount of work the <a href="http://www.tmbase.ro/" title="The TMBase Organization">organizers</a> and their helping hands put into it! That Jay Cunning set, that Suv set, those MCs, that crowd, that people, oh dear, oh dear! It was something extraordinary even if you look at it by a non-Romanian perspective. Proof: Jay Cunning himself <a href="http://www.tmbase.ro/v3/forum/viewtopic.php?t=279">stated on the official TMBase forum</a> that it was the best party he played at this year... People are raving about the event on <a href="http://www.drumandbass.ro/dnb/forum/" title="DrumAndBass.RO's Forum">our forum</a> and on others too probably.
 
 But let's see what happened step by step. From my point of view at least.
-
-<a id="more"></a><a id="more-192"></a>
 
 Wednesday night I was all set and all ready for the trip. At least I thought I was ready... It rained all day and the temperature dropped to a chilly 6 degrees Celsius. Fortunately the rain stopped just a little before I left my house and so taking the umbrella with me was futile. But I learned my lesson on Wednesday morning when I went to cut my hair and left the umbrella at home and as soon as I stepped out with my nearly bald head it started pouring a really cold rain... So I took my umbrella. Went to the train, hooked up with two friends. We almost froze because <a href="http://www.cfr.ro" title="CFR - They just suck!">Romanian trains</a> purely rule! The inside temperature is equal to the outside temperature minus the wind. So we opened our bags and pulled out almost all the warm clothes we had upon us and wrapped them around ourselves. Fortunately I managed to catch a little sleep. But still I was very tired and after hooking up with my friend, <a href="http://www.spinform.ro">Bogdan</a>, and going around his place, I basically slept all day scaring his parents a little, because they thought I got ill or something like that. But they got used to it because in the following days I did this again 3 times. Sleeping all day that is.
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Mountain Dew JibStars 2010
-date: 2010-04-19 10:18:02 +0200
+date: 2010-04-19 10:18:02.000000000 +02:00
 categories:
-- Snowboard
-- Video
+- snowboard
+- video
 ---
 Or, what's been keeping Ioana busy these days:
 

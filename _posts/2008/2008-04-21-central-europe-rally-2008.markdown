@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Central Europe Rally 2008
-date: 2008-04-21 23:22:18 +0200
+date: 2008-04-21 23:22:18.000000000 +02:00
 categories:
-- General
-- Photos
+- general
+- photos
 ---
 <a href="http://www.flickr.com/photos/garage0racing/2432169886/"><img src="http://farm3.static.flickr.com/2060/2432169886_4970c3c975_d.jpg" width="500" height="333" style="border:0" class="image" alt="Central Europe Rally 2008"/></a>
 

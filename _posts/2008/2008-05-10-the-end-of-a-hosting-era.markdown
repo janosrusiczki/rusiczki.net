@@ -1,10 +1,10 @@
 ---
 layout: post
 title: The end of a (hosting) era
-date: 2008-05-10 09:41:01 +0200
+date: 2008-05-10 09:41:01.000000000 +02:00
 categories:
-- Web
-- Technical
+- web
+- technical
 ---
 Just got this by e-mail:
 

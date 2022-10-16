@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The short ones
-date: 2004-09-17 08:03:28 +0200
+date: 2004-09-17 08:03:28.000000000 +02:00
 categories:
-- General
+- general
 ---
 The main page is empty again and I feel guilty about not posting again. So I might as well write something. But in fact there's not much happening and that's the main reason why there are no posts. But some small things still go on and I'll write them down.
 

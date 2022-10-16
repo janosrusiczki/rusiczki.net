@@ -1,9 +1,9 @@
 ---
 layout: post
 title: What a weird day
-date: 2003-04-14 23:52:18 +0200
+date: 2003-04-14 23:52:18.000000000 +02:00
 categories:
-- General
+- general
 ---
 It started at around 2PM. That's when I woke up. After staying up until around 5 in the morning. I got up. Sat down in front of the computer and actually worked a little on version two of <a href="http://www.resurseweb.net/" title="Great Romanian tutorial site! ;-)">resurseweb.net</a>. [ <b>UPDATE</b> Resurseweb.net doesn't exist anymore. The domain is now owned by some porn site. ]
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Geek ticket
-date: 2004-08-08 20:35:58 +0200
+date: 2004-08-08 20:35:58.000000000 +02:00
 categories:
-- Fun
+- fun
 ---
 <img src="https://content.rusiczki.net/blogpics/bus_ticket.jpg" width="490" height="129" border="0" alt="Bus ticket" class="image" />
 

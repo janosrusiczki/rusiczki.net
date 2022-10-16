@@ -1,9 +1,9 @@
 ---
 layout: post
 title: No fun
-date: 2003-02-07 20:54:25 +0100
+date: 2003-02-07 20:54:25.000000000 +01:00
 categories:
-- Life
+- life
 ---
 I'm sick. My neck hurts. I hate to be sick.
 

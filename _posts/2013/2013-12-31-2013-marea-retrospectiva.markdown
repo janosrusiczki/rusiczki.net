@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 2013 - Marea retrospectivă
-date: 2013-12-31 20:20:27 +0100
+date: 2013-12-31 20:20:27.000000000 +01:00
 categories:
-- Photos
+- photos
 ---
 Am mai încercat soiul ăsta de însemnare <a href="http://www.rusiczki.net/2009/12/31/2009-my-year-in-pictures/">la capăt de 2009</a> și cum îmi face deosebită plăcere să recitesc acel articol m-am gândit că dacă tot sunt pe acasă în vacanță să încerc să scriu ceva asemănător și pentru anul ce tocmai se încheie. Desigur, frumos ar fi ca la finalul unei astfel de scrieri să trag niște concluzii cu ce am realizat și să fac niște promisiuni pentru anul ce vine, dar nu voi face asta fiindcă mă tem că nu voi reuși să le respect și pentru că așa cum spuneam nu ăsta e scopul ci mai degrabă să am un soi de jurnal care să-mi placă să-l recitesc.
 

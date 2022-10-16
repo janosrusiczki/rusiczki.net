@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Beatport's support department sucks ass
-date: 2006-12-27 17:42:26 +0100
+date: 2006-12-27 17:42:26.000000000 +01:00
 categories:
-- Web
+- web
 ---
 I sent <a href="http://www.beatport.com">them</a> an e-mail complaining that none of my debit cards are accepted for payment on December the 7th, they replied requesting some data about the card and the bank that issued it, which I quickly provided and since then nothing. It's the 27th... Talk about speedy problem resolution!
 

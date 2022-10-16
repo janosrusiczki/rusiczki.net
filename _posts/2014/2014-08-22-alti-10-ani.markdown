@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Alți 10 ani
-date: 2014-08-22 10:43:18 +0200
+date: 2014-08-22 10:43:18.000000000 +02:00
 categories:
-- Life
+- life
 ---
 [![Cluj - Bila din Zorilor](https://content.rusiczki.net/2014/08/P7030435-693x462.jpg)](https://content.rusiczki.net/2014/08/P7030435.jpg)
 

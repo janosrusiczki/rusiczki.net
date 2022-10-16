@@ -1,9 +1,9 @@
 ---
 layout: post
 title: New bookmarks coming up
-date: 2003-01-05 06:21:17 +0100
+date: 2003-01-05 06:21:17.000000000 +01:00
 categories:
-- General
+- general
 ---
 Wheee!!!
 

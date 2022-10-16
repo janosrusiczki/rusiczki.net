@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Stairs from a blue lake
-date: 2006-06-08 11:25:44 +0200
+date: 2006-06-08 11:25:44.000000000 +02:00
 categories:
-- Photos
+- photos
 ---
 <a href="http://www.flickr.com/photos/janos/162504631/"><img src="http://static.flickr.com/75/162504631_d32ae06eeb.jpg" alt="Stairs from a blue lake" width="500" height="375" border="0" class="image" /></a>
 

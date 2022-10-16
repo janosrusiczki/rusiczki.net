@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Tent-a-gon
-date: 2003-08-22 19:16:55 +0200
+date: 2003-08-22 19:16:55.000000000 +02:00
 categories:
-- General
+- general
 ---
 Yep. It looks like there'll be some tent action tonight.
 

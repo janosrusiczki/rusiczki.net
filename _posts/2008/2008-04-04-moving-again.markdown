@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Moving again
-date: 2008-04-04 02:06:22 +0200
+date: 2008-04-04 02:06:22.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 I'm on a blogging frenzy! But I'm fed up with Movable Type's sluggishness...
 

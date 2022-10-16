@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Hard drive crash
-date: 2004-12-17 20:23:48 +0100
+date: 2004-12-17 20:23:48.000000000 +01:00
 categories:
-- Technical
+- technical
 ---
 Not here, not on my computer (touch wood) but on the server that hosted <a href="http://www.drumandbass.ro">drumandbass.ro</a>, <a href="http://www.supermagnet.ro">supermagnet.ro</a>, <a href="http://www.4elemente.ro">4elemente.ro</a>, <a href="http://www.supermagnet.ro/deea/">Deea's blog</a> and probably many other sites.
 

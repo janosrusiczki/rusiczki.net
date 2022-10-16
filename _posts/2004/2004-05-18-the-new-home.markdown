@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The new home...
-date: 2004-05-18 16:38:57 +0200
+date: 2004-05-18 16:38:57.000000000 +02:00
 categories:
-- Life
+- life
 ---
 ![View towards the window](https://content.rusiczki.net/blogpics/new_appartment_1.jpg)
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Sixth Sense
-date: 2003-01-23 17:48:44 +0100
+date: 2003-01-23 17:48:44.000000000 +01:00
 categories:
-- Movies
+- movies
 ---
 I just finished watching <a href="http://us.imdb.com/Title?0167404" title="IMDB Link">this movie</a>. And all I can say is: wow! It's a long time since I saw a movie that gave me the shrieks at the end and this one surely did. Such an fantastic twist. And I should also mention that Haley Joel Osment was great. He's a very talented kid.
 

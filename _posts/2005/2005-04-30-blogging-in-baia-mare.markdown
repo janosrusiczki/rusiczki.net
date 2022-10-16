@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Blogging in Baia Mare
-date: 2005-04-30 09:24:58 +0200
+date: 2005-04-30 09:24:58.000000000 +02:00
 categories:
-- Web
+- web
 ---
 Well, well, well... What do you know?
 

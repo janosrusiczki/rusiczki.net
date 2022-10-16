@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Experimenting with cliches
-date: 2007-06-16 12:59:16 +0200
+date: 2007-06-16 12:59:16.000000000 +02:00
 categories:
-- Photos
+- photos
 ---
 <a href="http://www.flickr.com/photos/janos/551781184/"><img src="http://farm2.static.flickr.com/1433/551781184_49a7d7faa3.jpg" alt="Dove" border="0" class="image" /></a>
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: ! 'Need for Speed: Underground'
-date: 2003-12-06 01:10:32 +0100
+title: 'Need for Speed: Underground'
+date: 2003-12-06 01:10:32.000000000 +01:00
 categories:
-- Games
+- games
 ---
 <a href="https://content.rusiczki.net/blogpics/need_for_speed_underground.php" onclick="window.open('https://content.rusiczki.net/blogpics/need_for_speed_underground.php','popup','width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="https://content.rusiczki.net/blogpics/need_for_speed_underground-thumb.jpg" width="120" height="90" border="0" alt="Need for Speed: Underground screenshot" class="postimage" /></a> I've been playing this for the last few days and all I can say is: whew! It's fast and... no, not furious, but fun! A lot of fun! Yesterday my middle finger hurt after pressing most of the day the accelerate button on my keyboard. So I could say it's a little addictive too...
 

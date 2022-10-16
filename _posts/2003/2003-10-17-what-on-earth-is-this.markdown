@@ -1,9 +1,9 @@
 ---
 layout: post
 title: What on Earth is this?
-date: 2003-10-17 01:02:41 +0200
+date: 2003-10-17 01:02:41.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 I received <a href="https://content.rusiczki.net/blogstuff/what_on_earth_is_this.txt">this spam e-mail</a>.
 

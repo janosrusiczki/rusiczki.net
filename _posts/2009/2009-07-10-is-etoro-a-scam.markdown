@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Is eToro a scam?
-date: 2009-07-10 12:42:59 +0200
+date: 2009-07-10 12:42:59.000000000 +02:00
 categories:
-- Web
-- Life
+- web
+- life
 - etoro
 - forex
 - trading

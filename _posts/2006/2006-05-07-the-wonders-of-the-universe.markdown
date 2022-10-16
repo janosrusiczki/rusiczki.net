@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The wonders of the Universe
-date: 2006-05-07 20:35:55 +0200
+date: 2006-05-07 20:35:55.000000000 +02:00
 categories:
-- Web
+- web
 ---
 Why is the catering company that brings food to my workplace every day called 'Aramis Games'? 'Aramis' the musketeer may pass, but 'games'? Are they playing games with our food? I sure hope they aren't! But this is Baia Mare, and everything is possible here.
 

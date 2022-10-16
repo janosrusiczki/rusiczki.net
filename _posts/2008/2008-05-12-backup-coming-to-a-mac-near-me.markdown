@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Backup - Coming to a Mac near me
-date: 2008-05-12 10:17:07 +0200
+date: 2008-05-12 10:17:07.000000000 +02:00
 categories:
-- Life
-- Technical
+- life
+- technical
 ---
 Good news day.
 

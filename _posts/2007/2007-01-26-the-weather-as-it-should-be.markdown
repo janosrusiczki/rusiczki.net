@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The weather as it should be
-date: 2007-01-26 17:46:44 +0100
+date: 2007-01-26 17:46:44.000000000 +01:00
 categories:
-- Life
+- life
 ---
 <img src="https://content.rusiczki.net/blogpics/weather-baia-mare-20070126.gif" width="500" height="195" alt="weather-baia-mare-20070126.gif" alt="Screenshot of the weather forecast for Baia Mare" class="image" />
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Time for a switch?
-date: 2007-10-04 12:52:43 +0200
+date: 2007-10-04 12:52:43.000000000 +02:00
 categories:
-- Technical
-- Mac
+- technical
+- mac
 ---
 Since last Thursday (that's exactly one week ago) I'm the proud (half) owner of a 13" white MacBook.
 

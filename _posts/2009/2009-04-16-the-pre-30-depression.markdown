@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The pre 30 depression
-date: 2009-04-16 10:33:55 +0200
+date: 2009-04-16 10:33:55.000000000 +02:00
 categories:
-- Life
+- life
 ---
 Yep, tomorrow will be the day when I'll, as Romanians (and maybe others) say, change the prefix. I'm sure I'll add a post to mark this glorious occasion, but for now I want to vent in a more negative voiced entry about stuff that I've been thinking about lately.
 

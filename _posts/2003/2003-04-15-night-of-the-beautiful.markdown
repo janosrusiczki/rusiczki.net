@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Night of the beautiful
-date: 2003-04-15 03:10:13 +0200
+date: 2003-04-15 03:10:13.000000000 +02:00
 categories:
-- General
+- general
 ---
 Tonight was one of those rare nights when <a href="http://www.triggerfinger.ro/lmarin/">Luci</a> gave me links that I actually liked. :-)
 

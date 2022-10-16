@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Digital camera upgrade
-date: 2004-01-30 18:38:26 +0100
+date: 2004-01-30 18:38:26.000000000 +01:00
 categories:
-- Technical
+- technical
 ---
 No. I can't really stop doing this. Namely, I can't stop buying myself stuff. Electronic stuff. Also known as gadgets. So, let's see what's in the bag.
 

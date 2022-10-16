@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Relaxed Christmas
-date: 2009-12-28 16:26:21 +0100
+date: 2009-12-28 16:26:21.000000000 +01:00
 categories:
-- Life
-- Technical
-- Games
+- life
+- technical
+- games
 ---
 <a href="http://www.flickr.com/photos/ioana/4216363251/"><img src="https://content.rusiczki.net/2009/12/hearts.jpg" alt="Christmas Hearts" width="500" height="747"/></a>
 

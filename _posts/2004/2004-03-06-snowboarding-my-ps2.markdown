@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Snowboarding my PS2
-date: 2004-03-06 22:13:35 +0100
+date: 2004-03-06 22:13:35.000000000 +01:00
 categories:
-- Games
+- games
 ---
 There was nothing in the mailbox today. I thought my copy of SSX 3 would arrive today but it looks like I'll have to wait until Monday.
 

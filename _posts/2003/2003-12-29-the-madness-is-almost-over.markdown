@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The madness is almost over
-date: 2003-12-29 03:25:26 +0100
+date: 2003-12-29 03:25:26.000000000 +01:00
 categories:
-- Life
+- life
 ---
 Christmas. As it came so it went. Fast.
 

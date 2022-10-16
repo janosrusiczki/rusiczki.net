@@ -1,11 +1,11 @@
 ---
 layout: post
 title: A4 - Două concursuri și o bandă
-date: 2018-12-31 11:51:00 +0200
+date: 2018-12-31 11:51:00.000000000 +02:00
 categories:
-- Cronică
-- Sport
-- Alergare
+- cronică
+- sport
+- alergare
 image: https://content.rusiczki.net/2018/12/janos-la-november-run-1000x667.jpg
 description: Despre ultimele două concursuri din an și banda mea de alergare.
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Not so happy with DreamHost nowadays
-date: 2006-10-02 12:37:14 +0200
+date: 2006-10-02 12:37:14.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 You might remember that I've been <a href="http://www.rusiczki.net/2006/04/16/im-so-back/">raving</a> about <a href="http://www.dreamhost.com">DreamHost</a> right after I was kicked out from <a href="http://www.totalchoicehosting.com/">Total Choice</a> but my enthusiasm dimmed a lot lately. The features and their pricing are indeed nice and attractive, however...
 

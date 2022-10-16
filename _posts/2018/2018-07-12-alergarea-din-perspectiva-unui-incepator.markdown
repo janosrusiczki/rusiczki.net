@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Alergarea din perspectiva unui începător
-date: 2018-07-12 15:00:00 +0200
+date: 2018-07-12 15:00:00.000000000 +02:00
 categories:
-- Cronică
-- Sport
-- Alergare
+- cronică
+- sport
+- alergare
 image: https://content.rusiczki.net/2018/07/alergare-nike-wildhorse-4-1000x1000.jpg
 description: János a început să alerge.
 ---

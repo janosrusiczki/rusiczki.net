@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Cele 15 minute (zile) de faimă (anonimă)
-date: 2013-12-31 21:26:13 +0100
+date: 2013-12-31 21:26:13.000000000 +01:00
 categories:
-- Photos
-- Română
+- photos
+- română
 ---
 Vă invit să găsiți 10 asemănări între pozele de mai jos:
 

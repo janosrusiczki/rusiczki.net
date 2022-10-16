@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Keynote frenzy ahead
-date: 2008-06-09 10:33:53 +0200
+date: 2008-06-09 10:33:53.000000000 +02:00
 categories:
-- Web
-- Technical
-- Fun
-- Mac
+- web
+- technical
+- fun
+- mac
 ---
 Eff the match between Romania and France!
 

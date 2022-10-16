@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 4 more Gmail invites
-date: 2004-09-08 18:04:06 +0200
+date: 2004-09-08 18:04:06.000000000 +02:00
 categories:
-- Uncategorized
+- uncategorized
 ---
 I'm with <a href="http://www.argumente.ro">Dragos</a> on this one. There are way too many incoming invites, everybody is giving them away on blogs and forums so I guess he's right, <a href="http://www.argumente.ro/general/8944551149/index_html">the service will probably go public soon</a>.
 

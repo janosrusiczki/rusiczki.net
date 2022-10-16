@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Cum să călătorești în timp - Ghid Practic
-date: 2022-03-15 09:00:00 +0200
+date: 2022-03-15 09:00:00.000000000 +02:00
 categories:
-- Cronică
-- Tehnic
+- cronică
+- tehnic
 image: https://content.rusiczki.net/2022/03/cd-uri-resized.jpg
 description: Despre ce "comori" am găsit în arhiva mea de CD-uri.
 ---

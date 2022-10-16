@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Kojak
-date: 2003-02-03 01:24:51 +0100
+date: 2003-02-03 01:24:51.000000000 +01:00
 categories:
-- Life
+- life
 ---
 Almost...
 

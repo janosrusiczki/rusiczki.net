@@ -4,7 +4,7 @@ title: Technobicicleala
 date: 2011-06-09 14:28:12 +0200
 categories:
 - Technical
-- Bike
+- bike
 - Română
 ---
 Din seria "sunt un geek si ma mandresc cu asta" sau "nu lasati nerds sa faca sport"... :)

@@ -4,7 +4,7 @@ title: Trail-uri de Baia Mare
 date: 2011-08-29 11:04:16 +0200
 categories:
 - Video
-- Bike
+- bike
 - Română
 ---
 Poate că e ușor exagerat să le numesc trail-uri dar oricum se apropie de definiție. În alte cuvinte: dacă asta avem, cu asta ne mândrim.

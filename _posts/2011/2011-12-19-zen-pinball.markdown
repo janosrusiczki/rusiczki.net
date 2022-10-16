@@ -3,7 +3,6 @@ layout: post
 title: Zen Pinball
 date: 2011-12-19 03:31:42 +0100
 categories:
-- iOS
 - ios
 - ipad
 - zen pinball

@@ -4,7 +4,7 @@ title: Impletirea pasiunilor
 date: 2011-06-20 12:40:51 +0200
 categories:
 - Photos
-- Bike
+- bike
 - Română
 ---
 Ce titlul poetic... Dar justificat avand in vedere ca mai rar iese treaba in felul in care a iesit sambata cand am reusit sa practic cele mai indragite doua hobby-uri de-ale mele aproximativ simultan. E vorba (binenteles) de fotografie si ciclism iar rezultatul acestei impletiri se poate vedea in poza de mai jos:

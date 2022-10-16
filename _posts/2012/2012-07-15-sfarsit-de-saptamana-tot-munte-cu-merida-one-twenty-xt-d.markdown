@@ -3,10 +3,9 @@ layout: post
 title: Sfârșit de săptămână tot munte cu Merida One-Twenty XT-D
 date: 2012-07-15 21:24:54 +0200
 categories:
-- Bike
+- bike
 - Română
 - mountain bike
-- bike
 - merida one-twenty xt-d
 - merida
 - one-twenty

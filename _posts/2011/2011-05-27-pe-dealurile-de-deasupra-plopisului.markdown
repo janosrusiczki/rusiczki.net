@@ -30,7 +30,7 @@ excerpt: ! "Sau cum am ajuns din greseala la premierea maratonului de la Preluca
 date: 2011-05-27 17:54:16 +0200
 categories:
 - Photos
-- Bike
+- bike
 ---
 Sau cum am ajuns din greseala la premierea maratonului de la Preluca...
 

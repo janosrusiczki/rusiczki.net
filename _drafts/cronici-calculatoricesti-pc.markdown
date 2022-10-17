@@ -3,35 +3,21 @@ published: false
 ---
 Am să încep acest ultim articol din seria celor dedicate amintirilor despre calculatoarele mele cu câteva cuvinte despre procesul de documentare: frustrant este că deși am avut deja acest blog în mare parte din perioada pe care vreau să o descriu aici, nu prea am scris despre calculatoare. Mă rog, de fapt veți găsi destul de multe linkuri în cele ce urmează - dar procentual au fost totuși rare mențiunile. Cu atât mai puțin am scris despre upgrade-uri și din păcate majoritatea discuțiilor pe care le-am avut despre acest subiect, le-am avut pe [Yahoo! Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) care după cum știți a murit de o bună bucată de vreme. Și nu salvasem arhivele discuțiilor așa cum [făceam mai pe la început](https://www.rusiczki.net/2022/03/15/cum-sa-calatoresti-in-timp-ghid-practic/) cu mail-urile, log-urile de IRC și multe alte chestii insignifiante.
 
-Am avut însă un noroc enorm deorece la un moment dat mi-a scris [un prieten](https://www.lucianmarin.se) că din cauza GDPR-ului (care urma să intre în vigoare) se va închide forumul computergames.ro și aruncând o privire acolo fără să mă aștept la mare lucru, căutând după postările mele am găsit o tonă de informații despre calculatoarele mele din epoca când eram foarte activ pe acel forum, adică în jurul turnurii de mileniu. Până în acel moment, cea mai bună șansă de a afla configurația primelor două calculatoare de-ale mele o consideram să găsesc pe CD-urile cu arhive scrisorile (în format .txt) trimise la diferiți omuleți cu care corespondam. Dar din păcate am cam eșuat pentru că fix primul meu CD cu arhive, s-a decojit la margine unde era arhiva de scrisori.
+Am avut însă un noroc enorm deoarece la un moment dat mi-a scris [un prieten](https://www.lucianmarin.se) că din cauza GDPR-ului (care urma să intre în vigoare) se va închide forumul computergames.ro și aruncând o privire acolo fără să mă aștept la mare lucru, căutând după postările mele am găsit o tonă de informații despre calculatoarele mele din epoca când eram foarte activ pe acel forum, adică în jurul turnurii de mileniu. Până în acel moment, cea mai bună șansă de a afla configurația primelor două calculatoare de-ale mele o consideram să găsesc pe CD-urile cu arhive scrisorile (în format .txt) trimise la diferiți omuleți cu care corespondam. Dar din păcate am cam eșuat pentru că fix primul meu CD cu arhive, s-a decojit la margine unde era arhiva de scrisori.
 
-De asemenea încercasem acum câțiva ani să mă uit pe hard discurile care mai țineau fișiere din acele vremuri dar am constatat că din păcate au cedat și au început să cloncăne. După aia, pe la începutul lui 2022, făcând ordine în camera mea din Baia Sprie am găsit un CD care nu făcea parte din seria mea oficială de CD-uri cu arhive dar am găsit pe el arhiva mail-boxurilor de pe vremea când lucram la Internet Cafe - despre asta [am scris un articol separat](https://www.rusiczki.net/2022/03/15/cum-sa-calatoresti-in-timp-ghid-practic/) - dar și ăsta s-a dovedit a fi un drum înfundat. Mai târziu înspre vară, într-una dintre cutii am găsit un plic care nu dădea prea multe de bănuit, dar conținea cam toate bonurile, facturile și garanțiile pentru cumpărăturile IT din 2001 până în 2004 (când m-am mutat din Baia Sprie). În schimb facturile din perioada 2004 - 2007 (cât am stat în chirie la bloc), oricât le-am căutat, se pare că s-au pierdut.
+De asemenea încercasem acum câțiva ani să mă uit pe hard discurile care mai țineau fișiere din acele vremuri dar am constatat că din păcate au cedat și au început să cloncăne. După aia, pe la începutul lui 2022, făcând ordine prin camera mea din Baia Sprie am găsit niște CD-uri care nu făceau parte din seria mea oficială de CD-uri cu arhive dar am găsit pe unul dintre ele arhiva mail-boxurilor de pe vremea când lucram la Internet Cafe - despre asta [am scris un articol separat](https://www.rusiczki.net/2022/03/15/cum-sa-calatoresti-in-timp-ghid-practic/) - dar și ăsta s-a dovedit a fi un drum înfundat. Mai târziu înspre vară, într-una dintre cutii am găsit un plic care nu dădea prea multe de bănuit, dar conținea cam toate bonurile, facturile și garanțiile pentru cumpărăturile IT din 2001 până în 2004 (când m-am mutat din Baia Sprie). În schimb facturile din perioada 2004 - 2007 (cât am stat în chirie la bloc), oricât le-am căutat, se pare că s-au pierdut.
 
-in 2001 chiar făceam ceva ieșit din comun pentru un băisprian :)
-
-De când am avut acces la internet broadband la internet cafe și până s-a terminat temporar accesul https://www.rusiczki.net/2002/12/27/the-end-of-broadband/ am stat cu frica în sân temându-mă de acel moment, dar și pregătindu-mă pentru el, am scris mai mult de 80 de CD-uri cu MP3 pe care am avut ocazia să le ascult după aia - chiar și în ziua de azi mai iau câte unul și-l bag în playerul din mașină să "descopăr" ce-i pe el.
-
-cd-uri cu arhive cu kit-uri, poze salvate de pe net și bineînțeles cd-uri cu muzică și nelipsitele filme
-
-dvd writer Teac DV-W58G https://www.rusiczki.net/2004/04/01/brief/ - https://www.cnet.com/products/teac-dv-w58g-dvdrw-drive-ide-internal/
-
-ipod nou https://www.rusiczki.net/2004/01/11/a-week-of-packages-part-2-ipod/
-
-waitec hip hop, cumparat in 2002 https://www.rusiczki.net/2004/04/13/waitec-hiphop-sold/
-
-minidisc sony - 2001 - (probabil) 2004 - https://www.rusiczki.net/2004/04/13/waitec-hiphop-sold/
-
-moartea lui palit daytona https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/
-
-mac! https://www.rusiczki.net/2007/10/04/time-for-a-switch/
+Dar să trecem la felul principal:
 
 ## PC-urile mele
 
-Am terminat articolul anterior zicând că în 1998 am intrat la facultate în Baia Mare și încă cu bursă. Spre finalul anului, a murit ultima mătușă a tătălui meu și astfel s-a putut da spre vânzare o casă din Ocna Șugatag al unui unchi de-al lui tata de care el avuse multă grijă în ultimii ani de viață ai bătrânului. Banii rezultați din vânzarea casei s-au împărțit la 3 după câte știu și tot după câte știu aproape toți banii care reprezentau partea lui tata, 5.000.000 și ceva de lei, i-a băgat în calculatorul meu. Tata, dacă vezi de unde ești acum ceea ce scriu aici, să știi că îți mulțumesc și îți sunt foarte recunoscător, și îmi pare rău că nu ți-am spus asta până ți-am putut spune.
+Am terminat articolul anterior zicând că în 1998 am intrat la facultate în Baia Mare și încă cu bursă. Spre finalul acelui an, a murit ultima mătușă a tătălui meu și astfel s-a putut da spre vânzare o casă din Ocna Șugatag al unui unchi de-al lui tata de care el avuse multă grijă în ultimii ani de viață ai bătrânului. Banii rezultați din vânzarea casei s-au împărțit la 3 după câte știu și tot după câte știu aproape toți banii care reprezentau partea lui tata, 5.000.000 și ceva de lei, i-a băgat în calculatorul meu. Tata, dacă vezi de unde ești acum ceea ce scriu aici, să știi că îți mulțumesc și îți sunt foarte recunoscător, și îmi pare rău că nu ți-am spus asta până ți-am putut spune. Așa fericit nu cred că am mai fost, practic se îndeplinise un vis de 5 sau 6 ani, pe vremea aia mi s-a părut că am așteptat o eternitate după calculator.
 
- toamna - VXPro 2, Pentium 233 MHz MMX, (înainte să accesez forumului computergames.ro eram convins că a fost un Pentium 2 266 MMX) cu hard disc de 4,3 GB care credeam că îmi va lua o eternitate să-l umplu, monitor LG StudioWorks de 14", video SiS cu 2 MB + 2 MB upgrade (singurul upgrade pe care l-am ales), cumpărat de la Sprint că "e mai bine să cumperi de la o firmă cu garanție decât de la bișnițari" - WRONG. Aparent a avut 32 MB EDO RAM.
+### 1. Primul, mult așteptatul
 
-Un prieten, Radu, a luat deodată cu mine un Pentium 2 "Klamath" la 350 MHz, placa de baza Intel 440BX, video i740. El nu și l-a luat de la firmă, parcă a fost și mai ieftin decât ce luasem eu și știu că mergeam pe la el și mă minunam că-i mergeau jocurile care solicitau accelerator grafic.
+Așadar în toamna lui 1998 mi-au cumpărat părinții primul calculator: procesor **Pentium** la **233 MHz** cu **MMX** (înainte să accesez forumului computergames.ro eram convins că a fost un Pentium 2 266 MMX), placă de bază **VXPro 2**, **32 MB EDO RAM**. Hard disc de 4,3 GB care credeam că îmi va lua o eternitate să-l umplu, monitor **LG StudioWorks** de **14"**, placă video SiS cu 4 MB memorie video (2 MB din fabrica plus 2 MB upgrade - singurul upgrade pe care l-am ales).
+
+M-au delegat pe mine să cercetez și să decid de unde iese mai bine, și mi l-au cumpărat de la Sprint Computers pentru că m-am gândit că e mai bine să cumperi cu garanție de la o firmă consacrată decât de la bișnițari - greșit! Un prieten, Radu, și-a luat aproximativ deodată cu mine un Pentium 2 "Klamath" la 350 MHz, placă de bază Intel 440BX, video Intel i740. El nu și l-a luat de la firmă, parcă a fost și mai ieftin decât ce-mi luasem eu și știu că mergeam pe la el și mă minunam că-i mergeau jocurile care solicitau accelerator grafic.
 
 Primul CD-ROM venit cu calculatorul, marca Cyberdrive, era oribil, tot "freca" unele CD-uri în loc să le citească, până nu am mai rezistat si i-am dat un pumn moment în care nu a mai citit nimic. S-a stricat complet. L-am dus înapoi la Sprint și după o vreme m-au chemat: "nu știm ce a avut, nu am mai vazut defecțiunea asta dar v-am pus un Philips". Uraaaa!
 
@@ -67,6 +53,8 @@ Tot din 2002 datează și monitorul Hansol 710D - 280_8050.JPG / https://www.rus
 
 În 2002 mi-am cumpărat o Palit Daytona Geforce 4 Ti care "fell off a truck" - la un preț absolut incredibil https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/
 
+moartea lui palit daytona https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/
+
 Dialup RDSLink începând din vara lui 2002 https://www.rusiczki.net/2002/12/21/of-webcams-and-saboteurs/ - Până atunci intram pe Xnet, unde era greu să găsești loc, abia mergea, te arunca afară, dar era gratis! Știu că intrasem și înainte pe Net (în octombrie 21, 2001, vezi pe blogspot) doar că a venit totul pe factura vecinilor cu care eram "cuplați". Nu știu de la cine am avut modem pentru această primă aventură.
 
 Skystar 1, mă laud cu ea in 12 august 2002 pe computer games, tot conform computer games forum l-am luat în 7 august 2002.
@@ -76,6 +64,16 @@ Internet prin satelit, am găsit un formular din 15 mai 2003 - În timp ce am av
 Nu mai știu la cine am dat această placa asta de bază și procesorul.
 
 prin această perioadă sau perioada următoare am făcut rețea cu vecinul.
+
+De când am avut acces la internet broadband la internet cafe și până s-a terminat temporar accesul https://www.rusiczki.net/2002/12/27/the-end-of-broadband/ am stat cu frica în sân temându-mă de acel moment, dar și pregătindu-mă pentru el, am scris mai mult de 80 de CD-uri cu MP3 pe care am avut ocazia să le ascult după aia - chiar și în ziua de azi mai iau câte unul și-l bag în playerul din mașină să "descopăr" ce-i pe el.
+
+cd-uri cu arhive cu kit-uri, poze salvate de pe net și bineînțeles cd-uri cu muzică și nelipsitele filme
+
+waitec hip hop, cumparat in 2002 https://www.rusiczki.net/2004/04/13/waitec-hiphop-sold/
+
+minidisc sony - 2001 - 2004 (este mentionat în articolul cu switch) - https://www.rusiczki.net/2004/04/13/waitec-hiphop-sold/
+
+in 2001 chiar făceam ceva ieșit din comun pentru un băisprian :)
 
 3. 2003, probabil în mai sau vara - Epox EP-8RDA - AMD Athlon XP 2000+
 
@@ -105,6 +103,11 @@ Primul LCD - Samsung Syncmaster 913N 31.01.2006 - https://www.rusiczki.net/2006/
 
 https://www.rusiczki.net/2007/01/23/need-for-hardware-upgrade-painfully-felt/
 
+ipod nou https://www.rusiczki.net/2004/01/11/a-week-of-packages-part-2-ipod/
+
+dvd writer Teac DV-W58G https://www.rusiczki.net/2004/04/01/brief/ - https://www.cnet.com/products/teac-dv-w58g-dvdrw-drive-ide-internal/
+
+
 5. 2007.02.06 - Intel Dual Core
 
 despre upgrade-ul din 2006 / 2007 - https://www.rusiczki.net/2007/03/14/the-masterpiece-is-almost-complete/
@@ -120,6 +123,8 @@ despre upgrade-ul din 2006 / 2007 - https://www.rusiczki.net/2007/03/14/the-mast
 total = 3176 ron (la cursul din 6 februarie 2007)
 
 2007 vara - MacBook
+
+mac! https://www.rusiczki.net/2007/10/04/time-for-a-switch/
 
 cred ca dupa ce mi-am luat lcd-ul si am avut un "calculator în plus" după ce am făcut upgrade-ul ăsta, am dus sus la Baia Sprie calculatorul vechi. Nu mai știu de unde am avut un stick wifi cu care prindeam wifi de la vecini.
 

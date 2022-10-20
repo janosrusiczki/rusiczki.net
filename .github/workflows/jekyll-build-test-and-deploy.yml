@@ -2,7 +2,7 @@ name: Jekyll Build, Test and Deploy
 on:
   push:
     branches: 
-      - main
+      - master
 jobs:
   jekyll-build:
     runs-on: ubuntu-latest

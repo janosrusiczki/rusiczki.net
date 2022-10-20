@@ -1,0 +1,16 @@
+name: Jekyll Build, Test and Deploy
+on:
+  push:
+    branches: 
+      - main
+jobs:
+  jekyll-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Ruby, install and cache the bundle
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+      - name: Build the site
+        run: bundle exec jekyll build

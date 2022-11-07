@@ -1,15 +1,15 @@
 ---
 published: false
 ---
-Ca și când [am scris despre Roxette](https://www.rusiczki.net/2019/12/11/roxette/) am căutat și acuma aici pe blog după "postcrossing" și nu am găsit nimic. Ceea ce m-a suprins oarecum. Dar spre deosebire de pățania de atunci, când era stricată indexarea, acuma se pare că e pe bune și chiar nu am scris nimic despre acest hobby... Nicio grijă, repar acuma!
+Ca și când [am scris despre Roxette](https://www.rusiczki.net/2019/12/11/roxette/) înainte de a mă apuca să scriu articolul am căutat aici pe blog după "postcrossing" și nu am găsit nimic. Ceea ce m-a suprins oarecum dar spre deosebire de pățania de atunci, când era stricată indexarea, acuma se pare că e pe bune și chiar nu am scris nimic despre acest hobby pe aici... Nicio grijă, repar acuma!
 
-Nu mai știu exact cum am găsit sau cine mi-a recomandat [Postcrossing](https://www.postcrossing.com), îmi amintesc doar că eram în acel moment al vieții mele când m-am hotărât să lucrez la o firmă de construcții că mă gândeam eu că e un job sigur că oricum se construiește în draci, apoi la fix un an după angajare bum! a dat criza. Fiind [un mare prieten al poștei](https://www.rusiczki.net/2013/03/11/o-nu-nu-posta-romana/) m-am înscris imediat și am început să trimit și să primesc cărți poștale (hai să nu le spunem vederi). De fapt conform informațiilor de pe site-ul Postcrossing, m-am înscris pe 23 ianuarie 2009, ceea ce înseamnă că [lovise deja criza](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008) - sau mă rog, ajunsese la firma la care lucram, [eram la începutul problemelor cu mama](https://www.rusiczki.net/2009/01/26/a-bitter-update/) și totuși eram cumva destul de detașat încât să am puterea să mă înscriu pe un site de trimis corespondență...
+Nu mai știu exact cum am găsit sau cine mi-a recomandat [Postcrossing](https://www.postcrossing.com), îmi amintesc doar că eram în acel moment al vieții mele când m-am hotărât să lucrez la o firmă de construcții că mă gândeam eu că e un job sigur că era un boom în construcții, apoi la fix un an după angajare bum! a dat criza. Fiind [un mare prieten al poștei](https://www.rusiczki.net/2013/03/11/o-nu-nu-posta-romana/) m-am înscris imediat și am început să trimit și să primesc cărți poștale (hai să nu le spunem _vederi_). De fapt, conform informațiilor de pe site-ul Postcrossing, m-am înscris pe 23 ianuarie 2009, ceea ce înseamnă că [lovise deja criza](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008) - sau mă rog, ajunsese la firma la care lucram, [eram la începutul problemelor cu mama](https://www.rusiczki.net/2009/01/26/a-bitter-update/) și totuși eram cumva destul de detașat încât să am puterea să mă înscriu pe un site de trimis corespondență...
 
 Am să încerc să explic sistemul pe scurt:
 
 - te înscrii pe site
 - apeși un buton și primești un cod și o adresă la care va trebui să trimiți o carte poștală
-- (de aici urmează partea care poate părea surprinzătoare pentru mulți)
+- (de aici urmează partea care poate părea surprinzătoare pentru unii)
 - cumperi o carte poștală (fizică)
 - scrii destinatarul și codul primit pe cartea poștală (cu pixul!)
 - mergi la poștă și o trimiți (da, la un oficiu al Poștei Române)

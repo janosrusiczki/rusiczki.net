@@ -19,6 +19,8 @@ Am să încerc să explic sistemul pe scurt:
 
 Vreau să menționez aici că e aproximativ la fel de interesant atât să primești cărți poștale cât și să sosească email că a ajuns ceva ce ai trimis la destinatar. De fapt ceea ce m-a determinat să scriu acest articol a fost că una dintre cărțile poștale trimise, a ajuns să fie publicată pe un blog de pe cealaltă parte a planetei - https://mabo137.blogspot.com/2022/11/from-romania.html
 
+Chiar dacă nu am scris aici pe blog, tot am menționat pe undeva și anume pe Flickr, mai nou am mutat arhiva de poze în ograda proprie - https://photos.rusiczki.net/albums/72157613438160482
+
 Expoziție Team 4 Youth - conform EXIF (November 01, 2012 16:17) - am fost contactat și mi-am împrumutat colecția să fie expusă. de fapt poza care ilustrează articolul despre poșta română a fost făcută la această expoziție
 
 Am trimis multe home made, 2 poze (poza din dronă cu Baia Sprie, poza de la stația meteo de sub Pietrosul Rodnei) plus un avion - nu e deloc ușor să confecționezi o carte poștală home made

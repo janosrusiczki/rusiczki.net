@@ -21,18 +21,18 @@ Vreau să menționez aici că mi se pare aproximativ la fel de interesant atât 
 
 Așa cum menționam în introducere nu am scris aici pe blog despre Postcrossing, dar tot am împărtășit pe undeva că m-am apucat de hobby și anume pe Flickr, unde chiar mi-am făcut [un album](https://photos.rusiczki.net/albums/72157613438160482) în care voiam să pun poze cu cărțile poștale primite. S-a oprit însă la 4 cărți poștale. Plus iată [o poză bonus cu mine](https://photos.rusiczki.net/photos/3270976595) chiar când scanam primele primite. Linkurile reflectă faptul că de o vreme mi-am mutat pozele de pe Flickr în ograda proprie.
 
-Ce-mi mai amintesc este că o amică care lucra pe atunci la Biroul Județean de Turism, mi-a făcut cadou un teanc mare (să tot fi fost peste 50 de bucăți) de cărți poștale cu diferite locații și tradiții din Maramureș. Pe care le-am trimis încet toate. Și când zic încet mă refer că abia acum câteva săptămâni am trimis ultima.
+Ce-mi mai amintesc este că o amică care lucra pe atunci la Biroul Județean de Turism mi-a făcut cadou un teanc mare (să tot fi fost peste 50 de bucăți) de cărți poștale cu diferite locații și tradiții din Maramureș. Pe care le-am trimis încet toate. Și când zic încet mă refer că abia acum câteva săptămâni am trimis ultima.
 
-În toamna lui 2012 am fost contactat de cineva de la organizația de tineret numită Team 4 Youth care mi-a zis că urmează să organizeze o expoziție cu cărți poștale și mi-am împrumutat colecția să fie expusă. De fapt poza care ilustrează articolul despre poșta română a fost făcută la această expoziție care s-a ținut la începutul lui noiembrie 2012 (mare noroc am cu EXIF).
+În toamna lui 2012 am fost contactat de cineva de la organizația de tineret numită Team 4 Youth care mi-a zis că urmează să organizeze o expoziție cu cărți poștale și mi-am împrumutat colecția să fie expusă. De fapt poza care ilustrează [articolul despre Poșta Română](https://www.rusiczki.net/2013/03/11/o-nu-nu-posta-romana/) a fost făcută la această expoziție care s-a ținut la începutul lui noiembrie 2012 (mare noroc am cu EXIF).
 
-A urmat o pauză luuungăăă, știu că am extras niște adrese la un moment dat și nu am trimis cărțile poștale niciodată. Rușine să-mi fie. La ultimul restart am mers la poșta din Baia Sprie și am întrebat dacă au vederi, au făcut ochii mari și după multă scotoceală mi-au dat ultimele 4 bucați pe care le aveau rătăcite în ceva dulap. Setasem adresa lui mama să se bucure de ceva frumos, dar din păcate am pierdut-o pe mama.
+A urmat o pauză luuungăăă, știu că am extras niște adrese la un moment dat și nu am mai trimis cărțile poștale niciodată. Rușine să-mi fie! La ultimul restart am mers la poșta din Baia Sprie și am întrebat dacă au vederi, au făcut ochii mari și după multă scotoceală mi-au dat ultimele 4 bucați pe care le aveau rătăcite în ceva dulap. Setasem adresa lui mama să se bucure de ceva frumos, dar din păcate am pierdut-o pe mama.
 
-De la ultimul restart încoace am trimis multe home made din două poze de-ale mele (o poză din dronă cu Baia Sprie și una de la stația meteo de sub Pietrosul Rodnei) plus o poză cu un avion făcută de o cunoștință.
+De la ultimul restart încoace am trimis multe home made din două poze de-ale mele: [o poză din dronă cu Baia Sprie](https://photos.rusiczki.net/photos/26835073578) și [una de la stația meteo de sub Pietrosul Rodnei](https://photos.rusiczki.net/photos/14427773863) plus o poză cu un avion făcută de o cunoștință.
 
 Vreau să subliniez aici că nu e deloc ușor să confecționezi acasă o carte poștală - în sensul că s-o faci bine. Metoda "perfecționată" de mine presupune în acest moment:
 
 - Tipărirea pozei pe hârtie foto
-- Lipirea hârtiei foto pe o bucată de carton pretipărită cu șablonul cu loc de scris misiva, loc pentru timbru și adresă. Desigur aș fi putut tipări acest șablon pe spatele hârtiei foto dar fără suportul de carton hârtia foto are tendința să se încovoaie. Este foarte important și lipiciul folosit, tot din considerente de încovoiere
+- Lipirea hârtiei foto pe o bucată de carton pretipărită cu șablonul cu loc de scris misiva, loc pentru timbru și adresă. Desigur aș fi putut tipări acest șablon pe spatele hârtiei foto dar fără suportul de carton hârtia foto are tendința să se încovoaie. Este foarte important și lipiciul folosit, tot din considerente de încovoiere. :)
 - Ajustat rezultatul cu o ghilotină de hârtie.
 
-În ultima vreme nu e o distracție tocmai ieftină, mă rog, ce mai e - 6 lei în Europa, 10 lei par avion mai departe.
+În ultima vreme nu mai e o distracție tocmai ieftină nici asta, mă rog, ce mai e - costă 6 lei către Europa și 10 lei Par Avion spre restul lumii. Și avem situația că noi nu putem trimite corespondență către Rusia dar ei pot trimite spre noi. Ciudat.

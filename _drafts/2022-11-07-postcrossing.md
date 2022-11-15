@@ -1,32 +1,38 @@
 ---
 published: false
 ---
-Ca și când [am scris despre Roxette](https://www.rusiczki.net/2019/12/11/roxette/) înainte de a mă apuca să scriu articolul am căutat aici pe blog după "postcrossing" și nu am găsit nimic. Ceea ce m-a suprins oarecum dar spre deosebire de pățania de atunci, când era stricată indexarea, acuma se pare că e pe bune și chiar nu am scris nimic despre acest hobby pe aici... Nicio grijă, repar acuma!
+Ca și atunci când [am scris despre Roxette](https://www.rusiczki.net/2019/12/11/roxette/) înainte de a mă apuca să scriu acest articol am căutat aici pe blog după "postcrossing" și nu am găsit nimic. Ceea ce m-a suprins oarecum dar spre deosebire de pățania de atunci, când era stricată indexarea, acuma se pare că e pe bune și chiar nu am scris nimic despre acest hobby pe aici... Nicio grijă, repar acuma!
 
-Nu mai știu exact cum am găsit sau cine mi-a recomandat [Postcrossing](https://www.postcrossing.com), îmi amintesc doar că eram în acel moment al vieții mele când m-am hotărât să lucrez la o firmă de construcții că mă gândeam eu că e un job sigur că era un boom în construcții, apoi la fix un an după angajare bum! a dat criza. Fiind [un mare prieten al poștei](https://www.rusiczki.net/2013/03/11/o-nu-nu-posta-romana/) m-am înscris imediat și am început să trimit și să primesc cărți poștale (hai să nu le spunem _vederi_). De fapt, conform informațiilor de pe site-ul Postcrossing, m-am înscris pe 23 ianuarie 2009, ceea ce înseamnă că [lovise deja criza](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008) - sau mă rog, ajunsese la firma la care lucram, [eram la începutul problemelor cu mama](https://www.rusiczki.net/2009/01/26/a-bitter-update/) și totuși eram cumva destul de detașat încât să am puterea să mă înscriu pe un site de trimis corespondență...
+Nu mai știu exact cum am găsit sau cine mi-a recomandat [Postcrossing](https://www.postcrossing.com), îmi amintesc doar că eram în acel moment al vieții mele când m-am hotărât să lucrez la o firmă de construcții că mă gândeam eu că e un job sigur că doar era un boom în construcții. Fiind [mare prieten cu poșta](https://www.rusiczki.net/2013/03/11/o-nu-nu-posta-romana/) mi-am făcut cont imediat și am început să trimit și să primesc cărți poștale (hai să nu le spunem *vederi*). De fapt, conform informațiilor de pe site, m-am înscris pe 23 ianuarie 2009, ceea ce înseamnă că [lovise deja criza](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008) - sau mă rog, ajunsese la firma la care lucram, [eram la începutul problemelor cu mama](https://www.rusiczki.net/2009/01/26/a-bitter-update/) dar se pare că am fost totuși cumva destul de detașat încât să am puterea să mă înscriu pe site-uri...
 
 Am să încerc să explic sistemul pe scurt:
 
-- te înscrii pe site
-- apeși un buton și primești un cod și o adresă la care va trebui să trimiți o carte poștală
-- (de aici urmează partea care poate părea surprinzătoare pentru unii)
-- cumperi o carte poștală (fizică)
-- scrii destinatarul și codul primit pe cartea poștală (cu pixul!)
-- mergi la poștă și o trimiți (da, la un oficiu al Poștei Române)
-- în același timp, altundeva în lume, cineva (nu destinatarul spre care ai trimis tu) va extrage adresa ta și îți va trimite ție o carte poștală
-- aștepți...
-- primești o carte poștală, o admiri și o înscrii pe site folosind codul
+- Te înscrii pe site
+- Apeși un buton și primești un cod și o adresă spre care va trebui să trimiți o carte poștală
+- *De aici urmează partea care poate părea surprinzătoare pentru unii*
+- Cumperi o carte poștală (fizică)
+- Scrii destinatarul și codul primit pe cartea poștală (cu pixul!)
+- Mergi la poștă și o trimiți (da, la un oficiu al Poștei Române!!!)
+- În același timp, altundeva în lume, cineva (nu destinatarul spre care ai trimis tu) va extrage adresa ta și îți va trimite ție o carte poștală
+- Aștepți...
+- Primești o carte poștală, o admiri și o înscrii pe site folosind codul
 
-Vreau să menționez aici că e aproximativ la fel de interesant atât să primești cărți poștale cât și să sosească email că a ajuns ceva ce ai trimis la destinație. De fapt ceea ce m-a determinat să scriu acest articol a fost că una dintre cărțile poștale trimise, a ajuns să fie publicată pe un blog de pe cealaltă parte a planetei - https://mabo137.blogspot.com/2022/11/from-romania.html Da, în 2022 Janos se bucură că a apărut pe un blog din Taiwan.
+Vreau să menționez aici că mi se pare aproximativ la fel de interesant atât să primesc cărți poștale (uraaa, apare ceva în cutia poștală ce nu e spam sau factură) cât și să sosească email că a ajuns ceva ce am trimis la destinație. De fapt ceea ce m-a determinat să scriu acest articol a fost că una dintre cărțile poștale trimise [a fost publicată pe un blog](https://mabo137.blogspot.com/2022/11/from-romania.html) de pe cealaltă parte a planetei. Da, în 2022 János se bucură că a apărut pe un blog din Taiwan.
 
-Chiar dacă nu am scris aici pe blog, tot am menționat pe undeva și anume pe Flickr, mai nou am mutat arhiva de poze în ograda proprie - https://photos.rusiczki.net/albums/72157613438160482 plus poză bonus cu mine chiar când scanam primele primite - https://photos.rusiczki.net/photos/3270976595
+Așa cum menționam în introducere nu am scris aici pe blog despre Postcrossing, dar tot am împărtășit pe undeva că m-am apucat de hobby și anume pe Flickr, unde chiar mi-am făcut [un album](https://photos.rusiczki.net/albums/72157613438160482) în care voiam să pun poze cu cărțile poștale primite. S-a oprit însă la 4 cărți poștale. Plus iată [o poză bonus cu mine](https://photos.rusiczki.net/photos/3270976595) chiar când scanam primele primite. Linkurile reflectă faptul că de o vreme mi-am mutat pozele de pe Flickr în ograda proprie.
 
-Am o amică care pe atunci lucra la Biroul Județean de Turism și mi-a făcut cadou un teanc mare de cărți poștale cu diferite locații și tradiții din Maramureș. Pe care le-am trimis încet toate. Doar acuma le-am terminat.
+Ce-mi mai amintesc este că o amică care lucra pe atunci la Biroul Județean de Turism, mi-a făcut cadou un teanc mare (să tot fi fost peste 50 de bucăți) de cărți poștale cu diferite locații și tradiții din Maramureș. Pe care le-am trimis încet toate. Și când zic încet mă refer că abia acum câteva săptămâni am trimis ultima.
 
-Expoziție Team 4 Youth - conform EXIF (November 01, 2012 16:17) - am fost contactat și mi-am împrumutat colecția să fie expusă. de fapt poza care ilustrează articolul despre poșta română a fost făcută la această expoziție
+În toamna lui 2012 am fost contactat de cineva de la organizația de tineret numită Team 4 Youth care mi-a zis că urmează să organizeze o expoziție cu cărți poștale și mi-am împrumutat colecția să fie expusă. De fapt poza care ilustrează articolul despre poșta română a fost făcută la această expoziție care s-a ținut la începutul lui noiembrie 2012 (mare noroc am cu EXIF).
 
-A fost o pauză luuungăăă, știu că am extras niște adrese la un moment dat și nu le-am trimis niciodată. Rușine să-mi fie. La ultimul restart am mers la poșta din Baia Sprie și am cerut dacă au vederi, au făcut ochii mari și după multă scotoceală mi-au dat ultimele 4 bucați sau câte. Setasem adresa lui mama să se bucure de ceva frumos, dar din păcate am pierdut-o pe mama.
+A urmat o pauză luuungăăă, știu că am extras niște adrese la un moment dat și nu am trimis cărțile poștale niciodată. Rușine să-mi fie. La ultimul restart am mers la poșta din Baia Sprie și am întrebat dacă au vederi, au făcut ochii mari și după multă scotoceală mi-au dat ultimele 4 bucați pe care le aveau rătăcite în ceva dulap. Setasem adresa lui mama să se bucure de ceva frumos, dar din păcate am pierdut-o pe mama.
 
-Am trimis multe home made, 2 poze (poza din dronă cu Baia Sprie, poza de la stația meteo de sub Pietrosul Rodnei) plus un avion - nu e deloc ușor să confecționezi o carte poștală home made
+De la ultimul restart încoace am trimis multe home made din două poze de-ale mele (o poză din dronă cu Baia Sprie și una de la stația meteo de sub Pietrosul Rodnei) plus o poză cu un avion făcută de o cunoștință.
+
+Vreau să subliniez aici că nu e deloc ușor să confecționezi acasă o carte poștală - în sensul că s-o faci bine. Metoda "perfecționată" de mine presupune în acest moment:
+
+- Tipărirea pozei pe hârtie foto
+- Lipirea hârtiei foto pe o bucată de carton pretipărită cu șablonul cu loc de scris misiva, loc pentru timbru și adresă. Desigur aș fi putut tipări acest șablon pe spatele hârtiei foto dar fără suportul de carton hârtia foto are tendința să se încovoaie. Este foarte important și lipiciul folosit, tot din considerente de încovoiere
+- Ajustat rezultatul cu o ghilotină de hârtie.
 
 În ultima vreme nu e o distracție tocmai ieftină, mă rog, ce mai e - 6 lei în Europa, 10 lei par avion mai departe.

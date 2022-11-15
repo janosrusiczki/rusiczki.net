@@ -27,7 +27,7 @@ Ce-mi mai amintesc este că o amică care lucra pe atunci la Biroul Județean de
 
 A urmat o pauză luuungăăă, știu că am extras niște adrese la un moment dat și nu am mai trimis cărțile poștale niciodată. Rușine să-mi fie! La ultimul restart am mers la poșta din Baia Sprie și am întrebat dacă au vederi, au făcut ochii mari și după multă scotoceală mi-au dat ultimele 4 bucați pe care le aveau rătăcite în ceva dulap. Setasem adresa lui mama să se bucure de ceva frumos, dar din păcate am pierdut-o pe mama.
 
-De la ultimul restart încoace am trimis multe home made din două poze de-ale mele: [o poză din dronă cu Baia Sprie](https://photos.rusiczki.net/photos/26835073578) și [una de la stația meteo de sub Pietrosul Rodnei](https://photos.rusiczki.net/photos/14427773863) plus o poză cu un avion făcută de o cunoștință.
+De la ultimul restart încoace am trimis multe cărți poștale home made făcute în mare parte din două poze de-ale mele: [o poză din dronă cu Baia Sprie](https://photos.rusiczki.net/photos/26835073578) și [una de la stația meteo de sub Pietrosul Rodnei](https://photos.rusiczki.net/photos/14427773863) cât și dintr-o poză cu un avion făcută de către o cunoștință.
 
 Vreau să subliniez aici că nu e deloc ușor să confecționezi acasă o carte poștală - în sensul că s-o faci bine. Metoda "perfecționată" de mine presupune în acest moment:
 
@@ -35,4 +35,4 @@ Vreau să subliniez aici că nu e deloc ușor să confecționezi acasă o carte 
 - Lipirea hârtiei foto pe o bucată de carton pretipărită cu șablonul cu loc de scris misiva, loc pentru timbru și adresă. Desigur aș fi putut tipări acest șablon pe spatele hârtiei foto dar fără suportul de carton hârtia foto are tendința să se încovoaie. Este foarte important și lipiciul folosit, tot din considerente de încovoiere. :)
 - Ajustat rezultatul cu o ghilotină de hârtie.
 
-În ultima vreme nu mai e o distracție tocmai ieftină nici asta, mă rog, ce mai e - costă 6 lei către Europa și 10 lei Par Avion spre restul lumii. Și avem situația că noi nu putem trimite corespondență către Rusia dar ei pot trimite spre noi. Ciudat.
+În ultima vreme nu mai e o distracție tocmai ieftină nici asta, mă rog, ce mai e - costă 6 lei către Europa și 10 lei Par Avion spre restul lumii. Și mai avem situația că noi nu putem trimite corespondență către Rusia dar ei pot trimite spre noi. Ciudat.

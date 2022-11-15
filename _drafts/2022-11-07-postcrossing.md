@@ -1,31 +1,31 @@
 ---
 published: false
 ---
-Ca și atunci când [am scris despre Roxette](https://www.rusiczki.net/2019/12/11/roxette/) înainte de a mă apuca să scriu acest articol am căutat aici pe blog după "postcrossing" și nu am găsit nimic. Ceea ce m-a suprins oarecum dar spre deosebire de pățania de atunci, când era stricată indexarea, acuma se pare că e pe bune și chiar nu am scris nimic despre acest hobby pe aici... Nicio grijă, repar acuma!
+Ca și atunci când [am scris despre Roxette](https://www.rusiczki.net/2019/12/11/roxette/), înainte de a mă apuca să scriu acest articol, am căutat aici pe blog după "postcrossing" și nu am găsit nimic. Ceea ce m-a suprins oarecum dar spre deosebire de pățania de atunci, când era stricată indexarea, acuma se pare că e pe bune și chiar nu am scris nimic despre acest hobby pe aici... Nicio grijă, repar acuma!
 
 Nu mai știu exact cum am găsit sau cine mi-a recomandat [Postcrossing](https://www.postcrossing.com), îmi amintesc doar că eram în acel moment al vieții mele când m-am hotărât să lucrez la o firmă de construcții că mă gândeam eu că e un job sigur că doar era un boom în construcții. Fiind [mare prieten cu poșta](https://www.rusiczki.net/2013/03/11/o-nu-nu-posta-romana/) mi-am făcut cont imediat și am început să trimit și să primesc cărți poștale (hai să nu le spunem *vederi*). De fapt, conform informațiilor de pe site, m-am înscris pe 23 ianuarie 2009, ceea ce înseamnă că [lovise deja criza](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008) - sau mă rog, ajunsese la firma la care lucram, [eram la începutul problemelor cu mama](https://www.rusiczki.net/2009/01/26/a-bitter-update/) dar se pare că am fost totuși cumva destul de detașat încât să am puterea să mă înscriu pe site-uri...
 
-Am să încerc să explic sistemul pe scurt:
+Pentru cine nu știe cum funcționează, am să încerc să explic sistemul pe scurt:
 
 - Te înscrii pe site
 - Apeși un buton și primești un cod și o adresă spre care va trebui să trimiți o carte poștală
 - *De aici urmează partea care poate părea surprinzătoare pentru unii*
 - Cumperi o carte poștală (fizică)
 - Scrii destinatarul și codul primit pe cartea poștală (cu pixul!)
-- Mergi la poștă și o trimiți (da, la un oficiu al Poștei Române!!!)
+- Mergi la poștă și o trimiți (da, de la un oficiu al Poștei Române!!!)
 - În același timp, altundeva în lume, cineva (nu destinatarul spre care ai trimis tu) va extrage adresa ta și îți va trimite ție o carte poștală
 - Aștepți...
 - Primești o carte poștală, o admiri și o înscrii pe site folosind codul
 
-Vreau să menționez aici că mi se pare aproximativ la fel de interesant atât să primesc cărți poștale (uraaa, apare ceva în cutia poștală ce nu e spam sau factură) cât și să sosească email că a ajuns ceva ce am trimis la destinație. De fapt ceea ce m-a determinat să scriu acest articol a fost că una dintre cărțile poștale trimise [a fost publicată pe un blog](https://mabo137.blogspot.com/2022/11/from-romania.html) de pe cealaltă parte a planetei. Da, în 2022 János se bucură că a apărut pe un blog din Taiwan.
+Vreau să menționez aici că mi se pare aproximativ la fel de interesant atât să primesc cărți poștale (uraaa, apare în cutia poștală ceva ce nu e spam sau factură) cât și să sosească email că a ajuns ceva ce am trimis la destinație. De fapt ceea ce m-a determinat să scriu acest articol a fost că una dintre cărțile poștale trimise de mine [a fost publicată pe un blog](https://mabo137.blogspot.com/2022/11/from-romania.html) de pe cealaltă parte a planetei. Da, în 2022 János se bucură că a apărut pe un blog din Taiwan.
 
-Așa cum scriam în introducere nu am zis nimic aici pe blog despre Postcrossing, dar tot am împărtășit pe vremea aceea pe undeva că m-am apucat de hobby și anume pe Flickr, unde chiar mi-am făcut [un album](https://photos.rusiczki.net/albums/72157613438160482) în care voiam să pun poze cu cărțile poștale primite. S-a oprit însă la primele 4 cărți poștale. Tipic. Dar iată [o poză bonus cu mine](https://photos.rusiczki.net/photos/3270976595) făcută chiar când scanam primele 4 primite. Linkurile reflectă faptul că de o vreme mi-am mutat pozele de pe Flickr (care s-a dus dracului) în ograda proprie.
+Așa cum scriam în introducere nu am zis nimic aici pe blog despre Postcrossing, dar tot am împărtășit pe vremea aceea pe undeva că m-am apucat de hobby și anume pe Flickr, unde chiar mi-am făcut [un album](https://photos.rusiczki.net/albums/72157613438160482) în care voiam să pun poze cu cărțile poștale primite. S-a oprit însă la primele 4 cărți poștale. Tipic. Dar iată [o poză bonus cu mine](https://photos.rusiczki.net/photos/3270976595) făcută chiar când scanam primele 4 primite. Linkurile reflectă faptul că de o vreme mi-am mutat pozele de pe Flickr în ograda proprie - poate voi scrie un articol și despre asta.
 
 Ce-mi mai amintesc este că o amică care lucra pe atunci la Biroul Județean de Turism mi-a făcut cadou un teanc mare (să tot fi fost peste 50 de bucăți) de cărți poștale cu diferite locații și tradiții din Maramureș. Pe care le-am trimis încet toate. Și când zic încet mă refer că abia acum câteva săptămâni am trimis ultima.
 
 În toamna lui 2012 am fost contactat de cineva de la organizația de tineret numită Team 4 Youth care mi-a zis că urmează să organizeze o expoziție cu cărți poștale și mi-am împrumutat colecția să fie expusă. De fapt poza care ilustrează [articolul despre Poșta Română](https://www.rusiczki.net/2013/03/11/o-nu-nu-posta-romana/) a fost făcută la această expoziție care s-a ținut la începutul lui noiembrie 2012 (mare noroc am cu EXIF).
 
-A urmat o pauză luuungăăă, știu că am extras niște adrese la un moment dat și nu am mai trimis cărțile poștale niciodată. Rușine să-mi fie! La ultimul restart am mers la poșta din Baia Sprie și am întrebat dacă au vederi, au făcut ochii mari și după multă scotoceală mi-au dat ultimele 4 bucați pe care le aveau rătăcite în ceva dulap. Setasem adresa lui mama să se bucure de ceva frumos, dar din păcate am pierdut-o pe mama.
+A urmat o pauză luuungăăă, știu că am extras niște adrese la un moment dat și nu am mai trimis cărțile poștale niciodată. Rușine să-mi fie! La ultimul restart am mers la poșta din Baia Sprie și am întrebat dacă au vederi, au făcut ochii mari și după multă scotoceală mi-au dat ultimele 4 bucați pe care le aveau rătăcite în ceva dulap. Și chiar setasem să le primesc pe adresa mamei din Baia Sprie să se bucure de ceva frumos, dar din păcate printr-o coincidență urâtă am pierdut-o pe mama chiar când au început să sosească.
 
 De la ultimul restart încoace am trimis multe cărți poștale home made făcute în mare parte din două poze de-ale mele: [o poză din dronă cu Baia Sprie](https://photos.rusiczki.net/photos/26835073578) și [una de la stația meteo de sub Pietrosul Rodnei](https://photos.rusiczki.net/photos/14427773863) cât și dintr-o poză cu un avion făcută de către o cunoștință.
 

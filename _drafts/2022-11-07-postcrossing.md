@@ -23,16 +23,20 @@ Așa cum scriam în introducere nu am zis nimic aici pe blog despre Postcrossing
 
 Ce-mi mai amintesc este că o amică care lucra pe atunci la Biroul Județean de Turism mi-a făcut cadou un teanc mare (să tot fi fost peste 50 de bucăți) de cărți poștale cu diferite locații și tradiții din Maramureș. Pe care le-am trimis încet toate. Și când zic încet mă refer că abia acum câteva săptămâni am trimis ultima.
 
-În toamna lui 2012 am fost contactat de cineva de la organizația de tineret numită Team 4 Youth care mi-a zis că urmează să organizeze o expoziție cu cărți poștale și mi-am împrumutat colecția să fie expusă. De fapt poza care ilustrează [articolul despre Poșta Română](https://www.rusiczki.net/2013/03/11/o-nu-nu-posta-romana/) a fost făcută la această expoziție care s-a ținut la începutul lui noiembrie 2012 (mare noroc am cu EXIF).
+În toamna lui 2012 am fost contactat de cineva de la organizația de tineret băimăreană numită Team 4 Youth care mi-a zis că urmează să organizeze o expoziție cu cărți poștale și mi-am împrumutat colecția să fie expusă. De fapt poza care ilustrează [articolul despre Poșta Română](https://www.rusiczki.net/2013/03/11/o-nu-nu-posta-romana/) a fost făcută la această expoziție care s-a ținut la începutul lui noiembrie 2012 (mare noroc am cu EXIF).
 
-A urmat o pauză luuungăăă, știu că am extras niște adrese la un moment dat și nu am mai trimis cărțile poștale niciodată. Rușine să-mi fie! La ultimul restart am mers la poșta din Baia Sprie și am întrebat dacă au vederi, au făcut ochii mari și după multă scotoceală mi-au dat ultimele 4 bucați pe care le aveau rătăcite în ceva dulap. Și chiar setasem să le primesc pe adresa mamei din Baia Sprie să se bucure de ceva frumos, dar din păcate printr-o coincidență urâtă am pierdut-o pe mama chiar când au început să sosească.
+![Postcrossing - Activity per month](https://content.rusiczki.net/2022/11/postcrossing-activity-per-month.png)
+
+A urmat o pauză luuungăăă, știu că am extras niște adrese la un moment dat și nu am mai trimis cărțile poștale niciodată. Rușine să-mi fie! La ultimul restart am mers la poșta din Baia Sprie și am întrebat dacă au vederi, au făcut ochii mari și după multă scotoceală mi-au dat ultimele 4 bucați pe care le aveau rătăcite în ceva dulap. Și chiar setasem să le primesc pe adresa mamei din Baia Sprie să se bucure de ceva frumos, dar din păcate printr-o coincidență urâtă am pierdut-o pe mama chiar când au început să sosească. 😢
 
 De la ultimul restart încoace am trimis multe cărți poștale home made făcute în mare parte din două poze de-ale mele: [o poză din dronă cu Baia Sprie](https://photos.rusiczki.net/photos/26835073578) și [una de la stația meteo de sub Pietrosul Rodnei](https://photos.rusiczki.net/photos/14427773863) cât și dintr-o poză cu un avion făcută de către o cunoștință.
 
 Vreau să subliniez aici că nu e deloc ușor să confecționezi acasă o carte poștală - în sensul că s-o faci bine. Metoda "perfecționată" de mine presupune în acest moment:
 
-- Tipărirea pozei pe hârtie foto
-- Lipirea hârtiei foto pe o bucată de carton pretipărită cu șablonul cu loc de scris misiva, loc pentru timbru și adresă. Desigur aș fi putut tipări acest șablon pe spatele hârtiei foto dar fără suportul de carton hârtia foto are tendința să se încovoaie. Este foarte important și lipiciul folosit, tot din considerente de încovoiere. :)
+- Tipărirea pozei pe hârtie foto cu imprimanta mea Epson L4160.
+- Lipirea hârtiei foto pe o bucată de carton pretipărită cu șablonul cu loc de scris misiva, loc pentru timbru și adresă. Desigur aș fi putut tipări acest șablon pe spatele hârtiei foto dar fără suportul de carton hârtia foto are tendința să se încovoaie. Este foarte important și lipiciul folosit, tot din considerente de încovoiere. 😄
 - Ajustat rezultatul cu o ghilotină de hârtie.
 
-În ultima vreme nu mai e o distracție tocmai ieftină nici asta, mă rog, ce mai e - costă 6 lei către Europa și 10 lei Par Avion spre restul lumii. Și mai avem situația că noi nu putem trimite corespondență către Rusia dar ei pot trimite spre noi. Ciudat.
+Practic un teren de joacă pentru fetișul meu legat de papetărie.
+
+În ultima vreme nu mai e o distracție tocmai ieftină nici asta, dar mă rog, ce mai e? Costă 6 lei trimisul către Europa și 10 lei Par Avion spre restul lumii. Și mai avem situația că noi nu putem trimite corespondență spre Rusia dar ei pot trimite către noi. Ciudat.

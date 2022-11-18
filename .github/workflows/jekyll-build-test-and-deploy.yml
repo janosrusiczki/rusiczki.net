@@ -35,3 +35,11 @@ jobs:
           key: ${{ github.sha }}-site
       - name: Something
         run: ls _site/
+      - name: Delete cache
+        env:
+          PAT_CACHE: ${{ secrets.PAT_CACHE }}
+        run: |
+          curl -X DELETE \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: token $PAT_CACHE" \
+          https://api.github.com/repos/${{ github.repository }}/actions/caches/${{ github.sha }}-site

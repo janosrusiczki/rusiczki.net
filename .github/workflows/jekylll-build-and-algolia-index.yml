@@ -1,8 +1,10 @@
-name: Jekyll Build, Test and Deploy
+name: Jekyll Build and Algolia index
 on: workflow_dispatch
 jobs:
   bundle-build-algolia:
     runs-on: ubuntu-latest
+    env:
+      ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
     steps:
       - name: Checkout sources
         uses: actions/checkout@v3

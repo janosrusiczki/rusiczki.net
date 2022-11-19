@@ -1,11 +1,12 @@
 Janos Rusiczki
 ==============
-[![Build Status](https://img.shields.io/travis/janosrusiczki/janosrusiczki/master.svg?style=for-the-badge)](https://travis-ci.org/janosrusiczki/janosrusiczki)
+[![Jekyll Build, Test and Deploy](https://github.com/janosrusiczki/rusiczki.net/actions/workflows/jekyll-build-test-and-deploy.yml/badge.svg)](https://github.com/janosrusiczki/rusiczki.net/actions/workflows/jekyll-build-test-and-deploy.yml)
 
 This is my blog converted from Wordpress to Jekyll.
 
 * It went live on January 8, 2018;
-* It is built and deployed automatically by Travis whenever this repository's master branch changes (since January 15, 2018).
+* It was built and deployed automatically by Travis whenever the repository's master branch changed (from January 15, 2018 to October 20, 2022 - according to their logs 348 builds);
+* It is now built and deployed automatically by GitHub Actions with the same conditions as above (starting with October 18, 2022).
 
 ## Cheat codes
 

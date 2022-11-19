@@ -1,7 +1,7 @@
-name: Jekyll Build and Algolia index
+name: Index with Algolia
 on: workflow_dispatch
 jobs:
-  bundle-build-algolia:
+  bundle-algolia:
     runs-on: ubuntu-latest
     env:
       ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
@@ -12,7 +12,5 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
-      - name: Build site
-        run: bundle exec jekyll build
       - name: Index with Algolia
         run: bundle exec jekyll algolia --verbose

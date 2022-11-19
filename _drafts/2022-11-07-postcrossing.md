@@ -29,9 +29,9 @@ Ce-mi mai amintesc este că o amică care lucra pe atunci la Biroul Județean de
 
 ![Postcrossing - Activity per month](https://content.rusiczki.net/2022/11/postcrossing-activity-per-month.png)
 
-A urmat o pauză luuungăăă, știu că am extras niște adrese la un moment dat și nu am mai trimis cărțile poștale niciodată. Rușine să-mi fie! La ultimul restart am mers la poșta din Baia Sprie și am întrebat dacă au vederi, au făcut ochii mari și după multă scotoceală mi-au dat ultimele 4 bucați pe care le aveau rătăcite în ceva dulap. Și chiar setasem să le primesc pe adresa mamei din Baia Sprie să se bucure de ceva frumos, dar din păcate printr-o coincidență urâtă am pierdut-o pe mama chiar când au început să sosească. 😢
+A urmat o pauză luuungăăă, știu că am extras niște adrese la un moment dat și nu am mai trimis cărțile poștale niciodată. Rușine să-mi fie! După ultimul restart am mers la poșta din Baia Sprie și am întrebat dacă au vederi, au făcut ochii mari și după multă scotoceală mi-au dat ultimele 4 bucați pe care le aveau rătăcite în ceva dulap. Și chiar setasem să le primesc pe adresa mamei din Baia Sprie să se bucure de ceva frumos, dar din păcate printr-o coincidență urâtă am pierdut-o pe mama chiar când au început să sosească. 😢
 
-De la ultimul restart încoace am trimis multe cărți poștale home made făcute în mare parte din două poze de-ale mele: [o poză din dronă cu Baia Sprie](https://photos.rusiczki.net/photos/26835073578) și [una de la stația meteo de sub Pietrosul Rodnei](https://photos.rusiczki.net/photos/14427773863) cât și dintr-o poză cu un avion făcută de către o cunoștință.
+Tot de la ultimul restart încoace am trimis multe cărți poștale home made făcute în mare parte din două poze de-ale mele: [o poză din dronă cu Baia Sprie](https://photos.rusiczki.net/photos/26835073578) și [una de la stația meteo de sub Pietrosul Rodnei](https://photos.rusiczki.net/photos/14427773863) cât și dintr-o poză cu un avion făcută de către o cunoștință.
 
 Vreau să subliniez aici că nu e deloc ușor să confecționezi acasă o carte poștală - în sensul că s-o faci bine. Metoda "perfecționată" de mine presupune în acest moment:
 
@@ -41,4 +41,6 @@ Vreau să subliniez aici că nu e deloc ușor să confecționezi acasă o carte 
 
 Practic un teren de joacă pentru fetișul meu legat de papetărie.
 
-În ultima vreme nu mai e o distracție tocmai ieftină nici asta, dar mă rog, ce mai e? Costă 6 lei trimisul către Europa și 10 lei Par Avion spre restul lumii. Și mai avem situația că noi nu putem trimite corespondență spre Rusia dar ei pot trimite către noi. Ciudat.
+O altă noutate din ultima perioadă este și albumul pe care îl vedeți în poza ilustrativă. Și de la același domn cu Postcards Market de la cine am luat albumul am luat și cărți poștale de trimis fără număr (dacă cumva nu am chef să-mi fabric ale mele).
+
+Din păcate mai nou nu mai e o distracție tocmai ieftină nici asta, dar mă rog, ce mai e? Costă 6 lei trimisul către Europa și 10 lei Par Avion spre restul lumii. Și mai avem situația că noi nu putem trimite corespondență spre Rusia dar ei pot trimite către noi. Ciudat.

@@ -8,7 +8,7 @@ categories:
 image: https://content.rusiczki.net/2022/11/postcrossing-album-resized.jpg
 description: În câteva cuvinte despre pasiunea mea de a primi și trimite cărți poștale.
 ---
-Ca și atunci când [am scris despre Roxette](https://www.rusiczki.net/2019/12/11/roxette/), înainte de a mă apuca să scriu acest articol, am căutat aici pe blog după "postcrossing" și nu am găsit nimic. Ceea ce m-a suprins oarecum dar spre deosebire de pățania de atunci, când era stricată indexarea, acuma se pare că e pe bune și chiar nu am scris nimic despre acest hobby pe aici... Nicio grijă, repar acuma!
+Ca și atunci când [am scris despre Roxette](https://www.rusiczki.net/2019/12/11/roxette/), înainte de a mă apuca de acest articol am căutat aici pe blog după "postcrossing" și nu am găsit nimic. Ceea ce m-a suprins oarecum dar spre deosebire de pățania de atunci, când era stricată indexarea, acuma se pare că e pe bune și chiar nu am scris nimic despre acest hobby... Nicio grijă, repar acuma!
 
 [![Album cu cărți poștale primite prin Postcrossing](https://content.rusiczki.net/2022/11/postcrossing-album-resized.jpg)](https://content.rusiczki.net/2022/11/postcrossing-album.jpg){:.glightbox}
 
@@ -48,6 +48,6 @@ Vreau să subliniez aici că nu e deloc ușor să confecționezi acasă o carte 
 
 Practic un teren de joacă pentru fetișul meu legat de papetărie.
 
-O altă noutate din ultima perioadă este și albumul pe care îl vedeți în poza ilustrativă. Și de la același domn cu Postcards Market de la cine am luat albumul am luat și cărți poștale de trimis fără număr (dacă cumva nu am chef să-mi fabric ale mele).
+O altă noutate din ultima perioadă este și albumul pe care îl vedeți în poza ilustrativă. Și de la același domn cu [Postcards Market](https://postcardsmarket.com/) de la cine am cumpărat albumul am luat și cărți poștale fără număr (dacă cumva nu am chef să fabric ale mele).
 
-Din păcate mai nou nu mai e o distracție tocmai ieftină nici asta, dar mă rog, ce mai e? Costă 6 lei trimisul către Europa și 10 lei Par Avion spre restul lumii. Și mai avem situația că noi nu putem trimite corespondență spre Rusia dar ei pot trimite către noi. Ciudat.
+Din păcate mai nou nu mai e o distracție tocmai ieftină nici asta, dar mă rog, ce mai e? Costă 6 lei 50 de bani trimisul către Europa și 10 lei Par Avion spre restul lumii. Și mai avem situația că noi nu putem trimite corespondență spre Rusia dar ei pot trimite către noi. Ciudat.

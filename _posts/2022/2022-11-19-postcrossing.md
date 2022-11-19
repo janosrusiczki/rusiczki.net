@@ -43,10 +43,10 @@ Tot de la ultimul restart încoace am trimis multe cărți poștale home made f�
 Vreau să subliniez aici că nu e deloc ușor să confecționezi acasă o carte poștală - în sensul că s-o faci bine. Metoda "perfecționată" de mine presupune în acest moment:
 
 - Tipărirea pozei pe hârtie foto cu imprimanta mea Epson L4160.
-- Lipirea hârtiei foto pe o bucată de carton pretipărită cu șablonul cu loc de scris misiva, loc pentru timbru și adresă. Desigur aș fi putut tipări acest șablon pe spatele hârtiei foto dar fără suportul de carton hârtia foto are tendința să se încovoaie. Este foarte important și lipiciul folosit, tot din considerente de încovoiere. 😄
+- Lipirea hârtiei foto pe o bucată de carton pretipărită cu șablonul cu loc de scris misiva, loc pentru timbru și adresă. Desigur aș fi putut tipări acest șablon pe spatele hârtiei foto dar fără suportul de carton hârtia foto are tendința să se încovoaie. Este foarte important și lipiciul folosit, tot din considerente de încovoiere.
 - Ajustat rezultatul cu o ghilotină de hârtie.
 
-Practic un teren de joacă pentru fetișul meu legat de papetărie.
+Practic un teren de joacă pentru fetișul meu legat de papetărie. 😄
 
 O altă noutate din ultima perioadă este și albumul pe care îl vedeți în poza ilustrativă. Și de la același domn cu [Postcards Market](https://postcardsmarket.com/) de la cine am cumpărat albumul am luat și cărți poștale fără număr (dacă cumva nu am chef să fabric ale mele).
 

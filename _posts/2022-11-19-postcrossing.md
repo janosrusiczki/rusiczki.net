@@ -1,5 +1,12 @@
 ---
-published: false
+layout: post
+title: Cronici Calculatoricești - Limbo
+date: 2022-11-19 12:08:00 +0200
+categories:
+- Cronică
+- Hobby
+image: https://content.rusiczki.net/2022/11/postcrossing-album-resized.jpg
+description: În câteva cuvinte despre pasiunea mea de a primi și trimite cărți poștale.
 ---
 Ca și atunci când [am scris despre Roxette](https://www.rusiczki.net/2019/12/11/roxette/), înainte de a mă apuca să scriu acest articol, am căutat aici pe blog după "postcrossing" și nu am găsit nimic. Ceea ce m-a suprins oarecum dar spre deosebire de pățania de atunci, când era stricată indexarea, acuma se pare că e pe bune și chiar nu am scris nimic despre acest hobby pe aici... Nicio grijă, repar acuma!
 

@@ -12,13 +12,13 @@ Ca și atunci când [am scris despre Roxette](https://www.rusiczki.net/2019/12/1
 
 [![Album cu cărți poștale primite prin Postcrossing](https://content.rusiczki.net/2022/11/postcrossing-album-resized.jpg)](https://content.rusiczki.net/2022/11/postcrossing-album.jpg){:.glightbox}
 
-Nu mai știu exact cum am găsit sau cine mi-a recomandat [Postcrossing](https://www.postcrossing.com), îmi amintesc doar că eram în acel moment al vieții mele când m-am hotărât să lucrez la o firmă de construcții că mă gândeam eu că e un job sigur că doar era un boom în construcții. Fiind [mare prieten cu poșta](https://www.rusiczki.net/2013/03/11/o-nu-nu-posta-romana/) mi-am făcut cont imediat și am început să trimit și să primesc cărți poștale (hai să nu le spunem *vederi*). De fapt, conform informațiilor de pe site, m-am înscris pe 23 ianuarie 2009, ceea ce înseamnă că [lovise deja criza](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008) - sau mă rog, ajunsese la firma la care lucram, [eram la începutul problemelor cu mama](https://www.rusiczki.net/2009/01/26/a-bitter-update/) dar se pare că am fost totuși cumva destul de detașat încât să am puterea să mă înscriu pe site-uri...
+Nu mai știu exact cum am găsit sau cine mi-a recomandat [Postcrossing](https://www.postcrossing.com), îmi amintesc doar că eram în acel moment al vieții mele când m-am hotărât să lucrez la o firmă de construcții că mă gândeam eu că e un job sigur că doar era un boom în construcții. Fiind [mare prieten cu poșta](https://www.rusiczki.net/2013/03/11/o-nu-nu-posta-romana/) mi-am făcut cont imediat și am început să trimit și să primesc cărți poștale (hai să nu le spunem *vederi*). De fapt, conform informațiilor de pe site, m-am înscris pe 23 ianuarie 2009, ceea ce înseamnă că [lovise deja criza](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008) - sau mă rog, ajunsese la firma la care lucram, [eram la începutul problemelor cu mama](https://www.rusiczki.net/2009/01/26/a-bitter-update/) dar se pare că am fost totuși cumva destul de detașat încât să am puterea să mă înscriu pe site-uri... Posibil să fi fost influențat și de faptul că tata avea o colecție de vederi din România și voiam să ajung pe urmele lui dar de data asta la nivel internațional.
 
 Pentru cine nu știe cum funcționează, am să încerc să explic sistemul pe scurt:
 
 - Te înscrii pe site
 - Apeși un buton și primești un cod și o adresă spre care va trebui să trimiți o carte poștală
-- *De aici urmează partea care poate părea surprinzătoare pentru unii*
+- (de aici urmează partea care poate părea surprinzătoare pentru unii)
 - Cumperi o carte poștală (fizică)
 - Scrii destinatarul și codul primit pe cartea poștală (cu pixul!)
 - Mergi la poștă și o trimiți (da, de la un oficiu al Poștei Române!!!)

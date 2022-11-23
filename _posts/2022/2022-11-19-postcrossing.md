@@ -18,7 +18,7 @@ Pentru cine nu știe cum funcționează, am să încerc să explic sistemul pe s
 
 - Te înscrii pe site
 - Apeși un buton și primești un cod și o adresă spre care va trebui să trimiți o carte poștală
-- (de aici urmează partea care poate părea surprinzătoare pentru unii)
+- *(de aici urmează partea care poate părea surprinzătoare pentru unii)*
 - Cumperi o carte poștală (fizică)
 - Scrii destinatarul și codul primit pe cartea poștală (cu pixul!)
 - Mergi la poștă și o trimiți (da, de la un oficiu al Poștei Române!!!)

@@ -1,6 +1,6 @@
 Janos Rusiczki
 ==============
-[![Jekyll Build, Test and Deploy](https://github.com/janosrusiczki/rusiczki.net/actions/workflows/jekyll-build-test-and-deploy.yml/badge.svg)](https://github.com/janosrusiczki/rusiczki.net/actions/workflows/jekyll-build-test-and-deploy.yml)
+[![Jekyll Build, Test and Deploy](https://github.com/janosrusiczki/rusiczki.net/actions/workflows/jekyll-build-test-and-deploy.yml/badge.svg)](https://github.com/janosrusiczki/rusiczki.net/actions/workflows/jekyll-build-test-and-deploy.yml) [![Index with Algolia](https://github.com/janosrusiczki/rusiczki.net/actions/workflows/algolia-index.yml/badge.svg)](https://github.com/janosrusiczki/rusiczki.net/actions/workflows/algolia-index.yml)
 
 This is my blog converted from Wordpress to Jekyll.
 

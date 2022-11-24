@@ -13,8 +13,6 @@ Sunteți gata? Începem! :)
 
 <a href="https://content.rusiczki.net/2013/12/Year-in-Review.png" rel="lightbox">Retrospectiva Facebook</a> arată că am început anul dându-ne pe dealul de vis-a-vis de Șuior dar de fapt l-am început pe pârtia Moski, alături de prietenul "stătean" Steve care era în concediu pe acasă. După cum se observă, această părtie, mai precis zilele când e acoperită de zăpadă au darul de a ne face instant fericiți.
 
-<!--more-->
-
 Tot pentru una din zilele de la începutul anului am avut o programare la dentist și m-a părăsit măseaua de minte care nu-mi încapea in gură și-mi provoca tot soiul de iritații și discomfort general. Cum ar zice englezul: good riddance, nu i-am simțit vreun moment lipsa. Am și <a href="https://content.rusiczki.net/2013/12/dintisor.jpg">o poză</a> cu victima pentru cei cu stomacul tare.
 
 <a href="https://content.rusiczki.net/2013/12/2013-01-13-11.32.19.jpg"><img class="alignnone size-medium wp-image-4683" src="https://content.rusiczki.net/2013/12/2013-01-13-11.32.19-693x519.jpg" alt="Janta îndoită" width="693" height="519" /></a>

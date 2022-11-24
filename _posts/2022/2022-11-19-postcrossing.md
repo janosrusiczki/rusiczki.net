@@ -10,6 +10,8 @@ description: În câteva cuvinte despre pasiunea mea de a primi și trimite căr
 ---
 Ca și atunci când [am scris despre Roxette](https://www.rusiczki.net/2019/12/11/roxette/), înainte de a mă apuca de acest articol am căutat aici pe blog după "postcrossing" și nu am găsit nimic. Ceea ce m-a suprins oarecum dar spre deosebire de pățania de atunci, când era stricată indexarea, acuma se pare că e pe bune și chiar nu am scris nimic despre acest hobby... Nicio grijă, repar acuma!
 
+<!--more-->
+
 [![Album cu cărți poștale primite prin Postcrossing](https://content.rusiczki.net/2022/11/postcrossing-album-resized.jpg)](https://content.rusiczki.net/2022/11/postcrossing-album.jpg){:.glightbox}
 
 Nu mai știu exact cum am găsit sau cine mi-a recomandat [Postcrossing](https://www.postcrossing.com), îmi amintesc doar că eram în acel moment al vieții mele când m-am hotărât să lucrez la o firmă de construcții că mă gândeam eu că e un job sigur că doar era un boom în construcții. Fiind [mare prieten cu poșta](https://www.rusiczki.net/2013/03/11/o-nu-nu-posta-romana/) mi-am făcut cont imediat și am început să trimit și să primesc cărți poștale (hai să nu le spunem *vederi*). De fapt, conform informațiilor de pe site, m-am înscris pe 23 ianuarie 2009, ceea ce înseamnă că [lovise deja criza](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008) - sau mă rog, ajunsese la firma la care lucram, [eram la începutul problemelor cu mama](https://www.rusiczki.net/2009/01/26/a-bitter-update/) dar se pare că am fost totuși cumva destul de detașat încât să am puterea să mă înscriu pe site-uri. Posibil să fi fost influențat și de faptul că tata avea o colecție de vederi din România și voiam și eu ceva asemănător dar la nivel internațional.

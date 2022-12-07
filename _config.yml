@@ -10,6 +10,7 @@ url: https://www.rusiczki.net
 baseurl: /
 permalink: /:year/:month/:day/:title/
 future: true
+excerpt_separator: <!--more-->
 
 author:
   name: János Rusiczki

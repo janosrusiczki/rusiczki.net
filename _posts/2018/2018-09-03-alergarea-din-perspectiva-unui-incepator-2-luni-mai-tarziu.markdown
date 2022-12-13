@@ -9,7 +9,7 @@ categories:
 image: https://content.rusiczki.net/2018/09/alergare-lacul-albastru-1000x750.jpg
 description: János continuă să alerge.
 ---
-După ce am publicat [articolul precedent](https://www.rusiczki.net/2018/07/12/alergarea-din-perspectiva-unui-incepator/) mi-am dat seama că am uitat câteva idei care le-am trecut apoi într-o ciornă și pe parcurs am mai tot scris de experiențe noi de s-a adunat material de un articol nou. Apoi am participat și la primul concurs de alergare despre care m-am simțit obligat să scriu și mi-am dat seama că iese prea lung articolul așa că l-am spart în două. Acesta este prima parte iar despre concurs puteți citi [în a doua parte](https://www.rusiczki.net/2018/09/03/crosul-lacului-albastru/).
+După ce am publicat [articolul precedent](https://www.rusiczki.net/2018/07/12/alergarea-din-perspectiva-unui-incepator/) mi-am dat seama că am uitat câteva idei pe care le-am trecut apoi într-o ciornă și pe parcurs am mai tot scris de experiențe noi de s-a adunat material de un articol nou. Apoi am participat și la primul concurs de alergare despre care m-am simțit obligat să scriu și mi-am dat seama că iese prea lung articolul așa că l-am spart în două. Acesta este prima parte iar despre concurs puteți citi [în a doua parte](https://www.rusiczki.net/2018/09/03/crosul-lacului-albastru/).
 
 [![La Lacul Albastru cu bidonul de apă Salomon](https://content.rusiczki.net/2018/09/alergare-lacul-albastru-1000x750.jpg)](https://content.rusiczki.net/2018/09/alergare-lacul-albastru.jpg)
 

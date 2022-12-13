@@ -17,9 +17,11 @@ title: Home
       <img src="{{ post.image }}" alt="Imagine ilustrativă pentru articolul: {{ post.title }}"/>
     {% endif %}
 
-    {{ post.description }}
+    <p>{{ post.description }}</p>
 
-    <p><a href="{{ post.url }}">Read</a></p>
+    {% if post.description %}
+      <p><a href="{{ post.url }}">Read</a></p>
+    {% endif %}
   </div>
   {% endfor %}
 </div>

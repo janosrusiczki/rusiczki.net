@@ -24,7 +24,7 @@ Restabilind directorul de mailuri și pornind clientul de mail, am demarat pract
 
 Pentru cei pe care îi deranjează directorul crack din screenshot, am să menționez că unul dintre primele softuri pe care le-am cumpărat (în viața mea), pare-mi-se imediat cum am ajuns să lucru de acasă în primăvara lui 2002, a fost [The Bat!](https://www.ritlabs.com/en/products/thebat/). Sau un joc de jigsaw puzzle. Nu mai știu care sau în ce ordine. The Bat! era un client grozav de email, fără problemele de securitate ale Outlook-ului, am încetat să-l folosesc abia cândva după ce [am făcut rost de contul de Gmail](https://www.rusiczki.net/2004/06/19/gmail-so-close-yet-so-far/).
 
-**Update în 28 Decembrie 2022:** Documentând un articol și navigând prin arhiva primei versiuni al acestui blog am dat din greșeală peste [o însemnare](https://www.rusiczki.net/2003/03/26/old-school-games/) în care menționam numele jocului de puzzle: se numea Brainsbreaker. 🙂
+**Update în 28 Decembrie 2022:** Documentând articolul despre 20 de ani de blog și navigând prin arhiva web.archive.org a primei versiuni, am dat din greșeală peste [o însemnare](https://www.rusiczki.net/2003/03/26/old-school-games/) în care menționam numele jocului de puzzle: se numea Brainsbreaker. Și aparent [site-ul funcționează](https://www.brainsbreaker.com/) și jocul se poate descărca fără probleme. De fapt mi l-am și pus și am făcut un puzzle de 70 de piese. Acuma să vedem cum îmi găsesc licența. 🙂
 
 Memoria m-a semi-înșelat însă, pentru că prin mailbox-uri am găsit doar acest mail referitor la o configurație dorită pentru al doilea calculator, care nu a fost și cea obținută. În schimb am găsit (și confirmat) configurația primului PC.
 

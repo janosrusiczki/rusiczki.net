@@ -4,6 +4,7 @@ title: Building
 date: 2003-09-22 22:33:41.000000000 +02:00
 categories:
 - web
+- blog history
 ---
 I mentioned yesterday that I'm working on the Movable Type templates and the rest of the site. Fact is I want to make as much of the site as I can manageable with MT. It's such a nice tool and it's so handy sometimes that you don't have to fire up your good old FTP program each time you want to modify a character on your site...
 

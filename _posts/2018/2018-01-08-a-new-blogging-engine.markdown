@@ -6,6 +6,7 @@ categories:
 - blog
 - ruby
 - technical
+- blog history
 ---
 ![Code screenshot](https://content.rusiczki.net/2018/01/code-screenshot.jpg "Code screenshot")
 

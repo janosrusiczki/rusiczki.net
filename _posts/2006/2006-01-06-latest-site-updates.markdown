@@ -4,6 +4,7 @@ title: Latest site updates
 date: 2006-01-06 10:54:23.000000000 +01:00
 categories:
 - technical
+- blog history
 ---
 Approximately at the time I did those Flickr compatibility tweaks I decided to mess up my so called "permanent links" after almost 2 years of, well, permanency. I was annoyed by the fact that my URLs ended in .php - actually they were useful this way before Movable Type implemented it's dynamic page generation because I could place PHP scripts in the templates which would be executed when the page was loaded by a visitor. But as soon as Six Apart added the feature I opted for dynamic pages because otherwise each and every of the archive pages took up it's own space on my host, and I never actually put any PHP content in them.
 

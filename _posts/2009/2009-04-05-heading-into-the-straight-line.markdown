@@ -4,6 +4,7 @@ title: Heading into the straight line
 date: 2009-04-05 11:59:11.000000000 +02:00
 categories:
 - technical
+- blog history
 ---
 ... with the WordPress installation.
 

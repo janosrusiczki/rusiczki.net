@@ -5,6 +5,7 @@ date: 2008-05-10 09:41:01.000000000 +02:00
 categories:
 - web
 - technical
+- blog history
 ---
 Just got this by e-mail:
 
@@ -19,4 +20,4 @@ Just got this by e-mail:
 > Sincerely,
 > The UnHappy DreamHost Goodbye Team
 
-I'm over at <a href="http://www.theplanet.com">The Planet</a> on my shiny dedicated server. Which costs more per month than <a href="http://www.dreamhost.com">DreamHost</a> cost per year, but the quality...
+I'm over at [The Planet](http://www.theplanet.com) on my shiny dedicated server. Which costs more per month than [DreamHost](http://www.dreamhost.com) cost per year, but the quality...

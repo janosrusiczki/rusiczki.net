@@ -4,7 +4,7 @@ title: 20 în 20
 date: 2022-12-20 21:00:00.000000000 +02:00
 categories:
 - blog history
-description: Articol aniversar cu ocazia împlinirii a 20 de ani de la prima însemnare pe acest weblog.
+description: Articol aniversar cu ocazia împlinirii a 20 de ani de la prima însemnare pe acest blog.
 image: https://content.rusiczki.net/2022/12/weblog-screenshot-2003-10-27.png
 ---
 În data de 20 decembrie 2022 s-au împlinit 20 de ani de la prima însemnare pe acest blog.
@@ -31,7 +31,7 @@ Am încercat să mă gândesc ce va fi când nu vor mai fi părinții mei dar a 
 
 ![Captură de ecran a blogului meu așa cum arată pe 10 aprilie 2009](https://content.rusiczki.net/2022/12/weblog-screenshot-2009-04-10.png)
 
-(Captură de ecran din 10 aprilie 2009, prima captură disponibilă pe archive.org după trecerea pe Wordpress.)
+(Captură de ecran din 10 aprilie 2009, prima captură disponibilă pe archive.org după trecerea pe Wordpress. De fapt toate screenshot-urile de mai sus au fost primele după câte o piatră de hotar, sau mai pe româneste milestone, din viața blogului.)
 
 Am zis în treacăt când am trecut pe română pe aici acum 12 ani, dar voi spune acum mai în detaliu că am avut cel puțin alte două bloguri separate în română: unul despre zona web românească și altul despre turismul din Maramureș. Motivul ca să fac alte bloguri a fost probabil legat de faptul că a fost perioada exploziei blogurilor în România și totodată rețelele sociale nu erau încă omniprezente cum sunt în ziua de azi. Și de ce nu am scris aici acele articole? Un motiv a fost că nu trecusem încă pe română pe aici și cel puțin cel despre turism voiam să rămână cvasi anonim, nu prea doream să fie asociat numele meu cu ceea ce scriam, să nu primesc interdicție pe pârtii sau cine știe ce amenințări.
 

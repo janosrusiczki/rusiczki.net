@@ -2,11 +2,11 @@
 published: true
 title: 20 în 20
 categories:
-  - blog history
+- blog history
 ---
 În data de 20 decembrie 2022 s-au împlinit 20 de ani de la prima însemnare pe acest blog.
 
-![Screenshot of my first weblog as it looked on February 7th, 2003](https://content.rusiczki.net/2022/12/my-weblog-screenshot-2003-02-07.png)
+![Screenshot al blogului meu așa cum arată pe 7 februarie 2003](https://content.rusiczki.net/2022/12/my-weblog-screenshot-2003-02-07.png)
 
 Am (re-)început atunci într-un subdirector al site-ului resurseweb.net, care a fost un proiect de-al meu dedicat făcutului de bine pentru web-ul românesc aflat într-o stare emergentă pe atunci. Pe lângă știri, articole și tutoriale acesta a fost site-ul unde am publicat traducerea românească a [phpBB](https://www.phpbb.com/), făcută pe jumate de mine și pe jumate de domnul [Zoso](https://zoso.ro/), pe care îl cunoscusem ori de pe Forumul Computergames (RIP) ori de pe un forum de web development românesc de al cărui nume trebuie să-mi amintesc. După puțin săpat: subdirectorul era /mt/ (Movable Type), l-am găsit cu ajutorul [web.archive.org](https://web.archive.org) (spre care am și donat bani de câteva ori căci m-a ajutat enorm în demersurile mele de arheolog digital) iar forumul de web development era learn.reflex.ro - pentru asta l-am întrebat pe proprietar: [Andrei Radu Dobre](https://andreiard.ro/).
 
@@ -14,9 +14,11 @@ După ce crăpase prima firmă, lucrasem de acasă în tot anul acela, era în p
 
 De fapt eu speram că va fi o utopie, mă gândeam stând în camera mea din Baia Sprie cât de fain va fi când va avea mai multă lume Internet, cât de informată va fi lumea, chiar voiam să fac un forum pentru Baia Sprie unde să poată lumea să discute și să interacționeze, dar m-am abținut că am văzut în anul când am lucrat la webwebstudio că abia se discuta la nivel de Baia Mare. Oricum, am dat-o la greu în bară cu previziunile mele, căci iată că la distanță de 20 de ani de la aceste idei naive avem rețele sociale care propovăduiesc prostia cu antivaxxeri, flat earth-eri și influenceri cu 2 neuroni. Oamenii au rămas oameni și mediul a fost deturnat.
 
-Ce nu mi-am imaginat a fost că voi avea un calculator super puternic în buzunar de pe care voi putea accesa Internetul de aproximativ oriunde. Cu toate că atunci când mi-am cumparat primul Palm, am avut așa [o idee sălbatică](https://www.rusiczki.net/2003/04/03/a-wish/) despre cum ar fi de aș avea un server web cu PHP pe el. Nici că voi putea viziona filme și să ascult orice muzică legal nu prea mi-am imaginat...
+Ce nu mi-am imaginat a fost că voi avea un calculator super puternic în buzunar de pe care voi putea accesa Internetul de aproximativ oriunde. Cu toate că atunci când mi-am cumparat primul Palm, am avut așa [o idee sălbatică](https://www.rusiczki.net/2003/04/03/a-wish/) despre cum ar fi de aș avea un server web cu PHP pe el. Nici că voi putea viziona filme și să ascult orice muzică legal nu prea mi-am închipuit...
 
 Am încercat să mă gândesc ce va fi când nu vor mai fi părinții mei dar a fost de neimaginat și am hâșăit rapid gândul. Din păcate în doar câțiva ani scurți situația urma să se schimbe în rău și apoi în mai rău...
+
+
 
 În retrospectiva pe care am scris-o în 2013, odată ce domeniul împlinise 10 ani (wow, la anul va împlini 20!) am menționat că am tot schimbat hosting-uri și servere, dar cumva aia a fost perioada când shared hosting și serverele bare metal erau tot ce era disponibil. Ca să clarific: shared hosting înseamna că ți se alocă un director pe un server alături de alte zeci de site-uri și clienți iar bare metal înseamnă că-ți închiriezi un întreg calculator într-un datacenter. După apariția și adoptarea pe cloud-ului pe scară larga blogul a rămas multă vreme tot pe bare metal-ul de la Hetzner, pana am trecut pe un alt server fizic de la un provider franțuzesc numit online.net. online.net au fost apoi cumpărați de Scaleway și abia foarte recent, de un an jumate, am mutat site-ul pe o instanță de cloud de la Scaleway. Ca să clarific din nou, când spunem cloud, vorbim în general despre mașini virtuale - ție ți se pare că ai un întreg server de-al tău dar e de fapt o mașină virtuală hostată pe un calculator puternic alături de alte mașini virtuale. De fapt nu mai pretind că aș înțelege ce e în spatele infrastructurilor IT ale zilelor noastre.
 

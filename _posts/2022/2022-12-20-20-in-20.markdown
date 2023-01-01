@@ -13,7 +13,7 @@ Am (re-)început atunci într-un subdirector al site-ului resurseweb.net, care a
 
 ![Captură de ecran a blogului meu așa cum arată pe 7 februarie 2003](https://content.rusiczki.net/2022/12/weblog-screenshot-2003-02-07.png)
 
-(Captură de ecran așa cum cred că-mi arată blogul pe 7 februarie 2003. Zic *cred* pentru că archive.org nu a salvat fișierul CSS așa că a trebuit să caut un kit de instalare de Movable Type 2.51 și să inserez fișierul de stil default. Dacă făcusem pe atunci ceva modificări la stil... Duse sunt în negura digitală.)
+(Cred că blogul arăta ceva de genul acesta pe 7 februarie 2003. Zic *cred* pentru că archive.org nu a salvat fișierul CSS așa că a trebuit să caut un kit de instalare de Movable Type 2.51 și să inserez fișierul de stil implicit din pachet. Dacă făcusem pe atunci ceva modificări la el... Duse sunt în negura digitală.)
 
 După ce crăpase prima firmă, lucrasem de acasă în tot anul acela, era în prag de Crăciun, aveam Internet prin dial-up stabil de la RDS, aparat foto digital și multe-multe lucruri despre care să scriu, așa că am scris. Nu-mi imaginam că peste 20 de ani încă voi mai scrie pe același blog. De fapt nu aveam nici cea mai vagă idee despre ce voi face sau unde voi fi în 20 ani și nici nu-mi amintesc să mă fi gândit deseori la asta.
 
@@ -25,13 +25,13 @@ Am încercat să mă gândesc ce va fi când nu vor mai fi părinții mei dar a 
 
 ![Captură de ecran a blogului meu așa cum arată pe 27 octombrie 2003](https://content.rusiczki.net/2022/12/weblog-screenshot-2003-10-27.png)
 
-(Captură de ecran cu blogul din 27 octombrie 2003, după trecerea pe propriul domeniu și personalizarea stilului. A fost atât de fain acest layout, în continuare îmi face mare plăcere să mă uit la el.)
+(Screenshot din 27 octombrie 2003, după trecerea pe propriul domeniu și personalizarea stilului. A fost atât de fain acest layout, în continuare îmi face mare plăcere să mă uit la el.)
 
 În [retrospectiva](https://www.rusiczki.net/2013/09/11/zece-ani-de-rusiczki-net/) pe care am scris-o în 2013, când domeniul împlinise 10 ani (wow, la anul va împlini 20!) am menționat că am tot schimbat hosting-uri și servere, dar cumva aia a fost perioada când shared hosting și serverele bare metal erau tot ce era disponibil. Ca să clarific: shared hosting înseamna că ți se alocă un director pe un server alături de alte zeci de site-uri și clienți iar bare metal înseamnă că-ți închiriezi un întreg calculator într-un datacenter. După apariția și adoptarea pe cloud-ului pe scară larga blogul a rămas multă vreme tot pe bare metal-ul de la Hetzner, pana am trecut pe un alt server fizic de la un provider franțuzesc numit online.net. online.net au fost apoi cumpărați de Scaleway și abia foarte recent, de un an jumate, am mutat site-ul pe o instanță de cloud de la Scaleway. Ca să clarific din nou, când spunem cloud, vorbim în general despre mașini virtuale - ție ți se pare că ai un întreg server de-al tău dar e de fapt o mașină virtuală hostată pe un calculator puternic alături de alte mașini virtuale. De fapt nu mai pretind că aș înțelege ce e în spatele infrastructurilor IT ale zilelor noastre.
 
 ![Captură de ecran a blogului meu așa cum arată pe 10 aprilie 2009](https://content.rusiczki.net/2022/12/weblog-screenshot-2009-04-10.png)
 
-(Captură de ecran din 10 aprilie 2009, prima captură disponibilă pe archive.org după trecerea pe Wordpress. De fapt toate screenshot-urile de mai sus au fost primele după câte o piatră de hotar, sau mai pe româneste milestone, din viața blogului.)
+(Captură de ecran din 10 aprilie 2009, prima captură disponibilă pe archive.org după [trecerea pe Wordpress](https://www.rusiczki.net/2009/04/02/keeping-up-with-the-times/). De fapt toate screenshot-urile de mai sus au fost primele disponibile pe archive.org după câte o piatră de hotar, sau mai pe româneste milestone, din viața blogului.)
 
 Am zis în treacăt când am trecut pe română pe aici acum 12 ani, dar voi spune acum mai în detaliu că am avut cel puțin alte două bloguri separate în română: unul despre zona web românească și altul despre turismul din Maramureș. Motivul ca să fac alte bloguri a fost probabil legat de faptul că a fost perioada exploziei blogurilor în România și totodată rețelele sociale nu erau încă omniprezente cum sunt în ziua de azi. Și de ce nu am scris aici acele articole? Un motiv a fost că nu trecusem încă pe română pe aici și cel puțin cel despre turism voiam să rămână cvasi anonim, nu prea doream să fie asociat numele meu cu ceea ce scriam, să nu primesc interdicție pe pârtii sau cine știe ce amenințări.
 

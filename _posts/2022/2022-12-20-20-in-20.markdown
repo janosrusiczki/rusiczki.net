@@ -1,8 +1,10 @@
 ---
-published: true
+layout: post
 title: 20 în 20
+date: 2022-12-20 21:00:00.000000000 +02:00
 categories:
 - blog history
+description: Articol comemorativ cu ocazia că în data de 20 decembrie 2022 s-au împlinit 20 de ani de la prima însemnare pe acest weblog.
 ---
 În data de 20 decembrie 2022 s-au împlinit 20 de ani de la prima însemnare pe acest blog.
 

@@ -5,6 +5,7 @@ date: 2021-07-08 10:09:00.000000000 +02:00
 categories:
 - cronică
 - tehnic
+- cronici calculatoricești
 image: https://content.rusiczki.net/2021/07/electronica-cip-1000x667.jpg
 description: Despre începuturile mele în d'ale calculatoarelor.
 ---

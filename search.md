@@ -33,11 +33,11 @@ title: Search
           return html`
             <div class="post">
               <h1 class="post-title">
-                <a href="${url}">
+                <a href="${hit.url}">
                   ${components.Highlight({ hit, attribute: 'title' })}
                 </a>
               </h1>
-              <span class="post-date">${date}</span>
+              <span class="post-date">${hit.date}</span>
               ${components.Snippet({ hit, attribute: 'content' })}
             </div>
             <h2>${components.Highlight({ hit, attribute: 'name' })}</h2>

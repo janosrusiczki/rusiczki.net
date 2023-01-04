@@ -4,7 +4,7 @@ title: Search
 ---
 <div id="search-searchbar"></div>
 
-<div id="search-hits">No results yet, type something above...</div>
+<div id="search-hits"></div>
 
 <!-- Including InstantSearch.js library and styling -->
 <script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.14.2/dist/algoliasearch-lite.umd.js" integrity="sha256-dImjLPUsG/6p3+i7gVKBiDM8EemJAhQ0VvkRK2pVsQY=" crossorigin="anonymous"></script>

@@ -26,6 +26,7 @@ title: Search
   search.addWidgets([
     instantsearch.widgets.searchBox({
       container: '#search-searchbar',
+      showSubmit: false,
     }),
     instantsearch.widgets.hits({
       container: '#search-hits',

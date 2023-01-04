@@ -7,66 +7,25 @@ title: Search
 <div id="search-hits">No results yet, type something above...</div>
 
 <!-- Including InstantSearch.js library and styling -->
-<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.min.js"></script>
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.css">
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch-theme-algolia.min.css">
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.14.2/dist/algoliasearch-lite.umd.js" integrity="sha256-dImjLPUsG/6p3+i7gVKBiDM8EemJAhQ0VvkRK2pVsQY=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.49.1/dist/instantsearch.production.min.js" integrity="sha256-3s8yn/IU/hV+UjoqczP+9xDS1VXIpMf3QYRUi9XoG0Y=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.4.5/themes/satellite-min.css" integrity="sha256-TehzF/2QvNKhGQrrNpoOb2Ck4iGZ1J/DI4pkd2oUsBc=" crossorigin="anonymous">
 
 <script>
-// Instanciating InstantSearch.js with Algolia credentials
-const search = instantsearch({
-  appId: '{{ site.algolia.application_id }}',
-  indexName: '{{ site.algolia.index_name }}',
-  apiKey: '{{ site.algolia.search_only_api_key }}',
-  urlSync: true,
-  searchFunction: function(helper) {
-    if(helper.state.query != '') {
-      helper.search();
-    }
-  }
-});
-
-const hitTemplate = function(hit) {
-  let date = '';
-  if (hit.date) {
-    date = moment.unix(hit.date).format('MMM D, YYYY');
-  }
-  const url = hit.url;
-  const title = hit._highlightResult.title.value;
-  const content = hit._highlightResult.html.value;
-  return `
-    <div class="post">
-      <h1 class="post-title">
-        <a href="${url}">
-          ${title}
-        </a>
-      </h1>
-      <span class="post-date">${date}</span>
-      ${content}
-    </div>
-  `;
-}
-
-// Adding searchbar and results widgets
-search.addWidget(
-  instantsearch.widgets.searchBox({
-    container: '#search-searchbar',
-    placeholder: 'Search this site...',
-    poweredBy: true,
-    autofocus: true,
-  })
-);
-search.addWidget(
-  instantsearch.widgets.hits({
-    container: '#search-hits',
-    templates: {
-      item: hitTemplate
-    }
-  })
-);
-
-// Starting the search
-search.start();
+  const searchClient = algoliasearch('{{ site.algolia.application_id }}', '{{ site.algolia.search_only_api_key }}');
+  const search = instantsearch({
+    indexName: '{{ site.algolia.index_name }}',
+    searchClient,
+  });
+  search.addWidgets([
+    instantsearch.widgets.searchBox({
+      container: '#search-searchbar',
+    }),
+    instantsearch.widgets.hits({
+      container: '#search-hits',
+    })
+  ]);
+  search.start();
 </script>
 
 <style>

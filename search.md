@@ -29,7 +29,7 @@ title: Search
     instantsearch.widgets.hits({
       container: '#search-hits',
       templates: {
-        item(hit, { html, components, sendEvent }) {
+        item(hit, { html, components }) {
           return html`
             <div class="post">
               <h1 class="post-title">

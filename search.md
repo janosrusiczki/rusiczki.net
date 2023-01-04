@@ -37,6 +37,14 @@ title: Search
       container: '#search-hits',
       templates: {
         item(hit, { html, components }) {
+          const date = new Date(hit.date * 1000)
+          const localeStringOptions = {
+            weekday: 'long',
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric'
+           }
+          const formattedDate = date.toLocaleString('en-US', localeStringOptions)
           return html`
             <div class="post">
               <h1 class="post-title">
@@ -44,7 +52,7 @@ title: Search
                   ${components.Highlight({ hit, attribute: 'title' })}
                 </a>
               </h1>
-              <span class="post-date">${hit.date}</span>
+              <span class="post-date">${formattedDate}</span>
               ${components.Snippet({ hit, attribute: 'content' })}
             </div>
           `;

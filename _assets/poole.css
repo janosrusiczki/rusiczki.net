@@ -59,8 +59,8 @@ html {
 }
 
 body {
-  color: #515151;
-  background-color: #fff;
+  color: #eee;
+  background-color: #333;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -342,7 +342,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #ddd;
 }
 .page-title,
 .post-title {

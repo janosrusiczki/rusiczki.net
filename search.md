@@ -42,7 +42,6 @@ title: Search
               <span class="post-date">${hit.date}</span>
               ${components.Snippet({ hit, attribute: 'content' })}
             </div>
-            <h2>${components.Highlight({ hit, attribute: 'name' })}</h2>
           `;
         },
       },

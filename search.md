@@ -20,6 +20,7 @@ title: Search
   const search = instantsearch({
     indexName: '{{ site.algolia.index_name }}',
     searchClient,
+    routing: true
   });
   
   search.addWidgets([

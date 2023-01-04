@@ -20,6 +20,11 @@ title: Search
   const search = instantsearch({
     indexName: '{{ site.algolia.index_name }}',
     searchClient,
+    searchFunction: function(helper) {
+      if(helper.state.query != '') {
+        helper.search();
+      }
+    },
     routing: true
   });
   

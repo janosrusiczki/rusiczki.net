@@ -29,17 +29,20 @@ title: Search
     instantsearch.widgets.hits({
       container: '#search-hits',
       templates: {
-        item: `
-          <div class="post">
-            <h1 class="post-title">
-              <a href="${url}">
-                ${title}
-              </a>
-            </h1>
-            <span class="post-date">${date}</span>
-            ${content}
-          </div>
-        `,
+        item(hit, { html, components, sendEvent }) {
+          return html`
+            <div class="post">
+              <h1 class="post-title">
+                <a href="${url}">
+                  ${components.Highlight({ hit, attribute: 'title' })}
+                </a>
+              </h1>
+              <span class="post-date">${date}</span>
+              ${components.Snippet({ hit, attribute: 'content' })}
+            </div>
+            <h2>${components.Highlight({ hit, attribute: 'name' })}</h2>
+          `;
+        },
       },
     })
   ]);

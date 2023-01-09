@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Freakin' cats
-date: 2004-01-14 11:51:01 +0100
+date: 2004-01-14 11:51:01.000000000 +01:00
 categories:
-- Life
+- life
 ---
 I don't know how many times a year cats have their crazy times. But to me it always looks like they never even finished the last one and are starting the next one. Now for example they surely are in season. And since I have three cats I'm burning incense sticks in my room again. And why's that? Because of the smell of cat piss that comes down from the attic.
 

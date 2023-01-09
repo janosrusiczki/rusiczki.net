@@ -1,10 +1,10 @@
 ---
 layout: post
 title: MacHeist 3
-date: 2009-04-07 08:36:10 +0200
+date: 2009-04-07 08:36:10.000000000 +02:00
 categories:
-- Technical
-- Mac
+- technical
+- mac
 ---
 Do you have a Mac? Do you want to support Mac shareware? Need a great todo list management app, a web editor from the guys who wrote CSSEdit, two image editors, a couple of games and much - much more for just $39 from which 25% will go to the charity of your choice? Then check out the <a href="http://www.macheist.com">MacHeist 3 Bundle</a> now!
 

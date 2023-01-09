@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Getting friskier
-date: 2008-04-15 16:16:26 +0200
+date: 2008-04-15 16:16:26.000000000 +02:00
 categories:
-- Web
-- Life
-- Music
+- web
+- life
+- music
 ---
 <a href="http://www.friskyradio.com/store/item4/">friskySubscription</a>++;
 

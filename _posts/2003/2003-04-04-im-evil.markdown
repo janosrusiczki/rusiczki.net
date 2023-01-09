@@ -1,8 +1,8 @@
 ---
 layout: post
 title: I'm evil!
-date: 2003-04-04 02:18:53 +0200
+date: 2003-04-04 02:18:53.000000000 +02:00
 categories:
-- General
+- general
 ---
 I love blowing the cover of <a href="http://www.spinform.ro/ofld/" title="Our Friendly Linkdump">secret sites</a>. [ <b>UPDATE</b> This was moved <a href="http://drumandbass.ro">here</a> and it got password protected after some spam appeared. Heh. ]

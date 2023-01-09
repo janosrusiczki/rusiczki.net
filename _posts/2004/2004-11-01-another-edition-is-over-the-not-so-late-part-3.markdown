@@ -1,24 +1,11 @@
 ---
 layout: post
 title: Another edition is over - The not so late part 3
-excerpt: ! 'After <a href="http://www.rusiczki.net/2004/10/19/another-edition-is-over-part-1/">feeling
-  bad</a> because of the lack of sleep and proper accomodation and good because of
-  the <a href="http://www.rusiczki.net/2004/10/28/another-edition-is-over-the-late-part-2/">first
-  day of party</a> it was time for... the second day of party. Which was also the
-  last day of TMBase for this year. This night I was finally together with my girlfriend,
-  Ioana, who couldn''t make it for the first day because of here job and whom I picked
-  up from the train station on Saturday morning. It looks like it''s time for the
-  grand finale of my biggest ever write-up for this blog.
-
-
-'
-date: 2004-11-01 17:29:11 +0100
+date: 2004-11-01 17:29:11.000000000 +01:00
 categories:
-- Life
+- life
 ---
 After <a href="http://www.rusiczki.net/2004/10/19/another-edition-is-over-part-1/">feeling bad</a> because of the lack of sleep and proper accomodation and good because of the <a href="http://www.rusiczki.net/2004/10/28/another-edition-is-over-the-late-part-2/">first day of party</a> it was time for... the second day of party. Which was also the last day of TMBase for this year. This night I was finally together with my girlfriend, Ioana, who couldn't make it for the first day because of her job and whom I picked up from the train station on Saturday morning. It looks like it's time for the grand finale of my biggest ever write-up for this blog.
-
-<a id="more"></a><a id="more-333"></a>
 
 <a href="https://content.rusiczki.net/blogpics/tm04base_my_badge.php" onclick="window.open('https://content.rusiczki.net/blogpics/tm04base_my_badge.php','popup','width=361,height=640,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="https://content.rusiczki.net/blogpics/tm04base_my_badge-thumb.jpg" width="67" height="120" border="0" alt="My badge" class="postimage" /></a> So we were out for Saturday night! A little earlier again because I had to set up the MiniDisc again, which I did. It was better because at least I could hang out with somebody that's close to me but unfortuntaly I realized later that I didn't have all the time I wanted to dance and just hang around with Ioana because I had to supervise that damn recorder and I had to take pics too. And this drew me away for quite some time, mostly because of the MD recorder because I needed to stay close to it and watch when the artists switched and quickly switch the disc accordingly. Baaah! So, although we were with Ioana's friend at who's we sleeped at, my girlfriend was left alone for some serious periods of time and this was quite a mood killer for her. :-(
 

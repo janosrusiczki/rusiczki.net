@@ -1,9 +1,10 @@
 ---
 layout: post
 title: My town's days
-date: 2003-08-16 16:31:22 +0200
+date: 2003-08-16 16:31:22.000000000 +02:00
 categories:
-- General
+- general
+- blog history
 ---
 Yes. It's that time of the year. When all gather to celebrate Baia Sprie's days. My opinion? It's a huge gathering of idiots and mostly gypsies. I guess tonight will be cute anyway I because there'll be fireworks and I always liked them. But as it looks now I think I won't attend. I will go out and snap some pics later this afternoon though.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: We had a visitor today
-date: 2004-04-14 22:23:01 +0200
+date: 2004-04-14 22:23:01.000000000 +02:00
 categories:
-- Life
+- life
 ---
 <img alt="Squirrel" src="https://content.rusiczki.net/blogpics/squirrel.jpg" width="490" height="205" border="0" class="image" />
 

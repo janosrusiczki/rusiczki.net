@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Romanian export music
-date: 2004-04-24 17:33:26 +0200
+date: 2004-04-24 17:33:26.000000000 +02:00
 categories:
-- Music
+- music
 ---
 It's not really Romanian but... My French partner mentioned that he saw a Romanian music CD in heavy promotion at one of the music shops he visited in his hometown. And it comes as no surprise to me either as I listen <a href="http://www.nrj.fr">NRJ</a> quite a lot when I'm working as I am lazy to build new playlists in Winamp each hour or so. And I heard the O-Zone tune being advertised and they even mentioned that it's the original version with the Romanian lyrics.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Salutări de la Borșa!
-date: 2013-12-14 16:46:56 +0100
+date: 2013-12-14 16:46:56.000000000 +01:00
 categories:
-- General
+- general
 ---
 <a style="line-height: 1.5em;" href="https://content.rusiczki.net/2013/12/20131214_111027.jpg"><img class="alignnone size-medium wp-image-4658" alt="Vedere de pe pârtia Borșa" src="https://content.rusiczki.net/2013/12/20131214_111027-693x389.jpg" width="693" height="389" /></a>
 

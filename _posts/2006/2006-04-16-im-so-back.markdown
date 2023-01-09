@@ -1,9 +1,9 @@
 ---
 layout: post
 title: I'm so back!
-date: 2006-04-16 21:44:27 +0200
+date: 2006-04-16 21:44:27.000000000 +02:00
 categories:
-- General
+- general
 ---
 Thought you got rid of me? You were so wrong! :-)
 

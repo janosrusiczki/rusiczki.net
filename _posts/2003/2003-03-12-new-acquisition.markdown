@@ -1,9 +1,9 @@
 ---
 layout: post
 title: New acquisition
-date: 2003-03-12 22:19:08 +0100
+date: 2003-03-12 22:19:08.000000000 +01:00
 categories:
-- Life
+- life
 ---
 I bought a microwave oven yesterday.
 

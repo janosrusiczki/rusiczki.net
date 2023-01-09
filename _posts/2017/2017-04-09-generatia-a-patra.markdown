@@ -2,8 +2,8 @@
 layout: post
 title: Generația a patra
 categories:
-- Android
-- Română
+- android
+- română
 ---
 [![Samsung Galaxy S, Samsung Galaxy S3, Google Nexus 5, Huawei P10](https://content.rusiczki.net/2017/04/samsung-galaxy-s-samsung-galaxy-s3-nexus-5-huawei-p10-980x350.jpg)](https://content.rusiczki.net/2017/04/samsung-galaxy-s-samsung-galaxy-s3-nexus-5-huawei-p10.jpg)
 

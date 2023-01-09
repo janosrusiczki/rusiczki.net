@@ -5,7 +5,7 @@ highlighter: rouge
 # Setup
 title: János Rusiczki
 tagline: Your average weblog
-description: Ruby & Web Developer. Photographer. Drone Pilot. Snowboarder. Etc.
+description: Ruby & Web Developer. Father. Incurable nostalgic.
 url: https://www.rusiczki.net
 baseurl: /
 permalink: /:year/:month/:day/:title/
@@ -15,7 +15,7 @@ author:
   name: János Rusiczki
   url: https://twitter.com/janosrusiczki
 
-paginate: 5
+paginate: 10
 paginate_path: '/page/:num'
 
 # Custom vars
@@ -44,7 +44,7 @@ algolia:
   nodes_to_index: 'p,li,blockquote'
 
 github:
-  repository_url: https://github.com/janosrusiczki/janosrusiczki
+  repository_url: https://github.com/janosrusiczki/rusiczki.net
   branch: master
 
 defaults:
@@ -70,3 +70,6 @@ jekyll-archives:
     month: '/:year/:month/'
     day: '/:year/:month/:day/'
     category: '/category/:name/'
+
+jekyll_tidy:
+  exclude: ["feed.xml"] 

@@ -11,9 +11,17 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date: "%A, %-d %B %Y" }}</span>
+    <span class="post-date">{{ post.date | date: "%A, %B %-d, %Y" }}</span>
+    
+    {% if post.image %}
+      <img src="{{ post.image }}" alt="Imagine ilustrativă pentru articolul: {{ post.title }}"/>
+    {% endif %}
 
-    {{ post.content }}
+    <p>{{ post.description }}</p>
+
+    {% if post.description %}
+      <p><a href="{{ post.url }}">Read</a></p>
+    {% endif %}
   </div>
   {% endfor %}
 </div>

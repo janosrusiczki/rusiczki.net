@@ -1,9 +1,9 @@
 ---
 layout: post
 title: My music. My MP3s. My iPod
-date: 2004-02-29 19:38:49 +0100
+date: 2004-02-29 19:38:49.000000000 +01:00
 categories:
-- Technical
+- technical
 ---
 I observed lately that I actually like it when I miss the bus. Or some other event happens that keeps me longer out in the town on my own. As long as I have my iPod with me. Charged. I feel like 11th grade all over again because that was when I bought my first but feature packed GoldStar (LG) walkman and almost everyone knew me as  "that guy with the earbuds".
 

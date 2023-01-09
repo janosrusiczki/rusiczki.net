@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 20 or so days ago...
-date: 2009-04-10 15:17:42 +0200
+date: 2009-04-10 15:17:42.000000000 +02:00
 categories:
-- Web
-- Photos
+- web
+- photos
 ---
 <img class="alignnone size-full wp-image-734" title="Webcam image of the Suior slope on March the 20th, 2009" src="https://content.rusiczki.net/2009/04/webcam-suior-2009-03-20.jpg" alt="Webcam image of the Suiors slope on March the 20th, 2009" width="500" height="385" />
 

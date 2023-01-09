@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Gmail, so close yet so far!
-date: 2004-06-19 13:50:37 +0200
+date: 2004-06-19 13:50:37.000000000 +02:00
 categories:
-- Web
+- web
 ---
 I had some luck and saw someone giving away free <a href="http://www.gmail.com">Gmail</a> invites on a forum. And I actually requested one and the guy said he sent it. But stupid me, I gave a very unstable email account for the contact address because it's a rather public forum (a newsgroup in fact) and that account is full of spam anyway. But now, just to raise my adrenaline level I can't login to that account.
 

@@ -1,11 +1,12 @@
 Janos Rusiczki
 ==============
-[![Build Status](https://img.shields.io/travis/janosrusiczki/janosrusiczki/master.svg?style=for-the-badge)](https://travis-ci.org/janosrusiczki/janosrusiczki)
+[![Jekyll Build, Test and Deploy](https://github.com/janosrusiczki/rusiczki.net/actions/workflows/jekyll-build-test-and-deploy.yml/badge.svg)](https://github.com/janosrusiczki/rusiczki.net/actions/workflows/jekyll-build-test-and-deploy.yml) [![Index with Algolia](https://github.com/janosrusiczki/rusiczki.net/actions/workflows/algolia-index.yml/badge.svg)](https://github.com/janosrusiczki/rusiczki.net/actions/workflows/algolia-index.yml)
 
 This is my blog converted from Wordpress to Jekyll.
 
 * It went live on January 8, 2018;
-* It is built and deployed automatically by Travis whenever this repository's master branch changes (since January 15, 2018).
+* It was built and deployed automatically by Travis whenever the repository's master branch changed (from January 15, 2018 to October 20, 2022 - according to their logs 348 builds);
+* It is now built and deployed automatically by GitHub Actions with the same conditions as above (starting with October 18, 2022).
 
 ## Cheat codes
 
@@ -27,4 +28,4 @@ Nope, IDDQD will not work, try:
   `<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/DELZ1EbqZfw?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>`
 * Update Algolia Index:
 
-  `ALGOLIA_API_KEY='SECRET' jekyll algolia --verbose`
+  `ALGOLIA_API_KEY='SECRET' bundle exec jekyll algolia --verbose`

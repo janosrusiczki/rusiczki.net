@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Rhythm & Blues
-date: 2003-03-28 01:31:55 +0100
+date: 2003-03-28 01:31:55.000000000 +01:00
 categories:
-- General
+- general
 ---
 <blockquote><i>Mary's got the same size hands
 

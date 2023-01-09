@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Imagini aeriene de final de an
-date: 2018-01-13 12:57:00 +0200
+date: 2018-01-13 12:57:00.000000000 +02:00
 categories:
-- RC
-- Photos
-- Drone
-- Română
+- rc
+- photos
+- drone
+- română
 ---
 [![Lacul Albastru văzut din dronă](https://content.rusiczki.net/2018/01/drona-lacul-albastru-1000x750.jpg)](https://content.rusiczki.net/2018/01/drona-lacul-albastru.jpg){:.glightbox}
 

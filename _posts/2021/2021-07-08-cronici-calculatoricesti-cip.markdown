@@ -1,14 +1,17 @@
 ---
 layout: post
 title: Cronici Calculatoricești - CIP
-date: 2021-07-08 10:09:00 +0200
+date: 2021-07-08 10:09:00.000000000 +02:00
 categories:
-- Cronică
-- Tehnic
+- cronică
+- tehnic
+- cronici calculatoricești
 image: https://content.rusiczki.net/2021/07/electronica-cip-1000x667.jpg
 description: Despre începuturile mele în d'ale calculatoarelor.
 ---
 Acum câțiva ani (vreo 5 sau 6 🥺) m-am apucat să scriu un articol despre interacțiunea mea cu calculatoarele și am tot modificat și adăugat la el până m-am gândit că ar fi frumos să-l public în toamna lui 2018 la aniversarea a 20 ani de când am PC. Apoi am depășit termenul și au trecut 2019 și 2020 cu multe probleme personale... Dar sunt hotărât să încep să public seria (adică acest articol) în prima jumate al lui 2021! --- Uite că aproape am reușit, am publicat articolul la început de iulie.
+
+<!--more-->
 
 Tot recitind articolul în cadrul sesiunilor de redactare mi-am dat seama că lecturam unele chestii care cu toate că îmi erau destul de clare în minte când le-am scris, le-am uitat după aia - acuma nu știu dacă din cauza liniștii sufletești că le am scrise și-s la loc sigur sau pur și simplu deoarece sunt la vârsta la care uit masiv. Cred că este vorba de varianta B. În orice caz mă bucur că le-am scris și încerc să mai scriu lucruri înainte să le uit și să știți că pentru unele chestii pe care urmează să le citiți mi-am răscolit binișor mintea și după caz am întrebat amici și cunoștințe... Care mi-au zis în mare parte că-s nebun. 🙂
 
@@ -84,3 +87,5 @@ Dacă vine vorba de programare îmi plăcea foarte mult să încarc căteodată 
 Cât am mai așteptat eu să pun mână pe [Hisoft Basic](https://spectrumcomputing.co.uk/entry/8249/ZX-Spectrum/HiSoft_BASIC) că citisem sau auzisem că ăla are _COMPILATOR_, pe vremea aia eram disperat după compilatoare că nu am fost în stare să învăț să programez în cod mașină în care erau făcute toate jocurile și programele de pe ZX Spectrum. Apropo, îmi amintesc de Tutor găsit pe o casetă, era un program românesc care te învăța cod mașina. De fapt în timp ce redactam acest articol m-am pus și am căutat Tutor, și am dat peste grupul Romanian Home Computer de pe Yahoo Groups (ulterior Google Groups), unde printre altele am găsit [acest progrămel](https://sites.google.com/site/georgechirtoaca/software#:~:text=Short%20documentation%20included.-,Machine%20Code%20Tutor,--%20in%20Romanian%2C%20Translated) precum și multe altele și foarte multe discuții interesante. Pe această listă de discuții am dat și peste un link către un articol din Today Software Magazine ăl cărui fondator este fratele celui la care m-a dus prima oară să-i văd calculatorul după olimpiada de matematică din clasa a V-a. Practic s-a închis cercul. 🙂
 
 Va urma...
+
+Și a urmat: [partea a doua](https://www.rusiczki.net/2022/10/06/cronici-calculatoricesti-limbo/).

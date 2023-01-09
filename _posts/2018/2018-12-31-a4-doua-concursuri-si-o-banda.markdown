@@ -1,11 +1,11 @@
 ---
 layout: post
 title: A4 - Două concursuri și o bandă
-date: 2018-12-31 11:51:00 +0200
+date: 2018-12-31 11:51:00.000000000 +02:00
 categories:
-- Cronică
-- Sport
-- Alergare
+- cronică
+- sport
+- alergare
 image: https://content.rusiczki.net/2018/12/janos-la-november-run-1000x667.jpg
 description: Despre ultimele două concursuri din an și banda mea de alergare.
 ---
@@ -29,7 +29,7 @@ Concursul a fost superb! O vreme neașteptat de caldă, zero asfalt, foarte puț
 
 O concluzie după cel de-a treilea concurs ar fi că poate ar trebui să mă înghesui la start puțin mai în față fiindcă am sprint destul de bun și la fiecare competiție de până acuma am depășit lumea la greu pe prima parte. Reversul medaliei ar fi că aș fi depășit probabil de mult mai mulți care vin din spate în forță cum am făcut-o eu... Mă voi mai gândi la ce strategie să aplic.
 
-Odată cu venirea toamnei și cu vremea mai rece mi-a cam trecut cheful de alergat în natură. Am făcut în schimb câteva drumeții de weekend extraordinar de frumoase în zona Chiuzbaia împreună cu Ioana. De asemenea văzând că nu am chef să ies pe frig mi s-a consolidat convingerea că îmi trebuie o bandă de alergat. A durat ceva până să mă hotărăsc în legătură cu marca și modelul, dar până la urmă mi-am setat un buget și am urmărit să încapă cât mai multe caracteristici utile în acest buget. Practic ca raportul preț / calitate să fie cât mai bun. Inițial voiam o Kettler dar cum nu era în stoc la magazinul unde o găsisem cel mai ieftin am întrebat de alternative și mi-a fost recomandat un model de Toorx care îmi sărea din buget așa că până la urmă, după puțină explorare și răsfoit cataloage virtuale, m-am decis pe modelul care era cu un pas mai jos decât ce mi s-a recomandat: Toorx 60S Evo. Comparativ cu ce am mai luat în calcul nu are ventilator pentru răcorire sau boxe cu MP3 player inclus dar are posibilitatea de a conecta un dongle USB pentru Bluetooth și deține binențeles o suprafață de alergare generoasă amortizată foarte bine. Magazinul de unde am luat-o este [sportist.ro](https://www.sportist.ro), care pot să vi-l recomand fără rețineri dacă vă doriți echipament de fitness. Experiența mea cu ei a fost una excelentă, au prețuri bune, dacă nu cele mai bune, și serviciul clienți răspunde rapid.
+Odată cu venirea toamnei și cu vremea mai rece mi-a cam trecut cheful de alergat în natură. Am făcut în schimb câteva drumeții de weekend extraordinar de frumoase în zona Chiuzbaia împreună cu Ioana. De asemenea văzând că nu am chef să ies pe frig mi s-a consolidat convingerea că îmi trebuie o bandă de alergat. A durat ceva până să mă hotărăsc în legătură cu marca și modelul, dar până la urmă mi-am setat un buget și am urmărit să încapă cât mai multe caracteristici utile în acest buget. Practic ca raportul preț / calitate să fie cât mai bun. Inițial voiam o Kettler dar cum nu era în stoc la magazinul unde o găsisem cel mai ieftin am întrebat de alternative și mi-a fost recomandat un model de Toorx care îmi sărea din buget așa că până la urmă, după puțină explorare și răsfoit cataloage virtuale, m-am decis pe modelul care era cu un pas mai jos decât ce mi s-a recomandat: Toorx 60S Evo. Comparativ cu ce am mai luat în calcul nu are ventilator pentru răcorire sau boxe cu MP3 player inclus dar are posibilitatea de a conecta un dongle USB pentru Bluetooth și deține binențeles o suprafață de alergare generoasă amortizată foarte bine. Magazinul de unde am luat-o este [sportist.ro](https://www.sportist.ro), pe care pot să vi-l recomand fără rețineri dacă vă doriți echipament de fitness. Experiența mea cu ei a fost una excelentă, au prețuri bune, dacă nu cele mai bune, și serviciul clienți răspunde rapid.
 
 [![Picioarele mele pe banda de alergare Toorx 60S Evo](https://content.rusiczki.net/2018/12/banda-alergare-toorx-60s-evo-1000x562.jpg)](https://content.rusiczki.net/2018/12/banda-alergare-toorx-60s-evo.jpg)
 

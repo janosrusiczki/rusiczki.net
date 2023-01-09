@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Acel sentiment plăcut...
-date: 2013-03-14 16:13:30 +0100
+date: 2013-03-14 16:13:30.000000000 +01:00
 categories:
-- Technical
-- Română
+- technical
+- română
 ---
 <a href="https://content.rusiczki.net/2013/03/20130313_210751.jpg"><img class="alignnone size-medium wp-image-4568" alt="Windows!" src="https://content.rusiczki.net/2013/03/20130313_210751-693x519.jpg" width="693" height="519" /></a>
 

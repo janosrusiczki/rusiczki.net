@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Low price madness
-date: 2004-02-16 23:42:30 +0100
+date: 2004-02-16 23:42:30.000000000 +01:00
 categories:
-- Web
+- web
 ---
 Seeing <a href="http://members.chello.at/h3llbring0r/mediamarkt/">the havoc</a> caused by several thousands of people at <a href="http://www.indymedia.org.uk/en/2004/01/283684.html">the opening of the first MediaMarkt store in Poland</a> reminded me of how things looked around here when the first Metro supermarket opened near Baia Mare in December 2001. It wasn't as bad as in Poland but I myself and almost everyone I knew was going crazy about those few price cuts and the perspective of a cheaper Christmas shopping experience back then. So I remember the stories of the jammed national roadway between Baia Mare and Satu Mare (where the Metro store is located) on the opening day, of the hours of waiting in the checkout line in the first weeks and mostly of the low prices everyone was raving about back then.
 

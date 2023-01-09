@@ -1,9 +1,9 @@
 ---
 layout: post
 title: It's here!
-date: 2005-11-21 22:30:48 +0100
+date: 2005-11-21 22:30:48.000000000 +01:00
 categories:
-- Life
+- life
 ---
 <a href="http://www.flickr.com/photos/janos/65614700/"><img src="http://static.flickr.com/35/65614700_fe6658811b.jpg" alt="It's here!" border="0" class="image" /></a>
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Biking around the town
-date: 2005-05-01 12:50:36 +0200
+date: 2005-05-01 12:50:36.000000000 +02:00
 categories:
-- Life
+- life
 ---
 Finally some activity today! I mean physical activity, because since the snow went away I haven't done anything that required muscles and actual physical effort.
 

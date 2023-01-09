@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Akufen - My Way
-date: 2004-10-14 09:25:41 +0200
+date: 2004-10-14 09:25:41.000000000 +02:00
 categories:
-- Music
+- music
 ---
 ![Akufen - My Way Cover](https://content.rusiczki.net/blogpics/akufen-my_way.jpg)
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Follow me
-date: 2007-08-03 09:58:38 +0200
+date: 2007-08-03 09:58:38.000000000 +02:00
 categories:
-- Web
+- web
 ---
 <a href="http://www.flickr.com/photos/janos/sets/72157601092213316/detail/"><img src="https://content.rusiczki.net/blogpics/project-going-to-work-thumbnails.jpg" width="471" height="315" border="0" alt='Project "Going to work"' class="image" /></a>
 

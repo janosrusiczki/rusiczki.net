@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Webcast + me = FAIL!
-date: 2009-07-14 19:32:46 +0200
+date: 2009-07-14 19:32:46.000000000 +02:00
 categories:
-- General
+- general
 ---
 <embed flashvars="autoplay=false" width="480" height="386" allowfullscreen="true" allowscriptaccess="always" src="http://www.ustream.tv/flash/video/1807081" type="application/x-shockwave-flash" />
 

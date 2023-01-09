@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Oh, I HATE this country
-date: 2004-04-23 09:46:41 +0200
+date: 2004-04-23 09:46:41.000000000 +02:00
 categories:
-- Life
+- life
 ---
 The extended story: I want to switch to an Orange subscription or service plan. 3 years of prepaid cards (first Connex than lately Orange) was quite enough, thank you. When I saw sometime last year that I have to bring some official paper before signing that service plan deal I was a little disappointed and forgot all about it for a while. When you have to get an official paper for something in Romania you get quite scared. Because those can be VERY HARD to obtain. Then sometime later I remembered again, remembered about the paper, got scared again, forgot again. Some of these days I remembered and yesterday I started out quite convinced that, yes, today I'll have the subscription, no matter what. Searched with my mother for the required paper and found something dated 1979. Hmmm, I never thought that would be OK but nevertheless I tried.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Romania does it again
-date: 2007-09-10 10:59:00 +0200
+date: 2007-09-10 10:59:00.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 Just read this on <a href="http://www.cianblog.com/">Lucian Savluc's blog</a>:
 

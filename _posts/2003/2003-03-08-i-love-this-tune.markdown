@@ -1,9 +1,9 @@
 ---
 layout: post
 title: I love this tune!
-date: 2003-03-08 01:08:43 +0100
+date: 2003-03-08 01:08:43.000000000 +01:00
 categories:
-- Music
+- music
 ---
 <blockquote><i>Got answers for everyone, endless excuses
 

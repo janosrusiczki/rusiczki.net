@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Ride through the ghost town
-date: 2004-08-20 11:00:31 +0200
+date: 2004-08-20 11:00:31.000000000 +02:00
 categories:
-- Web
+- web
 ---
 <img src="https://content.rusiczki.net/blogpics/ghost_town.jpg" width="490" height="140" border="0" alt="The Ghost Town" class="image" />
 

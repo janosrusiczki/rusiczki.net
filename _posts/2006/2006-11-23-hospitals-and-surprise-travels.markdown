@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Hospitals and surprise travels
-date: 2006-11-23 13:31:34 +0100
+date: 2006-11-23 13:31:34.000000000 +01:00
 categories:
-- Life
+- life
 ---
 Tuesday morning I went with my Mum to Cluj for a planned hospitalization. Heart problems. I'm obviously not too good with medical terms but to make the long story short she had a "quiet" heart attack this summer. Quiet because she only found out later that she had it and the doctors in Baia Mare recommended her to get a consultation from the specialists in Cluj. And at the busy clinic at Cluj there was an opening Tuesday so we went there...
 

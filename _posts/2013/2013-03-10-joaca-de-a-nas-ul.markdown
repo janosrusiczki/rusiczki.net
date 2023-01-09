@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Joaca de-a NAS-ul
-date: 2013-03-10 14:26:52 +0100
+date: 2013-03-10 14:26:52.000000000 +01:00
 categories:
-- Technical
-- Română
+- technical
+- română
 ---
 <a href="https://content.rusiczki.net/2013/10/20130310_113727.jpg"><img class="alignnone size-medium wp-image-4566" alt="Midnight Commander" src="https://content.rusiczki.net/2013/10/20130310_113727-693x519.jpg" width="693" height="519" /></a>
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: My Legendary Luck&trade;
-date: 2003-01-14 15:49:51 +0100
+date: 2003-01-14 15:49:51.000000000 +01:00
 categories:
-- Life
+- life
 ---
 I did celebrate today. But not the cold and the snow as I've planned (at least not for now) but receiving an 8 at that exam for which I haven't even opened my book (which I don't have) or notes. It looks like my <i>Legendary Luck&trade;</i> was there again. Great!
 

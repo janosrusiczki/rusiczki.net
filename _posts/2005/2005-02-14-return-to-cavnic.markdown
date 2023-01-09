@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Return to Cavnic
-date: 2005-02-14 12:48:41 +0100
+date: 2005-02-14 12:48:41.000000000 +01:00
 categories:
-- Life
+- life
 ---
 Oh yeah. Monday morning or noon, or whatever it is. I'm sitting in front of my computer trying to do some work, my joints hurt and there's a nice blue spot on my left leg where the ski lift dragged me from... Just the usual symptoms showing that this weekend we spent some quality time on the slopes at Cavnic.
 

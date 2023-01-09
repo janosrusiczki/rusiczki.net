@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Birthday galore
-date: 2005-01-29 11:15:57 +0100
+date: 2005-01-29 11:15:57.000000000 +01:00
 categories:
-- Web
+- web
 ---
 It's our favorite Romanian business blogger, <a href="http://beyondbricks.ecademy.com/account.php?op=view&amp;id=39367">Dragos Novac's</a> birthday in 2 days (January 31st). Anyone reading this can surprise him by going and voting for <a href="http://www.argumente.ro">his weblog</a> which is nominated in the <em>Best Southeastern European Weblog</em> category at the <a href="http://fistfulofeuros.net/afoeawards.php">Satin Pijama Awards</a>.
 

@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Zen Pinball
-date: 2011-12-19 03:31:42 +0100
+date: 2011-12-19 03:31:42.000000000 +01:00
 categories:
-- iOS
 - ios
 - ipad
 - zen pinball

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A week of packages (Part 2 - iPod)
-date: 2004-01-11 14:24:47 +0100
+date: 2004-01-11 14:24:47.000000000 +01:00
 categories:
-- Life
+- life
 ---
 Wednesday, I finally succeded concluding a deal with a guy from Galati so he sent a package which I received Thursday. It contained [a second hand iPod](http://web.archive.org/web/20020125061910/http://www.apple.com/ipod/ "I've got the 20 GB one"). The mother of all gadgets. The &uuml;ber MP3 player. The coolest thing since sliced bread... The guy who brought it couldn't manage to separate the paper containing the receipt from the package so he had to rip it open. This gave me the oportunity to have a look at it while on my way home. Neat device, a little thicker than i thought it would be.
 

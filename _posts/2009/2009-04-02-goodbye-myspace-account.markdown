@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Goodbye MySpace account
-date: 2009-04-02 12:15:30 +0200
+date: 2009-04-02 12:15:30.000000000 +02:00
 categories:
-- Web
+- web
 ---
 I deleted my <a href="http://www.myspace.com" title="Do I really need to link this!?">MySpace</a> account today. (Notice how funny "my MySpace" sounds?)
 

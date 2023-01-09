@@ -1,9 +1,9 @@
 ---
 layout: post
 title: My cable is almost here!
-date: 2003-02-03 08:19:11 +0100
+date: 2003-02-03 08:19:11.000000000 +01:00
 categories:
-- Web
+- web
 ---
 [ Sun 02/02/2003 07:09 PM ] Delayed due to customs inspection // Event localization : BUCHAREST
 

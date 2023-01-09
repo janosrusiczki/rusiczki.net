@@ -2,11 +2,11 @@
 layout: post
 title: My adventures in social coding
 categories:
-- Ruby
-- Technical
-- Work
+- ruby
+- technical
+- work
 ---
-At the beginning of 2014 I accepted to work on a project for a friend and since it was a simple presentation site I decided to build it in Jekyll[<sup>1</sup>](#1). (Throughout this post I will add explanations for non technical people as footnotes.) By the time I got started on this project I was kind of spoiled by [Rails](http://rubyonrails.org/)' asset pipeline[<sup>2</sup>](#2) functionality which was missing from Jekyll, but I quickly found [a plugin](https://github.com/matthodan/jekyll-asset-pipeline) which promised to deliver this. Taking a closer look at its GitHub repository I noticed that the original author has not touched it for half a year or so and some of the pull requests[<sup>3</sup>](#3) were pretty straight forward so I decided to fork[<sup>4</sup>](#4) the repository and integrate those changes. Thanks to the magic of git and the Internet, I can "retrace" the timeline of what happened to my fork:
+At the beginning of 2014 I accepted to work on a project for a friend and since it was a simple presentation site I decided to build it in Jekyll[^1]. (Throughout this post I will add explanations for non technical people as footnotes.) By the time I got started on this project I was kind of spoiled by [Rails](http://rubyonrails.org/)' asset pipeline[^2] functionality which was missing from Jekyll, but I quickly found [a plugin](https://github.com/matthodan/jekyll-asset-pipeline) which promised to deliver this. Taking a closer look at its GitHub repository I noticed that the original author has not touched it for half a year or so and some of the pull requests[^3] were pretty straight forward so I decided to fork[^4] the repository and integrate those changes. Thanks to the magic of git and the Internet, I can "retrace" the timeline of what happened to my fork:
 
 *   January 8, 2014 - I start committing code, one of the main tasks being renaming the plugin from jekyll\_asset\_pipeline to [japr](https://github.com/janosrusiczki/japr) (Jekyll Asset Pipeline Reborn).
 *   January 14, 2014 - Thanks to my guerilla marketing campaign, which involved leaving comments with links to my repository on the original repository's issues and pull requests, the first contributions by other people appear on my fork.
@@ -27,7 +27,7 @@ I got into my pre-Christmas mini vacation and after two or three afternoons of w
 
 **Footnotes**
 
-1.  <a id="1"></a> [Jekyll](https://jekyllrb.com/) is a tool that generates a site based on a template and some post files which contain the actual content of the pages. It sits somewhere between writing your site by hand in HTML and using a full-blown CMS like WordPress.
-2.  <a id="2"></a> The simple explanation for an asset pipeline is that it takes a bunch of CSS or JS files, pre-processes them, merges them together, minifies the result, etc. The obvious benefit is that instead of multiple requests there will be one request for CSS and one for JavaScript, easing the load on the server and making the page load faster.
-3.  <a id="3"></a> A pull request is a way to propose your changes to a repository of code. Before making their way into the code base these changes have to be accepted by the owner of said repository.
-4.  <a id="4"></a> A fork is a copy of a repository of code.
+[^1]: [Jekyll](https://jekyllrb.com/) is a tool that generates a site based on a template and some post files which contain the actual content of the pages. It sits somewhere between writing your site by hand in HTML and using a full-blown CMS like WordPress.
+[^2]: The simple explanation for an asset pipeline is that it takes a bunch of CSS or JS files, pre-processes them, merges them together, minifies the result, etc. The obvious benefit is that instead of multiple requests there will be one request for CSS and one for JavaScript, easing the load on the server and making the page load faster.
+[^3]: A pull request is a way to propose your changes to a repository of code. Before making their way into the code base these changes have to be accepted by the owner of said repository.
+[^4]: A fork is a copy of a repository of code.

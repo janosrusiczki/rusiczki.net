@@ -1,14 +1,23 @@
 ---
 layout: post
 title: Use Travis to build and deploy your Jekyll site through SSH
-date: 2018-01-25 11:45:00 +0200
+date: 2018-01-25 11:45:00.000000000 +02:00
 categories:
-- Blog
-- Ruby
-- Technical
+- blog
+- ruby
+- technical
 image: https://content.rusiczki.net/2018/01/bricks-jekyll-github-travis.jpg
-description: How to use Travis to build and deploy your Jekyll site to your VPS through SSH.
+description: How to use Travis to build and deploy your Jekyll site to your VPS through
+  SSH.
 ---
+**UPDATE: DON'T USE TRAVIS!**
+
+In 2019 Travis was sold to a private equity company which steadily steered the service away from the open source friendliness developers were accustomed to. Others [wrote](https://earthly.dev/blog/migrating-from-travis/) about [the details](https://ropensci.org/blog/2020/11/19/moving-away-travis/), but the gist is that you shouldn't even think about Travis if you want a CI solution for your open source project.
+
+I would recommend using GitHub Actions, actually this very site is built and deployed using GitHub actions. [Check out the workflow file.](https://github.com/janosrusiczki/rusiczki.net/blob/master/.github/workflows/jekyll-build-test-and-deploy.yml)
+
+---
+
 ![An image of bricks with the Jekyll, GitHub and Travis logos on it](https://content.rusiczki.net/2018/01/bricks-jekyll-github-travis.jpg)
 
 After [transitioning my blog to Jekyll](https://www.rusiczki.net/2018/01/08/a-new-blogging-engine/) my next goal was to have the site built and deployed via an external service which is automatically triggered by pushing to a certain GitHub branch (in my case *master*).

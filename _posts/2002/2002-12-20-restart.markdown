@@ -1,18 +1,19 @@
 ---
 layout: post
 title: ReStart
-date: 2002-12-20 12:46:02 +0100
+date: 2002-12-20 12:46:02.000000000 +01:00
 categories:
-- General
+- general
+- blog history
 ---
 Well, here I am. Blogging.
 
 Starting off the I-REALLY-DONT-KNOW-TH time.
 
-I hope this will be a more persistent blogging experience since my previous ones ended quite abruptly. Anyway <a href="http://www.geocities.com/rusiczkij/weblog/blogger.html" title="my 2001-ish blog">my last blog</a> ended too fast because my Internet connection was suddenly cut. I mean I had some troubles because my phone line by that time was an antique one, meaning that my family's phone line was <i>locked</i> together with one of a neighbour's, and all the dial-up costs showed up on his bill.
+I hope this will be a more persistent blogging experience since my previous ones ended quite abruptly. Anyway [my last blog](http://www.geocities.com/rusiczkij/weblog/blogger.html "my 2001-ish blog") ended too fast because my Internet connection was suddenly cut. I mean I had some troubles because my phone line by that time was an antique one, meaning that my family's phone line was _locked_ together with one of a neighbour's, and all the dial-up costs showed up on his bill.
 
-Pretty funny actually. From my point of view of course... And so to avoid more trouble I couldn't connect any more from home and I just can't blog from Internet caf&eacute;s.
+Pretty funny actually. From my point of view of course... And so to avoid more trouble I couldn't connect any more from home and I just can't blog from Internet cafés.
 
-Too bad. Because re-reading that blog brings up nice memories. And I actually love writing journals because of this. Because they help dig up things that you'd think you've forgotten a long long time ago. Actually all is there. Locked safely. And a journal makes it all pop out of the haze. And it's nice. I guess I love living on memories...
+Too bad. Because re-reading that blog brings up nice memories. And I actually love writing journals because of this. Because they help dig up things that you'd think you've forgotten a long long time ago. Actually all is there. Locked safely. And a journal makes it all pop out of the haze. And it's nice. I guess I love living on memories... 
 
 Well, enough intro. Here I am. Posting again...

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: The end of the local winter season
-date: 2008-04-07 09:40:18 +0200
+date: 2008-04-07 09:40:18.000000000 +02:00
 categories:
-- Life
-- Snowboard
+- life
+- snowboard
 ---
 Webcam image of the the base of the Roata slopes at Cavnic captured a few minutes ago:
 

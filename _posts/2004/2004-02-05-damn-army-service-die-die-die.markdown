@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Damn army service! Die, die, die!
-date: 2004-02-05 21:55:59 +0100
+date: 2004-02-05 21:55:59.000000000 +01:00
 categories:
-- Life
+- life
 ---
 Yesterday and today were some days to remember!
 

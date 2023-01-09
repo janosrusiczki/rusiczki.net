@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Română
-date: 2010-08-30 23:27:37 +0200
+date: 2010-08-30 23:27:37.000000000 +02:00
 categories:
-- General
-- Română
+- general
+- română
+- blog history
 ---
 Țineți-vă bine! După 7 ani jumate de engleză, urmează primul post în română pe rusiczki.net.
 

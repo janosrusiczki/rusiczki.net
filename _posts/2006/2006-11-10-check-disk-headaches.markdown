@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Check disk headaches
-date: 2006-11-10 00:03:14 +0100
+date: 2006-11-10 00:03:14.000000000 +01:00
 categories:
-- Technical
-- Windows
+- technical
+- windows
 ---
 "Inserting an index entry into index $0 of file 25" - the message I feared for a week...
 

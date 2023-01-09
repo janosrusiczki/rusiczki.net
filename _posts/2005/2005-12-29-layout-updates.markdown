@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Layout updates
-date: 2005-12-29 14:26:01 +0100
+date: 2005-12-29 14:26:01.000000000 +01:00
 categories:
-- Technical
+- technical
 ---
 I finally had time to finish tweaking my blog's layout. The main goal was to make it fully Flickr compatible, and that means making the content column able to accomodate a "standard" Flickr photo. I actually accomplished this a while ago (a month or so), but the problem that remained was that the header images needed an extra 20 pixels in width and I never got around to modify them until today.
 

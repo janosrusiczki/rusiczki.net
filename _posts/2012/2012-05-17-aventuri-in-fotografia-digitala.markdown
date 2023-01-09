@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Aventuri în fotografia digitală
-date: 2012-05-17 22:31:01 +0200
+date: 2012-05-17 22:31:01.000000000 +02:00
 categories:
-- Technical
-- Photos
-- Română
+- technical
+- photos
+- română
 - fotografie
 - nikon
 - canon

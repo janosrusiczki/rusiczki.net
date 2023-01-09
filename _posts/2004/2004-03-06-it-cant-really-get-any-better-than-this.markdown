@@ -1,9 +1,9 @@
 ---
 layout: post
 title: It can't really get any better than this!
-date: 2004-03-06 22:05:12 +0100
+date: 2004-03-06 22:05:12.000000000 +01:00
 categories:
-- Life
+- life
 ---
 I'm sitting in front of my computer, catching up with <a href="http://blog.whois.hu/index.php">one</a> favourite blog while listening to the latest and greatest <a href="http://www.thinnerism.com" title="The greatest netlabel PERIOD">Thinner</a> release. Did I ever mentioned that I purely love the music that comes out on Thinner? Oh yes, <a href="http://www.rusiczki.net/2003/04/09/ode-to-thinner/" title="Kitsched - Ode to Thinner">I did</a>.
 

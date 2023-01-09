@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Nokia 6070 - USB infrared dongle - Now best buddies
-date: 2006-09-27 23:08:19 +0200
+date: 2006-09-27 23:08:19.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 <img src="https://content.rusiczki.net/blogpics/usb-infrared-dongle.jpg" width="510" height="99" alt="My infrared dongle" class="image" />
 

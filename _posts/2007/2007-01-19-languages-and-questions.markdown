@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Languages and questions
-date: 2007-01-19 09:50:07 +0100
+date: 2007-01-19 09:50:07.000000000 +01:00
 categories:
-- Life
+- life
 ---
 Reading the first blog entries I wrote back in 2001 (wow, it really seems that was centuries ago) I realized that my English level was basically the same back then as it is now. And that brought up the question: what now? Should I take some advanced English courses or should I improve my miserable French? I guess I'll go with option B.
 

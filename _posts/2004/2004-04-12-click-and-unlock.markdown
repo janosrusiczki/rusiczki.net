@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Click and unlock
-date: 2004-04-12 15:34:37 +0200
+date: 2004-04-12 15:34:37.000000000 +02:00
 categories:
-- Work
+- work
 ---
 <a href="http://www.clik-et-deblok.com">Clik-et-Deblok.Com</a>
 

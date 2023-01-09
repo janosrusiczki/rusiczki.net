@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Oscar Bla Bla - Part II
-date: 2003-03-24 05:09:30 +0100
+date: 2003-03-24 05:09:30.000000000 +01:00
 categories:
-- General
+- general
 ---
 Mickey Mouse was great!
 

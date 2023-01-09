@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Fudge - Bipolar EP
-date: 2006-10-26 09:06:41 +0200
+date: 2006-10-26 09:06:41.000000000 +02:00
 categories:
-- Music
+- music
 ---
 I rarely write about music lately but this time I just have to.
 

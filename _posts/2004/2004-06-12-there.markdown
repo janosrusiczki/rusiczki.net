@@ -1,9 +1,9 @@
 ---
 layout: post
 title: There...
-date: 2004-06-12 17:35:58 +0200
+date: 2004-06-12 17:35:58.000000000 +02:00
 categories:
-- Web
+- web
 ---
 I'm so used to searching with Google that sometimes when I use other search engines I have great surprises. Like today. I went to <a href="http://www.amazon.com">Amazon</a> to check some reviews about the music I was listening and noticed that they changed their searchbox on the frontpage from Google to <a href="http://www.a9.com" title="The provider of surprises!">A9</a>. Obviously I had to try it out and the egoist I am I always type my own last name in the searchbox of any new search engine I discover. And what do I notice at the end of the list? A link to <a href="http://www.websters-online-dictionary.org/">Webster's Online Dictionary's</a> definition of the word '<a href="http://www.websters-online-dictionary.org/definition/english/th/there.html">there</a>'. I loaded the page, scrolled down, and yes, there it was: <a href="http://www.sxc.hu/browse.phtml?f=view&id=18371" title="Fire was there">a photo</a> I uploaded a while ago to <a href="http://www.sxc.hu/">stock.xchng</a>.
 

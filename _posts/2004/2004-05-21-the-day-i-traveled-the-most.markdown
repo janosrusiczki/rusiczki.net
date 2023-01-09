@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The day I traveled the most...
-date: 2004-05-21 09:52:46 +0200
+date: 2004-05-21 09:52:46.000000000 +02:00
 categories:
-- Life
+- life
 ---
 ... was yesterday. It might look small from a world travelers's perspective but for me it surely was a lot. During the night and early morning I traveled from Baia Mare to Bucharest and fortunately I was able to catch a good sleep so it didn't wear me off at all. So I arrived to Bucharest at 8:30, went to the airport, said good bye to my guest, went back to the train station (Gara de Nord is a nice place, not!), McDonald's once (icecream), some hours of waiting while listening among others to IT Conversations' <a href="http://www.itconversations.com/shows/detail121.html">interview with Six Apart's Ben and Mena Trott</a>, McDonald's twice (milkshake), then finally boarded the train to Timisoara.
 

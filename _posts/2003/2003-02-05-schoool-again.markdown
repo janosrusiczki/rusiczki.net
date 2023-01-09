@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Schoool again
-date: 2003-02-05 02:34:46 +0100
+date: 2003-02-05 02:34:46.000000000 +01:00
 categories:
-- Life
+- life
 ---
 Yek. Looks like tomorrow in the morning I'll start visiting THAT place again...
 

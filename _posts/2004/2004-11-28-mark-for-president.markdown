@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mark&oacute; for president!
-date: 2004-11-28 21:10:22 +0100
+date: 2004-11-28 21:10:22.000000000 +01:00
 categories:
-- Life
+- life
 ---
 <img src="https://content.rusiczki.net/blogpics/rmdsz_vote_2004.jpg" width="223" height="180" alt="Voted!" class="postimage" /> You're free to bash me now... :-)
 

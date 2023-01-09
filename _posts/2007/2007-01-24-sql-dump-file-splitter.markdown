@@ -1,12 +1,9 @@
 ---
 layout: post
 title: SQL Dump File Splitter
-date: 2007-01-24 14:02:39 +0100
+date: 2007-01-24 14:02:39.000000000 +01:00
 categories:
-- Technical
----
-**IMPORTANT** [SQLDumpSplitter has been updated to version 3](https://philiplb.de/sqldumpsplitter3/) which is multiplatform (Windows / Mac / Linux). [See my second update below.](#second-update-december-28-2018)
-
+- technical
 ---
 
 Scenario: You are a conscious user and you back up your site's database every once in a while. And you sit smiling and content knowing that your precious data is safe. Just to discover after disaster strikes that you can't restore the contents of the SQL dump file because of upload size limitations or because [phpMyAdmin](http://www.phpmyadmin.net/) would run out of memory while decompressing the gzip / zip file.

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Oscar Bla Bla - Part I
-date: 2003-03-24 04:00:56 +0100
+date: 2003-03-24 04:00:56.000000000 +01:00
 categories:
-- General
+- general
 ---
 Steve Martin:
 

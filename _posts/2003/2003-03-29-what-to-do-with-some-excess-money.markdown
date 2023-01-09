@@ -1,9 +1,9 @@
 ---
 layout: post
 title: What to do with some excess money
-date: 2003-03-29 06:20:50 +0100
+date: 2003-03-29 06:20:50.000000000 +01:00
 categories:
-- General
+- general
 ---
 <a title="The Gulf War Drinking Game" href="http://www.gulfwardrinkinggame.com/">The Gulf War Drinking Game</a>
 

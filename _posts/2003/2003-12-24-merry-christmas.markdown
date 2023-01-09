@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Merry Christmas!
-date: 2003-12-24 17:13:00 +0100
+date: 2003-12-24 17:13:00.000000000 +01:00
 categories:
-- General
+- general
 ---
 I wish to all who read this message the warmest and merriest Christmas of them all. Have a nice Holiday Season friends...
 

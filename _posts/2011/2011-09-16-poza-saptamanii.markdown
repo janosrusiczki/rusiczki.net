@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Poza saptamanii
-date: 2011-09-16 12:41:29 +0200
+date: 2011-09-16 12:41:29.000000000 +02:00
 categories:
-- Photos
-- Română
+- photos
+- română
 ---
 <a href="http://www.flickr.com/photos/janos/6148748455/"><img src="https://content.rusiczki.net/2011/09/nora-robi.jpg" alt="Nora și Robi" title="Nora și Robi" width="500" height="752" class="alignnone size-full wp-image-1480"/></a>
 

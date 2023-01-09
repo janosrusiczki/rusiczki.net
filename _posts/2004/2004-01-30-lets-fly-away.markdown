@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Let's fly away!
-date: 2004-01-30 19:09:23 +0100
+date: 2004-01-30 19:09:23.000000000 +01:00
 categories:
-- Technical
+- technical
 ---
 And there's one more thing I can barely wait for. And this one is much more entertainment oriented: a <a href="http://europe.thrustmaster.com/products/d_prd.php?p=T63&fam=6">Thrustmaster Top Gun Fox 2 Pro</a> joystick.
 

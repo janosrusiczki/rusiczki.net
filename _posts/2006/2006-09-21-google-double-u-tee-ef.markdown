@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Double-U-Tee-Ef
-date: 2006-09-21 18:29:37 +0200
+date: 2006-09-21 18:29:37.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 I did a <a href="http://www.google.com/help/features.html#sitesearch">site: search</a> on Google for my <a href="http://www.woodprofit.com">wooden products trading site</a> to see what's the indexed page count and look what the great G <a href="https://content.rusiczki.net/blogpics/woodprofit-site-search.php">showed me</a>. Can anyone explain? And as of writing this it's a reproductible "thing". If you're logged into Google <a href="http://www.google.com/search?q=site%3Awoodprofit.com">click here</a>.
 

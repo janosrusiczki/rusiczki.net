@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The price of laziness
-date: 2003-10-23 21:46:14 +0200
+date: 2003-10-23 21:46:14.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 Where can my lazyness lead I ask?
 

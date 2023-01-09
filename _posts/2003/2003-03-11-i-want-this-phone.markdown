@@ -1,9 +1,9 @@
 ---
 layout: post
 title: I want this phone!
-date: 2003-03-11 01:53:56 +0100
+date: 2003-03-11 01:53:56.000000000 +01:00
 categories:
-- Technical
+- technical
 ---
 <img src="https://content.rusiczki.net/blogpics/t100.jpg" width="115" height="250" border="0" alt="Sony Ericsson T100" class="postimage" /> Lately I cooled down a little bit with my gadget mania. After I bought my Palm that is. Which I bought more because it was a damn good deal (I got it for the third of the original price, hah!) and I found out later that it's a very smart and useful thing for such a small gadget. So I bought it with small hopes and found out later how great it is. Not as with my MP3 player. Which I bought with great hopes and ended up hating it. I don't like it...
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Monday morning LCD menace
-date: 2008-04-07 08:29:32 +0200
+date: 2008-04-07 08:29:32.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 How do you know it's going to be a great week?
 

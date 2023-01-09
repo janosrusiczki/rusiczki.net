@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The lost holiday
-date: 2004-08-02 22:00:51 +0200
+date: 2004-08-02 22:00:51.000000000 +02:00
 categories:
-- Life
+- life
 ---
 Oh joy!
 

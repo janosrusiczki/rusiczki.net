@@ -1,8 +1,8 @@
 ---
 layout: post
 title: roblogfest 2007
-date: 2007-03-09 14:34:42 +0100
+date: 2007-03-09 14:34:42.000000000 +01:00
 categories:
-- Uncategorized
+- uncategorized
 ---
 In a nutshell: I shamelessly nominated myself for two categories, didn't vote for self, actually didn't vote at all, came in 60th for the most informative blog with one negligible vote and 26th for the best designed blog with 7 votes. Those 7 votes were a real surprise and I would like to thank everyone who clicked for me. However, most of the credit for this blog's design goes to <a href="http://www.adnan.ro">Mr. Adnan</a> for the priceless advice and color picking back in 2003 I think... Thanks again!

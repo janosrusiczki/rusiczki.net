@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Some RDS mathematics
-date: 2004-10-13 12:40:23 +0200
+date: 2004-10-13 12:40:23.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 It's time to do some low profile text based browsing for a few days. Well not really text based but no big Internet downloads for J&aacute;nos for a while because he's been a bad boy lately. A bad, bad, bad downloader boy...
 

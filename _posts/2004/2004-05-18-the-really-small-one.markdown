@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The really small one
-date: 2004-05-18 22:56:27 +0200
+date: 2004-05-18 22:56:27.000000000 +02:00
 categories:
-- Photos
+- photos
 ---
 <a href="https://content.rusiczki.net/blogpics/cute_kitten.php" onclick="window.open('https://content.rusiczki.net/blogpics/cute_kitten.php','popup','width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="https://content.rusiczki.net/blogpics/cute_kitten-thumb.jpg" width="150" height="112" border="0" alt="My cute kitten!" class="postimage" /></a> OK, if <a href="http://homepage.mac.com/cpaul/iblog/index.html">Kit</a> (the guy who usually posts hardcore branding and advertising rants) posted <a href="http://homepage.mac.com/cpaul/iblog/C825079780/E912397590/index.html">this</a>, I think I'm allowed post that picture on the right. :-)
 

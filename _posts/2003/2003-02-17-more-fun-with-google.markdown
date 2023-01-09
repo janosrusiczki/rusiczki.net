@@ -1,9 +1,9 @@
 ---
 layout: post
 title: More fun with Google
-date: 2003-02-17 03:51:28 +0100
+date: 2003-02-17 03:51:28.000000000 +01:00
 categories:
-- Web
+- web
 ---
 How come I didn't know about <a href="http://labs.google.com/sets" title="Try it out!">Google Sets</a>?
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Banning the Turkish spammers from your Aardvark Topsites
-date: 2006-10-24 21:19:50 +0200
+date: 2006-10-24 21:19:50.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 I knew something weird was going on when my client's dedicated server slowed down considerably and a rather large forum he was hosting on it started throwing MySQL errors that were landing frequently in my Yahoo! inbox. So I headed out and did some sniffing around and finally by using the elimination technique (not too smart nor professional, I know) I concluded that the resource hog was his top site (that was based on <a href="http://www.aardvarktopsitesphp.com/">Aardvark Topsites</a>). I asked him about it and he said that he banned quite a few sites about a week ago from the top site administration area but further investigation revealed that the buttons / banners were still being loaded and each hit on a button resulted in quite a few SQL queries. And these guys were loading those buttons like crazy, probably in some automated way, to get their stats up.
 

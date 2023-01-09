@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Nine things about love
-date: 2009-05-26 15:43:41 +0200
+date: 2009-05-26 15:43:41.000000000 +02:00
 categories:
-- General
-- Photos
+- general
+- photos
 ---
 <a href="http://cosmonova.ro/post/113210915/nine-things-about-love"><img src="https://content.rusiczki.net/2009/05/nine-things-about-love.jpg" alt="Nine things about love" title="Nine things about love" width="500" height="676"/></a>
 

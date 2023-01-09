@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Definition of the Cool
-date: 2003-02-28 19:21:51 +0100
+date: 2003-02-28 19:21:51.000000000 +01:00
 categories:
-- Music
+- music
 ---
 I'm sitting in the dark listening to an Adam Freeland live set. It's really soothing! :-)
 

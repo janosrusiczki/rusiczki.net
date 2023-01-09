@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Re
-date: 2003-08-15 20:46:04 +0200
+date: 2003-08-15 20:46:04.000000000 +02:00
 categories:
-- General
+- general
 ---
 Well, starting again. For the 3rd or 4th time I guess...
 

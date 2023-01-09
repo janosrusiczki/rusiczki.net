@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Re-building a computer
-date: 2004-04-23 10:31:58 +0200
+date: 2004-04-23 10:31:58.000000000 +02:00
 categories:
-- Technical
+- technical
 ---
 Some weeks ago I got the sudden idea that since my girlfriend needs a computer (she's finishing her university years and anyway who doesn't need a computer nowadays?) and since I had a spare case lying around, a not so spare 40G hard drive sitting in my computer as a slave and a pending deal with a friend for an ATI All-In-Wonder for my old MiniDisc player I thought I'll build her a cute little 'puter.
 

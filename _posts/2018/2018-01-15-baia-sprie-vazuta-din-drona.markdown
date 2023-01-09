@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Baia Sprie văzută din dronă
-date: 2018-03-15 20:44:01 +0200
+date: 2018-03-15 20:44:01.000000000 +02:00
 categories:
-- RC
-- Photos
-- Drone
-- Română
+- rc
+- photos
+- drone
+- română
 image: https://content.rusiczki.net/2018/03/trilogia-baia-sprie-mini-panorama-1000x614.jpg
 description: Baia Sprie văzută din dronă în poze și panorame.
 ---

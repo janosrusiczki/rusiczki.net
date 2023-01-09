@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Firefox 3 day
-date: 2008-06-17 09:10:26 +0200
+date: 2008-06-17 09:10:26.000000000 +02:00
 categories:
-- Web
-- Technical
+- web
+- technical
 ---
 So, today is the big day! The day we'll hopefully set a record...
 

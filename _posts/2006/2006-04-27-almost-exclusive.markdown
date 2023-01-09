@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Almost exclusive!
-date: 2006-04-27 11:44:35 +0200
+date: 2006-04-27 11:44:35.000000000 +02:00
 categories:
-- Web
+- web
 ---
 Wow, I'm kind of switching over to tabloid style but this time it's worth it...
 

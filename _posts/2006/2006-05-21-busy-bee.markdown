@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Busy bee
-date: 2006-05-21 20:41:20 +0200
+date: 2006-05-21 20:41:20.000000000 +02:00
 categories:
-- Life
+- life
 ---
 <a href="http://www.flickr.com/photos/janos/150467498/"><img src="http://static.flickr.com/52/150467498_3dfe8b72f2.jpg" alt="Busy bee" width="500" height="358" border="0" class="image" /></a>
 

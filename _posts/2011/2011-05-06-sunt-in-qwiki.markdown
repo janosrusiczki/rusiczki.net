@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Sunt in Qwiki!
-date: 2011-05-06 17:04:23 +0200
+date: 2011-05-06 17:04:23.000000000 +02:00
 categories:
-- Photos
-- Română
+- photos
+- română
 ---
 Un scurt intro: <a href="http://www.qwiki.com">Qwiki</a> e un site si o aplicatie pentru iPad. Despre aplicatie am citit ca ar fi <a href="http://techcrunch.com/2011/05/03/qwiki-ipad-app-hits-250k-downloads-in-11-days/">foarte populara</a>. De fapt e vorba de o enciclopedie vorbitoare, adica dupa ce cauti ceva o tanti iti povesteste despre acel ceva in timp ce iti apare un slideshow cu diferite imagini care au legatura cu acel ceva. Nu pot sa nu remarc cat de frumos ma stiu exprima.
 

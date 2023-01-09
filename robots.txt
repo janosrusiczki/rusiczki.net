@@ -1,6 +1,2 @@
 User-agent: *
 Sitemap: http://www.rusiczki.net/sitemap.xml
-Disallow: /anunturi
-Disallow: /contact
-Disallow: /contul-meu
-Disallow: /politica-de-cookie-uri

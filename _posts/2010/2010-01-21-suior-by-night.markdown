@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Suior by night
-date: 2010-01-21 19:14:03 +0100
+date: 2010-01-21 19:14:03.000000000 +01:00
 categories:
-- Life
-- Snowboard
-- Video
+- life
+- snowboard
+- video
 ---
 For the few of you that haven't been spammed with this the last two days via Twitter, Facebook, Flickr and my Messenger status, here's Ioana and me riding the nearby slope of Suior by night.
 

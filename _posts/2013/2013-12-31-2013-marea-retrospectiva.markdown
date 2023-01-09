@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 2013 - Marea retrospectivă
-date: 2013-12-31 20:20:27 +0100
+date: 2013-12-31 20:20:27.000000000 +01:00
 categories:
-- Photos
+- photos
 ---
 Am mai încercat soiul ăsta de însemnare <a href="http://www.rusiczki.net/2009/12/31/2009-my-year-in-pictures/">la capăt de 2009</a> și cum îmi face deosebită plăcere să recitesc acel articol m-am gândit că dacă tot sunt pe acasă în vacanță să încerc să scriu ceva asemănător și pentru anul ce tocmai se încheie. Desigur, frumos ar fi ca la finalul unei astfel de scrieri să trag niște concluzii cu ce am realizat și să fac niște promisiuni pentru anul ce vine, dar nu voi face asta fiindcă mă tem că nu voi reuși să le respect și pentru că așa cum spuneam nu ăsta e scopul ci mai degrabă să am un soi de jurnal care să-mi placă să-l recitesc.
 
@@ -12,8 +12,6 @@ Sunteți gata? Începem! :)
 <a href="https://content.rusiczki.net/2013/12/2013-01-05-15.12.55-1.jpg"><img class="alignnone size-medium wp-image-4677" src="https://content.rusiczki.net/2013/12/2013-01-05-15.12.55-1-693x519.jpg" alt="Magăreală pe Mogoșa" width="693" height="519" /></a>
 
 <a href="https://content.rusiczki.net/2013/12/Year-in-Review.png" rel="lightbox">Retrospectiva Facebook</a> arată că am început anul dându-ne pe dealul de vis-a-vis de Șuior dar de fapt l-am început pe pârtia Moski, alături de prietenul "stătean" Steve care era în concediu pe acasă. După cum se observă, această părtie, mai precis zilele când e acoperită de zăpadă au darul de a ne face instant fericiți.
-
-<!--more-->
 
 Tot pentru una din zilele de la începutul anului am avut o programare la dentist și m-a părăsit măseaua de minte care nu-mi încapea in gură și-mi provoca tot soiul de iritații și discomfort general. Cum ar zice englezul: good riddance, nu i-am simțit vreun moment lipsa. Am și <a href="https://content.rusiczki.net/2013/12/dintisor.jpg">o poză</a> cu victima pentru cei cu stomacul tare.
 

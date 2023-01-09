@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Grammar...
-date: 2003-01-08 00:57:34 +0100
+date: 2003-01-08 00:57:34.000000000 +01:00
 categories:
-- General
+- general
 ---
 <img src="https://content.rusiczki.net/blogpics/notes.jpg" width="300" height="145" border="0" alt="Grammar notes" class="image" />
 

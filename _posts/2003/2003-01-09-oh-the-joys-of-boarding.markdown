@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Oh, the joys of boarding!
-date: 2003-01-09 02:22:10 +0100
+date: 2003-01-09 02:22:10.000000000 +01:00
 categories:
-- General
+- general
 ---
 Well yesterday was an interesting day. I woke up full of energy ready to work on those scripts. But the moment I opened my eyes I saw a thick layer of snow on the trees outside my window. I thought I should take a better look. I took a better look. And the moment I saw how things were looking outside, I decided:
 

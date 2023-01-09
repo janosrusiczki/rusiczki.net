@@ -1,26 +1,13 @@
 ---
 layout: post
 title: Another edition is over - Part 1
-excerpt: ! 'I''m back home since Sunday night but I had to catch my breath before
-  writing anything about the massiveness that TM04Base was. I''m sad that it''s over
-  and that all that''s left to wait for this year is Christmas because basically nothing
-  related to drum''n''bass, breaks or generally any quality electronic music will
-  happen here in Baia Mare. Even less since our much loved and hated bar, Cuba (aka
-  Upstairs), closed. And Christmas is so far away...
-
-  But let''s see what I remember of what happened at the fest.
-
-
-'
-date: 2004-10-19 09:03:32 +0200
+date: 2004-10-19 09:03:32.000000000 +02:00
 categories:
-- Life
+- life
 ---
 I'm back home since Sunday night but I had to catch my breath before writing anything about the massiveness that TM04Base was. I'm sad that it's over and that all that's left to wait for this year is Christmas because basically nothing related to drum'n'bass, breaks or generally any quality electronic music will happen here in Baia Mare. Even less since our much loved and hated bar, Cuba (aka Upstairs), closed. And Christmas is so far away...
 
 But let's see what I remember of what happened at the fest.
-
-<a id="more"></a><a id="more-329"></a>
 
 It all started out really bad. Tragically bad in fact as in the last week before the festival it turned out that we have nowhere to stay because the two sure bets turned us down: my friend Bogdan had his relatives over and it was full house at his place and Ioana's friend had a fight with her room mates and as such she was also out of the equation. Some crazy phoning, instant messaging and SMS sending followed and it looked like I had two places to stay, but none of them were really comfortable... I turned down one of them (and I don't really know why) after a local friend came over and said that we surely have a place to stay at a friend of her friend in Timisoara.
 

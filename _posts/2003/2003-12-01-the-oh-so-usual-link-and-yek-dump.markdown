@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The oh-so-usual link and yek dump
-date: 2003-12-01 00:56:51 +0100
+date: 2003-12-01 00:56:51.000000000 +01:00
 categories:
-- General
+- general
 ---
 Here comes <i>stuff</i>!
 

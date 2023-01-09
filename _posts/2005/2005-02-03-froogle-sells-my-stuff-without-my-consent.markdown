@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Froogle sells my stuff without my consent
-date: 2005-02-03 13:29:50 +0100
+date: 2005-02-03 13:29:50.000000000 +01:00
 categories:
-- Web
+- web
 ---
 All this time I've been living in error! I thought I'm not selling anything through this site but there came <a href="http://www.google.com" title="Praise thy o' great search engine">Google</a> to <a href="http://froogle.google.com/froogle?q=rusiczki&amp;filter=0">prove me wrong</a>. It looks like they (as in they = Froogle's algorithms) decided that you can buy my TMBase badge from 2003 for $20. And I'm not even bothering to understand what I'm selling on my page containing an entry about the mIRC registration page. It's waaay too twisted...
 

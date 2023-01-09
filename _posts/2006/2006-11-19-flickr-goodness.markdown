@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Flickr goodness
-date: 2006-11-19 19:25:07 +0100
+date: 2006-11-19 19:25:07.000000000 +01:00
 categories:
-- Life
-- Photos
+- life
+- photos
 ---
 [![Snowboards](http://static.flickr.com/101/301011466_4e52f236f3.jpg)](https://www.flickr.com/photos/janos/301011466/)
 

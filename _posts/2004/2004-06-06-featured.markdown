@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Featured!
-date: 2004-06-06 12:11:34 +0200
+date: 2004-06-06 12:11:34.000000000 +02:00
 categories:
-- Web
+- web
 ---
 Wow!
 

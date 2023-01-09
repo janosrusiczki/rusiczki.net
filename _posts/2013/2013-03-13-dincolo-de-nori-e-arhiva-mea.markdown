@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Dincolo de nori, e arhiva mea
-date: 2013-03-13 18:07:37 +0100
+date: 2013-03-13 18:07:37.000000000 +01:00
 categories:
-- Technical
-- Română
+- technical
+- română
 ---
 <a href="https://content.rusiczki.net/2013/10/Google-Chrome.png"><img class="alignnone size-medium wp-image-4560" alt="Captură de ecran Amazon Glacier" src="https://content.rusiczki.net/2013/10/Google-Chrome-693x160.png" width="693" height="160" /></a>
 

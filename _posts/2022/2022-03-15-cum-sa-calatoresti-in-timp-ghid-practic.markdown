@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Cum să călătorești în timp - Ghid Practic
-date: 2022-03-15 09:00:00 +0200
+date: 2022-03-15 09:00:00.000000000 +02:00
 categories:
-- Cronică
-- Tehnic
+- cronică
+- tehnic
 image: https://content.rusiczki.net/2022/03/cd-uri-resized.jpg
 description: Despre ce "comori" am găsit în arhiva mea de CD-uri.
 ---
 Sunt în plin proces de documentare a părții cu numărul trei din seria articolelor despre calculatoarele mele (cu toate că în momentul redactării articolului de față nu a apărut pe blog nici partea a doua). Spoiler: în a treia parte va fi vorba despre PC-urile mele și încerc să adun câte informații pot despre această perioadă. Totodată îmi fac curat prin casa din Baia Sprie, respectiv în fosta (și actuala) mea cameră, unde, până anul trecut, timpul înghețase din 2004 când m-am mutat de acolo. Răposații mei părinți nu s-au atins de tona de CD-uri inscripționate pe care le-am lăsat în dulap. Am mai umblat eu cu ele dar cu precădere cu cele cu MP3-uri pe care le luam să le ascult (și să le redescopăr conținutul) în mașină.
+
+<!--more-->
 
 [![Poză cu CD-urile descoperite](https://content.rusiczki.net/2022/03/cd-uri-resized.jpg)](https://content.rusiczki.net/2022/03/cd-uri.jpg){:.glightbox}
 
@@ -21,6 +23,8 @@ Restabilind directorul de mailuri și pornind clientul de mail, am demarat pract
 [![Screenshot The Bat! cu newsletterul Daily Ha-Ha din 16 ianuarie 2001](https://content.rusiczki.net/2022/03/virtual-box-screenshot-the-bat-newsletter.png)](https://content.rusiczki.net/2022/03/virtual-box-screenshot-the-bat-newsletter.png){:.glightbox}
 
 Pentru cei pe care îi deranjează directorul crack din screenshot, am să menționez că unul dintre primele softuri pe care le-am cumpărat (în viața mea), pare-mi-se imediat cum am ajuns să lucru de acasă în primăvara lui 2002, a fost [The Bat!](https://www.ritlabs.com/en/products/thebat/). Sau un joc de jigsaw puzzle. Nu mai știu care sau în ce ordine. The Bat! era un client grozav de email, fără problemele de securitate ale Outlook-ului, am încetat să-l folosesc abia cândva după ce [am făcut rost de contul de Gmail](https://www.rusiczki.net/2004/06/19/gmail-so-close-yet-so-far/).
+
+**Update în 28 Decembrie 2022:** Documentând articolul despre 20 de ani de blog și navigând prin arhiva web.archive.org a primei versiuni, am dat din greșeală peste [o însemnare](https://www.rusiczki.net/2003/03/26/old-school-games/) în care menționam numele jocului de puzzle: se numea Brainsbreaker. Și aparent [site-ul funcționează](https://www.brainsbreaker.com/) și jocul se poate descărca fără probleme. De fapt mi l-am și pus și am făcut un puzzle de 70 de piese. Acuma să vedem cum îmi găsesc licența. 🙂
 
 Memoria m-a semi-înșelat însă, pentru că prin mailbox-uri am găsit doar acest mail referitor la o configurație dorită pentru al doilea calculator, care nu a fost și cea obținută. În schimb am găsit (și confirmat) configurația primului PC.
 

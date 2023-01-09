@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 5 things you didn't know about me
-date: 2007-01-26 16:32:52 +0100
+date: 2007-01-26 16:32:52.000000000 +01:00
 categories:
-- Life
+- life
 ---
 Here we go:
 

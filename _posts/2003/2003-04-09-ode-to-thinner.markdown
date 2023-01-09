@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Ode to Thinner
-date: 2003-04-09 00:39:36 +0200
+date: 2003-04-09 00:39:36.000000000 +02:00
 categories:
-- General
+- general
 ---
 Sometimes I'm amazed by the quality of music you can find for free on the Internet. And the lack of quality of the music you can buy in shops...
 

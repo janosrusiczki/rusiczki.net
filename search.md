@@ -69,7 +69,12 @@ title: Search
     margin-bottom: 1rem;
   }
 
-  .ais-search-box {
-    max-width: 100%;
+  .ais-SearchBox-input {
+    width: 100%;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 7px;
+    border: 1px solid #aaa;
+    appearance: none;
   }
 </style>

@@ -4,7 +4,7 @@ title: 20 în 20
 date: 2022-12-20 21:00:00.000000000 +02:00
 categories:
 - blog history
-description: Articol aniversar cu ocazia împlinirii a 20 de ani de la prima însemnare de pe acest blog.
+description: Blogul a împlinit 20 de ani! Articol aniversar.
 image: https://content.rusiczki.net/2022/12/weblog-screenshot-2003-10-27.png
 ---
 În data de 20 decembrie 2022 s-au împlinit 20 de ani de la [prima însemnare de pe acest blog](https://www.rusiczki.net/2002/12/20/restart/).

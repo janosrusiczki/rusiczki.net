@@ -37,7 +37,7 @@ title: Search
       container: '#search-hits',
       templates: {
         item(hit, { html, components }) {
-          const formattedDate = 'No Date'
+          let formattedDate = 'No Date'
           if(hit.date != undefined) {
             const date = new Date(hit.date * 1000)
             const localeStringOptions = {

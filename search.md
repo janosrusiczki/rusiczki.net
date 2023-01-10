@@ -81,4 +81,15 @@ title: Search
   .ais-SearchBox-input:focus {
     outline: 0;
   }
+  
+  .ais-SearchBox-reset {
+    position: absolute;
+    margin-left: -20px;
+    z-index: 200;
+  }
+  
+  .ais-SearchBox-reset svg {
+    width: 15px;
+    height: 15px;
+  }
 </style>

@@ -83,9 +83,9 @@ title: Search
   }
   
   .ais-SearchBox-reset {
-    position: absolute;
-    margin-left: -20px;
-    z-index: 200;
+    margin-left: -25px;
+    margin-top: 9px;
+    display: inline-block;
   }
   
   .ais-SearchBox-reset svg {

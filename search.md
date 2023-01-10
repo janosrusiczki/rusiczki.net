@@ -37,15 +37,19 @@ title: Search
       container: '#search-hits',
       templates: {
         item(hit, { html, components }) {
-          console.log("hit date", hit.date)
-          const date = new Date(hit.date * 1000)
-          const localeStringOptions = {
-            weekday: 'long',
-            year: 'numeric',
-            month: 'long',
-            day: 'numeric'
-           }
-          const formattedDate = date.toLocaleString('en-US', localeStringOptions)
+          if(hit.date != undefined) {
+            console.log("hit date", hit.date)
+            const date = new Date(hit.date * 1000)
+            const localeStringOptions = {
+              weekday: 'long',
+              year: 'numeric',
+              month: 'long',
+              day: 'numeric'
+             }
+            const formattedDate = date.toLocaleString('en-US', localeStringOptions)
+          } else {
+            const formattedDate = 'No Date'
+          }
           return html`
             <div class="post">
               <h1 class="post-title">

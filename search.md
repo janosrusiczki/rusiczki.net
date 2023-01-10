@@ -37,6 +37,7 @@ title: Search
       container: '#search-hits',
       templates: {
         item(hit, { html, components }) {
+          const formattedDate = 'No Date'
           if(hit.date != undefined) {
             const date = new Date(hit.date * 1000)
             const localeStringOptions = {
@@ -45,9 +46,7 @@ title: Search
               month: 'long',
               day: 'numeric'
              }
-            const formattedDate = date.toLocaleString('en-US', localeStringOptions)
-          } else {
-            const formattedDate = 'No Date'
+            formattedDate = date.toLocaleString('en-US', localeStringOptions)
           }
           return html`
             <div class="post">

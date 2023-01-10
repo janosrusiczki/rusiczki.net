@@ -37,6 +37,7 @@ title: Search
       container: '#search-hits',
       templates: {
         item(hit, { html, components }) {
+          console.log("hit date", hit.date)
           const date = new Date(hit.date * 1000)
           const localeStringOptions = {
             weekday: 'long',

@@ -81,12 +81,12 @@ title: Search
   }
   
   .ais-SearchBox-reset {
-    margin-left: -25px;
-    margin-top: 9px;
-    display: inline-block;
+    margin-left: -27px;
   }
   
   .ais-SearchBox-reset svg {
+    display: block;
+    fill: #aaa;
     width: 15px;
     height: 15px;
   }

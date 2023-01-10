@@ -65,7 +65,7 @@ title: Search
 </script>
 <style>
   #search-searchbar {
-    margin-bottom: 4em;
+    margin-bottom: 2em;
   }
   .ais-SearchBox-input {
     width: 100%;

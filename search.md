@@ -38,7 +38,6 @@ title: Search
       templates: {
         item(hit, { html, components }) {
           if(hit.date != undefined) {
-            console.log("hit date", hit.date)
             const date = new Date(hit.date * 1000)
             const localeStringOptions = {
               weekday: 'long',

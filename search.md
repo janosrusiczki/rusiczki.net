@@ -66,7 +66,7 @@ title: Search
 
 <style>
   #search-searchbar {
-    margin-bottom: 1rem;
+    margin-bottom: 4em;
   }
 
   .ais-SearchBox-input {
@@ -76,5 +76,9 @@ title: Search
     border-radius: 7px;
     border: 1px solid #aaa;
     appearance: none;
+  }
+  
+  .ais-SearchBox-input:focus {
+    outline: 0;
   }
 </style>

@@ -74,10 +74,6 @@ title: Search
   search.start();
 </script>
 <style>
-  #search-powered-by {
-    margin-bottom: 2em;
-  }
-  
   .ais-SearchBox-input {
     width: 100%;
     font-size: 20px;
@@ -100,5 +96,15 @@ title: Search
     fill: #aaa;
     width: 15px;
     height: 15px;
+  }
+  
+  #search-powered-by {
+    margin-top: 0.3em;
+    margin-bottom: 2em;
+  }
+  
+  .ais-PoweredBy-link {
+    margin-left: auto;
+    font-size: 0.8em;  
   }
 </style>

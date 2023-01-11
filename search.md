@@ -4,6 +4,8 @@ title: Search
 ---
 <div id="search-searchbar"></div>
 
+<div id="search-powered-by"></div>
+
 <div id="search-hits"></div>
 
 <!-- Including InstantSearch.js library and styling -->
@@ -32,6 +34,11 @@ title: Search
     instantsearch.widgets.searchBox({
       container: '#search-searchbar',
       showSubmit: false,
+      placeholder: 'Just type here and see the magic happen...',
+    }),
+    instantsearch.widgets.poweredBy({
+      container: #search-powered-by',
+      theme: 'dark',
     }),
     instantsearch.widgets.hits({
       container: '#search-hits',
@@ -67,9 +74,10 @@ title: Search
   search.start();
 </script>
 <style>
-  #search-searchbar {
+  #search-powered-by {
     margin-bottom: 2em;
   }
+  
   .ais-SearchBox-input {
     width: 100%;
     font-size: 20px;

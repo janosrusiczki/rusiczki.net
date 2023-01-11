@@ -7,6 +7,8 @@ categories:
 - ruby
 - technical
 - blog history
+description: How I migrated this blog from Wordpress to Jekyll.
+image: https://content.rusiczki.net/2018/01/code-screenshot.jpg
 ---
 ![Code screenshot](https://content.rusiczki.net/2018/01/code-screenshot.jpg "Code screenshot")
 

@@ -4,6 +4,8 @@ title: Cea mai populară poză de-a mea
 categories:
 - photos
 - română
+description: Care este cea mai vizualizată poză de-a mea pe Internet?
+image: https://content.rusiczki.net/2017/03/dedeman1-980x645.png
 ---
 Multă vreme am crezut că cea mai populară poză de-a mea e <a href="http://www.rusiczki.net/2006/06/08/stairs-from-a-blue-lake/">cea cu Lacul Albastru</a>, însă aruncând o privire pe Flickr, am constatat că, de fapt, cea mai vizualizată este fotografia cu <a href="https://www.flickr.com/photos/janos/4699390200/">drumeții pe Pietrosu</a> (4255 vs 1967). Instantaneul cu Lacul Albastru rămâne oricum, de departe, cea mai furată poză de-a mea. Dar chiar și adunate, vizualizările acestor fotografii par insignifiante față de câte a strâns, în doar jumătate de an, poza mea de pe Google Maps care ilustrează magazinul Dedeman din Baia Mare.
 

@@ -4,6 +4,8 @@ title: Generația a patra
 categories:
 - android
 - română
+description: Scurtă istorie a telefoanelor mele deștepte.
+image: https://content.rusiczki.net/2017/04/samsung-galaxy-s-samsung-galaxy-s3-nexus-5-huawei-p10-980x350.jpg
 ---
 [![Samsung Galaxy S, Samsung Galaxy S3, Google Nexus 5, Huawei P10](https://content.rusiczki.net/2017/04/samsung-galaxy-s-samsung-galaxy-s3-nexus-5-huawei-p10-980x350.jpg)](https://content.rusiczki.net/2017/04/samsung-galaxy-s-samsung-galaxy-s3-nexus-5-huawei-p10.jpg)
 

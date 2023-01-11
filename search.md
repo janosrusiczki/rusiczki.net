@@ -37,7 +37,7 @@ title: Search
       placeholder: 'Just type here and see the magic happen...',
     }),
     instantsearch.widgets.poweredBy({
-      container: #search-powered-by',
+      container: '#search-powered-by',
       theme: 'dark',
     }),
     instantsearch.widgets.hits({

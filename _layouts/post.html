@@ -10,7 +10,7 @@ layout: default
 
  
 <div class="post-categories">
-  {% assign categories = post.categories %}
+  {% assign categories = page.categories %}
   <p>Categories count: {{ categories.count }}</p>
   {% if categories.count > 0 %}
     <p>

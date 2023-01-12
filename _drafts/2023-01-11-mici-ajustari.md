@@ -8,13 +8,19 @@ description: Un rezumat al recentelor modificări tehnice și de aspect ale blog
 ---
 Pe la început de decembrie a început să nu-mi mai convină cum pagina principală îmi afișează articolele în întregimea lor. Știam de foarte multă vreme că nu face bine nici pentru SEO pentru că motoarele de căutare preferă să nu ai conținut duplicat, așa că am început să experimentez să reduc lista la titlu, dată, poză reprezentativă și un mic sumar. Încă nu sunt pe deplin mulțumit  de cum arată, mai ales acel link de *Read* dar până-mi mai vin niște idei geniale "merge și așa".
 
+![Pagina principală a rusiczki.net pe 12 ianuarie 2023](https://content.rusiczki.net/2023/01/rusiczki-net-2023-01-12-pagina-principala.png)
+
 Descrierea următoarei serii de modificări trebuie să o încep cu o mărturisire: [articolul](https://www.rusiczki.net/2022/12/20/20-in-20/) despre cum blogul a împlinit 20 de ani în data de 20 decembrie 2022 l-am publicat de fapt în primele ore ale noului an, dar am făcut în așa fel încât să *pară* publicat pe data aniversară.
 
 După ce l-am publicat a urmat să patrulez și să fac mici modificări la articole, mai ales seara, și cum tot schimbam fereastra între editorul de text cu fundal negru și blogul meu cu fundal aproape alb am decis la un moment dat că ar fi cazul să trec la un fundal mai închis la culoare și aici pe site. Ceea ce am și făcut, dar a trebuit evident inversată și culoarea textului, după care mi-am dat seama că albul pe gri închis e prea contrastant și obositor pentru ochii mei bătrâni așa că l-am tras ușor spre un gri deschis. Am mai modificat puțin și culoarea linkurilor și alte câteva mici chestii pe parcurs ce le descopeream că nu se potrivesc. Disqus a fost foarte ușor de adaptat, am intrat în partea de administrare de pe site-ul lor și am schimbat că vreau să-mi afișeze formularul și comentariile pe dark mode și gata.
 
+![Un articol de pe rusiczki.net pe 12 ianuarie 2023](https://content.rusiczki.net/2023/01/rusiczki-net-2023-01-12-articol.png)
+
 Și dacă tot m-am apucat de modificări, mă deranja de ceva vreme că linkul Photos din meniu (era să zic *din stânga*, dar stânga e de fapt sus când te uiți la blog de pe mobil, ce ți-e și cu layout-urile astea responsive dom'le) nu ducea direct la [subdomeniul cu fotografii](https://photos.rusiczki.net/) ci pe o pagină aici pe blog, unde trebuia dat click pe un link... Amatoricesc, ce mai. Am reparat, acuma prin click în meniu se ajunge direct la zeamă.
 
 Ultima chestie reparată a fost [pagina de căutare](https://www.rusiczki.net/search/). Am verificat ce mai e pe acolo și am găsit o versiune antică a librăriei [Algolia](https://www.algolia.com/), de pe vremea când [am trecut pe Jekyll](https://www.rusiczki.net/2018/01/08/a-new-blogging-engine/) ca motor de blog, i-am făcut upgrade și imediat s-au dus pe apa sâmbetei o parte din funcționalitate și cam tot stilul. A durat ceva până le-am readus la viață, mai ales că nu sunt un maestru emerit la capitolul CSS modern, dar am reușit într-un târziu.
+
+![Pagina de căutare de pe rusiczki.net pe 12 ianuarie 2023](https://content.rusiczki.net/2023/01/rusiczki-net-2023-01-12-cautare.png)
 
 Vreau să profit de ocazie să vă spun că Algolia este unul dintre serviciile de care sunt super mulțumit și nu doar fiindcă oferă o variantă gratuită destul de generoasă ca și limite ci și pentru că e foarte rapidă căutarea efectivă și au o documentație vastă și bine pusă la punct.
 

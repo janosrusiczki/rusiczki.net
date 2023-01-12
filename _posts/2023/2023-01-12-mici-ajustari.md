@@ -32,4 +32,4 @@ De fapt migrarea spre GitHub Actions a fost ceea ce mi-a "reanimat" activitatea 
 
 PS. După ce am publicat acest articol am remarcat că pagina principală conține un mic Inception, sau cum spunem noi programatorii, _este recursivă_: blogul arată un screenshot cu blogul care arată un screenshot cu blogul cum arăta mai de mult. Am făcut [un screenshot](https://content.rusiczki.net/2023/01/rusiczki-net-2023-01-12-inception.png){:.glightbox} să imortalizez momentul... Ăăă, așadar am făcut un screenshot cu blogul aratând un screenshot cu blogul arătând un screenshot cu blogul cum arată mai de mult. OK, am terminat.
 
-PS 2. Mi-am dat seama ce-mi mai lipsește: categoriile! Cu toate că în spatele cortinelor existau în continuare printre informațiile care acompaniază articolele (metadata), nu mai erau afișate de când am trecut pe Jekyll ca motor de blog. Acum apar din nou la capăt de articol.
+PS 2. Mi-am dat seama ce-mi mai lipseau: categoriile! Cu toate că în spatele cortinelor existau printre informațiile care acompaniază articolele (metadata), nu mai erau afișate de când am trecut pe Jekyll ca motor de blog. Dar acum apar din nou la capătul fiecărui articol.

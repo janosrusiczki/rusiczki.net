@@ -11,7 +11,7 @@ layout: default
  
 <div class="post-categories">
   {% assign categories = post.categories %}
-  {% if categories.count %}
+  {% if categories.count > 0 %}
     <p>
        Posted in:
       {% for category in categories %}

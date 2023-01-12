@@ -1,10 +1,12 @@
 ---
-published: false
+layout: post
 title: Mici ajustări
+date: 2023-01-12 20:03:00.000000000 +02:00
 categories:
   - blog history
   - technical
 description: Un rezumat al recentelor modificări tehnice și de aspect ale blogului.
+image: https://content.rusiczki.net/2023/01/rusiczki-net-2023-01-12-pagina-principala.png
 ---
 Pe la început de decembrie a început să nu-mi mai convină cum pagina principală îmi afișează articolele în întregimea lor. Știam de foarte multă vreme că nu face bine nici pentru SEO pentru că motoarele de căutare preferă să nu ai conținut duplicat, așa că am început să experimentez să reduc lista la titlu, dată, poză reprezentativă și un mic sumar. Încă nu sunt pe deplin mulțumit  de cum arată, mai ales acel link de *Read* dar până-mi mai vin niște idei geniale "merge și așa".
 

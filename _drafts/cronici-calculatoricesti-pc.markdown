@@ -5,7 +5,7 @@ Am să încep acest ultim articol din seria celor dedicate amintirilor despre ca
 
 Am avut însă un noroc enorm deoarece la un moment dat mi-a scris [un prieten](https://www.lucianmarin.se) că din cauza GDPR-ului (care urma să intre în vigoare) se va închide forumul computergames.ro și aruncând o privire acolo fără să mă aștept la mare lucru, căutând după postările mele am găsit o tonă de informații despre calculatoarele mele din epoca când eram foarte activ pe acel forum, adică în jurul turnurii de mileniu. Până în acel moment, cea mai bună șansă de a afla configurația primelor două calculatoare de-ale mele o consideram să găsesc pe CD-urile cu arhive scrisorile (în format .txt) trimise la diferiți omuleți cu care corespondam. Dar din păcate am cam eșuat pentru că fix primul meu CD cu arhive, s-a decojit la margine unde era arhiva de scrisori.
 
-De asemenea încercasem acum câțiva ani să mă uit pe hard discurile care mai țineau fișiere din acele vremuri dar am constatat că din păcate au cedat și au început să cloncăne. După aia, pe la începutul lui 2022, făcând ordine prin camera mea din Baia Sprie am găsit niște CD-uri care nu făceau parte din seria mea oficială de CD-uri cu arhive dar am găsit pe unul dintre ele arhiva mail-boxurilor de pe vremea când lucram la Internet Cafe - despre asta [am scris un articol separat](https://www.rusiczki.net/2022/03/15/cum-sa-calatoresti-in-timp-ghid-practic/) - dar și ăsta s-a dovedit a fi un drum înfundat. Mai târziu înspre vară, într-una dintre cutii am găsit un plic care nu dădea prea multe de bănuit, dar conținea cam toate bonurile, facturile și garanțiile pentru cumpărăturile IT din 2001 până în 2004 (când m-am mutat din Baia Sprie). În schimb facturile din perioada 2004 - 2007 (cât am stat în chirie la bloc), oricât le-am căutat, se pare că s-au pierdut.
+De asemenea încercasem acum câțiva ani să mă uit pe hard discurile care mai țineau fișiere din acele vremuri dar am constatat că din păcate au cedat și au început să clicăie. Totuși, pe la începutul lui 2022, făcând ordine prin camera mea din Baia Sprie am găsit niște CD-uri care nu făceau parte din seria mea oficială de CD-uri cu arhive dar am găsit pe unul dintre ele arhiva mail-boxurilor de pe vremea când lucram la Internet Cafe - despre asta [am scris un articol separat](https://www.rusiczki.net/2022/03/15/cum-sa-calatoresti-in-timp-ghid-practic/) - dar și ăsta s-a dovedit a fi un drum înfundat. Mai târziu, înspre vară, într-una dintre cutii am găsit un plic care nu dădea prea multe de bănuit, dar conținea cam toate bonurile, facturile și garanțiile pentru cumpărăturile IT din 2001 până în 2004 (când m-am mutat din Baia Sprie). În schimb facturile din perioada 2004 - 2007 (cât am stat în chirie la bloc), oricât le-am căutat, nu le-am mai găsit - probabil au fost aruncate din pod cu ocazia unei curățenii.
 
 Dar să trecem la felul principal:
 
@@ -17,7 +17,7 @@ Am terminat articolul anterior zicând că în 1998 am intrat la facultate în B
 
 Așadar în toamna lui 1998 mi-au cumpărat părinții primul calculator: procesor **Pentium** la **233 MHz** cu **MMX** (înainte să accesez forumului computergames.ro eram convins că a fost un Pentium 2 266 MMX), placă de bază **VXPro 2**, **32 MB EDO RAM**. Hard disc de 4,3 GB care credeam că îmi va lua o eternitate să-l umplu, monitor **LG StudioWorks** de **14"**, placă video SiS cu 4 MB memorie video (2 MB din fabrica plus 2 MB upgrade - singurul upgrade pe care l-am ales).
 
-M-au delegat pe mine să cercetez și să decid de unde iese mai bine, și mi l-au cumpărat de la Sprint Computers pentru că m-am gândit că e mai bine să cumperi cu garanție de la o firmă consacrată decât de la bișnițari - greșit! Un prieten, Radu, și-a luat aproximativ deodată cu mine un Pentium 2 "Klamath" la 350 MHz, placă de bază Intel 440BX, video Intel i740. El nu și l-a luat de la firmă, parcă a fost și mai ieftin decât ce-mi luasem eu și știu că mergeam pe la el și mă minunam că-i mergeau jocurile care aveau nevoie de accelerator grafic.
+M-au delegat pe mine să cercetez și să decid de unde iese mai bine, și mi l-au cumpărat de la Sprint Computers pentru că m-am gândit că e mai bine să cumperi cu garanție de la o firmă consacrată decât de la bișnițari - greșit! Un prieten, Radu, și-a luat aproximativ deodată cu mine un Pentium 2 "Klamath" la 350 MHz, placă de bază Intel 440BX, video Intel i740. El nu și l-a luat de la firmă, parcă a fost și mai ieftin decât ce-mi luasem eu și știu că mergeam pe la el și mă minunam că-i mergeau jocurile care aveau nevoie de accelerator grafic, ceea ce eu nu aveam.
 
 Primul CD-ROM venit cu calculatorul, marca Cyberdrive, era oribil, tot "freca" unele CD-uri în loc să le citească, până nu am mai rezistat si i-am dat un pumn. După asta nu a mai citit nimic. Având garanție, l-am dus înapoi la Sprint și după o vreme m-au anunțat că: "nu știm ce a avut, nu am mai văzut defecțiunea asta dar vi l-am înlocuit cu un Philips". Uraaaa!
 
@@ -33,7 +33,9 @@ Demos și muzică în format XM. Știu că nu era în stare să redea filmele Di
 
 Diskmag scris în Pascal și OS grafic în Rhide minunându-mă de ce poate face programarea orientată pe obiecte.
 
-2. 2001, ianuarie (conform CG Forum probabil - fara CG Forum nu știam nimic despre configurația asta în afara de procesor probabil) - AMD 800, GeForce MX 2 (cumpărat separat???, îl aveam deja în februarie 2002), Soltek sl-75kv2-x / Duron 800 / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 MB RAM, probabil am început cu 128 și am pus pus ulterior 64 de mega de undeva.
+### 2. Al doilea, upgrade-ul necesar
+
+2001, ianuarie (conform CG Forum probabil - fara CG Forum nu știam nimic despre configurația asta în afara de procesor probabil) - AMD 800, GeForce MX 2 (cumpărat separat???, îl aveam deja în februarie 2002), Soltek sl-75kv2-x / Duron 800 / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 MB RAM, probabil am început cu 128 și am pus pus ulterior 64 de mega de undeva.
 
 Am avut noroc că aveam o colegă care în ultimul an de facultate lucra deja la o firmă numită Cumulus Logic care funcționa în clădirea în care este acum (de foarte mulți ani, de fapt) Eurohotel. Ea mi-a făcut o ofertă care presupunea să îmi cumpere componentele vechi. Restul banilor au provenit din salariul infim pe care-l primeam la Internet Cafe-ul la care lucram, puși de-o parte pentru o vacanță de vară care nu s-a mai întâmplat.
 
@@ -65,7 +67,7 @@ Nu mai știu la cine am dat această placa asta de bază și procesorul.
 
 prin această perioadă sau perioada următoare am făcut rețea cu vecinul.
 
-De când am avut acces la internet broadband la internet cafe și până s-a terminat temporar accesul https://www.rusiczki.net/2002/12/27/the-end-of-broadband/ am stat cu frica în sân temându-mă de acel moment, dar și pregătindu-mă pentru el, am scris mai mult de 80 de CD-uri cu MP3 pe care am avut ocazia să le ascult după aia - chiar și în ziua de azi mai iau câte unul și-l bag în playerul din mașină să "descopăr" ce-i pe el.
+De când am avut acces la Internet broadband la Internet cafe și până s-a terminat temporar accesul https://www.rusiczki.net/2002/12/27/the-end-of-broadband/ am stat cu frica în sân temându-mă de acel moment, dar și pregătindu-mă pentru el, am scris mai mult de 80 de CD-uri cu MP3 pe care am avut ocazia să le ascult după aia - chiar și în ziua de azi mai iau câte unul și-l bag în playerul din mașină să "descopăr" ce-i pe el.
 
 cd-uri cu arhive cu kit-uri, poze salvate de pe net și bineînțeles cd-uri cu muzică și nelipsitele filme
 
@@ -106,7 +108,6 @@ https://www.rusiczki.net/2007/01/23/need-for-hardware-upgrade-painfully-felt/
 ipod nou https://www.rusiczki.net/2004/01/11/a-week-of-packages-part-2-ipod/
 
 dvd writer Teac DV-W58G https://www.rusiczki.net/2004/04/01/brief/ - https://www.cnet.com/products/teac-dv-w58g-dvdrw-drive-ide-internal/
-
 
 5. 2007.02.06 - Intel Dual Core
 

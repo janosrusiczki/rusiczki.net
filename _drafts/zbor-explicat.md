@@ -2,7 +2,7 @@ Am publicat acum o săptămână un articol puțin mai misterios, intitulat scur
 
 Această însemnare va fi așadar despre visul de a zbura. Mai precis despre a vedea lumea din aer.
 
-Desigur, așa cum fac întotdeauna, voi începe cu o recapitulare: Era 2008 iar eram în toiul pasiunii pentru fotografie… De fapt era o perioadă în care tocmai descopeream mașina și magia plimbărilor motorizate documentate prin poze și văzând undeva pe Internet un video filmat dintr-un elicopter telecomandat m-am gândit că ăsta ar fi următorul nivel: să fac filmări și fotografii din aer. Mă gândeam câte puncte de coolness aș putea acumula, peste noapte așa…
+Desigur, așa cum fac întotdeauna, voi începe cu o recapitulare: Era 2008 iar eram în toiul pasiunii pentru fotografie… De fapt era o perioadă în care tocmai descopeream mașina și magia plimbărilor motorizate documentate prin poze și văzând undeva pe Internet un video filmat dintr-un elicopter telecomandat m-am gândit că ăsta ar fi următorul nivel: să fac filmări și fotografii din aer. Mă gândeam câte puncte de coolness aș putea acumula, peste noapte așa...
 
 <a href="http://www.rusiczki.net/wp-content/uploads/2014/12/align-trex-450se-v2.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2014/12/align-trex-450se-v2.jpg" alt="Align TRex 450SE V2-ul meu într-o duminică dimneața” width="1866" height="1247" class="alignnone size-full wp-image-4940" /></a>
 

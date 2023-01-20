@@ -21,7 +21,7 @@ M-au delegat pe mine să cercetez și să decid de unde iese mai bine, și mi l-
 
 Primul CD-ROM venit cu calculatorul, marca Cyberdrive, era oribil, tot "freca" unele CD-uri în loc să le citească, până nu am mai rezistat si i-am dat un pumn. După asta nu a mai citit nimic. Având garanție, l-am dus înapoi la Sprint și după o vreme m-au anunțat că: "nu știm ce a avut, nu am mai văzut defecțiunea asta dar vi l-am înlocuit cu un Philips". Uraaaa!
 
-Jocuri cu prietenii: campionate de NFS2, Worms 2, CD-urile cu Faithless - Sunday 8 PM și Chemical Brothers - Brothers Gonna Work it out constant in drive.
+Jocuri cu prietenii: campionate de NFS2, Worms 2, CD-urile cu [Faithless - Sunday 8 PM](https://www.discogs.com/master/28340-Faithless-Sunday-8PM) și [The Chemical Brothers - Brothers Gonna Work It Out](https://www.discogs.com/master/12777-The-Chemical-Brothers-Brothers-Gonna-Work-It-Out) constant in drive.
 
 Tot în perioada asta a primului calculator și a facultății am încercat să-mi găsesc un job. Îmi amintesc foarte bine că prima încercare a fost la Trodat Ștampile. Am găsit un prieten pe IRC care lucra la Interscope, am incercat și acolo fără succes căci cerințele erau avansate pentru mine. În timpul redactării acestui articol mi-am amintit că acest prieten mi-a influențat cel puțin o decizie de achiziție hardware, sunt sigur că al doilea monitor, un Hansol, întâi l-am văzut la el apoi el mi l-a recomandat. Am mai fost și am încercat la o firmă, am primit assignment să fac o galerie foto pentru un festival folcloric din Sighetul Marmației, am făcut-o, le-am dus-o, nu m-au luat, dar galeria foto a ajuns online. Salutări domnule Lobonțiu!
 

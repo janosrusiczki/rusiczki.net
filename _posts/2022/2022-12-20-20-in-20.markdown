@@ -42,3 +42,5 @@ Pe parcursul acestor 20 de ani, am "înmormântat" și două pseudonime (sau mai
 În încheiere ca o concluzie vreau să spun că așa cum am menționat și în [prima parte](https://www.rusiczki.net/2021/07/08/cronici-calculatoricesti-cip/) a [cronicilor calculatoricești](http://www.rusiczki.net/category/cronici-calculatoricești), îmi pică în continuare foarte bine să "scriu afară din mine" chestii. Și mi-e și benefic că odată ce le știu scrise creierul meu se calmează și le poate uita.
 
 PS. Pe parcursul redactării acestei retrospective am concluzionat că am scris destul de multe articole despre schimbările (tehnice) de pe blog și cu un efort de câteva ore am reușit să le adun toate în [această categorie](http://www.rusiczki.net/category/blog-history). Spor la citit!
+
+**Update în 23 ianuarie 2023:** Aproape din greșeală am observat că în 8 ianuarie 2023 versiunea pe Jekyll [a împlinit](https://www.rusiczki.net/2018/01/08/a-new-blogging-engine/) 5 anișori.

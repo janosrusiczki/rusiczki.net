@@ -4,6 +4,8 @@ title: Search
 ---
 <div id="search-searchbar"></div>
 
+<div id="search-powered-by"></div>
+
 <div id="search-hits"></div>
 
 <!-- Including InstantSearch.js library and styling -->
@@ -32,19 +34,27 @@ title: Search
     instantsearch.widgets.searchBox({
       container: '#search-searchbar',
       showSubmit: false,
+      placeholder: 'Just type here and see the magic happen...',
+    }),
+    instantsearch.widgets.poweredBy({
+      container: '#search-powered-by',
+      theme: 'dark',
     }),
     instantsearch.widgets.hits({
       container: '#search-hits',
       templates: {
         item(hit, { html, components }) {
-          const date = new Date(hit.date * 1000)
-          const localeStringOptions = {
-            weekday: 'long',
-            year: 'numeric',
-            month: 'long',
-            day: 'numeric'
-           }
-          const formattedDate = date.toLocaleString('en-US', localeStringOptions)
+          let formattedDate = 'No Date'
+          if(hit.date != undefined) {
+            const date = new Date(hit.date * 1000)
+            const localeStringOptions = {
+              weekday: 'long',
+              year: 'numeric',
+              month: 'long',
+              day: 'numeric'
+             }
+            formattedDate = date.toLocaleString('en-US', localeStringOptions)
+          }
           return html`
             <div class="post">
               <h1 class="post-title">
@@ -63,13 +73,38 @@ title: Search
   
   search.start();
 </script>
-
 <style>
-  #search-searchbar {
-    margin-bottom: 1rem;
+  .ais-SearchBox-input {
+    width: 100%;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 7px;
+    border: 1px solid #aaa;
+    appearance: none;
   }
-
-  .ais-search-box {
-    max-width: 100%;
+  
+  .ais-SearchBox-input:focus {
+    outline: 0;
+  }
+  
+  .ais-SearchBox-reset {
+    margin-left: -27px;
+  }
+  
+  .ais-SearchBox-reset svg {
+    display: block;
+    fill: #aaa;
+    width: 15px;
+    height: 15px;
+  }
+  
+  #search-powered-by {
+    margin-top: 0.3em;
+    margin-bottom: 2em;
+  }
+  
+  .ais-PoweredBy-link {
+    margin-left: auto;
+    font-size: 0.8em;  
   }
 </style>

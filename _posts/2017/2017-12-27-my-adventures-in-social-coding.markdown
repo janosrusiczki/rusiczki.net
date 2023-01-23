@@ -5,6 +5,7 @@ categories:
 - ruby
 - technical
 - work
+description: A history of my involvement in developing / maintaining Jekyll Asset Pipeline.
 ---
 At the beginning of 2014 I accepted to work on a project for a friend and since it was a simple presentation site I decided to build it in Jekyll[^1]. (Throughout this post I will add explanations for non technical people as footnotes.) By the time I got started on this project I was kind of spoiled by [Rails](http://rubyonrails.org/)' asset pipeline[^2] functionality which was missing from Jekyll, but I quickly found [a plugin](https://github.com/matthodan/jekyll-asset-pipeline) which promised to deliver this. Taking a closer look at its GitHub repository I noticed that the original author has not touched it for half a year or so and some of the pull requests[^3] were pretty straight forward so I decided to fork[^4] the repository and integrate those changes. Thanks to the magic of git and the Internet, I can "retrace" the timeline of what happened to my fork:
 

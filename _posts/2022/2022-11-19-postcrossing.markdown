@@ -3,8 +3,9 @@ layout: post
 title: Postcrossing
 date: 2022-11-19 12:08:00 +0200
 categories:
-- Cronica
-- Hobby
+- life
+- cronică
+- hobby
 image: https://content.rusiczki.net/2022/11/postcrossing-album-resized.jpg
 description: În câteva cuvinte despre pasiunea mea de a primi și trimite cărți poștale.
 ---

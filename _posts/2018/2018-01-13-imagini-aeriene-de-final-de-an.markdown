@@ -7,6 +7,8 @@ categories:
 - photos
 - drone
 - română
+description: Fotografii făcute cu drona Lacului Albastru și orașului Baia Sprie.
+image: https://content.rusiczki.net/2018/01/drona-baia-sprie-1000x750.jpg
 ---
 [![Lacul Albastru văzut din dronă](https://content.rusiczki.net/2018/01/drona-lacul-albastru-1000x750.jpg)](https://content.rusiczki.net/2018/01/drona-lacul-albastru.jpg){:.glightbox}
 

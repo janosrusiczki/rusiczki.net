@@ -33,3 +33,5 @@ De fapt migrarea spre GitHub Actions a fost ceea ce mi-a "reanimat" activitatea 
 PS. După ce am publicat acest articol am remarcat că pagina principală conține un mic Inception, sau cum spunem noi programatorii, _este recursivă_: blogul arată un screenshot cu blogul care arată un screenshot cu blogul cum arăta mai de mult. Am făcut [un screenshot](https://content.rusiczki.net/2023/01/rusiczki-net-2023-01-12-inception.png){:.glightbox} să imortalizez momentul... Ăăă, așadar am făcut un screenshot cu blogul aratând un screenshot cu blogul arătând un screenshot cu blogul cum arată mai de mult. OK, am terminat.
 
 PS 2. Mi-am dat seama ce mai lipseau: categoriile! Cu toate că în spatele cortinelor existau printre informațiile care acompaniază articolele (mai pe românește: în metadata), nu mai erau afișate de la ultima schimbare de motor de blog. Dar acum apar din nou la capătul fiecărui articol. Yey!
+
+**Update în 23 ianuarie 2023:** Aproape din greșeală am observat că în 8 ianuarie 2023 versiunea pe Jekyll [a împlinit](https://www.rusiczki.net/2018/01/08/a-new-blogging-engine/) 5 anișori.

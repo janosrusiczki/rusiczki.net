@@ -1,0 +1,49 @@
+Am publicat acum o săptămână un articol puțin mai misterios, intitulat scurt "Zbor", conținând o poză de deasupra cu casa mea părintească din Baia Sprie și în care ziceam că voi reveni cu detalii. Am procedat în acest fel fiindcă am simțit nevoia să marchez weekend-ul primelor zboruri cu noua mea jucărie dar știam că dacă mă apuc să scriu un articol mai "serios" va dura ceva. Dar iată că a venit și momentul articolului serios.
+
+Această însemnare va fi așadar despre visul de a zbura. Mai precis despre a vedea lumea din aer.
+
+Desigur, așa cum fac întotdeauna, voi începe cu o recapitulare: Era 2008 iar eram în toiul pasiunii pentru fotografie… De fapt era o perioadă în care tocmai descopeream mașina și magia plimbărilor motorizate documentate prin poze și văzând undeva pe Internet un video filmat dintr-un elicopter telecomandat m-am gândit că ăsta ar fi următorul nivel: să fac filmări și fotografii din aer. Mă gândeam câte puncte de coolness aș putea acumula, peste noapte așa...
+
+<a href="http://www.rusiczki.net/wp-content/uploads/2014/12/align-trex-450se-v2.jpg"><img src="http://www.rusiczki.net/wp-content/uploads/2014/12/align-trex-450se-v2.jpg" alt="Align TRex 450SE V2-ul meu într-o duminică dimneața” width="1866" height="1247" class="alignnone size-full wp-image-4940" /></a>
+
+Îmi amintesc cum după niște căutări i-am scris parcă unui ins care vindea un elicopter RC pe eBay și l-am întrebat cum e cu fotografia aeriană iar el mi-a răspuns că întâi trebuie de învățat pilotajul și abia după aia poate veni vorba de fotografiat sau filmat. Desigur am cam ignorat sfatul și mi-am luat un Align TRex 450SE V2, un elicopter RC făcut mai mult pentru acrobații. L-am construit, apoi am cam rămas blocat de frica să nu-l fac țăndări și am exersat mai mult hover-uri (stat în plutire în fața mea) decât zboruri în adevarătul sens al cuvântului. După multe-multe ore pe simulator, 2 prăbușiri și exersat mult cu un alt elicopter miniscul și foarte rezistent (care l-am cumpărat ulterior) am reușit în sfârșit să învăț să-l pilotez și pe cel mare. Asta s-a întâmplat la doi ani după achiziție, în vara anului 2010.
+
+https://www.youtube.com/watch?v=O0VRtAUWOxQ
+
+Încă dinainte de această mare reușită, în iarna lui 2010, când îmi primisem GoPro-ul, am făcut niște teste încercând să montez camera la bordul elicopterul dar rezultatul a fost dezamăgitor, vibrațiile cauzând ceea ce am aflat ulterior că se numește “jello”, practic întreaga filmare dând impresia ca și cum ar fi fost trasă printr-o masă gelatinoasă căreia i s-a dat un bobârnac sănătos în prealabil.
+
+Încă pe atunci am avut un prieten care s-a lansat în aventura zborului FPV (first person view) cu avionul lui telecomandat dar datorită prețului care mie mi se părea cam mare și apoi a lipsei de timp nu m-am băgat. Am revenit pe zona RC abia în 2012 - 2013 dar nu în varianta zburătoare ci cea terestra, a mașinuțelor. Pot să zic că în 2013 m-am distrat foarte bine descoperind nou înființata pistă de la Satu Mare și participând la felurite concursuri acolo și la Miercurea Ciuc.
+
+La finalul anului trecut am început să am idei despre un multicopter autonom - căreia să-i pot seta niște puncte pe hartă care să le atingă după care să se întoarcă acasa, dar apoi am auzit de o lege sau o propunere de lege, care dorea să interzică modelele zburătoare telecomandate, la modul tipic românesc de tip “blanket”. Adică nu facem diferențe că nu ne pricepem, interzicem pur și simplu tot ce zboară și e telecomandat fără excepții.
+
+[filmuleț cu pod racing]
+
+Derulăm câteva luni înainte și suntem în toamna acestui an, când am dat peste filmulețul de mai sus și mi-au revenit ideile de construit o zburătoare. În plus aflasem că s-a renunțat la acea lege. Aproximativ concomitent am prins o ofertă bună de echipament FPV second hand pe forumul RHC format dintr-un transmițător video și o pereche de ochelari video cu receptor inclus. La foarte scurt timp după, într-o noapte când nu aveam somn am făcut niște research și apoi ceva cumpărături. A urmat agonia așteptării coletului din China dar după aproximativ o lună plus câteva seri concentrate de construcție a rezultat…
+
+[poză cu zmr-ul]
+
+Tehnic se numește 250 class FPV racer. “250 class” fiindcă are 25 de centimetri între elici, “FPV” deoarece fiind destul de mic cel mai bine se pilotează de la bordul virtual și “racer” fiindcă se pretează excelent pentru ceea ce se vede în filmulețul de mai sus.
+
+După multe încercări cu el ținut în mână l-am încercat pe viu cu multă emoție într-o dimineață în grădina din spatele casei. S-a ridicat fără probleme. Următorul pas a fost să încerc FPV-ul într-un loc deschis (la Izvoare) și era să iasă o catastrofă dar am reușit s-o evit eroic aterizând în siguranță. Concluzia: nu eram pregătit pentru FPV și am hotărât atunci și acolo că îmi voi lua și un ecran, că parcă trecerea directă de la perspectiva normală la ochelari e o deconectare prea bruscă - cu ecranul mai poți arunca o privire și la model să te asiguri că totul e în regulă.
+
+Pot să spun însă că skill-urile de pilotare deprinse pentru elicopter mi-au fost de ajutor, și aparent sunt ca mersul pe bicicletă, căci după niște încălzire psihică, mi-am cam reintrat în mână. Cei care au zburat chiar și un elicopter de jucărie cumpărat de la supermarket știu la ce mă refer prin skill-uri de pilotare: când de exemplu întorci elicopterul cu fața înspre tine, comenzile se inversează, și creierul trebuie să se “învârtă” după el. Din păcate deodată cu skill-urile mi-am amintit și de morcovul ce-l aveam când zburam elicopterele, cu toate că nu mai e cazul, multicopterul fiind echipat cu un flight controller, un autopilot care în momentul în care lași de manete aduce toată șandramaua la orizontal și-l ține relativ stabil sus în cer. TRex-ul în schimb făcea tot ce-i stătea în puteri să se întâlnească cu solul cât mai urgent. Niște precauție nu strică dar trebuie să mă mai relaxez.
+
+Desigur, printre primii pași făcuți a fost să montez GoPro-ul pe el dar cu toate că avea un sistem destul de eficient de reducere a vibrațiilor și efectul de gelatină dispăruse se resimțea pe filmare orice corectură minusculă. Pe scurt: filmările lăsau de dorit. Și văzusem filmări făcute cu hexacoptere cu gimbal și am intrat din nou la idei și am început să fac cercetări.
+
+Și de la cercetări până la un Team Blacksheep Discovery Pro a fost doar un pas.
+
+[poză cu discovery-ul]
+
+După o altă săptămână de cositorit, înșurubat și umblat prin soft-uri am făcut maiden-ul sămbăta trecută și pot să spun că a fost cel mai documentat maiden ce l-am făcut vreodata. Am filmat de la o distanță sigură cu aparatul meu și m-a filmat amicul din spate cu telefonul… Dacă ceva nu mergea bine aveam ce studia. Dar din fericire a fost totul OK. Din prima desprindere de sol mi-am dat seama că direcția de rotire e inversată așa că l-am pus rapid jos, am scos laptopul din geantă și am umblat la setări. A doua desprindere a fost deja OK, am plutit puțin în fața mea și toate comnezile păreau să funcționeze corect. După astea am comutat din mod manual în mod GPS (automat) și am făcut o decolare și așa iar la 3-a decolare filmam deja.
+
+Și când am revăzut filmarea am avut cred cea mai mare satisfacție din ultimii ani. Super stabilitate, parcă era bătută în cuie camera în cer. Am mai făcut câteva zboruri în ziua aia și ziua următoare iar apoi din motive meteo a trebuit să stau la sol, dar urmează în acest weekend noi zboruri. Au fost niște mici probleme cu gimbal-ul dar am realizat că am reușit să montez rulmentul strâmb. De două ori. În fine, acum e bine, se mișcă foarte fin.
+
+[după cum se vede din poza de mai sus, lipsește echipamentul fpv - china, așteptare infinită]
+
+Cei care au studiat cât de cât domeniul ar putea să mă întrebe: dar stai, de ce nu ți-ai luat un DJI Phantom? Din mai multe motive. În primul rând eu eram copilul ăla care-și strica toate jucăriile pentru că le desfăcea să vadă cum funcționează, iar la momentul actual sar în sus de bucurie la orice ocazie care-mi oferă șansa să construiesc lucruri, fie că e vorba de modele radiocomandate, obiecte din lemn (a se vedea lada mea de compost), mici îmbunătăți prin casă sau software - cu asta îmi și câștig pita de zi cu zi. Așa că am ales un kit care are multiple posibilități de personalizare / upgrade. Apoi Phantom-ul era prea mură în gură, cu controalele mult simplificate și nu mă simțeam bine și împlinit ca după ce m-am chinuit 2 ani să învăț cum se pilotează un elicopter RC să revin la nivelul de grădiniță. A, și nu în ultimul rând, ieșeam mai scump cu el.
+
+În plus, ca o cârcoteală despre Phantom: acest quadcopter atât de accesibil e și cel care dă apă la moară celor care vor să mânjească acest hobby. Probabil ați observat că nu am folosit în acest articol termenul de dronă, acesta având după părerea mea conotații negative, fiind folosit de media pentru a descrie aceste mașinării zburătoare în contexte dezavantajoase. Coborând ștacheta de accesibilitate atât de jos pentru un model zburător potențial periculos ajungi să ai băieți cu portmoneu gros care fac tâmpenii în serie: zboară în jurul aeroporturilor, încalcă dreptul la intimitate al altora, se lovesc în oameni și în general fac tâmpenii care ar putea fi evitate dacă respectivii ar sta și ar gândi câteva secunde înainte să decoleze.
+
+- primul plan se întoarce cumva la idea de la începutul însemnării - voi încerca să filmez cât se poate de mult prin MM și apoi la sfârșitul anului să public un mic montaj
+- combinat cu filmări utilitare (probabil oameni alunecând pe zăpadă și bicicliști)
+- la cum se fură mai nou pe FB toate filmările vor fi publicate cu ditai watermark-ul cu adresa web

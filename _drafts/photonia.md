@@ -1,0 +1,1 @@
+Since I was always passionate about photography and one of the most important moments of my life was getting my first digital camera I wanted a photo gallery pretty soon after I started this blog. And checking The Internet Archive I noticed that I actually had a gallery section here on the site.

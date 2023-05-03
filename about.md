@@ -23,9 +23,9 @@ My name is János Rusiczki and this is my personal space on the Internet, but yo
 
 - I'm married to [Ioana](http://www.flickr.com/photos/ioana) and we have a daughter Anna, [born](https://www.rusiczki.net/2016/02/08/rusiczki-anna-olivia/) on February 8, 2016.
 - I like dogs almost as much as I love cats.
-- I love tea but don't really drink coffee.
-- I ditched my Cola addiction in the spring of 2014.
-- I used to try out new beers, but then I stopped drinking alcohol completely around the summer of 2015.
+- I love tea ~~but don't really drink coffee~~ - I started drinking coffee on a daily basis around the year 2020.
+- ~~I ditched my Cola addiction in the spring of 2014~~ - And then it returned.
+- I used to try out new beers, but then I stopped drinking alcohol completely around the summer of 2015. After around three years I had to try some new beers and drank one beer almost daily for about a year. Then I had a break, then drank again, then again a break and so on. I had the last consistent break in 2021 when I didn't drink alcohol for the whole year.
 - Musicwise I used to prefer electronic (dance) music (not EDM) but nowadays I'm more like an omnivore.
 - I don't really like horror or violent movies. Except if they're directed by Tarantino.
 

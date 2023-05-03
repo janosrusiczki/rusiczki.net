@@ -33,7 +33,7 @@ Demos și muzică în format XM. Știu că nu era în stare să redea filmele Di
 
 Diskmag scris în Pascal și OS grafic în Rhide minunându-mă de ce poate face programarea orientată pe obiecte.
 
-### 2. Al doilea, upgrade-ul necesar
+### 2. Upgrade-ul necesar, primul Athlon
 
 2001, ianuarie (conform CG Forum probabil - fara CG Forum nu știam nimic despre configurația asta în afara de procesor probabil) - AMD 800, GeForce MX 2 (cumpărat separat???, îl aveam deja în februarie 2002), Soltek sl-75kv2-x / Duron 800 / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 MB RAM, probabil am început cu 128 și am pus pus ulterior 64 de mega de undeva.
 
@@ -77,7 +77,9 @@ minidisc sony - 2001 - 2004 (este mentionat în articolul cu switch) - https://w
 
 in 2001 chiar făceam ceva ieșit din comun pentru un băisprian :)
 
-3. 2003, probabil în mai sau vara - Epox EP-8RDA - AMD Athlon XP 2000+
+### 3. Al doilea Athlon
+
+2003 probabil în mai sau vara - Epox EP-8RDA - AMD Athlon XP 2000+
 
 Din păcate nu îmi amintesc mai nimic despre acest upgrade și îmi vine cumva greu a crede că am rezistat cu acest procesor 3 ani jumate. De la Remus Kolozsvari - https://www.rusiczki.net/2004/04/23/re-building-a-computer/ pe la final.
 
@@ -89,7 +91,9 @@ Ca să fie și mai confuz, aici spun că am un procesor de 1.66 ghz care corespu
 
 despre harddisc-uri https://www.rusiczki.net/2003/10/23/the-price-of-laziness/
 
-4. 2004.04.23 - Epox EP-8RDA3I - AMD Athlon XP 2000+
+### 4. Al treilea Athlon
+
+2004.04.23 - Epox EP-8RDA3I - AMD Athlon XP 2000+
 
 rocada intre cele 2 epox-uri https://www.rusiczki.net/2004/04/23/re-building-a-computer/
 Placa de bază am găsit-o cu 768 MB RAM instalați
@@ -109,7 +113,9 @@ ipod nou https://www.rusiczki.net/2004/01/11/a-week-of-packages-part-2-ipod/
 
 dvd writer Teac DV-W58G https://www.rusiczki.net/2004/04/01/brief/ - https://www.cnet.com/products/teac-dv-w58g-dvdrw-drive-ide-internal/
 
-5. 2007.02.06 - Intel Dual Core
+### 5. Revenirea la Intel
+
+2007.02.06 - Intel Dual Core
 
 despre upgrade-ul din 2006 / 2007 - https://www.rusiczki.net/2007/03/14/the-masterpiece-is-almost-complete/
 
@@ -131,7 +137,9 @@ cred ca dupa ce mi-am luat lcd-ul si am avut un "calculator în plus" după ce a
 
 August 16, 2011 - Marea pauza Mac. Today I started up my PC which I haven't used since last year and look what I found in Chrome
 
-6. 2011.10.07 - Intel i5 2500k
+### 6. Revenirea din pauza de Mac
+
+2011.10.07 - Intel i5 2500k
 
 Cumpărată de la debo.ro, 2011.10.07, poză cu garantia pe Google Photos, actele probabil printre facturile PFA :)
 
@@ -162,9 +170,15 @@ Reservoir: Innovatek AGB-O-Matic
 
 2014.09.17 (comanda) Carcasă NZXT H440
 
-7. Intel i7 7700k
+### 7. Tot Intel, pentru gaming
+
+Intel i7 7700k
 
 Din 2017 tot duceam la Baia Sprie laptop-ul să plătesc facturile prin Internet până m-am enervat și am luat o placă de bază de putere laptop low end.
+
+### 8. După 23 de ani, primul laptop cu Windows
+
+2022
 
 Placi de sunet:
 

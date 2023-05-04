@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-I've built a photo gallery for myself! But first, a bit of history...
+I've finally built a photo gallery for myself! But first, a bit of history...
 
 I was always passionate about photography and one of the most important moments of my life was [getting my first digital camera](https://www.rusiczki.net/2012/05/17/aventuri-in-fotografia-digitala/), so almost immediately after I started this blog I wanted my own photo gallery. And checking The Internet Archive reminded me that I actually had a gallery section here on the site and I also have [a 20+ year old post about customizing Gallery](https://www.rusiczki.net/2003/02/19/gallery/). I vaguely remember trying out that web app to upload some of my photos but I also remember it left a lot to be desired, back then I wanted things to integrate with the layout of the blog as tightly as possible and Gallery was not suitable for that.
 

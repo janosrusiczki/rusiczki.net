@@ -16,7 +16,7 @@ To this:
 
 ![new-server.png](https://content.rusiczki.net/blogpics/new-server.png)
 
-For just $30 per month more... I'd say it's worth it! I don't want to sound like a [Planet](http://www.theplanet.com) fanboy but their [server specials](http://www.theplanet.com/dedicated-servers/server-specials/) are just awesomely priced. Plus I've got the setup waived after speaking with a support person cause my card didn't went through at first.
+For just $30 per month more... I'd say it's worth it! I don't want to sound like a [Planet](http://www.theplanet.com) fanboy but their [server specials](http://www.theplanet.com/dedicated-servers/server-specials/) are just awesomely priced. Plus I've got the setup waived after speaking with a support person cause my card didn't go through at first.
 
 Well, that's the news.
 

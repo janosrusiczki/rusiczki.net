@@ -25,9 +25,9 @@ Jocuri cu prietenii: campionate de NFS2, Worms 2, CD-urile cu [Faithless - Sunda
 
 Tot în perioada asta a primului calculator și a facultății am încercat să-mi găsesc un job. Îmi amintesc foarte bine că prima încercare a fost la Trodat Ștampile. Am găsit un prieten pe IRC care lucra la Interscope, am incercat și acolo fără succes căci cerințele erau avansate pentru mine. În timpul redactării acestui articol mi-am amintit că acest prieten mi-a influențat cel puțin o decizie de achiziție hardware, sunt sigur că al doilea monitor, un Hansol, întâi l-am văzut la el apoi el mi l-a recomandat. Am mai fost și am încercat la o firmă, am primit assignment să fac o galerie foto pentru un festival folcloric din Sighetul Marmației, am făcut-o, le-am dus-o, nu m-au luat, dar galeria foto a ajuns online. Salutări domnule Lobonțiu!
 
-După aproximativ un an de la cumpărarea calculatorului, în toamna anului 1999, am reușit să mă angajez la Internet Cafe-ul facultății - în sfârșit am avut acces la Internet.
+După aproximativ un an de la cumpărarea calculatorului, în toamna anului 1999, am reușit să mă angajez la Internet Cafe-ul facultății - în sfârșit am avut acces la Internet. Și astfel și-a pierdut și calculatorul meu garanția.
 
-Fratele lui Racolța și upgrade-urile lui prin anul 2 de facultate (99 - 2000), pentru mine acceleratoarele grafice văzute la el (Voodoo) erau ceva de domeniul viselor.
+Fratele unui coleg de liceu și upgrade-urile lui prin anul 2 de facultate ('99 - 2000), pentru mine acceleratoarele grafice văzute la el (Voodoo) erau ceva de domeniul viselor.
 
 Demos și muzică în format XM. Știu că nu era în stare să redea filmele DivX fără să sacadeze. M-am chinuit să convertesc ceva film (cred că a fost vorba de Fight Club) și după ore bune de conversie în VirtualDub a dat eroare. Nici VST-urile nu mergeau, dar mergea FastTracker 2, mergea Hammerhead de la Bram Bros.
 
@@ -35,13 +35,13 @@ Diskmag scris în Pascal și OS grafic în Rhide minunându-mă de ce poate face
 
 ### 2. Upgrade-ul necesar, primul Athlon
 
-2001, ianuarie (conform CG Forum probabil - fara CG Forum nu știam nimic despre configurația asta în afara de procesor probabil) - AMD 800, GeForce MX 2 (cumpărat separat???, îl aveam deja în februarie 2002), Soltek sl-75kv2-x / Duron 800 / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 MB RAM, probabil am început cu 128 și am pus pus ulterior 64 de mega de undeva.
+2001, ianuarie (conform CG Forum probabil - fara CG Forum nu știam nimic despre configurația asta în afara de procesor probabil) - AMD Duron 800, Soltek sl-75kv2-x / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 MB RAM, probabil am început cu 128 și am pus pus ulterior 64 de mega de undeva.
 
 Am avut noroc că aveam o colegă care în ultimul an de facultate lucra deja la o firmă numită Cumulus Logic care funcționa în clădirea în care este acum (de foarte mulți ani, de fapt) Eurohotel. Ea mi-a făcut o ofertă care presupunea să îmi cumpere componentele vechi. Restul banilor au provenit din salariul infim pe care-l primeam la Internet Cafe-ul la care lucram, puși de-o parte pentru o vacanță de vară care nu s-a mai întâmplat.
 
 Dar tot de pe la începutul lui 2001 am început să și lucrez la prima firmă "serioasă".
 
-Când mi-am luat acceleratorul grafic am fost efectiv în al noulea cer, am putut să iau la rând jocurile la care am râvnit și care nu-mi mergeau pe configurația anterioare. Știu că am terminat tot ce era Half Life cu toate de expansiunile existente și apoi am jucat foarte mult Tony Hawk's Pro Skater 2.
+Când mi-am luat acceleratorul grafic (posibil separat de restul calculatorului?) am fost efectiv în al nouălea cer, am putut să iau la rând jocurile la care am râvnit și care nu-mi mergeau pe configurația anterioare. Am o amintire vagă cum că în acea vară aș fi umblat după jocuri, și știu că am terminat tot ce era Half Life cu toate de expansiunile existente și apoi am jucat foarte mult Tony Hawk's Pro Skater 2.
 
 La început de 2002 s-a și încheiat firma asta și am început să lucrez de acasă cu clientul pentru care lucram și de la firmă, câștigam mult mai bine, eram toată ziua la calculatorul propriu și am investit foarte mult în componente și periferice.
 

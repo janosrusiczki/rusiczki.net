@@ -19,7 +19,7 @@ Așadar în toamna lui 1998 mi-au cumpărat părinții primul calculator: proces
 
 M-au delegat pe mine să cercetez și să decid de unde iese mai bine, și mi l-au cumpărat de la Sprint Computers pentru că m-am gândit că e mai bine să cumperi cu garanție de la o firmă consacrată decât de la bișnițari - greșit! Un prieten, Radu, și-a luat aproximativ deodată cu mine un Pentium 2 "Klamath" la 350 MHz, placă de bază Intel 440BX, video Intel i740. El nu și l-a luat de la firmă, parcă a fost și mai ieftin decât ce-mi luasem eu și știu că mergeam pe la el și mă minunam că-i mergeau jocurile care aveau nevoie de accelerator grafic, ceea ce eu nu aveam.
 
-Primul CD-ROM venit cu calculatorul, marca Cyberdrive, era oribil, tot "freca" unele CD-uri în loc să le citească, până nu am mai rezistat si i-am dat un pumn. După asta nu a mai citit nimic. Având garanție, l-am dus înapoi la Sprint și după o vreme m-au anunțat că: "nu știm ce a avut, nu am mai văzut defecțiunea asta dar vi l-am înlocuit cu un Philips". Uraaaa!
+Primul CD-ROM venit cu calculatorul, marca Cyberdrive, era oribil, tot "freca" unele CD-uri în loc să le citească, până nu am mai rezistat si i-am dat un pumn. După asta nu a mai citit nimic. Având garanție, l-am dus înapoi la Sprint și după o vreme m-au anunțat ceva de genul: "nu știm ce a avut, nu am mai văzut defecțiunea asta dar vi l-am înlocuit cu un Philips". Uraaaa! Cu Philips-ul nu au mai fost probleme.
 
 Jocuri cu prietenii: campionate de NFS2, Worms 2, CD-urile cu [Faithless - Sunday 8 PM](https://www.discogs.com/master/28340-Faithless-Sunday-8PM) și [The Chemical Brothers - Brothers Gonna Work It Out](https://www.discogs.com/master/12777-The-Chemical-Brothers-Brothers-Gonna-Work-It-Out) constant in drive.
 

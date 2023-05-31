@@ -31,7 +31,9 @@ Fratele unui coleg de liceu și upgrade-urile lui prin anul 2 de facultate ('99 
 
 Demos și muzică în format XM. Știu că nu era în stare să redea filmele DivX fără să sacadeze. M-am chinuit să convertesc ceva film (cred că a fost vorba de Fight Club) și după ore bune de conversie în VirtualDub a dat eroare. Nici VST-urile nu mergeau, dar mergea FastTracker 2, mergea Hammerhead de la Bram Bros.
 
-Diskmag scris în Pascal și OS grafic în Rhide minunându-mă de ce poate face programarea orientată pe obiecte.
+Diskmag scris în Pascal.
+
+Am început un OS grafic folosind DJGPP și RHIDE și minunându-mă de ce poate face programarea orientată pe obiecte. DJGPP l-am ales pentru că era portul GCC-ului de pe Linux, iar RHIDE ca IDE pentru că avea interfața și shortcut-urile familiare din produsele Borland, adică în cazul meu Pascal.
 
 ### 2. Upgrade-ul necesar, primul Athlon
 

@@ -35,6 +35,8 @@ Diskmag scris în Pascal.
 
 Am început un OS grafic folosind DJGPP și RHIDE și minunându-mă de ce poate face programarea orientată pe obiecte. DJGPP l-am ales pentru că era portul GCC-ului de pe Linux, iar RHIDE ca IDE pentru că avea interfața și shortcut-urile familiare din produsele Borland, adică în cazul meu Pascal.
 
+Lecturând revistele acelor vremuri mi-am mai amintit că eram un utilizator convins de Paint Shop Pro, mă simțeam cumva rebel și diferit față de cei care foloseau Photoshop.
+
 ### 2. Upgrade-ul necesar, primul Athlon
 
 2001, ianuarie (conform CG Forum probabil - fara CG Forum nu știam nimic despre configurația asta în afara de procesor probabil) - AMD Duron 800, Soltek sl-75kv2-x / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 MB RAM, probabil am început cu 128 și am pus pus ulterior 64 de mega de undeva.

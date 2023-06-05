@@ -5,7 +5,7 @@ date: 2022-06-05 12:51:00.000000000 +02:00
 categories:
 - cronică
 - tehnic
-image: https://content.rusiczki.net/2022/10/ecuson-tabara-informatica.jpg
+image: https://content.rusiczki.net/2023/06/gata-noul-numar-de-casa-resized.jpg
 description: Mi-am proiectat și fabricat număr de casă la imprimanta 3D
 ---
 Am tot vrut să scriu despre cum am moștenit casa părintească după ce am pierdut-o pe mama și despre cum m-a făcut nevoia să-mi îmbunătățesc încet dar sigur aptitudinile de meștereală. De asemenea am vrut să scriu despre aventurile mele cu imprimante 3D și proiecțelele mele. Am și scris de fapt, dar nu am finalizat articolele, așa că acum voi descrie un proiecțel fără prea mult context...

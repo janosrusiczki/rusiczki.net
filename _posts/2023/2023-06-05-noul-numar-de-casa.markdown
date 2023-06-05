@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title: Noul număr de casă
 date: 2022-06-05 12:51:00.000000000 +02:00

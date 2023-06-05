@@ -8,17 +8,17 @@ categories:
 image: https://content.rusiczki.net/2023/06/gata-noul-numar-de-casa-resized.jpg
 description: Mi-am proiectat și fabricat număr de casă la imprimanta 3D.
 ---
-Am tot vrut să scriu despre cum m-a împins nevoia să-mi îmbunătățesc încet dar sigur aptitudinile de meștereală deorece am moștenit casa părintească. De asemenea am vrut să scriu despre aventurile mele cu imprimantele 3D și proiecțelele aferente. Am și scris de fapt, dar nu am finalizat (încă) articolele, așa că acum voi descrie un proiect "proaspăt" fără prea mult context...
+Am tot vrut să scriu despre cum mi-am îmbunătățit încet dar sigur aptitudinile de meșter al casei după ce am moștenit casa părintească. De asemenea am vrut să scriu despre aventurile mele cu imprimantele 3D și proiectarea aferentă. Am și scris de fapt, dar nu am finalizat (încă) articolele, și acum aș vrea să public acest articol până subiectul e proaspăt cu dezavantajul că nu va avea contextul dorit.
 
 Cum tot fac _mici_ îmbunătățiri și meștereli în jurul casei (nicidecum cele _mari_ și _necesare_ cum ar fi hidroizolația sau acoperișul) după ce am dat jos într-o bună zi cutia poștală antică, pentru că eram singura casă care avea două, am copt planul înlocuirii numărului de casă cu unul 3D printat. Asta deorece cel curent arată așa:
 
 [![Vechiul număr de casă](https://content.rusiczki.net/2023/06/vechiul-numar-de-casa.jpg)](https://content.rusiczki.net/2023/06/vechiul-numar-de-casa-resized.jpg){:.glightbox}
 
-După câteva încercări nereușite l-am rugat pe [Bogdan Roșu](https://bogdanrosu.com/) să-mi traseze vectorial cifrele. La o privire mai atentă se vede că de fapt sunt 2 fonturi diferite, și îmi plăcea mai mult stilul cu codițe al lui 3 așa că am precizat să-mi facă și 2-ul la fel. Am primit destul de rapid răspuns și mi-a convenit din start (nu degeaba e Bogdan meșterul fonturilor, hehe).
+După câteva încercări nereușite l-am rugat pe prietenul [Bogdan Roșu](https://bogdanrosu.com/) să-mi traseze vectorial cifrele. La o privire mai atentă se vede că de fapt sunt 2 fonturi diferite și îmi plăcea mai mult stilul cu codițe al lui 3 așa că am precizat să-mi facă și 2-ul la fel. Am primit destul de rapid răspuns și mi-a convenit din start (nu degeaba e Bogdan meșterul fonturilor, hehe).
 
 ![Cifrele trasate](https://content.rusiczki.net/2023/06/cifrele-trasate.jpg)
 
-Apoi după ce mi-am comandat filament (plasticul cu care lucreaza imprimanta 3D) albastru și alb am trecut la treabă să proiectez în Autodesk Fusion 360:
+Apoi după ce mi-am comandat filament (plasticul cu care lucreaza imprimanta 3D) albastru și alb am trecut la proiectat în Autodesk Fusion 360:
 
 [![Autodesk Fusion 360](https://content.rusiczki.net/2023/06/autodesk-fusion-360-1.png)](https://content.rusiczki.net/2023/06/autodesk-fusion-360-1-resized.png){:.glightbox}
 
@@ -26,10 +26,10 @@ Mai am două screenshot-uri din Fusion 360: [desenul tehnic pe care e bazată "r
 
 [![Noul număr pe imprimanta 3D](https://content.rusiczki.net/2023/06/noul-numar-pe-imprimanta-3d.jpg)](https://content.rusiczki.net/2023/06/noul-numar-pe-imprimanta-3d-resized.jpg){:.glightbox}
 
-Dupa alte 4 ore și un sfert (care a inclus și o schimbare de filament) eram gata:
+Dupa alte 4 ore și un sfert (care au inclus și schimbarea de filament din albastru în alb) era gata:
 
 [![Autodesk Fusion 360](https://content.rusiczki.net/2023/06/gata-noul-numar-de-casa.jpg)](https://content.rusiczki.net/2023/06/gata-noul-numar-de-casa-resized.jpg){:.glightbox}
 
-Nu știu cum va rezista în timp, teoretic ar trebui să fie destul de bine materialul fiind PET, adică același PET din care sunt făcute recipientele diferitelor băuturi și care zică-se că se descompune în circa 450 de ani... Probabil mai degrabă se va decolora de la razele UV, dar nicio grijă, salvez fișierele bine și tipăresc din nou. Sau voi vopsi peste.
+Nu știu cum va rezista în timp, teoretic ar trebui să țină destul de bine, materialul fiind PET, adică același PET din care sunt făcute recipientele diferitelor băuturi și care zică-se că se descompune în circa 450 de ani... Probabil mai degrabă se va decolora de la razele UV, dar nicio grijă, salvez fișierele bine și îl tipăresc din nou. Sau voi vopsi peste.
 
 Voi reveni cu un update îndată ce îl montez. 🙂

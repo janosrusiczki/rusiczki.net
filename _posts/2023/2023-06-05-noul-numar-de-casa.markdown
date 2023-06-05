@@ -6,7 +6,7 @@ categories:
 - cronică
 - tehnic
 image: https://content.rusiczki.net/2023/06/gata-noul-numar-de-casa-resized.jpg
-description: Mi-am proiectat și fabricat număr de casă la imprimanta 3D
+description: Mi-am proiectat și fabricat număr de casă la imprimanta 3D.
 ---
 Am tot vrut să scriu despre cum m-a împins nevoia să-mi îmbunătățesc încet dar sigur aptitudinile de meștereală deorece am moștenit casa părintească. De asemenea am vrut să scriu despre aventurile mele cu imprimantele 3D și proiecțelele aferente. Am și scris de fapt, dar nu am finalizat (încă) articolele, așa că acum voi descrie un proiect "proaspăt" fără prea mult context...
 

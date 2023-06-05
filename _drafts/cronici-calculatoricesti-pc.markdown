@@ -1,13 +1,13 @@
 ---
 published: false
 ---
-Am să încep acest ultim articol din seria celor dedicate amintirilor despre calculatoarele mele cu câteva cuvinte despre procesul de documentare: frustrant este că deși am avut deja acest blog în mare parte din perioada pe care vreau să o descriu aici, nu prea am scris despre calculatoare. Mă rog, de fapt veți găsi destul de multe linkuri în cele ce urmează - dar procentual au fost totuși rare mențiunile. Cu atât mai puțin am scris despre upgrade-uri și din păcate majoritatea discuțiilor pe care le-am avut despre acest subiect, le-am avut pe [Yahoo! Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) care după cum știți a murit de o bună bucată de vreme. Și nu salvasem arhivele discuțiilor așa cum [făceam mai pe la început](https://www.rusiczki.net/2022/03/15/cum-sa-calatoresti-in-timp-ghid-practic/) cu mail-urile, log-urile de IRC și multe alte chestii insignifiante.
+Am să încep acest ultim(?) articol din seria celor dedicate amintirilor despre calculatoarele mele cu câteva cuvinte despre procesul de documentare: frustrant este că deși am avut deja acest blog în mare parte din perioada pe care vreau să o descriu aici, nu prea am scris despre calculatoare. Mă rog, de fapt veți găsi destul de multe linkuri în cele ce urmează - dar procentual au fost totuși rare mențiunile. Cu atât mai puțin am scris despre upgrade-uri și din păcate majoritatea discuțiilor pe care le-am avut despre acest subiect, le-am avut pe [Yahoo! Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) care după cum probabil știți a murit de o bună bucată de vreme. Și nu salvasem arhivele discuțiilor așa cum [o făceam mai pe la început](https://www.rusiczki.net/2022/03/15/cum-sa-calatoresti-in-timp-ghid-practic/) cu mail-urile, log-urile de IRC și multe alte chestii insignifiante.
 
-Am avut însă un noroc enorm deoarece la un moment dat mi-a scris [un prieten](https://www.lucianmarin.se) că din cauza GDPR-ului (care urma să intre în vigoare) se va închide forumul computergames.ro și aruncând o privire acolo fără să mă aștept la mare lucru, căutând după postările mele am găsit o tonă de informații despre calculatoarele mele din epoca când eram foarte activ pe acel forum, adică în jurul turnurii de mileniu. Până în acel moment, cea mai bună șansă de a afla configurația primelor două calculatoare de-ale mele o consideram să găsesc pe CD-urile cu arhive scrisorile (în format .txt) trimise la diferiți omuleți cu care corespondam. Dar din păcate am cam eșuat pentru că fix primul meu CD cu arhive, s-a decojit la margine unde era arhiva de scrisori.
+Am avut însă un noroc enorm deoarece la un moment dat mi-a scris [un prieten](https://www.lucianmarin.se) că din cauza GDPR-ului (care urma să intre în vigoare) se va închide forumul computergames.ro ceea ce m-a îndemnat să arunc o privire acolo. Nu mă așteptam la mare lucru dar căutând după postările mele am găsit o tonă de informații despre calculatoarele mele din epoca când eram foarte activ pe acel forum, adică în jurul turnurii de mileniu. Până în acel moment, cea mai bună șansă de a afla configurația primelor două calculatoare de-ale mele o consideram să găsesc pe CD-urile cu arhive scrisorile (în format .txt) trimise la diferiți omuleți cu care corespondam. Dar din păcate am cam eșuat pentru că primul meu CD cu arhive, s-a decojit fix la margine unde era arhiva de scrisori.
 
-De asemenea încercasem acum câțiva ani să mă uit pe hard discurile care mai țineau fișiere din acele vremuri dar am constatat că din păcate au cedat și au început să clicăie. Totuși, pe la începutul lui 2022, făcând ordine prin camera mea din Baia Sprie am găsit niște CD-uri care nu făceau parte din seria mea oficială de CD-uri cu arhive dar am găsit pe unul dintre ele arhiva mail-boxurilor de pe vremea când lucram la Internet Cafe - despre asta [am scris un articol separat](https://www.rusiczki.net/2022/03/15/cum-sa-calatoresti-in-timp-ghid-practic/) - dar și ăsta s-a dovedit a fi un drum înfundat. Mai târziu, înspre vară, într-una dintre cutii am găsit un plic care nu dădea prea multe de bănuit, dar conținea cam toate bonurile, facturile și garanțiile pentru cumpărăturile IT din 2001 până în 2004 (când m-am mutat din Baia Sprie). În schimb facturile din perioada 2004 - 2007 (cât am stat în chirie la bloc), oricât le-am căutat, nu le-am mai găsit - probabil au fost aruncate din pod cu ocazia unei curățenii.
+De asemenea încercasem acum câțiva ani să mă uit pe hard discurile care mai țineau fișiere din acele vremuri dar am constatat că din păcate au cedat și au început să clicăie. Totuși, pe la începutul lui 2022, făcând ordine prin camera mea din Baia Sprie am găsit niște CD-uri care nu făceau parte din seria mea oficială de CD-uri cu arhive dar am găsit pe unul dintre ele arhiva mail-boxurilor de pe vremea când lucram la Internet Cafe - despre asta [am scris un articol separat](https://www.rusiczki.net/2022/03/15/cum-sa-calatoresti-in-timp-ghid-practic/) - dar și ăsta s-a dovedit a fi un drum înfundat. Mai târziu, înspre vară, într-una dintre cutii am găsit un plic care nu dădea prea multe de bănuit, dar conținea cam toate bonurile, facturile și garanțiile pentru cumpărăturile IT din 2001 până în 2004 (când m-am mutat din Baia Sprie), minus chestiile pe care le-am vândut, pentru că eram un fixist și ce vindeam dădeam cu totul, cutie, factură, etc. În schimb facturile din perioada 2004 - 2007 (cât am stat în chirie la bloc), oricât le-am căutat, nu le-am mai găsit - probabil au fost aruncate din pod cu ocazia vreunei curățenii.
 
-Dar să trecem la felul principal:
+Cam atât cu introducerea, să trecem la felul principal:
 
 ## PC-urile mele
 
@@ -19,29 +19,33 @@ Așadar în toamna lui 1998 mi-au cumpărat părinții primul calculator cu urm�
 
 M-au delegat pe mine să cercetez și să decid de unde iese mai bine, și mi l-au cumpărat de la Sprint Computers pentru că m-am gândit eu că e mai bine să cumperi cu garanție de la o firmă consacrată decât de la bișnițari - greșit! Un prieten, Radu, și-a luat aproximativ deodată cu mine un Pentium 2 "Klamath" la 350 MHz, placă de bază Intel 440BX, video Intel i740. El nu și l-a luat de la firmă, parcă a fost și mai ieftin decât ce-mi luasem eu și știu că mergeam pe la el și mă minunam că-i mergeau jocurile care aveau nevoie de accelerator grafic, ceea ce eu nu aveam.
 
-Primul CD-ROM venit cu calculatorul, marca Cyberdrive, era oribil, tot "freca" unele CD-uri în loc să le citească, până nu am mai rezistat si i-am dat un pumn. După asta nu a mai citit nimic. Având garanție, l-am dus înapoi la Sprint și după o vreme m-au anunțat că: "nu știm ce a avut, nu am mai văzut defecțiunea asta dar vi l-am înlocuit cu un Philips". Uraaaa! Philips-ul nu a mai avut probleme.
+Primul CD-ROM venit cu calculatorul, marca Cyberdrive, era oribil, tot "freca" unele CD-uri în loc să le citească, până nu am mai rezistat si i-am dat un pumn. După asta nu a mai citit nimic. Având garanție, l-am dus înapoi la Sprint și după o vreme m-au anunțat ceva de genul: "nu știm ce a avut, nu am mai văzut defecțiunea asta dar vi l-am înlocuit cu un Philips". Uraaaa! Cu Philips-ul nu au mai fost probleme.
 
-Jocuri cu prietenii: campionate de NFS2, Worms 2, CD-urile cu [Faithless - Sunday 8 PM](https://www.discogs.com/master/28340-Faithless-Sunday-8PM) și [The Chemical Brothers - Brothers Gonna Work It Out](https://www.discogs.com/master/12777-The-Chemical-Brothers-Brothers-Gonna-Work-It-Out) constant in drive.
+Jocuri cu prietenii: campionate de NFS2, Worms 2, CD-urile cu [Faithless - Sunday 8 PM](https://www.discogs.com/master/28340-Faithless-Sunday-8PM) și [The Chemical Brothers - Brothers Gonna Work It Out](https://www.discogs.com/master/12777-The-Chemical-Brothers-Brothers-Gonna-Work-It-Out) constant in drive. Single player am jucat și terminat Quake 2 și Tomb Raider 2. Acesta din urmă, cu toate că l-am terminat fără ajutor, fiind piratat avea toate filmulețele și vorbăria tăiate. Cred că citind ulterior un walkthrough în DLH (Dirty Little Helper) sau în vreo revistă am lecturat despre ceea ce trebuia să fi văzut în cutscenes și mi s-a legat povestea. Dar mai bine mai târziu decât niciodată.
 
 Tot în perioada asta a primului calculator și a facultății am încercat să-mi găsesc un job. Îmi amintesc foarte bine că prima încercare a fost la Trodat Ștampile. Am găsit un prieten pe IRC care lucra la Interscope, am incercat și acolo fără succes căci cerințele erau avansate pentru mine. În timpul redactării acestui articol mi-am amintit că acest prieten mi-a influențat cel puțin o decizie de achiziție hardware, sunt sigur că al doilea monitor, un Hansol, întâi l-am văzut la el apoi el mi l-a recomandat. Am mai fost și am încercat la o firmă, am primit assignment să fac o galerie foto pentru un festival folcloric din Sighetul Marmației, am făcut-o, le-am dus-o, nu m-au luat, dar galeria foto a ajuns online. Salutări domnule Lobonțiu!
 
 După aproximativ un an de la cumpărarea calculatorului, în toamna anului 1999, am reușit să mă angajez la Internet Cafe-ul facultății - în sfârșit am avut acces la Internet. După două sau trei zile în care am adus acasă "recolta" de descărcări din acea zi pe dischetă, la un moment dat am tras aer adânc în piept și am tăiat sigiliul. Adio garanție dar din fericire nu am avut nevoie de ea. Am tot făcut eu mici site-uri pro-bono, și cumva am ajuns să fac și site-ul facultății și mă tot lăudam în stânga și-n dreapta cu realizările mele așa că din senin mi-a scris un prieten că se inființează o firmă de web design și dacă nu aș vrea să fiu omul cu PHP. Am vrut, și așa mi-am început cariera în programare.
 
-Fratele lui Racolța și upgrade-urile lui prin anul 2 de facultate (99 - 2000), pentru mine acceleratoarele grafice văzute la el (Voodoo) erau ceva de domeniul viselor.
+Fratele unui coleg de liceu și upgrade-urile lui prin anul 2 de facultate ('99 - 2000), pentru mine acceleratoarele grafice văzute la el (Voodoo) erau ceva de domeniul viselor.
 
 Demos și muzică în format XM. Știu că nu era în stare să redea filmele DivX fără să sacadeze. M-am chinuit să descarc și să convertesc un film (cred că a fost vorba de Fight Club) și după ore bune de conversie în VirtualDub a dat eroare. Nici VST-urile nu mergeau, dar mergea FastTracker 2, mergea Hammerhead de la Bram Bros.
 
-Diskmag scris în Pascal și OS grafic în Rhide minunându-mă de ce poate face programarea orientată pe obiecte.
+Diskmag scris în Pascal.
 
-### 2. Al doilea, upgrade-ul necesar
+Am început un OS grafic folosind DJGPP și RHIDE și minunându-mă de ce poate face programarea orientată pe obiecte. DJGPP l-am ales pentru că era portul GCC-ului de pe Linux, iar RHIDE ca IDE pentru că avea interfața și shortcut-urile familiare din produsele Borland, adică în cazul meu Pascal.
 
-2001, ianuarie (conform CG Forum - fara CG Forum nu știam nimic despre configurația asta în afara de procesor probabil) - AMD 800, GeForce MX 2 (cumpărat separat???, îl aveam deja în februarie 2002), Soltek sl-75kv2-x / Duron 800 / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 MB RAM, probabil am început cu 128 și am pus pus ulterior 64 de mega de undeva.
+Lecturând revistele acelor vremuri mi-am mai amintit că eram un utilizator convins de Paint Shop Pro, mă simțeam cumva rebel și diferit față de cei care foloseau Photoshop.
+
+### 2. Upgrade-ul necesar, primul Athlon
+
+2001, ianuarie (conform CG Forum probabil - fara CG Forum nu știam nimic despre configurația asta în afara de procesor probabil) - AMD Duron 800, Soltek sl-75kv2-x / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 MB RAM, probabil am început cu 128 și am pus pus ulterior 64 de mega de undeva.
 
 Am avut noroc că aveam o colegă care în ultimul an de facultate lucra deja la o firmă numită Cumulus Logic care funcționa în clădirea în care este acum (de foarte mulți ani, de fapt) Eurohotel. Ea mi-a făcut o ofertă care presupunea să îmi cumpere componentele vechi. Restul banilor au provenit din salariul infim pe care-l primeam la Internet Cafe-ul la care lucram, puși de-o parte pentru o vacanță de vară care nu s-a mai întâmplat.
 
 Dar tot de pe la începutul lui 2001 am început să și lucrez la prima firmă "serioasă".
 
-Când mi-am luat acceleratorul grafic am fost efectiv în al noulea cer, am putut să iau la rând jocurile la care am râvnit și care nu-mi mergeau pe configurația anterioare. Știu că am terminat tot ce era Half Life cu toate de expansiunile existente și apoi am jucat foarte mult Tony Hawk's Pro Skater 2.
+Când mi-am luat acceleratorul grafic (posibil separat de restul calculatorului?) am fost efectiv în al nouălea cer, am putut să iau la rând jocurile la care am râvnit și care nu-mi mergeau pe configurația anterioare. Am o amintire vagă cum că în acea vară aș fi umblat după jocuri, și știu că am terminat tot ce era Half Life cu toate de expansiunile existente și apoi am jucat foarte mult Tony Hawk's Pro Skater 2.
 
 La început de 2002 s-a și încheiat firma asta și am început să lucrez de acasă cu clientul pentru care lucram și de la firmă, câștigam mult mai bine, eram toată ziua la calculatorul propriu și am investit foarte mult în componente și periferice.
 
@@ -77,7 +81,9 @@ minidisc sony - 2001 - 2004 (este mentionat în articolul cu switch) - https://w
 
 in 2001 chiar făceam ceva ieșit din comun pentru un băisprian :)
 
-3. 2003, probabil în mai sau vara - Epox EP-8RDA - AMD Athlon XP 2000+
+### 3. Al doilea Athlon
+
+2003 probabil în mai sau vara - Epox EP-8RDA - AMD Athlon XP 2000+
 
 Din păcate nu îmi amintesc mai nimic despre acest upgrade și îmi vine cumva greu a crede că am rezistat cu acest procesor 3 ani jumate. De la Remus Kolozsvari - https://www.rusiczki.net/2004/04/23/re-building-a-computer/ pe la final.
 
@@ -89,7 +95,9 @@ Ca să fie și mai confuz, aici spun că am un procesor de 1.66 ghz care corespu
 
 despre harddisc-uri https://www.rusiczki.net/2003/10/23/the-price-of-laziness/
 
-4. 2004.04.23 - Epox EP-8RDA3I - AMD Athlon XP 2000+
+### 4. Al treilea Athlon
+
+2004.04.23 - Epox EP-8RDA3I - AMD Athlon XP 2000+
 
 rocada intre cele 2 epox-uri https://www.rusiczki.net/2004/04/23/re-building-a-computer/
 Placa de bază am găsit-o cu 768 MB RAM instalați
@@ -109,7 +117,9 @@ ipod nou https://www.rusiczki.net/2004/01/11/a-week-of-packages-part-2-ipod/
 
 dvd writer Teac DV-W58G https://www.rusiczki.net/2004/04/01/brief/ - https://www.cnet.com/products/teac-dv-w58g-dvdrw-drive-ide-internal/
 
-5. 2007.02.06 - Intel Dual Core
+### 5. Revenirea la Intel
+
+2007.02.06 - Intel Dual Core
 
 despre upgrade-ul din 2006 / 2007 - https://www.rusiczki.net/2007/03/14/the-masterpiece-is-almost-complete/
 
@@ -131,7 +141,9 @@ cred ca dupa ce mi-am luat lcd-ul si am avut un "calculator în plus" după ce a
 
 August 16, 2011 - Marea pauza Mac. Today I started up my PC which I haven't used since last year and look what I found in Chrome
 
-6. 2011.10.07 - Intel i5 2500k
+### 6. Revenirea din pauza de Mac
+
+2011.10.07 - Intel i5 2500k
 
 Cumpărată de la debo.ro, 2011.10.07, poză cu garantia pe Google Photos, actele probabil printre facturile PFA :)
 
@@ -162,9 +174,15 @@ Reservoir: Innovatek AGB-O-Matic
 
 2014.09.17 (comanda) Carcasă NZXT H440
 
-7. Intel i7 7700k
+### 7. Tot Intel, pentru gaming
+
+Intel i7 7700k
 
 Din 2017 tot duceam la Baia Sprie laptop-ul să plătesc facturile prin Internet până m-am enervat și am luat o placă de bază de putere laptop low end.
+
+### 8. După 23 de ani, primul laptop cu Windows
+
+2022
 
 Placi de sunet:
 

@@ -8,7 +8,7 @@ categories:
 image: https://content.rusiczki.net/2023/06/gata-noul-numar-de-casa-resized.jpg
 description: Mi-am proiectat și fabricat număr de casă la imprimanta 3D.
 ---
-Am tot vrut să scriu despre cum mi-am îmbunătățit încet dar sigur aptitudinile de meșter al casei după ce am moștenit casa părintească. De asemenea am vrut să scriu despre aventurile mele cu imprimantele 3D și proiectarea aferentă. Am și scris de fapt, dar nu am finalizat (încă) articolele, și acum aș vrea să public acest articol până subiectul e proaspăt cu dezavantajul că nu va avea contextul dorit.
+Am tot vrut să scriu despre cum mi-am îmbunătățit încet dar sigur aptitudinile de meșter după ce am moștenit casa părintească. De asemenea am vrut să scriu despre aventurile mele cu imprimantele 3D și proiectarea aferentă. Am și scris de fapt, dar nu am finalizat (încă) articolele, și acum aș vrea să public acest articol până subiectul e proaspăt cu dezavantajul că nu va avea contextul dorit.
 
 Cum tot fac _mici_ îmbunătățiri și meștereli în jurul casei (nicidecum cele _mari_ și _necesare_ cum ar fi hidroizolația sau acoperișul) după ce am dat jos într-o bună zi cutia poștală antică, pentru că eram singura casă care avea două, am copt planul înlocuirii numărului de casă cu unul 3D printat. Asta deorece cel curent arată așa:
 

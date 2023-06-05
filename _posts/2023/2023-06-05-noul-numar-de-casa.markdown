@@ -10,7 +10,7 @@ description: Mi-am proiectat și fabricat număr de casă la imprimanta 3D.
 ---
 Am tot vrut să scriu despre cum mi-am îmbunătățit încet dar sigur aptitudinile de meșter după ce am moștenit casa părintească. De asemenea am vrut să scriu despre aventurile mele cu imprimantele 3D și proiectarea aferentă. Am și scris de fapt, dar nu am finalizat (încă) articolele și acum aș vrea să public acest articol până e subiectul proaspăt, cu dezavantajul că nu există contextul dorit...
 
-Cum tot fac _mici_ îmbunătățiri și meștereli în jurul casei (nicidecum cele _mari_ și _necesare_ cum ar fi hidroizolația sau acoperișul) după ce am dat jos într-o bună zi cutia poștală antică, pentru că a mea era singura casă care avea două cutii poștale, am copt planul înlocuirii numărului de casă cu unul 3D printat. Asta deorece cel de acum arată așa:
+Cum tot fac _mici_ îmbunătățiri și meștereli în jurul casei (nicidecum cele _mari_ și _necesare_ cum ar fi hidroizolația sau acoperișul) după ce am dat jos într-o bună zi cutia poștală antică, pentru că a mea era singura casă care avea două cutii poștale, am copt planul înlocuirii numărului de casă cu unul 3D printat. Asta deoarece cel de acum arată așa:
 
 [![Vechiul număr de casă](https://content.rusiczki.net/2023/06/vechiul-numar-de-casa.jpg)](https://content.rusiczki.net/2023/06/vechiul-numar-de-casa-resized.jpg){:.glightbox}
 

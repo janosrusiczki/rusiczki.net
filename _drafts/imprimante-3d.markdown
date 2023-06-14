@@ -4,6 +4,8 @@ Doar că au evoluat între timp, și în 2021 la puțin timp după moartea mamei
 
 Am luat upgrade de nivelare automată de pat BLTouch. A zăcut multă vreme imprimanta iar când am avut nevoie și am repornit-o mi-am dat seama că din cauză că aveam un firmware oarecum bușit.
 
+Prin toamna lui 2022 am început să mă uit la tot felul de figurine 3D care se puteau tipări cu imprimanta cu rășină. Nu-mi place pentru că generează enorm de multe deșeuri cu așa zișii suporți. E și scumpă rășina și când mai ratezi câte un print... E și incomod că rășina nu are voie să "vadă" UV, așa că trebuie să trag jaluzele când manevrez câte o figurină nou tipărită. Tot procesul de spălare, cu toate că mi-am luat rășină spălabilă cu apa. Binențeles că și asta stă de multă vreme.
+
 Relativ recent voiam să avansez cu stația meteo home made și nu a vrut să tipărească bine. Apoi am trecut la PETG. Mi-a ieșit aproximativ primul print. Apoi a doua zi următorul print cu aceleași setări nu mi-a prea ieșit. Am tot văzut eu legendarele Prusa care cică "just work". M-am enervat și fiind în concediul între Crăciun și Anul Nou, am luat o decizie într-o seară și am pus comandă.
 
 - am fost foarte bun la desen tehnic - îmi amintesc de o fază din facultate cu un profesor mai alcoolist așa, făceam ceva electro cu el și ne-a dat o temă care presupunea și desenarea unui circuit. Eu găsisem tocmai în acea perioadă un soft de CAD shareware care avea un tutorial foarte fain făcut, l-am învățat și am profitat de ocazie să-l folosesc să desenez circuitul. Restul temei era text pe care l-am copiat de la un coleg, i-am aplicat ceva modificări minime și am inserat circuitul în el. Am primit tema corectată, scrisese cu roșu peste circuit: foarte frumoasă schemă, păcat că nu-ți aparține.

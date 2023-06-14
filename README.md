@@ -5,8 +5,8 @@ Janos Rusiczki
 This is my blog converted from Wordpress to Jekyll.
 
 * It went live on January 8, 2018;
-* It was built and deployed automatically by Travis whenever the repository's master branch changed (from January 15, 2018 to October 20, 2022 - according to their logs 348 builds);
-* It is now built and deployed automatically by GitHub Actions with the same conditions as above (starting with October 18, 2022).
+* It was built and deployed automatically by Travis whenever the repository's master branch changed (from January 15, 2018 to October 20, 2022 - according to their logs I made 348 builds);
+* It is now built and deployed automatically by GitHub Actions with the same conditions as above (since October 18, 2022).
 
 ## Cheat codes
 
@@ -26,6 +26,6 @@ Nope, IDDQD will not work, try:
 * YouTube Video:
   
   `<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/DELZ1EbqZfw?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>`
-* Update Algolia Index:
+* Update Algolia Index (this is a GitHub Action now):
 
   `ALGOLIA_API_KEY='SECRET' bundle exec jekyll algolia --verbose`

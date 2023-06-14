@@ -10,7 +10,7 @@ description: Mi-am proiectat și fabricat număr de casă la imprimanta 3D.
 ---
 Am tot vrut să scriu despre cum mi-am îmbunătățit încet dar sigur aptitudinile de meșter după ce am moștenit casa părintească. De asemenea am vrut să scriu despre aventurile mele cu imprimantele 3D și proiectarea aferentă. Am și scris de fapt, dar nu am finalizat (încă) articolele și acum aș vrea să-l public pe acesta până e subiectul proaspăt, cu dezavantajul că nu există contextul pe care mi l-aș fi dorit. Dar asta e.
 
-Cum tot fac _mici_ îmbunătățiri și meștereli în jurul casei (nicidecum cele _mari_ și _necesare_ cum ar fi hidroizolația sau acoperișul) după ce am dat jos într-o bună zi cutia poștală antică, pentru că a mea era singura casă care avea două cutii poștale, am copt planul înlocuirii numărului de casă cu unul 3D printat. Asta deoarece cel de acum arată așa:
+Cum tot fac _mici_ îmbunătățiri și meștereli în jurul casei (nicidecum cele _mari_ și _necesare_ cum ar fi hidroizolația sau acoperișul) după ce am dat jos într-o bună zi cutia poștală antică, pentru că a mea era singura casă care avea două cutii poștale, am copt planul înlocuirii numărului de casă cu unul 3D printat. Asta deoarece cel de dinainte arăta așa:
 
 [![Vechiul număr de casă, probabil din anii '70](https://content.rusiczki.net/2023/06/vechiul-numar-de-casa.jpg)](https://content.rusiczki.net/2023/06/vechiul-numar-de-casa-resized.jpg){:.glightbox}
 
@@ -32,4 +32,6 @@ Dupa alte 4 ore și un sfert (care au inclus și schimbarea de filament din alba
 
 Nu știu cum va rezista în timp, teoretic ar trebui să țină destul de bine, materialul fiind PET, adică același PET din care sunt făcute recipientele diferitelor băuturi și care zică-se că se descompune în circa 450 de ani... Probabil mai degrabă se va decolora de la razele UV, dar nicio grijă, salvez fișierele bine și îl tipăresc din nou. Sau voi vopsi peste.
 
-Voi reveni cu un update îndată ce îl montez. 🙂
+După un pic mai mult de o săptămână și tipărirea ramei necesare pentru montare e sus pe poartă:
+
+[![Noul număr de casă, montat în seara zilei de 13 iunie 2023](https://content.rusiczki.net/2023/06/noul-numar-de-casa.jpg)](https://content.rusiczki.net/2023/06/noul-numar-de-casa-resized.jpg){:.glightbox}

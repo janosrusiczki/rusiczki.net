@@ -15,7 +15,7 @@ Doar că a doua zi am primit un email care zica că "în urma analizei codului t
 
 Așadar, avem:
 
-* Pet project la care lucrez eu și cu mine în timpul liber, care nu e hacked toghether ci încearcă să folosească tehnologii cât de noi, să aibă teste scrise, am rulat și linter pe el de câteva ori și am corectat codul după recomandări și cum ziceam am dat de zeci de challenge-uri interesante pe care le-am depășit cu succes și de care sunt mândru cum le-am implementat (fără scurtături aiurea și fără rabat la calitatea codului).
+* Pet project la care lucrez eu și cu mine în timpul liber, care nu e hacked toghether ci încearcă să folosească tehnologii cât de noi, să aibă teste, am rulat și linter pe el de câteva ori și am corectat codul în mare parte după recomandări și cum ziceam am dat de zeci de challenge-uri interesante pe care le-am depășit cu succes și de care sunt mândru cum le-am implementat (fără scurtături aiurea și fără rabat la calitatea codului).
 * Deocamdată adaug funcționalități noi de zor, gen administrarea de albume, deci nu e deloc o prioritate să optimizez și să organizez codul.
 * În general se recomandă ca un web-app să răspundă sub 100ms, multe răspund într-o secundă sau în secunde bune, al meu răspunde în 50ms (jumate din timpul recomandat) - și chiar e afișat în repozitoriu timpul ăsta de răspuns.
 

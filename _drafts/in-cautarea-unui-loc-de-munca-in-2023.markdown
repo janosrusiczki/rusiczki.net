@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-După vreo 6 refuzuri care mi-au clătinat destul serios încrederea în sine ("bă, aparent nu mai sunt bun de nimic pentru că nu mă vrea fix nimeni"), nevasta mi-a recomandat s-o iau mai încet, nu de alta dar mă enervam destul de tare după fiecare și să nu-mi puște cumva vreo venă îm cap... Zis și făcut, oricum sosise vara, aveam de meșterit în jurul casei în afară de obișnuitele rutine zilnice.
+După vreo 6 refuzuri care mi-au clătinat destul serios încrederea în sine ("bă, aparent nu mai sunt bun de nimic pentru că nu mă vrea fix nimeni"), nevasta mi-a recomandat s-o iau mai încet, nu de alta dar mă enervam destul de tare după fiecare și să nu-mi puște cumva vreo venă în cap... Zis și făcut, oricum sosise vara, aveam de meșterit în jurul casei în afară de obișnuitele rutine zilnice.
 
 Dar am primit un mesaj de recrutare de la o firmă franțuzească, aveau un produs destul de interesant (un serviciu la care poți apela înainte să transferi banii ca să te asiguri că nu ești țăpit) mă potriveam bine la requirements și am zis hai să încerc totuși. Am programat primul call și l-am avut cu tipa de la HR, am povestit, m-am prezentat, mi-a prezentat și ea firma și produsul mai în amănunt și în scurt timp m-a contactat că hai să continuăm cu un interviu cu head of tech. Am avut și acest call, eu am descris amănunțit experiența mea tehnică în Rails iar el mi-a prezentat stack-ul lor și structura echipelor. Mi s-a părut că am vorbit cu un tip OK și cu picioarele pe pământ. După o zi primesc email că a fost OK și acest interviu și hai să continuăm cu un coding exercise.
 

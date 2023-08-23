@@ -33,6 +33,6 @@ Admirat bordura drumului.
 
 Prislop cu miere și Coca-Cola. Se făceau pregătirile pentru Hora la Prislop ce urma să înceapă a doua zi.
 
-Am urcat pe lângă pârtia de la Prislop - multe mașini și mult praf. Făcut poze cu Gărgălăul, din păcate în partea dreaptă au pus stâlpi de curent. Găsit și unde mergeau mașinile, o mică parcare cu grătar și de toate sub Știol, de unde coborau să vadă Cascada. Coborât pe la Cascada Cailor, incredibil câți turiști erau! Găsit mașină abandonată pe traseu. Cerbu. Acasă.
+Am urcat pe lângă pârtia de la Prislop - multe mașini și mult praf. Făcut poze cu Gărgălăul, din păcate în partea dreaptă au pus stâlpi de curent. Găsit și unde mergeau mașinile, o mică parcare cu grătar și de toate sub Știol, de unde turiștii motorizați coborau pe jos să vadă Cascada. Coborât pe la Cascada Cailor, incredibil câți turiști erau! Găsit mașină abandonată pe traseu. Cerbu. Acasă.
 
 Și acum, ca la Oscar: În primul rând îi mulțumesc Robert Dobai de la The North Quest pentru track. Omu' a umblat, a explorat, a descoperit legături, a conceput traseul pentru o tabără de-a lui și ce a făcut Janos? I l-a cerut. Pe gratis desigur. Maria Grigor pentru inspirația cu "scurtătura" din Șaua Șeștinei înspre Valea Vinișorul. Munții Noștri pentru că au o hartă bună a zonei plină de toponime și astfel am putut scrie numele locurilor pe unde am umblat, nu "o poiana", "o vale", "un vârf". Și nu în ultimul rând mulțumesc dragii mele Ioane că plănuiește excursiile astea și mă mai scoate din casă.

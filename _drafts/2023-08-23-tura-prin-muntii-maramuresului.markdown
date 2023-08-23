@@ -33,4 +33,6 @@ De aici a început porțiunea din drumul lui Mackensen care merge aproximativ pe
 Coborâre spre Prislop cu câine bonus.
 Admirat bordura drumului.
 
-Prislop cu miere și Coca-Cola.
+Prislop cu miere și Coca-Cola. Se făceau pregătirile pentru Hora la Prislop ce urma să înceapă a doua zi.
+
+Am urcat pe lângă pârtia de la Prislop - multe mașini și mult praf. Făcut poze cu Gărgălăul, din păcate în partea dreaptă au pus stâlpi de curent. Găsit și unde mergeau mașinile, o mică parcare cu grătar și de toate sub Știol, de unde coborau să vadă Cascada. Coborât pe la Cascada Cailor, incredibil câți turiști erau! Găsit mașină abandonată pe traseu. Cerbu. Acasă.

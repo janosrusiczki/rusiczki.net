@@ -25,4 +25,12 @@ Am vrut să mâncăm în acest loc dar dată fiind proximitatea unei stâne, am 
 
 Îndată ce am ieșit din raza vizuală a câinilor și corul a amuțit am oprit și am mâncat pită cu pateu. :)
 
-Am continuat urcarea și drumul a devenit din ce în ce mai bine conturat, plat și bine păstrat având în vedere că datează din primul război mondial. Puțin mai sus ne-am întâlnit cu niște băștinași care veniseră din sens opus cu două mașini 4x4 și erau foarte ocupați cu făcutul de poze și mâncatul de afine. Ne-au avertizat despre niște câini agresivi puțin mai încolo dar din fericire acei câini au fost se pare agresivi doar față de mașini. Și am văzut doar unul lângă Fântâna Stanchii. Apoi am văzut că antena de mobil pe care o zărisem de ceva vreme era lângă o cabană / stână la care am cotit spre stânga, nu înainte de a trece pe lângă o turmă la care ciobanul a fost atât de drăguț să potolească câinii să nu vină înspre noi.
+Am continuat urcarea și drumul a devenit din ce în ce mai bine conturat, plat și bine păstrat având în vedere că datează din primul război mondial. Puțin mai sus ne-am întâlnit cu niște băștinași care veniseră din sens opus cu două mașini 4x4 și erau foarte ocupați cu făcutul de poze și mâncatul de afine. Ne-au avertizat despre niște câini agresivi puțin mai încolo dar din fericire acei câini au fost se pare agresivi doar față de mașini. Și am văzut doar unul lângă Fântâna Stanchii - locul în care s-a terminat a doua urcare a zilei, dupa 11,3 km și 750 metri verticali. Apoi am văzut că antena de mobil pe care o zărisem de ceva vreme era lângă o cabană / stână la care am cotit spre stânga, nu înainte de a trece pe lângă o turmă la care ciobanul a fost atât de drăguț să potolească câinii să nu vină înspre noi.
+
+De aici a început porțiunea din drumul lui Mackensen care merge aproximativ pe curbă de nivel, între altitudinile de aproximativ 1620 - 1700 metri. Iar după ieșirea dintr-o pădurice după Cabana Fântâna Stanchii a început și cea mai pitorească porțiune din această tură. Întâi cu priveliști frumoase asupra coamelor pe care urma să le parcurgem și a văilor care se deschideau sub noi, iar apoi după ce am trecut pe sub Vârful Cornul Nedeii ni s-a deschis o minunată panoramă asupra Crestei Munților Rodnei. Aș putea spune că pedalam gură cască.
+
+Și în această direcție s-au băgat cu minunații stâlpi de curent.
+Coborâre spre Prislop cu câine bonus.
+Admirat bordura drumului.
+
+Prislop cu miere și Coca-Cola.

@@ -23,7 +23,7 @@ După nu mai puțin de 9 kilometri jumate de urcuș (destul de domol ce-i drept)
 
 Am vrut să mâncăm în acest loc dar dată fiind proximitatea unei stâne, am cotit spre dreapta pe un drum despre care am aflat că se numește "drumul lui Mackensen" sau "drumul războiului". Parcursul nostru pe acest drum a început cu împinsul bicicletei pe o rampă destul de abruptă, dar în ciuda acestui fapt și a corului de lătrături de la câinii care ne zăriseră deja, am oprit de multe ori să fac poze spre Moldova, peisajul fiind superb.
 
-Îndată ce am ieșit din raza vizuală a câinilor și corul a amuțit am oprit și am mâncat pită cu pateu. :)
+Îndată ce am ieșit din raza vizuală a câinilor și a amuțit corul ne-am oprit și am mâncat pită cu pateu. :)
 
 Am continuat urcarea și drumul a devenit din ce în ce mai bine conturat, plat și bine păstrat având în vedere că datează din primul război mondial. Puțin mai sus ne-am întâlnit cu niște băștinași care veniseră din sens opus cu două mașini 4x4 și erau foarte ocupați cu făcutul de poze și mâncatul de afine. Ne-au avertizat despre niște câini agresivi puțin mai încolo dar din fericire acei câini au fost se pare agresivi doar față de mașini. Și am văzut doar unul lângă Fântâna Stanchii - locul în care s-a terminat a doua urcare a zilei, dupa 11,3 km și 750 metri verticali. Apoi am văzut că antena de mobil pe care o zărisem de ceva vreme era lângă o cabană / stână la care am cotit spre stânga, nu înainte de a trece pe lângă o turmă la care ciobanul a fost atât de drăguț să potolească câinii să nu vină înspre noi.
 

@@ -7,7 +7,7 @@ De fapt am vrut să facem acest traseu (mai precis o variațiune de-a lui) anul 
 
 Așadar ne-am dus cu o zi înainte la Borșa, am ajuns pe seară și ne-am cazat la o pensiune nouă și drăguță. Singura problemă a fost muzica populară care se auzea din vale sau de peste vale, punctată de reclame între piese în limba italiană. Să nu cumva să nu fie evident că provenea de la emigranții noștri reveniți în țară pentru concediul de vară. De fapt dacă nu sunteți familiari cu Borșa, am să vă spun că în August cam fiecare a treia sau a patra mașina pe care o vezi acolo în trafic are numere de înmatriculare italienești.
 
-A doua zi dimineața după ce ne-am organizat toate cele necesare în rucsaci am pornit în tură pe la ora 10. Am coborât puțin din Complexul Turistic pe drumul național și după câteva hoteluri răsfirate pe marginea drumului, acolo unde re-încep casele orașului propriu-zis am cotit spre dreapta pe valea Cercănelului.
+A doua zi dimineața după ce ne-am pus toate cele necesare în rucsaci am pornit în tură pe la ora 10. Am coborât puțin din Complexul Turistic pe drumul național și după câteva hoteluri răsfirate pe marginea drumului, acolo unde re-încep casele orașului propriu-zis am cotit spre dreapta pe valea Cercănelului.
 
 Această vale are la început câteva pâlcuri de case și chiar mă gândeam cu voce tare că: "uite, una din avantajele României este că poți să-ți pui chiar și aici un server în casă, pentru că fibra optică e omniprezentă la noi". Ba chiar poți fi total verde să-ți generezi curent din vale sau din panouri. Dar ajunge cu aberațiile de geek! După o vreme am lăsat casele în urmă iar după ce am trecut un curs de apă care intersecta drumul și de o rulotă forestieră am ajuns la prima intersecție unde noi am făcut stânga și am continuat de-alungul Cercănelului Mic. După circa un kilometru de urcare care a inclus și depășirea altitudii de 1000 de metri am ajuns la o altă bifurcație unde una dintre ramuri continua drept înainte pe o pantă imposibilă iar cealaltă o lua înspre dreapta să ocolească mai domol. Acest domol este însă oarecum între ghilimele pentru că într-o curbă a trebuit să ne dăm oricum jos, drumul fiind prea accidentat pentru a putea fi urcat pe bicicletă. La 200 de metri de această curbă am ieșit într-o poiană numită Preluca Podului lângă o casă părăsită cu jaluzele protejând nimic, adică niște camere dărâmăte. Și astfel am terminat prima urcare de vreo 400 de metri verticali. 
 
@@ -31,9 +31,9 @@ După ce ne-am astâmpărat stomacele am continuat urcarea și drumul a devenit 
 
 De aici a început porțiunea din drumul lui Mackensen care merge aproximativ pe curbă de nivel, într-o ușoară urcare de la altitudinea de aproximativ 1620 la cea de aproape 1700 metri. Iar după ieșirea dintr-o pădurice care a urmat imediat după Cabana Fântâna Stanchii a început și cea mai pitorească porțiune din această tură, întâi cu priveliști frumoase asupra coamelor pe care urma să le parcurgem și a văilor care se conturau sub noi, iar apoi după ce am trecut pe sub Vârful Cornul Nedeii ni s-a deschis o minunată panoramă asupra Crestei Munților Rodnei. Aș putea spune că pedalam gură cască.
 
-Și în această direcție s-au băgat cu minunații stâlpi de curent.
 Coborâre spre Prislop cu câine bonus.
 Admirat bordura drumului.
+Și în această direcție s-au băgat cu minunații stâlpi de curent.
 
 Prislop cu miere și Coca-Cola. Se făceau pregătirile pentru Hora la Prislop ce urma să înceapă a doua zi.
 

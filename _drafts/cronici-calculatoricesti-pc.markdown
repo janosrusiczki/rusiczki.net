@@ -27,9 +27,13 @@ Tot în perioada asta a primului calculator și a facultății am încercat să-
 
 După aproximativ un an de la cumpărarea calculatorului, în toamna anului 1999, am reușit să mă angajez la Internet Cafe-ul facultății - în sfârșit am avut acces la Internet. După două sau trei zile în care am adus acasă "recolta" de descărcări din acea zi pe dischetă, la un moment dat am tras aer adânc în piept, am tăiat sigiliul și am scos hard discul. Adio garanție dar din fericire nu am avut nevoie de ea. Am tot făcut eu mici site-uri pro-bono, și cumva am ajuns să fac și site-ul facultății și mă tot lăudam în stânga și-n dreapta cu realizările mele așa că din senin mi-a scris un prieten că se inființează o firmă de web design și dacă nu aș vrea să fiu omul cu PHP. Am vrut, și așa mi-am început cariera în programare.
 
-Fratele unui coleg de liceu și upgrade-urile lui prin anul 2 de facultate ('99 - 2000), pentru mine acceleratoarele grafice văzute la el (Voodoo) erau ceva de domeniul viselor.
+Aveam un fost coleg de liceu care stătea foarte aproape de facultate iar fratele lui era super pasionat de jocuri și cred că prin anul 2 de facultate (1999 - 2000) am tot umblat pe la ei să mă căsc la ce putea face un accelerator grafic 3dfx Voodoo. Pentru mine aceste acceleratoare grafice erau ceva de domeniul viselor din cauza prețului și îmi amintesc vag că în cursul acelei perioade cât eram "abonat" la ei a și făcut upgrade la o placă și mai puternică.
 
-Demos și muzică în format XM. Știu că nu era în stare să redea filmele DivX fără să sacadeze. M-am chinuit să descarc și să convertesc un film (cred că a fost vorba de Fight Club) și după ore bune de conversie în VirtualDub a dat eroare. Nici VST-urile nu mergeau, dar mergea FastTracker 2, mergea Hammerhead de la Bram Bros.
+Cu toate că mă jucam mult cu prietenii și singur, pentru mine jocurile nu erau o prioritate, mai ales că începusură mai toate jocurile noi să aibă nevoie de accelerator 3D (ceea ce cum spuneam mai sus eu nu aveam). Dar nu mă plictiseam deloc pentru că aveam acces la Internet și descoperisem încă dinainte să am calculator demos și muzica în format XM.
+
+Știu că acest prim calculator nu avea puterea necesară să redea filmele DivX fără să sacadeze. M-am chinuit să descarc un film (cred că a fost vorba de marea mea favorită Fight Club) și să-l convertesc la rezoluție mai mică dar după ore bune de conversie, cândva în mijlocul nopții VirtualDub a dat eroare.
+
+Nu avea puterea necesară nici pentru VST-uri (care începeau să apară), dar mergea Hammerhead de la Bram Bros și mergea FastTracker 2 în care am pierdut zeci dacă nu sute de ore.
 
 Diskmag scris în Pascal.
 

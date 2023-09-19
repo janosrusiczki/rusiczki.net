@@ -35,7 +35,7 @@ Cu toate că mă jucam mult cu prietenii și singur, pentru mine jocurile nu era
 
 Nu avea puterea necesară nici pentru VST-uri (care începeau să apară), dar mergea Hammerhead de la Bram Bros și mergea FastTracker 2 în care am pierdut zeci dacă nu sute de ore.
 
-Diskmag scris în Pascal.
+O parte din timp mi-l petreceam programând Diskmag scris în Pascal.
 
 Am început un OS grafic folosind DJGPP și RHIDE și minunându-mă de ce poate face programarea orientată pe obiecte. DJGPP l-am ales pentru că era portul GCC-ului de pe Linux, iar RHIDE ca IDE pentru că avea interfața și shortcut-urile familiare din produsele Borland, adică în cazul meu Pascal.
 

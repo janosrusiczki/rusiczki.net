@@ -45,7 +45,7 @@ Am avut noroc că aveam o colegă care în ultimul an de facultate lucra deja la
 
 Dar tot de pe la începutul lui 2001 am început să și lucrez la prima firmă "serioasă".
 
-Nu mai știu dacă mi-am luat acceleratorul grafic deodată sau separat de majoritatea componentelor, oricum a fost cândva mai pe la începutul lui 2001, dar am fost efectiv în al nouălea cer, am putut să iau la rând jocurile la care am râvnit atât de mult și care nu-mi mergeau pe configurația anterioară. Am o amintire cum că în acea vară aș fi umblat după jocuri, și știu că am terminat tot ce era Half Life cu toate de expansiunile existente și că am jucat foarte mult Tony Hawk's Pro Skater 2.
+Nu mai știu dacă mi-am luat acceleratorul grafic deodată sau separat de majoritatea componentelor, oricum a fost cândva în prima jumătate a lui 2001, și am fost efectiv în al nouălea cer, am putut să iau la rând jocurile la care am râvnit atât de mult și care nu-mi mergeau pe configurația anterioară. Am o amintire cum că în acea vară aș fi umblat după jocuri, și știu că am terminat tot ce era Half Life cu toate de expansiunile existente și că am jucat foarte mult Tony Hawk's Pro Skater 2.
 
 La început de 2002 s-a și încheiat firma asta și am început să lucrez de acasă cu clientul pentru care am lucrat și la firmă (și cu care am colaborat după aia mulți ani la rând), câștigam mult mai bine, eram toată ziua la calculatorul propriu și din această cauză, cum e și normal, am investit foarte mult în componente și periferice.
 

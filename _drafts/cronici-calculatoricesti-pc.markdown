@@ -39,22 +39,19 @@ Lecturând revistele acelor vremuri mi-am mai amintit că eram un utilizator con
 
 ### 2. Upgrade-ul necesar, primul Athlon
 
-2001, ianuarie (conform CG Forum probabil - fara CG Forum nu știam nimic despre configurația asta în afara de procesor probabil) - AMD Duron 800, Soltek SL-75KV2-X / Video GEForce2MX 200 / Sursa 300 w (de pe forum.computergames.ro) / 192 MB RAM, probabil am început cu 128 și am pus pus ulterior 64 de mega de undeva.
+2001, ianuarie - AMD Duron 800, Soltek SL-75KV2-X / Video GEForce2MX 200 / Sursa 300 w) / 192 MB RAM, probabil am început cu 128 și am pus pus ulterior 64 de mega de undeva. fara CG Forum nu știam nimic despre configurația asta în afara de procesor probabil)
 
 Am avut noroc că aveam o colegă care în ultimul an de facultate lucra deja la o firmă numită Cumulus Logic care funcționa în clădirea în care este acum (de foarte mulți ani, de fapt) Eurohotel. Ea mi-a făcut o ofertă care presupunea să îmi cumpere componentele vechi. Restul banilor au provenit din salariul infim pe care-l primeam la Internet Cafe-ul la care lucram, puși de-o parte pentru o vacanță de avară care nu s-a mai întâmplat.
 
 Dar tot de pe la începutul lui 2001 am început să și lucrez la prima firmă "serioasă".
 
-Nu mai știu dacă mi-am luat acceleratorul grafic (posibil separat de restul calculatorului?) am fost efectiv în al nouălea cer, am putut să iau la rând jocurile la care am râvnit și care nu-mi mergeau pe configurația anterioară. Am o amintire vagă cum că în acea vară aș fi umblat după jocuri, și știu că am terminat tot ce era Half Life cu toate de expansiunile existente și că am jucat foarte mult Tony Hawk's Pro Skater 2.
+Nu mai știu dacă mi-am luat acceleratorul grafic deodată sau separat de majoritatea componentelor, oricum a fost cândva mai pe la începutul lui 2001, dar am fost efectiv în al nouălea cer, am putut să iau la rând jocurile la care am râvnit atât de mult și care nu-mi mergeau pe configurația anterioară. Am o amintire cum că în acea vară aș fi umblat după jocuri, și știu că am terminat tot ce era Half Life cu toate de expansiunile existente și că am jucat foarte mult Tony Hawk's Pro Skater 2.
 
-La început de 2002 s-a și încheiat firma asta și am început să lucrez de acasă pentru clientul cu care am lucrat și la firmă, câștigam mult mai bine, eram toată ziua la calculatorul propriu și din această cauză, cum e și normal, am investit foarte mult în componente și periferice.
+La început de 2002 s-a și încheiat firma asta și am început să lucrez de acasă cu clientul pentru care am lucrat și la firmă (și cu care am colaborat după aia mulți ani la rând), câștigam mult mai bine, eram toată ziua la calculatorul propriu și din această cauză, cum e și normal, am investit foarte mult în componente și periferice.
 
-Destul de rapid, în primăvara lui 2002 am primit primit meu aparat digital (primele poze cu data corectă sunt din 6 martie 2002). Dar despre aparatele mele există [un întreg articol separat](https://www.rusiczki.net/2012/05/17/aventuri-in-fotografia-digitala/).
+Destul de rapid, în primăvara lui 2002 am primit primul meu aparat digital (primele poze cu data corectă sunt din 6 martie 2002). Dar despre aparatele mele există [un întreg articol separat](https://www.rusiczki.net/2012/05/17/aventuri-in-fotografia-digitala/).
 
-În 14 iulie 2002 aveam deja inscriptor TEAC 24x (cred că din poze).
-- 05.04.2002 - CD-RW TEAC CD-W524EB - Conseco
-
-Amic cu inscriptor de CD-uri prin 99, propriul inscriptor în 2002 - https://www.rusiczki.net/2003/10/03/high-speed-cd-burning-doesnt-work/ îmi amintesc că mergeam la METRO (singurul supermarket din zonă pe vremea aia) și-mi luam tone de CD-uri iar tata, care a fost aprovizioner la viața lui și una dintre pasiunile lui era să studieze facturile mele, a observat de atunci ce cheltuială mare sunt și m-a întrebat dacă chiar îmi trebuie. Ei bine, a avut dreptate, nu prea îmi trebuiau. Cele cu jocuri și filme nu prea au mai ajuns înapoi în unitate vreodată.
+Aveam un amic cu inscriptor de CD-uri de prin '99, umblam destul de des pe la el să-mi "descarc" conținutul hardului și să scriu CD-uri audio din unele MP3-uri descărcate după ce am fost angajat la Internet Cafe. Îndată ce am avut niște bani, după aparatul digital a doua investiție a fost propriul inscriptor în 5 aprilie 2002, un TEAC CD-W524EB. Îmi amintesc că mergeam la METRO, singurul supermarket din zonă pe vremea aia - necesita legitimație pe care noroc că ne-au făcut-o la firmă, și-mi luam tone de CD-uri iar tata, care a fost aprovizioner la viața lui și una dintre pasiunile lui era să studieze facturi, a observat de atunci ce cheltuială mare sunt și m-a întrebat dacă chiar îmi trebuie. Ei bine, a avut dreptate, nu prea îmi trebuiau. Cele cu jocuri și filme nu prea au mai ajuns înapoi în unitate vreodată.
 
 Tot din 2002 datează și monitorul Hansol 710D - 280_8050.JPG / https://www.rusiczki.net/2005/12/29/lcd-suggestions-anyone/
 

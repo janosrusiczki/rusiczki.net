@@ -1,10 +1,13 @@
 ---
 layout: post
 title: 20 de ani de rusiczki.net
-date: 2023-09-11 09:11:00
+date: 2023-09-11T09:11:00.000Z
 categories:
   - blog history
-description: Micro articol aniversar de 20 de ani de când scriu pe blog pe acest domeniu.
+description: >-
+  Micro articol aniversar cu ocazia împlinirii a 20 de ani de când am acest
+  domeniu.
+published: true
 ---
 Am uitat de aniversare pe data în cauză dar iată cum cu o modificare de timestamp pot simula ca și cum nu aș fi uitat. 😀
 

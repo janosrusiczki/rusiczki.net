@@ -5,7 +5,7 @@ Am să încep acest ultim(?) articol din seria celor dedicate amintirilor despre
 
 Am avut însă un noroc enorm deoarece la un moment dat mi-a scris [un prieten](https://www.lucianmarin.se) că din cauza GDPR-ului (care urma să intre în vigoare) se va închide forumul computergames.ro ceea ce m-a îndemnat să arunc o privire acolo. Nu mă așteptam la mare lucru dar căutând după postările mele am găsit o tonă de informații despre calculatoarele mele din epoca când eram foarte activ pe acel forum, adică în jurul turnurii de mileniu. Până în acel moment, cea mai bună șansă de a afla configurația primelor două calculatoare de-ale mele o consideram să găsesc pe CD-urile cu arhive scrisorile (în format .txt) trimise la diferiți omuleți cu care corespondam. Dar din păcate am cam eșuat pentru că primul meu CD cu arhive, s-a decojit fix la margine unde era arhiva de scrisori.
 
-De asemenea încercasem acum câțiva ani să mă uit pe hard discurile care mai țineau fișiere din acele vremuri dar am constatat că din păcate au cedat și au început să clicăie. Totuși, pe la începutul lui 2022, făcând ordine prin camera mea din Baia Sprie am găsit niște CD-uri care nu făceau parte din seria mea oficială de CD-uri cu arhive dar am găsit pe unul dintre ele arhiva mailbox-urilor de pe vremea când lucram la Internet Cafe - despre asta [am scris un articol separat](https://www.rusiczki.net/2022/03/15/cum-sa-calatoresti-in-timp-ghid-practic/) - dar și ăsta s-a dovedit a fi un drum înfundat. Mai târziu, înspre vară, într-una dintre cutii am găsit un plic care nu dădea prea multe de bănuit, dar conținea cam toate bonurile, facturile și garanțiile pentru cumpărăturile IT din 2001 până în 2004 (când m-am mutat din Baia Sprie), minus chestiile pe care le-am vândut, pentru că eram un fixist și ce vindeam dădeam cu totul, cutie, factură, etc. În schimb facturile din perioada 2004 - 2007 (cât am stat în chirie la bloc), oricât le-am căutat, nu le-am mai găsit - probabil au fost aruncate din pod cu ocazia vreunei curățenii.
+De asemenea încercasem acum câțiva ani să mă uit pe hard discurile care mai țineau fișiere din acele vremuri dar am constatat că din păcate au cedat și au început să clicăie. Totuși, pe la începutul lui 2022, făcând ordine prin camera mea din Baia Sprie am găsit niște CD-uri care nu făceau parte din seria mea oficială de CD-uri cu arhive dar am găsit pe unul dintre ele arhiva mailbox-urilor de pe vremea când lucram la Internet Cafe - despre asta [am scris un articol separat](https://www.rusiczki.net/2022/03/15/cum-sa-calatoresti-in-timp-ghid-practic/) - dar și ăsta s-a dovedit a fi un drum înfundat. Mai târziu, înspre vară, într-una dintre cutii am găsit un plic care nu dădea prea multe de bănuit, dar conținea cam toate bonurile, facturile și garanțiile pentru cumpărăturile IT din 2001 până în 2004 (când m-am mutat din Baia Sprie), minus chestiile pe care le-am vândut, pentru că eram un fixist și ce vindeam dădeam cu totul, cutie, factură, etc. În schimb facturile din perioada mai 2004 - final de 2007 (cât am stat în chirie la bloc), oricât le-am căutat, nu le-am mai găsit - probabil au fost aruncate din pod cu ocazia vreunei curățenii.
 
 Cam atât cu introducerea, să trecem la felul principal:
 
@@ -43,32 +43,35 @@ Lecturând revistele acelor vremuri mi-am mai amintit că eram un utilizator con
 
 ### 2. Upgrade-ul necesar, primul Athlon
 
-2001, ianuarie (conform CG Forum probabil - fara CG Forum nu știam nimic despre configurația asta în afara de procesor probabil) - AMD Duron 800, Soltek SL-75KV2-X / Video GEForce2MX 200 / Sursa 300W (de pe forum.computergames.ro) / 192 MB RAM, probabil am început cu 128 și am pus pus ulterior 64 de mega de undeva.
+2001, ianuarie - AMD Duron 800, Soltek SL-75KV2-X / Video GEForce2MX 200 / Sursa 300W / 192 MB RAM, probabil am început cu 128 și am pus pus ulterior 64 de mega de undeva. Fără CG Forum nu știam nimic despre configurația asta în afara de procesor probabil.
 
 Am avut noroc că aveam o colegă care în ultimul an de facultate lucra deja la o firmă numită Cumulus Logic care funcționa în clădirea în care este acum (de foarte mulți ani, de fapt) Eurohotel. Ea mi-a făcut o ofertă care presupunea să îmi cumpere componentele vechi. Restul banilor au provenit din salariul infim pe care-l primeam la Internet Cafe-ul la care lucram, puși de-o parte pentru o vacanță de vară care nu s-a mai întâmplat.
 
 Dar tot de pe la începutul lui 2001 am început să și lucrez la prima firmă "serioasă".
 
-Când mi-am luat acceleratorul grafic (posibil separat de restul calculatorului?) am fost efectiv în al nouălea cer, am putut să iau la rând jocurile la care am râvnit și care nu-mi mergeau pe configurația anterioare. Am o amintire vagă cum că în acea vară aș fi umblat după jocuri, și știu că am terminat tot ce era Half Life cu toate de expansiunile existente și apoi am jucat foarte mult Tony Hawk's Pro Skater 2.
+Nu mai știu dacă mi-am luat acceleratorul grafic deodată sau separat de majoritatea componentelor, oricum a fost cândva în prima jumătate a lui 2001, și am fost efectiv în al nouălea cer, am putut să iau la rând jocurile la care am râvnit atât de mult și care nu-mi mergeau pe configurația anterioară. Am o amintire despre cum umblam în acea vară după jocuri, și știu că am terminat tot ce era Half Life cu toate de expansiunile existente și că am jucat foarte mult Tony Hawk's Pro Skater 2.
 
-La început de 2002 s-a și încheiat firma asta și am început să lucrez de acasă cu clientul pentru care lucram și de la firmă, câștigam mult mai bine, eram toată ziua la calculatorul propriu și am investit foarte mult în componente și periferice.
+La început de 2002 s-a și încheiat firma asta și am început să lucrez de acasă cu clientul pentru care am lucrat și la firmă (și cu care am colaborat după aia mulți ani la rând), câștigam mult mai bine, eram toată ziua la calculatorul propriu și din această cauză, cum e și normal, am investit foarte mult în componente și periferice.
 
-În primăvara lui 2002 am primit aparatul digital (primele poze cu data corectă sunt din 6 martie 2002)
+Destul de rapid, în primăvara lui 2002 am primit primul meu aparat digital (primele poze cu data corectă sunt din 6 martie 2002). Dar despre aparatele mele există [un întreg articol separat](https://www.rusiczki.net/2012/05/17/aventuri-in-fotografia-digitala/).
 
 În 14 iulie 2002 aveam deja inscriptor TEAC 24x (cred că din poze).
 
-Amic cu inscriptor de CD-uri prin 99, propriul inscriptor în 2002 - https://www.rusiczki.net/2003/10/03/high-speed-cd-burning-doesnt-work/ îmi amintesc că mergeam la Metro (singurul supermarket din zonă pe vremea aia) și-mi luam tone de CD-uri, tata, care a fost aprovizioner la viața lui și una dintre chestiile care îi placeau să le facă era să studieze facturile mele de la Metro, a observat de atunci ce cheltuială mare sunt și m-a întrebat dacă chiar îmi trebuie. Ei bine, a avut dreptate, nu prea îmi trebuiau. Majoritatea discurilor scrise nu prea au mai ajuns înapoi în drive vreodată.
+Aveam un amic cu inscriptor de CD-uri de prin '99, umblam pe la el destul de des să-mi "descarc" conținutul hardului și să scriu CD-uri audio din unele MP3-uri descărcate după ce am fost angajat la Internet Cafe. Apoi pe parcursul lui 2001 am avut inscriptor la birou și mai rămâneam câteodata peste noapte să inscripționez. Îndată ce am avut niște bani, după aparatul digital cea de-a doua investiție importantă a fost propriul inscriptor în 5 aprilie 2002, un TEAC CD-W524EB. Îmi amintesc că mergeam la METRO, singurul supermarket din zonă pe vremea aia - necesita legitimație pe care noroc că ne-au făcut-o la firmă, și-mi luam tone de CD-uri iar tata, care a fost aprovizioner la viața lui și una dintre pasiunile lui era să studieze facturi, a observat de atunci ce cheltuială mare sunt și m-a întrebat dacă chiar îmi trebuie. Ei bine, a avut dreptate, nu prea îmi trebuiau. Cele cu jocuri și filme nu prea au mai ajuns înapoi în unitate vreodată.
 
+- 10.01.2002 - Hansol 710D - Conseco
 Tot din 2002 datează și monitorul Hansol 710D - 280_8050.JPG / https://www.rusiczki.net/2005/12/29/lcd-suggestions-anyone/
 
-- 04.11.2002 - Palit Daytona - SC Creative CD COM SRL
-În 2002 mi-am cumpărat o Palit Daytona Geforce 4 Ti care "fell off a truck" - la un preț absolut incredibil. Îmi amintesc că a venit un prieten la mine și m-a întrebat dacă nu aș fi interesat că a auzit că este de vânzare. https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/
-
-Dialup RDSLink începând din vara lui 2002 https://www.rusiczki.net/2002/12/21/of-webcams-and-saboteurs/ - Până atunci intram pe Xnet, unde era greu să găsești loc, abia mergea, te arunca afară, dar era gratis! Știu că intrasem și înainte pe Net (în octombrie 21, 2001, vezi pe blogspot) doar că a venit totul pe factura vecinilor cu care eram "cuplați". Nu știu de la cine am avut modem pentru această primă aventură.
+- 20.06.2002 - Modem Extern 56k Ambient 2 - Conseco
+- 24.06.2002 - RDSLink propriu
+Dialup RDSLink începând din vara lui 2002 https://www.rusiczki.net/2002/12/21/of-webcams-and-saboteurs/ și tot atunci mi-am luat un modem mai bun. Până atunci intram pe Xnet, unde era greu să găsești loc, abia mergea, te arunca afară, dar era gratis! Și știu că intrasem și înainte pe Net (în octombrie 21, 2001, vezi pe blogspot) doar că a venit totul pe factura vecinilor cu care eram "cuplați". Nu știu de unde am avut modem pentru această primă aventură.
 
 Skystar 1, mă laud cu ea in 12 august 2002 pe computer games, tot conform computer games forum l-am luat în 7 august 2002.
 
 Internet prin satelit, am găsit un formular din 15 mai 2003 - În timp ce am avut abonament am prins un stress test de transponder cu download nelimitat și viteză mult mai bună, am descărcat tone de jocuri pe mai multe CD-uri. Îmi amintesc că în perioada asta îmi programam calculatorul să se oprească sau să închidă conexiunea fix înainte de ora 8 (ora de la care se termina dial-up-ul ieftin de noapte) și mă culcam.
+
+- 04.11.2002 - Palit Daytona - SC Creative CD COM SRL
+În 2002 mi-am cumpărat o Palit Daytona Geforce 4 Ti care "fell off a truck" - la un preț absolut incredibil. Îmi amintesc că a venit un prieten la mine și m-a întrebat dacă nu aș fi interesat că a auzit că este de vânzare. https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/
 
 Nu mai știu la cine am dat această placa asta de bază și procesorul.
 
@@ -84,13 +87,13 @@ minidisc sony - 2001 - 2004 (este mentionat în articolul cu switch) - https://w
 
 in 2001 chiar făceam ceva ieșit din comun pentru un băisprian :)
 
+planuri de upgrade https://www.rusiczki.net/2003/04/13/plans-for-a-pc-upgrade/
+
 ### 3. Al doilea Athlon
 
 2003 probabil în mai sau vara - Epox EP-8RDA - AMD Athlon XP 2000+
 
 Din păcate nu îmi amintesc mai nimic despre acest upgrade și îmi vine cumva greu a crede că am rezistat cu acest procesor 3 ani jumate. De la Remus Kolozsvari - https://www.rusiczki.net/2004/04/23/re-building-a-computer/ pe la final.
-
-planuri de upgrade https://www.rusiczki.net/2003/04/13/plans-for-a-pc-upgrade/
 
 Am găsit ambalajul plăcii de bază din această configurație precum și cutia plăcii de bază de la următoarea configurație într-una din săpăturile arheologice efectuate în fosta mea cameră din Baia Sprie, iar mai recent efectuând cercetări prin pod am găsit și plăcile de bază efective - dar mă confuzează că am găsit o mențiune din 2003 în care ziceam că am amd xp1800+ https://www.rusiczki.net/2003/09/03/100-days-is-quite-a-long-time/ și eu am găsit procesorul ăsta 2000+
 
@@ -98,7 +101,7 @@ Ca să fie și mai confuz, aici spun că am un procesor de 1.66 ghz care corespu
 
 despre harddisc-uri https://www.rusiczki.net/2003/10/23/the-price-of-laziness/
 
-### 4. Al treilea Athlon
+### 4. O schimbare de placă de bază
 
 2004.04.23 - Epox EP-8RDA3I - AMD Athlon XP 2000+
 
@@ -111,6 +114,8 @@ Nu știu ce s-a ales de modemul de telefon care nu mi-a trebuit odată ce m-am m
 cu calculatorul asta m-am mutat la bloc - mutarea s-a întâmplat în a doua parte a lunii mai 2004 - https://www.rusiczki.net/2004/05/18/the-new-home/
 
 În august 2004, după o vară super fierbinte, a murit palit daytona https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/ și am primit de la soacra la schimb o placă video slabă dar stabilă ATI 9200 - https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/
+
+2005 - lipsesc complet informațiile despre orice schimbare hardware
 
 Primul LCD - Samsung Syncmaster 913N 31.01.2006 - https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/
 

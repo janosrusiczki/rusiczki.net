@@ -53,24 +53,27 @@ Destul de rapid, în primăvara lui 2002 am primit primul meu aparat digital (pr
 
 Aveam un amic cu inscriptor de CD-uri de prin '99, umblam destul de des pe la el să-mi "descarc" conținutul hardului și să scriu CD-uri audio din unele MP3-uri descărcate după ce am fost angajat la Internet Cafe. Apoi pe parcursul lui 2001 am avut inscriptor la birou și mai rămâneam câteodata peste noapte să inscripționez. Îndată ce am avut niște bani, după aparatul digital a doua investiție a fost propriul inscriptor în 5 aprilie 2002, un TEAC CD-W524EB. Îmi amintesc că mergeam la METRO, singurul supermarket din zonă pe vremea aia - necesita legitimație pe care noroc că ne-au făcut-o la firmă, și-mi luam tone de CD-uri iar tata, care a fost aprovizioner la viața lui și una dintre pasiunile lui era să studieze facturi, a observat de atunci ce cheltuială mare sunt și m-a întrebat dacă chiar îmi trebuie. Ei bine, a avut dreptate, nu prea îmi trebuiau. Cele cu jocuri și filme nu prea au mai ajuns înapoi în unitate vreodată.
 
+CD-uri cu arhive cu kit-uri, poze salvate de pe Net și bineînțeles cd-uri cu muzică și nelipsitele filme. Nu știu precis cauza dar una dintre printre primele chestii pe care le-am făcut îndată ce am moștenit casa în 2021 a fost să trec prin colecția de CD-uri care stătea aproximativ neatinsă în dulap din 2004 încoace.
+
+- 10.01.2002 - Hansol 710D - Conseco
 Tot din 2002 datează și monitorul Hansol 710D - 280_8050.JPG / https://www.rusiczki.net/2005/12/29/lcd-suggestions-anyone/
 
-Dialup RDSLink începând din vara lui 2002 https://www.rusiczki.net/2002/12/21/of-webcams-and-saboteurs/ - Până atunci intram pe Xnet, unde era greu să găsești loc, abia mergea, te arunca afară, dar era gratis! Știu că intrasem și înainte pe Net (în octombrie 21, 2001, vezi pe blogspot) doar că a venit totul pe factura vecinilor cu care eram "cuplați". Nu știu de la cine am avut modem pentru această primă aventură.
+- 20.06.2002 - Modem Extern 56k Ambient 2 - Conseco
+- 24.06.2002 - RDSLink propriu
+Dialup RDSLink începând din vara lui 2002 https://www.rusiczki.net/2002/12/21/of-webcams-and-saboteurs/ și tot atunci mi-am luat un modem mai bun. Până atunci intram pe Xnet, unde era greu să găsești loc, abia mergea, te arunca afară, dar era gratis! Și știu că intrasem și înainte pe Net (în octombrie 21, 2001, vezi pe blogspot) doar că a venit totul pe factura vecinilor cu care eram "cuplați". Nu știu de unde am avut modem pentru această primă aventură.
 
 Skystar 1, mă laud cu ea in 12 august 2002 pe computer games, tot conform computer games forum l-am luat în 7 august 2002.
 
+Internet prin satelit, am găsit un formular din 15 mai 2003 - În timp ce am avut abonament am prins un stress test de transponder cu download nelimitat și viteză mult mai bună, am descărcat tone de jocuri pe mai multe CD-uri. Îmi amintesc că în perioada asta îmi programam calculatorul să se oprească sau să închidă conexiunea fix înainte de ora 8 (ora de la care se termina dial-up-ul ieftin de noapte) și mă culcam.
+
 - 04.11.2002 - Palit Daytona - SC Creative CD COM SRL
 În 2002 mi-am cumpărat o Palit Daytona Geforce 4 Ti care "fell off a truck" - la un preț absolut incredibil. Îmi amintesc că a venit un prieten la mine și m-a întrebat dacă nu aș fi interesat că a auzit că este de vânzare. https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/
-
-Internet prin satelit, am găsit un formular din 15 mai 2003 - În timp ce am avut abonament am prins un stress test de transponder cu download nelimitat și viteză mult mai bună, am descărcat tone de jocuri pe mai multe CD-uri. Îmi amintesc că în perioada asta îmi programam calculatorul să se oprească sau să închidă conexiunea fix înainte de ora 8 (ora de la care se termina dial-up-ul ieftin de noapte) și mă culcam.
 
 Nu mai știu la cine am dat această placa asta de bază și procesorul.
 
 prin această perioadă sau perioada următoare am făcut rețea cu vecinul.
 
 De când am avut acces la Internet broadband la Internet cafe și până s-a terminat temporar accesul https://www.rusiczki.net/2002/12/27/the-end-of-broadband/ am stat cu frica în sân temându-mă de acel moment, dar și pregătindu-mă pentru el, am scris mai mult de 80 de CD-uri cu MP3 pe care am avut ocazia să le ascult după aia - chiar și în ziua de azi mai iau câte unul și-l bag în playerul din mașină să "descopăr" ce-i pe el.
-
-cd-uri cu arhive cu kit-uri, poze salvate de pe net și bineînțeles cd-uri cu muzică și nelipsitele filme
 
 waitec hip hop, cumparat in 2002 https://www.rusiczki.net/2004/04/13/waitec-hiphop-sold/
 
@@ -106,6 +109,8 @@ Nu știu ce s-a ales de modemul de telefon care nu mi-a trebuit odată ce m-am m
 cu calculatorul asta m-am mutat la bloc - mutarea s-a întâmplat în a doua parte a lunii mai 2004 - https://www.rusiczki.net/2004/05/18/the-new-home/
 
 În august 2004, după o vară super fierbinte, a murit palit daytona https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/ și am primit de la soacra la schimb o placă video slabă dar stabilă ATI 9200 - https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/
+
+Ce s-a întâmplat în 2005? Nu am nimic 
 
 Primul LCD - Samsung Syncmaster 913N 31.01.2006 - https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/
 

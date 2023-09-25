@@ -25,11 +25,11 @@ Mă jucam cu prietenii campionate de Need For Speed 2 SE, Worms 2, CD-urile cu [
 
 Tot în perioada asta a primului calculator și a facultății am încercat să-mi găsesc un job. Îmi amintesc foarte bine că prima încercare a fost la Trodat Ștampile. Apoi am găsit un prieten pe IRC care lucra la Interscope, am incercat și acolo dar fără succes căci cerințele erau prea avansate pentru mine (mă uit la tine limbajul C). În timpul redactării acestui articol mi-am amintit că acest prieten mi-a influențat cel puțin o decizie de achiziție hardware, sunt sigur că al doilea monitor, un Hansol, întâi l-am văzut la el... Am mai fost și am încercat la o firmuliță de apartament, am primit temă de casă să fac o galerie foto pentru un festival folcloric din Sighetul Marmației, am făcut-o, le-am dus-o, nu m-au luat, dar galeria foto a ajuns online. Salutări domnule Lobonțiu! După aproximativ un an de la cumpărarea calculatorului, în toamna anului 1999, am reușit să mă angajez la Internet Cafe-ul facultății - în sfârșit am avut acces "stabil" la Internet, nu mai trebuia să mă cerșesc prin felurite birouri și să fiu privit ca un intrus. Am tot făcut eu mici site-uri pro-bono, și cumva am ajuns să fac și site-ul facultății și mă tot lăudam în stânga și-n dreapta cu realizările mele așa că din senin mi-a scris un prieten că se inființează o firmă de web design / development și m-a întrebat dacă nu aș vrea să fiu omul cu PHP. Binențeles că am vrut, și așa mi-am început cariera în programare.
 
-Ah da, după ce m-am angajat la Internet Cafe au trecut cam două sau trei zile în care mi-am adus acasă "recolta" de descărcări din acea zi pe dischetă, apoi am tras aer adânc în piept, am tăiat sigiliul și am scos hard discul. Adio garanție dar din fericire nu am avut nevoie de ea.
+Ah da, după ce m-am angajat la Internet Cafe au trecut cam două sau trei zile în care mi-am adus acasă "recolta" de descărcări din acea zi pe dischete multiple, apoi am tras aer adânc în piept, am tăiat sigiliul și am scos hard discul. Adio garanție dar din fericire nu am avut nevoie de ea.
 
 Un fost coleg de clasă de la liceu stătea foarte aproape de facultate iar fratele lui era super pasionat de jocuri și cred că prin anul 2 de facultate (1999 - 2000) am tot umblat pe la ei să mă casc la ce putea face un accelerator grafic 3dfx Voodoo. Pentru mine aceste acceleratoare grafice erau ceva de domeniul viselor din cauza prețului și îmi amintesc vag că în cursul acelei perioade cât eram "abonat" la ei a și făcut upgrade la o placă și mai puternică.
 
-Cu toate că mă jucam mult cu prietenii și singur, pentru mine jocurile nu erau o prioritate, mai ales că începusură mai toate jocurile noi să necesite accelerator 3D (ceea ce cum spuneam mai sus eu nu aveam). Dar nu mă plictiseam deloc pentru că aveam acces la Internet și descoperisem încă dinainte să am calculator demos și muzica în format XM.
+Cu toate că mă jucam mult cu prietenii și de unul singur, pentru mine jocurile nu erau o prioritate, mai ales că începusură mai toate jocurile noi să necesite accelerator 3D (ceea ce cum spuneam mai sus eu nu aveam). Dar nu mă plictiseam deloc pentru că aveam acces la Internet și descoperisem încă dinainte să am calculator demos și muzica în format XM.
 
 Știu că acest prim calculator nu avea puterea necesară să redea filmele DivX fără să sacadeze. M-am chinuit să descarc un film (cred că a fost vorba de marea mea favorită Fight Club) și să-l convertesc la rezoluție mai mică dar după ore bune de conversie, cândva în mijlocul nopții VirtualDub a dat eroare.
 
@@ -56,8 +56,6 @@ Din conversațiile de pe CG Forum am dedus că aveam atât la firmă cât și ac
 La început de 2002 s-a și încheiat firma asta și am început să lucrez de acasă cu clientul pentru care am lucrat și la firmă (și cu care am colaborat după aia mulți ani la rând), câștigam mult mai bine, eram toată ziua la calculatorul propriu și din această cauză, cum e și normal, am investit foarte mult în componente și periferice.
 
 Destul de rapid, în primăvara lui 2002 am primit primul meu aparat digital (primele poze cu data corectă sunt din 6 martie 2002). Dar despre aparatele mele există [un întreg articol separat](https://www.rusiczki.net/2012/05/17/aventuri-in-fotografia-digitala/).
-
-În 14 iulie 2002 aveam deja inscriptor TEAC 24x (cred că din poze).
 
 Aveam un amic cu inscriptor de CD-uri de prin '99, umblam pe la el destul de des să-mi "descarc" conținutul hardului și să scriu CD-uri audio din unele MP3-uri descărcate după ce am fost angajat la Internet Cafe. Apoi pe parcursul lui 2001 am avut inscriptor la birou și mai rămâneam câteodata peste noapte să inscripționez. Îndată ce am avut niște bani, după aparatul digital cea de-a doua investiție importantă a fost propriul inscriptor în 5 aprilie 2002, un TEAC CD-W524EB. Îmi amintesc că mergeam la METRO, singurul supermarket din zonă pe vremea aia - necesita legitimație pe care noroc că ne-au făcut-o la firmă, și-mi luam tone de CD-uri iar tata, care a fost aprovizioner la viața lui și una dintre pasiunile lui era să studieze facturi, a observat de atunci ce cheltuială mare sunt și m-a întrebat dacă chiar îmi trebuie. Ei bine, a avut dreptate, nu prea îmi trebuiau. Cele cu jocuri și filme nu prea au mai ajuns înapoi în unitate vreodată.
 
@@ -95,13 +93,15 @@ planuri de upgrade https://www.rusiczki.net/2003/04/13/plans-for-a-pc-upgrade/
 
 2003 probabil în mai sau vara - Epox EP-8RDA - AMD Athlon XP 2000+
 
-Din păcate nu îmi amintesc mai nimic despre acest upgrade și îmi vine cumva greu a crede că am rezistat cu acest procesor 3 ani jumate. De la Remus Kolozsvari - https://www.rusiczki.net/2004/04/23/re-building-a-computer/ pe la final.
+Din păcate nu îmi amintesc mai nimic despre acest upgrade și îmi vine cumva greu să cred că am rezistat cu acest procesor 3 ani jumate. De la Remus Kolozsvari - https://www.rusiczki.net/2004/04/23/re-building-a-computer/ pe la final.
 
 Am găsit ambalajul plăcii de bază din această configurație precum și cutia plăcii de bază de la următoarea configurație într-una din săpăturile arheologice efectuate în fosta mea cameră din Baia Sprie, iar mai recent efectuând cercetări prin pod am găsit și plăcile de bază efective - dar mă confuzează că am găsit o mențiune din 2003 în care ziceam că am amd xp1800+ https://www.rusiczki.net/2003/09/03/100-days-is-quite-a-long-time/ și eu am găsit procesorul ăsta 2000+
 
 Ca să fie și mai confuz, aici spun că am un procesor de 1.66 ghz care corespunde cu 2000+ https://www.rusiczki.net/2005/07/24/windows-reinstall/
 
 despre harddisc-uri https://www.rusiczki.net/2003/10/23/the-price-of-laziness/
+
+ipod nou https://www.rusiczki.net/2004/01/11/a-week-of-packages-part-2-ipod/
 
 ### 4. O schimbare de placă de bază
 
@@ -115,17 +115,15 @@ Nu știu ce s-a ales de modemul de telefon care nu mi-a trebuit odată ce m-am m
 
 cu calculatorul asta m-am mutat la bloc - mutarea s-a întâmplat în a doua parte a lunii mai 2004 - https://www.rusiczki.net/2004/05/18/the-new-home/
 
+dvd writer Teac DV-W58G https://www.rusiczki.net/2004/04/01/brief/ - https://www.cnet.com/products/teac-dv-w58g-dvdrw-drive-ide-internal/
+
 În august 2004, după o vară super fierbinte, a murit palit daytona https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/ și am primit de la soacra la schimb o placă video slabă dar stabilă ATI 9200 - https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/
 
-2005 - lipsesc complet informațiile despre orice schimbare hardware
+Nu știu ce am făcut în 2005 dar lipsesc complet informațiile despre orice legat de calculator. După cum am zis în introducere, din păcate facturile și bonurile din această perioadă s-au pierdut. În luna mai m-am dus la invitația unui prieten, și după ce a cam secat temporar cererea de lucru de la clientul moștenit de la firma din 2001 m-am angajat la a doua firma. Știu că perindam între a dormi la prietenă-mea, actuala soție, mers la muncă, mers la bloc să pornesc și ajustez niște download-uri.
 
 Primul LCD - Samsung Syncmaster 913N 31.01.2006 - https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/
 
 https://www.rusiczki.net/2007/01/23/need-for-hardware-upgrade-painfully-felt/
-
-ipod nou https://www.rusiczki.net/2004/01/11/a-week-of-packages-part-2-ipod/
-
-dvd writer Teac DV-W58G https://www.rusiczki.net/2004/04/01/brief/ - https://www.cnet.com/products/teac-dv-w58g-dvdrw-drive-ide-internal/
 
 ### 5. Revenirea la Intel
 
@@ -200,7 +198,7 @@ Placi de sunet:
 * Sound Blaster 16 luat de la Arhimedes, nu mai știu exact de la cine am primit un pont că au de vânzare, sunt destul de sigur că era iarnă, am "împrumutat" 100 Deutsche Mark de la părinți fără știrea lor dar i-am pus înapoi când am luat bursa, știu că am întrebat la schimbul valutar dacă sigur nu sunt falși - Sigur a fost în cursul primului an de facultate că din anul 2 nu am mai avut bursă. Update 1 iulie 2022: Am găsit fițuica schimbului valutar, datată în 7 decembrie 1999. Așadar era anul 2 de facultate și se pare că am rezistat 1 an cu placa aia nasoală despre care nu-mi amintesc mai nimic.
 * Cu ocazia unei vizite la Cluj am ochit, mai precis urechit niște boxe albe la un magazin de calculatoare - posibil Sprint, am remarcat cât de bine sună, apoi le-am și cumpărat, dar nu la Cluj ci la Baia Mare. Cu ocazia unei scotociri a fostei mele camere din Baia Sprie am găsit absolut accidental manualul de utilizare și am aflat că era vorba de niște boxe Samsung SMS-5100. Le-am dus pe vremuri (împreună cu placa de sunet) și pe la Internet Cafe-ul unde lucram și unde nu era nimic multimedia ca să ascult muzică când rămâneam de serviciu peste noapte.
 * Sound blaster live 5.1 împreună cu Cambridge Soundworks DTT 2200, cumpărate conform computergames.ro în toamna lui 2001 de la Conseco, distribuitor Flamingo, placa de sunet mi s-a stricat în ianuarie 2002, mi-au înlocuit-o în garanție. Cred că în perioada asta îmi tot recomanda doamna de la Conseco stabilizator de tensiune, se pare că a reușit să vândă unora din Baia Sprie, și era ferm convinsă că la noi sunt variațiuni de tensiune care ne afectează componentele. Posibil să fi fost, dar eu nu mi-am cumpărat niciodată stabilizator de tensiune.
-* Căști Kenwood KPM-510 luate de la etajul 4 al magazinului Universal Maramureșul. I-am luat cândva pe la începutul anilor 2000 în perioada de glorie de după prima firmă când lucram de acasă și câștigam bine, [e confirmat aici pe blog](https://www.rusiczki.net/2003/04/05/cd-copy-protection-and-shit/) că îi aveam deja când încă stăteam în casa părintească, [îi foloseam](https://www.rusiczki.net/2005/11/17/days-of-silence/) pe la finalul anului 2005 când lucram la Softzone, dar parcă după ce am plecat de acolo în Octombrie 2006 mi-am luat prima cască Sennheiser. Îmi amintesc că s-au rupt, i-am lipit, s-au rupt iar și până la urmă când încă stăteam la bloc prin 2006 sau 2007 le-am pus la gunoi. [Menționez istoria lor în aprilie 2008](https://www.rusiczki.net/2008/04/15/getting-friskier/)!
+* Căști Kenwood KPM-510 luate de la etajul 4 al magazinului Universal Maramureșul. I-am luat cândva pe la începutul anilor 2000 în perioada de glorie de după prima firmă când lucram de acasă și câștigam bine, [e confirmat aici pe blog](https://www.rusiczki.net/2003/04/05/cd-copy-protection-and-shit/) că îi aveam deja când încă stăteam în casa părintească, [îi foloseam](https://www.rusiczki.net/2005/11/17/days-of-silence/) pe la finalul anului 2005 când lucram la Softzone, dar parcă după ce am plecat de acolo în Octombrie 2006 mi-am luat prima cască Sennheiser. Îmi amintesc că s-au rupt, i-am lipit, s-au rupt iar și până la urmă când încă stăteam la bloc prin 2006 sau 2007 le-am pus la gunoi. [Menționez istoria lor în aprilie 2008](https://www.rusiczki.net/2008/04/15/getting-friskier/)! Se vede în poză la "new monitors" de la Softzone.
 * Vise de DJ, îmi trebuia o placă de sunet cu 2 ieșiri, pe o ieșire să meargă ce se aude și pe celaltă să pot asculta în căști ce pregătesc. Placa de sunet mi-am luat-o, și a fost una dintre cele mai bune investiții în hardware, dar DJ nu am ajuns. m-audio firewire audiophile - 2006 - https://www.rusiczki.net/2010/06/29/best-piece-of-hardware-ever/
 * 2012.01.24 - Apoi am luat un Traktor Audio 2 DJ de pe Okazii, cred că ăsta a fost al doilea.
 * Apoi încet am revenit la plăcile de sunet on-board pe de-o parte și inițial KRK Rokit prin mixer Behringer cu placă audio încorporată și apoi prin Scarlett 2i2.

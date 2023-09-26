@@ -136,6 +136,8 @@ https://www.rusiczki.net/2007/01/23/need-for-hardware-upgrade-painfully-felt/
 
 2007.02.06 - Intel Dual Core
 
+Înainte de acest upgrade am tot citit despre multimedia PCs și silent PCs și am devenit fascinat de acest aspect.
+
 despre upgrade-ul din 2006 / 2007 - https://www.rusiczki.net/2007/03/14/the-masterpiece-is-almost-complete/
 
 - kit dual channel corsair twin2X 2x512mb ddr2, 667MHz - 353 ron - http://www.emag.ro/memorii/kit-dual-channel-corsair-twin2x-2x512mb-ddr2-667mhz--pTWIN2X1024-5400C4

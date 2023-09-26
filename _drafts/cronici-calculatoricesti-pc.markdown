@@ -71,6 +71,9 @@ Cum tot mai mergeam pe la Internet Cafe și stăteam pe IRC la taclale cu priete
 
 Următorul pas a fost internetul prin satelit de la NetSystem (am găsit un formular fizic din 15 mai 2003). Funcționa ca un VPN, request-urile le făceai prin dial-up și răspunsurile (la foarte mare viteză) veneau prin satelit. În timp ce am avut abonament am prins un stress test de transponder cu download nelimitat și viteză mult mai bună, am descărcat tone de jocuri pe mai multe CD-uri. Îmi amintesc că îmi programam calculatorul să se oprească sau să închidă conexiunea fix înainte de ora 8 (ora de la care se termina dial-up-ul ieftin de noapte) și mă culcam. Astfel în fiecare zi când mă trezeam parcă era ziua mea, făceam inventarul la cadourile descărcate peste noapte.
 
+despre netsystem - https://www.nytimes.com/2004/07/28/business/worldbusiness/IHT-satellites-bring-broadband-internet-to-remote.html
+https://www.satellitetoday.com/uncategorized/2003/07/14/netsystem-adds-astra-transponder/
+
 - 04.11.2002 - Palit Daytona - SC Creative CD COM SRL
   În 2002 mi-am cumpărat o Palit Daytona Geforce 4 Ti care "fell off a truck" - la un preț absolut incredibil. Îmi amintesc că a venit un prieten la mine și m-a întrebat dacă nu aș fi interesat că a auzit că este de vânzare. https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/
 

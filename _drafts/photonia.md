@@ -18,6 +18,10 @@ This was the start of Photonia.
 
 Once the database structure was ready and I was able to import some of the data, I concentrated my efforts to develop the simplest application that would display the photos. Once I had that I thought I'd deploy it. This was the most barebones website of my life which went into _production_ but once I have decided on the URL structure I just wanted search engines to start indexing. I'm not sure when was the exact date when I went online with the site, the Internet Archive's [first snapshot is from November 29, 2020](https://web.archive.org/web/20201129111355/https://photos.rusiczki.net/).
 
+After I was laid off in March 2023 I started working much more on this pet project, finishing the transition to VueJS. I was hanging around on a group chat with some long time friends and they were constanly giving me feedback. At first the photo display page resembled Flickr's but then I got the suggestion "why don't you make it look like 500px's?". Which I did.
+
+It was running on my server at home and I was using a database as service from online and this turned out to be a bottleneck.
+
 Challenges:
 
 - I have decided early on that I will store the photos on S3

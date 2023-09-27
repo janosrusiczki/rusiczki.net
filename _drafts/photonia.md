@@ -16,7 +16,7 @@ This archive sat around for almost two years until the autumn of 2020 when I sta
 
 This was the start of Photonia.
 
-Once the database structure was ready and I was able to import some of the data, I concentrated my efforts to develop the simplest application that would display the photos. Once I had that I thought I'd deploy it. This was the most barebones website of my life which went into _production_ but once I have decided on the URL structure I just wanted search engines to start indexing. I'm not sure when was the exact date when I went online with the site, the Internet Archive's [first snapshot is from November 29, 2020](https://web.archive.org/web/20201129111355/https://photos.rusiczki.net/).
+When the database structure was ready and I was able to import some of the data, I concentrated my efforts to develop the simplest application that would display the photos and once that was done I thought I'd deploy it. This was the most barebones website I ever made launched into _production_ but once I have decided on the URL structure I just wanted search engines to start indexing it. I'm not sure when was the exact date when I went online with it, the Internet Archive's [first snapshot is from November 29, 2020](https://web.archive.org/web/20201129111355/https://photos.rusiczki.net/).
 
 After I was laid off in March 2023 I started working much more on this pet project, finishing the transition to VueJS. I was hanging around on a group chat with some long time friends and they were constanly giving me feedback. At first the photo display page resembled Flickr's but then I got the suggestion "why don't you make it look like 500px's?". Which I did.
 

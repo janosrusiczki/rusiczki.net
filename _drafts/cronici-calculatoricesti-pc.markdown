@@ -44,7 +44,7 @@ Lecturând revistele acelor vremuri mi-am mai amintit că eram un utilizator con
 
 ### 2. Upgrade-ul foarte necesar și epoca de glorie
 
-2001, ianuarie - AMD Duron 800, Soltek SL-75KV2-X / Video GEForce2MX 200 / Sursa 300W / 192 MB RAM, probabil am început cu 128 și am pus pus ulterior 64 de mega de undeva. Fără CG Forum nu știam nimic despre configurația asta în afară de procesor probabil.
+2001, ianuarie - AMD Duron 800, Soltek SL-75KV2-X / Video GEForce2MX 200 / Sursa 300W / 192 MB RAM, probabil că începusem cu 128 și am pus pus ulterior 64 de mega de undeva. Fără CG Forum nu prea aș fi știut nimic despre configurația asta în afară de procesor.
 
 Am avut noroc că aveam o colegă care în ultimul an de facultate lucra deja la o firmă numită Cumulus Logic care funcționa în clădirea în care este acum (de foarte mulți ani, de fapt) Eurohotel. Ea mi-a făcut o ofertă care presupunea să îmi cumpere componentele vechi iar restul banilor au provenit din salariul infim pe care-l primeam la Internet Cafe-ul la care lucram, puși la o parte pentru o vacanță de vară care nu s-a mai întâmplat.
 
@@ -52,16 +52,15 @@ Dar tot de pe la începutul lui 2001 am început să și lucrez la prima firmă 
 
 Nu mai știu dacă mi-am luat acceleratorul grafic deodată sau separat de majoritatea componentelor, oricum a fost cândva în prima jumătate a lui 2001, și am fost efectiv în al nouălea cer, am putut în sfârșit să iau la rând jocurile la care am râvnit atât de mult și care nu-mi mergeau pe configurația anterioară. Am o amintire despre cum umblam în acea vară după jocuri, și știu că am terminat tot ce era Half Life cu toate de expansiunile existente și că m-am jucat foarte mult Tony Hawk's Pro Skater 2.
 
-Din conversațiile de pe CG Forum am dedus că aveam atât la firmă cât și acasă aceași placă de bază. Știu că la firmă am făcut upgrade de la Windows 98 care nu se preta deloc pentru lucratul pe calculator din cauza numeroaselor blocări la Windows 2000 care era "rock solid" dar nu mergeau jocurile pe el așa că am fost hulit de colegi dar după aia am făcut din nou upgrade la Windows XP proaspăt apărut și a fost totul OK din nou. Cel puțin pentru ultimele luni ale acelei firme.
+Din conversațiile de pe CG Forum am dedus că aveam atât la firmă cât și acasă aceași placă de bază. Știu că la firmă am făcut upgrade de la Windows 98 care nu se preta deloc pentru lucru din cauza numeroaselor blocări spre Windows 2000 care era "rock solid" dar nu mergeau jocurile pe el așa că am fost hulit de colegi. Dar după aia am făcut din nou upgrade la Windows XP proaspăt apărut și a fost totul OK din nou, când nu eram eu pe acolo (și nici patronii) se putea folosi și calculatorul meu pentru campionate de StarCraft.
 
 La început de 2002 s-a și încheiat firma asta și am început să lucrez de acasă cu clientul pentru care am lucrat și la firmă (și cu care am colaborat după aia mulți ani la rând), câștigam mult mai bine, eram toată ziua la calculatorul propriu și din această cauză, cum e și normal, am investit foarte mult în componente și periferice.
+
+Primul upgrade a fost se pare monitorul, spre un Hansol 710DT (hârtiile de la Conseco sunt din 10 și 11 ianuarie 2002). Așa cum am amintit mai sus, cumpărasem acest monitor la sugestia unui amic, și l-am folosit 4 ani, până în [ianuarie 2006](https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/) dar [nu pot spune că aș fi fost pe deplin mulțumit de el](https://www.rusiczki.net/2005/12/29/lcd-suggestions-anyone/). - 280_8050.JPG Monitorul LG cred că l-am vândut pe bani mărunți sau l-am donat unui prieten, îmi aminteam foarte bine că aveam o poză cu el în tranzit prin parc când a plecat de la mine, am regăsit poza și se pare că m-am despărțit de el în 22 iulie 2003.
 
 Destul de rapid, în primăvara lui 2002 am primit primul meu aparat digital (primele poze cu data corectă sunt din 6 martie 2002). Dar despre aparatele mele există [un întreg articol separat](https://www.rusiczki.net/2012/05/17/aventuri-in-fotografia-digitala/).
 
 Aveam un amic cu inscriptor de CD-uri de prin '99, umblam pe la el destul de des să-mi "descarc" conținutul hardului și să scriu CD-uri audio din unele MP3-uri descărcate după ce am fost angajat la Internet Cafe. Apoi pe parcursul lui 2001 am avut inscriptor la birou și mai rămâneam câteodata peste noapte să inscripționez. Îndată ce am avut niște bani, după aparatul digital cea de-a doua investiție importantă a fost propriul inscriptor în 5 aprilie 2002, un TEAC CD-W524EB. Îmi amintesc că mergeam la METRO, singurul supermarket din zonă pe vremea aia - necesita legitimație pe care noroc că ne-au făcut-o la firmă, și-mi luam tone de CD-uri iar tata, care a fost aprovizioner la viața lui și una dintre pasiunile lui era să studieze facturi, a observat de atunci ce cheltuială mare sunt și m-a întrebat dacă chiar îmi trebuie. Ei bine, a avut dreptate, nu prea îmi trebuiau. Cele cu jocuri și filme nu prea au mai ajuns înapoi în unitate vreodată.
-
-- 10.01.2002 - Hansol 710D - Conseco
-  Tot din 2002 datează și monitorul Hansol 710D - 280_8050.JPG / https://www.rusiczki.net/2005/12/29/lcd-suggestions-anyone/
 
 - 20.06.2002 - Modem Extern 56k Ambient 2 - Conseco
 - 24.06.2002 - RDSLink propriu

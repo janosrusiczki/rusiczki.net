@@ -36,7 +36,7 @@ Cu toate că mă jucam mult cu prietenii și de unul singur, pentru mine jocuril
 
 Nu avea puterea necesară nici pentru VST-uri (care începeau să apară), dar mergea Hammerhead de la Bram Bros și mergea FastTracker 2 în care am pierdut zeci dacă nu sute de ore.
 
-O parte din timp mi-l petreceam programând Diskmag scris în Pascal.
+O parte din timp mi-l petreceam programând un diskmag în Pascal. Decizia asta a venit deoarece îmi doream foarte mult să fac ceva în cadrul "scenei" dar cum nu știam să programez îndestul de bine să scriu demo-uri și nici muzică nu prea eram stare să fac am zis să încerc să fac ce pot. Și a fost și oarecum anacronică deoarece epoca diskmag-urilor era pe cale să apună odată cu accesul pe scară mai largă la internet. Totuși au mai existat câteva diskmag-uri mari și unele au dus-o încă mult și bine. Nu mică mi-a fost mirarea când am descoperit că am contribuit la cel mai popular diskmag, Hugi, prin interviuri luate unor muzicieni din scenă.
 
 Am început un OS grafic folosind DJGPP și RHIDE și minunându-mă de ce poate face programarea orientată pe obiecte. DJGPP l-am ales pentru că era portul GCC-ului de pe Linux, iar RHIDE ca și IDE pentru că avea interfața și shortcut-urile familiare din produsele Borland, adică în cazul meu Pascal.
 

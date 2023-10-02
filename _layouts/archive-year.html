@@ -5,7 +5,13 @@ layout: default
 <h1 class="archive-title">Archive of posts from {{ page.date | date: "%Y" }}</h1>
 
 <ul class="posts">
+{% assign previous_month = '' %}
 {% for post in page.posts %}
+  {% capture current_month %}{{ post.date | date: "%b" }}{% endcapture %}
+  {% if current_month != previous_month %}
+    {% assign previous_month = current_month %}
+    <h1>{{ current_month }}</h1>
+  {% endif %}
   <li>
     <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
     <span class="archive-post-date">{{ post.date | date: "%b %-d, %Y" }}</span>

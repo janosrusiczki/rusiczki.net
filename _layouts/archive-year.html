@@ -4,6 +4,7 @@ layout: default
 
 <h1 class="archive-title">Archive of posts from {{ page.date | date: "%Y" }}</h1>
 
+{% assign posts = posts.reverse() %}
 {% assign previous_month = '' %}
 {% for post in page.posts %}
   {% capture current_month %}{{ post.date | date: "%B" }}{% endcapture %}
@@ -12,7 +13,7 @@ layout: default
       </ul>
     {% endif %}
     {% assign previous_month = current_month %}
-    <h1>{{ current_month }}</h1>
+    <h2>{{ current_month }}</h2>
     <ul class="posts">
   {% endif %}
   <li>

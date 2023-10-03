@@ -38,12 +38,16 @@ module Jekyll
 
       if @text.start_with? "next_year_link"
         current_year = @text.split(" ")[1]
+        puts "@text = " + @text
+        puts "current_year = " + current_year
         next_year = years[years.index(current_year) + 1]
         the_result = "<a href='/#{next_year}/' class='next-year-link'>#{next_year}</a>" if next_year
       end
 
       if @text.start_with? "previous_year_link"
         current_year = @text.split(" ")[1]
+        puts "@text = " + @text
+        puts "current_year = " + current_year
         previous_year = years[years.index(current_year) - 1]
         the_result = "<a href='/#{previous_year}/' class='previous-year-link'>#{previous_year}</a>" if previous_year
       end

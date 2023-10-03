@@ -26,7 +26,8 @@ module Jekyll
       }.uniq
 
       if @text.start_with? "year_links"
-        years.map { |year| "<a href='/#{year}/' class='year-link'>#{year}</a>" }.join(', ')
+        puts "Processing year_links..."
+        the_result = years.map { |year| "<a href='/#{year}/' class='year-link'>#{year}</a>" }.join(', ')
       end
 
       puts the_result

@@ -53,7 +53,7 @@ module Jekyll
 
     def months_in_year_list(posts, year)
       "<ul class='month-list'>" +
-        months_in_year_array(all_posts, year).map { |month| "<li><a href='/#{year}/#{month}/' class='month-link'>#{Date::MONTHNAMES[month.to_i]}</a></li>" } .join +
+        months_in_year_array(posts, year).map { |month| "<li><a href='/#{year}/#{month}/' class='month-link'>#{Date::MONTHNAMES[month.to_i]}</a></li>" } .join +
         "</ul>"
     end
 

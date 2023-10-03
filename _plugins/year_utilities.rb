@@ -20,7 +20,10 @@ module Jekyll
       the_result = nil
 
       all_posts = context.registers[:site].posts.docs
-      years = all_posts.map { |post| post.date.year }.uniq
+      years = all_posts.map { |post|
+        puts post.date
+        post.date.year
+      }.uniq
 
       if @text.start_with? "year_links"
         years.map { |year| "<a href='/#{year}/' class='year-link'>#{year}</a>" }.join(', ')

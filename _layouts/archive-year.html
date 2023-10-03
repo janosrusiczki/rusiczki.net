@@ -22,5 +22,11 @@ layout: default
   </li>
 {% endfor %}
 </ul>
+{% capture next_year_link %}{% year_utilities next_year_link current_year %}{% endcapture %}
+{% capture previous_year_link %}{% year_utilities previous_year_link current_year %}{% endcapture %}
+{% if previous_year_link != '' || next_year_link != '' %}
 <h2>Navigation</h2>
-Go to: {% year_utilities next_year_link current_year %} | {% year_utilities previous_year_link current_year %}
+Go to: {{ previous_year_link }}
+{% if previous_year_link != '' && next_year_link != '' %}|{% endif %}
+{{ next_year_link }}
+{% endif %}

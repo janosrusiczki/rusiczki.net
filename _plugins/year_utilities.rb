@@ -31,13 +31,11 @@ module Jekyll
         puts years.inspect
         years_with_month_links = years.map do |year|
           puts year
-          year_with_month_links = "<a href='/#{year}/' class='year-link'>#{year}</a> ("
-          year_with_month_links += months_in_year(all_posts, year).map { |month| "<a href='/#{year}/#{month}/' class='month-link'>#{Date::MONTHNAMES[month.to_i]}</a>" } .join(', ')
-          year_with_month_links += ")"
-          puts year_with_month_links
-          return year_with_month_links
+          "<a href='/#{year}/' class='year-link'>#{year}</a> (" +
+            months_in_year(all_posts, year).map { |month| "<a href='/#{year}/#{month}/' class='month-link'>#{Date::MONTHNAMES[month.to_i]}</a>" } .join(', ') +
+            ")"
         end
-        puts years_with_month_links
+        puts years_with_month_links.inspect
         the_result = years_with_month_links.join(', ')
       end
 

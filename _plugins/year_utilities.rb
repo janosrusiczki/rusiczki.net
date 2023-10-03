@@ -6,6 +6,7 @@
 #
 # PARAMETER can be:
 # 	year_links (returns a list of links to all years that have posts in them)
+# 	years_with_month_links (returns a list of links to all years that have posts in them, with links to the months in each year)
 
 module Jekyll
   class YearUtilities < Liquid::Tag
@@ -20,18 +21,26 @@ module Jekyll
       the_result = nil
 
       all_posts = context.registers[:site].posts.docs
-      years = all_posts.map { |post|
-        puts post.date.strftime("%Y")
-        post.date.strftime("%Y")
-      }.uniq
+      years = all_posts.map { |post| post.date.strftime("%Y") }.uniq
 
       if @text.start_with? "year_links"
-        puts "Processing year_links..."
         the_result = years.map { |year| "<a href='/#{year}/' class='year-link'>#{year}</a>" }.join(', ')
       end
 
-      puts the_result
+      if @text.start_with? "years_with_month_links"
+        the_result = years.map do |year|
+          year_with_month_links = "<a href='/#{year}/' class='year-link'>#{year}</a> ("
+          year_with_month_links += months_in_year(all_posts, year).map { |month| "<a href='/#{year}/#{month}/' class='month-link'>#{month}</a>" }.join(', ')
+          year_with_month_links += ")"
+          return year_with_month_links
+        end.join(', ')
+      end
+
       return the_result
+    end
+
+    def months_in_year(posts, year)
+      posts.select { |post| post.date.strftime("%Y") == year }.map { |post| post.date.strftime("%m") }.uniq
     end
   end
 end

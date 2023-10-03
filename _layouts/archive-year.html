@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-
-<h1 class="archive-title">Archive of posts from {{ page.date | date: "%Y" }}</h1>
+{% capture current_year %}{{ page.date | date: "%Y" }}{% endcapture %}
+<h1 class="archive-title">Archive of posts from {{ current_year }}</h1>
 
 {% assign posts = page.posts | reverse %}
 {% assign previous_month = '' %}
@@ -21,4 +21,6 @@ layout: default
     <span class="archive-post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
   </li>
 {% endfor %}
+<h2>Navigation</h2>
+Go to: {% year_utilities next_year_link current_year %} | {% year_utilities previous_year_link current_year %}
 </ul>

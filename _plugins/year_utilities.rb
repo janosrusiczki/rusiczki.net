@@ -29,6 +29,7 @@ module Jekyll
         years.map { |year| "<a href='/#{year}/' class='year-link'>#{year}</a>" }.join(', ')
       end
 
+      puts the_result
       return the_result
     end
   end

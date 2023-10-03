@@ -37,7 +37,7 @@ module Jekyll
       end
 
       if @text.start_with? "next_year_link"
-        current_year = @text.split(" ")[1]
+        current_year = context[@text.split(" ")[1].strip]
         puts "@text = " + @text
         puts "current_year = " + current_year
         next_year = years[years.index(current_year) + 1]
@@ -45,7 +45,7 @@ module Jekyll
       end
 
       if @text.start_with? "previous_year_link"
-        current_year = @text.split(" ")[1]
+        current_year = context[@text.split(" ")[1].strip]
         puts "@text = " + @text
         puts "current_year = " + current_year
         previous_year = years[years.index(current_year) - 1]

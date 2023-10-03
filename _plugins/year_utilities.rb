@@ -28,12 +28,13 @@ module Jekyll
       end
 
       if @text.start_with? "years_with_month_links"
-        the_result = years.map do |year|
+        years_with_month_links = years.map do |year|
           year_with_month_links = "<a href='/#{year}/' class='year-link'>#{year}</a> ("
-          year_with_month_links += months_in_year(all_posts, year).map { |month| "<a href='/#{year}/#{month}/' class='month-link'>#{month}</a>" }.join(', ')
+          year_with_month_links += months_in_year(all_posts, year).map { |month| "<a href='/#{year}/#{month}/' class='month-link'>#{Date::MONTHNAMES[month.to_i]}</a>" } .join(', ')
           year_with_month_links += ")"
           return year_with_month_links
-        end.join(', ')
+        end
+        the_result = years_with_month_links.join(', ')
       end
 
       return the_result

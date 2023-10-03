@@ -21,8 +21,8 @@ module Jekyll
 
       all_posts = context.registers[:site].posts.docs
       years = all_posts.map { |post|
-        puts post.date
-        post.date.year
+        puts post.date.strftime("%Y")
+        post.date.strftime("%Y")
       }.uniq
 
       if @text.start_with? "year_links"

@@ -9,5 +9,5 @@ title: Archives
 <h2>Category based archives</h2>
 {% for category in site.categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}
-  <a href="/category/{{category_name}}">{{category_name}}</a>
+  <a href="/category/{{category_name | slugify}}">{{category_name}}</a>
 {% endfor %}

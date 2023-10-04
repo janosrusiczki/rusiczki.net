@@ -7,4 +7,8 @@ title: Archives
 {% year_utilities years_with_month_links %}
 
 <h2>Category based archives</h2>
-{% category_utilities category_links %}
+<div id="archives">
+{% for category in site.categories %}
+  <a href="/category/{{category|slugify}}">{{category}}</a>
+{% endfor %}
+</div>

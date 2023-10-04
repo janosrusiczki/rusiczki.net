@@ -72,19 +72,19 @@ module Jekyll
     end
   end
 
-  class CategoryUtilities < UtilitiesBase
-    def render(context)
-      @context = context
+  # class CategoryUtilities < UtilitiesBase
+  #   def render(context)
+  #     @context = context
 
-      # categories = all_posts.map { |post| post.categories }.flatten.uniq
-      all_posts.map { |post| puts post.inspect }
+  #     # categories = all_posts.map { |post| post.categories }.flatten.uniq
+  #     all_posts.map { |post| puts post.inspect }
 
-      if @text.start_with? "category_links"
-        categories.map { |category| "<a href='/category/#{category}/' class='category-link'>#{category}</a>" }.join(', ')
-      end
-    end
-  end
+  #     if @text.start_with? "category_links"
+  #       categories.map { |category| "<a href='/category/#{category}/' class='category-link'>#{category}</a>" }.join(', ')
+  #     end
+  #   end
+  # end
 end
 
 Liquid::Template.register_tag('year_utilities', Jekyll::YearUtilities)
-Liquid::Template.register_tag('category_utilities', Jekyll::CategoryUtilities)
+# Liquid::Template.register_tag('category_utilities', Jekyll::CategoryUtilities)

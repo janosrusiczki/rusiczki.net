@@ -26,6 +26,8 @@ module Jekyll
 
   class YearUtilities < UtilitiesBase
     def render(context)
+      @context = context
+
       the_result = nil
 
       years = all_posts.map { |post| post.date.strftime("%Y") }.uniq
@@ -72,6 +74,8 @@ module Jekyll
 
   class CategoryUtilities < UtilitiesBase
     def render(context)
+      @context = context
+
       categories = all_posts.map { |post| post.categories }.flatten.uniq
 
       if @text.start_with? "category_links"

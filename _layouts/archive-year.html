@@ -25,7 +25,7 @@ layout: default
 {% capture next_year_link %}{% year_utilities next_year_link current_year %}{% endcapture %}
 {% capture previous_year_link %}{% year_utilities previous_year_link current_year %}{% endcapture %}
 {% if previous_year_link != '' or next_year_link != '' %}
-<h2>Navigation</h2>
+<h2>Navigate</h2>
 Go to: {{ previous_year_link }}
 {% if previous_year_link != '' and next_year_link != '' %}|{% endif %}
 {{ next_year_link }}

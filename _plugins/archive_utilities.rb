@@ -76,7 +76,8 @@ module Jekyll
     def render(context)
       @context = context
 
-      categories = all_posts.map { |post| post.categories }.flatten.uniq
+      # categories = all_posts.map { |post| post.categories }.flatten.uniq
+      all_posts.map { |post| puts post.inspect }
 
       if @text.start_with? "category_links"
         categories.map { |category| "<a href='/category/#{category}/' class='category-link'>#{category}</a>" }.join(', ')

@@ -70,7 +70,7 @@ module Jekyll
     end
   end
 
-  class CategoryUtilities < LiquidTag
+  class CategoryUtilities < UtilitiesBase
     def render(context)
       categories = all_posts.map { |post| post.categories }.flatten.uniq
 

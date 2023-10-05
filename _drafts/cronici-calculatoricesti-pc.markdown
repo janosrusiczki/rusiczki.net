@@ -71,8 +71,7 @@ Următorul pas a fost internetul prin satelit de la NetSystem (am găsit un form
 despre netsystem - https://www.nytimes.com/2004/07/28/business/worldbusiness/IHT-satellites-bring-broadband-internet-to-remote.html
 https://www.satellitetoday.com/uncategorized/2003/07/14/netsystem-adds-astra-transponder/
 
-- 04.11.2002 - Palit Daytona - SC Creative CD COM SRL
-  În 2002 mi-am cumpărat o Palit Daytona Geforce 4 Ti care "fell off a truck" - la un preț absolut incredibil. Îmi amintesc că a venit un prieten la mine și m-a întrebat dacă nu aș fi interesat că a auzit că este de vânzare. https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/
+În acest moment prietenii mei cam știau că sunt pregătit să investesc în componente și orice legat de calculator și îmi amintesc că a venit unul dintre ei la mine și m-a întrebat dacă nu aș vrea să cumpăr un Geforce 4 Ti la un preț imbatabil. Conform facturii am bătut palma în 4 noiembrie 2002 și chiar a fost un preț incredibil, dar am impresia că placa "căzuse de pe un camion". Nu eram pregătit pentru ce putea să ofere această placă. Dacă mai sus spuneam că înainte cu câțiva ani rămăsesem gură cască când vedeam ce puteau plăcile Voodoo, acuma am rămas fascinat de ce putea placa mea. Nu prea exista joc care să nu meargă cu toate detaliile și brizbrizurile la maxim.
 
 Nu mai știu la cine am dat această placa asta de bază și procesorul.
 

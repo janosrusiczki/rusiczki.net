@@ -213,7 +213,7 @@ Placi de sunet:
 
 Poză cu volanul 126-2693_IMG.JPG 20 iunie 2002 - Amintiri foarte plăcute cu NFS Porsche Unleashed. Volanul era de la un fost coleg de clasă, primit printr-un prieten care din păcate nu mai e printre noi. :(
 
-Cum am recuperat CD-urile cu MP3-uri. M-am apucat sa le copiez la Baia Sprie, știam că pe vremuri luasem câte unul sau câteva să le mai ascult prin mașină. Erau o parte într-o cutie care a stat la soacra în cameră (acolo am pus când am făcut zugrăvit la un moment dat camera), o parte în pod într-o cutie găsită din greșeală - unul dintre carcase era goală, discul l-am găsit într-o mapă din garaj.
+Cum am recuperat CD-urile cu MP3-uri. M-am apucat sa le copiez la Baia Sprie, știam că pe vremuri luasem câte unul sau câteva să le mai ascult prin mașină. Erau o parte într-o cutie care a stat la soacra în cameră (acolo am pus când am făcut zugrăvit la un moment dat camera), o parte în pod într-o cutie găsită din greșeală - una dintre carcase era goală, discul l-am găsit într-o mapă din garaj.
 
 Informații de pe facturi
 

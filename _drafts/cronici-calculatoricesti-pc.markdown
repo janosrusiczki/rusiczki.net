@@ -73,11 +73,11 @@ Următorul pas a fost internetul prin satelit de la NetSystem (am găsit un form
 despre netsystem - https://www.nytimes.com/2004/07/28/business/worldbusiness/IHT-satellites-bring-broadband-internet-to-remote.html
 https://www.satellitetoday.com/uncategorized/2003/07/14/netsystem-adds-astra-transponder/
 
+în această perioadă cât am avut internet prin satelit am făcut rețea cu vecinul. Un amic mi-a explicat ce și cum se face, mi-a vândut un mic switch pe care îl am și acuma (pensionat desigur de foarte mult timp), mi-a confecționat și donat mai multe cabluri de rețea pe care le-am tot folosit și dintre care s-ar putea să mai fie câteva în uz. Cablul trecea de la colțul casei mele la casa vecinului via stâlpul de la Electrica și am avut mari emoții să nu vină cineva să ni-l dea jos. Nu-mi mai amintesc niciun detaliu de implementare, nu știu dacă îmi împrumutase amicul menționat anterior cleștele și am mufat eu cablurile, nu știu nici cine a prins cablul pe stâlp (o fi fost tata?). Am studiat în acea perioadă rețelele wireless și am citit că se poate face antenă wireless cu specificații bune dintr-un tub de Pringles. Cum și în acea perioadă Pringles era mai scump și eu nefiind un băiat pretențios la mâncare mi-am cumpărat unul și după ce am mâncat conținutul a stat tubul pregătit să fie transformat în antenă, ceea ce nu s-a mai întâmplat. În primul rând pentru că nu am mai găsit pe nimeni în Baia Sprie cu care să fac rețea wireless.
+
 În acest moment prietenii mei cam știau că sunt pregătit să investesc în componente și orice legat de calculator și îmi amintesc că a venit unul dintre ei la mine și m-a întrebat dacă nu aș vrea să cumpăr un Geforce 4 Ti la un preț imbatabil. Conform facturii am bătut palma în 4 noiembrie 2002 și chiar a fost un preț incredibil, dar am impresia că placa "căzuse de pe un camion". Nu eram pregătit pentru ce putea să ofere această placă. Dacă mai sus spuneam că înainte cu câțiva ani rămăsesem gură cască când vedeam ce puteau plăcile Voodoo, acuma am rămas fascinat de ce putea placa mea. Nu prea exista joc care să nu meargă cu toate detaliile și brizbrizurile la maxim.
 
 Nu mai știu la cine am dat această placa asta de bază și procesorul.
-
-prin această perioadă sau perioada următoare am făcut rețea cu vecinul.
 
 De când am avut acces la Internet broadband la Internet cafe și până s-a terminat temporar accesul https://www.rusiczki.net/2002/12/27/the-end-of-broadband/ am stat cu frica în sân temându-mă de acel moment, dar și pregătindu-mă pentru el, am scris mai mult de 80 de CD-uri cu MP3 pe care am avut ocazia să le ascult după aia - chiar și în ziua de azi mai iau câte unul și-l bag în playerul din mașină să "descopăr" ce-i pe el.
 

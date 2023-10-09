@@ -155,9 +155,9 @@ mac! https://www.rusiczki.net/2007/10/04/time-for-a-switch/
 
 cred ca dupa ce mi-am luat lcd-ul si am avut un "calculator în plus" după ce am făcut upgrade-ul ăsta, am dus sus la Baia Sprie calculatorul vechi. Nu mai știu de unde am avut un stick wifi cu care prindeam wifi de la vecini.
 
-August 16, 2011 - Marea pauza Mac. Today I started up my PC which I haven't used since last year and look what I found in Chrome
-
 ### 6. Revenirea din pauza de Mac
+
+August 16, 2011 - Marea pauza Mac. Today I started up my PC which I haven't used since last year and look what I found in Chrome
 
 2011.10.07 - Intel i5 2500k
 

@@ -83,9 +83,9 @@ De când am avut acces la Internet broadband la Internet cafe și până s-a ter
 
 cd-uri cu arhive cu kit-uri, poze salvate de pe net și bineînțeles cd-uri cu muzică și nelipsitele filme
 
-waitec hip hop, cumparat in 2002 https://www.rusiczki.net/2004/04/13/waitec-hiphop-sold/
+minidisc sony - 2001 - 2004 (este mentionat în articolul cu switch) - destul de multe mențiuni despre el https://www.rusiczki.net/search/?janosrusiczki%5Bquery%5D=minidisc
 
-minidisc sony - 2001 - 2004 (este mentionat în articolul cu switch) - https://www.rusiczki.net/2004/04/13/waitec-hiphop-sold/
+waitec hip hop, cumparat in 2002 https://www.rusiczki.net/2004/04/13/waitec-hiphop-sold/
 
 În aceasta primă perioadă chiar făceam ceva ieșit din comun pentru un băisprian, lucrând ca programator remote pentru un client francez. Nu cred că înțelegeau prea mulți ce fac eu acolo, nici măcar părinții mei. Bine, evident nu aveam seriozitatea și organizarea cerute pentru un job în ziua de astăzi, dar site-urile ieșeau de sub mâna mea, funcționau, eram plătit, toată lumea era fericită. Întotdeauna am zis că sunt foarte bucuros că am început cum am început, mai ales când vedeam la locurile de muncă ulterioare cum erau pescuiți tinerii din băncile facultății și băgați direct în măcinătoarea de suflete care e corporația.
 

@@ -87,7 +87,7 @@ waitec hip hop, cumparat in 2002 https://www.rusiczki.net/2004/04/13/waitec-hiph
 
 minidisc sony - 2001 - 2004 (este mentionat în articolul cu switch) - https://www.rusiczki.net/2004/04/13/waitec-hiphop-sold/
 
-in 2001 chiar făceam ceva ieșit din comun pentru un băisprian :)
+În aceasta primă perioadă chiar făceam ceva ieșit din comun pentru un băisprian, lucrând ca programator remote pentru un client francez. Nu cred că înțelegeau prea mulți ce fac eu acolo, nici măcar părinții mei. Bine, evident nu aveam seriozitatea și organizarea cerute pentru un job în ziua de astăzi, dar site-urile ieșeau de sub mâna mea, funcționau, eram plătit, toată lumea era fericită. Întotdeauna am zis că sunt foarte bucuros că am început cum am început, mai ales când vedeam la locurile de muncă ulterioare cum erau pescuiți tinerii din băncile facultății și băgați direct în măcinătoarea de suflete care e corporația.
 
 planuri de upgrade https://www.rusiczki.net/2003/04/13/plans-for-a-pc-upgrade/
 

@@ -102,7 +102,7 @@ ipod nou https://www.rusiczki.net/2004/01/11/a-week-of-packages-part-2-ipod/
 
 ### 4. O schimbare de placă de bază
 
-În 23 aprilie 2004 am făcut o schimbare de placă de bază spre un Epox EP-8RDA3I. Restul configurației a rămas la fel. Această rocadă a fost dintre [excepțiile](https://www.rusiczki.net/2004/04/23/re-building-a-computer/) care confirmă regula că nu prea scriam despre hardware. Placa de bază am găsit-o în pod cu 768 de mega de RAM instalați.
+În 23 aprilie 2004 am făcut o schimbare de placă de bază spre un Epox EP-8RDA3I. Restul configurației a rămas la fel. Această rocadă a fost dintre [excepțiile](https://www.rusiczki.net/2004/04/23/re-building-a-computer/) care confirmă regula că nu prea scriam pe blog despre hardware. Placa de bază am găsit-o în pod cu 768 de mega de RAM instalați.
 
 După Conseco și apoi prietenului distribuitor în 2004 se pare că începuse deja pentru mine era UltraPro Computers. Știu că a existat și un magazin Depozitul de Calculatoare dar eu am devenit și rămas fan UltraPro. Motivul a fost comoditatea și faptul că în sfârșit exista în Baia Mare un magazin de calculatoare în care nu trebuia comandat chiar totul de la furnizor. Mai aveau și chestii în stoc. -- Când s-a încheiat UltraPro am fost chemat de un prieten și am primit șuruburi potrivite pentru fixarea hardurilor și altor componente care-mi vor ajunge o viață.
 
@@ -110,7 +110,7 @@ cu acest calculatorul m-am mutat la bloc - mutarea s-a întâmplat în a doua pa
 
 Nu știu ce s-a ales de modemul de telefon care nu mi-a trebuit odată ce m-am mutat la internet prin cablu. Inițial optasem pentru [un abonament de 128 kbps](https://www.rusiczki.net/2004/06/01/cabled-headaches/) care avea incluși 1,5 giga de trafic lunar. Sună ridicol acum, dar era ridicol și pe atunci. [Am schimbat foarte rapid](https://www.rusiczki.net/2004/06/05/the-headaches-are-over/) în 64 kbps cu trafic nelimitat.
 
-Privind în retrospectivă calitatea vieții mele s-a cam diminuat odată cu mutarea la bloc. Nu că nu era deja past due, că era destuld e stânjenitor că la 25 de ani încă stăteam cu părinții, plus a fost destul de necesar și să ajung la o conexiune de internet stabilă. Dar brusc am avut cheltuieli pe chirie și utilități, era gata cu compotul delicios de mere livrat în cameră de mama. Mâncam destul de aiurea...
+Privind în retrospectivă calitatea vieții mele s-a cam diminuat odată cu mutarea la bloc. Nu că nu era deja past due, că era destul de stânjenitor ca la 25 de ani să stau cu părinții, plus a fost destul de necesar și să ajung la o conexiune de internet stabilă. Dar brusc am avut cheltuieli pe chirie și utilități, era gata cu compotul delicios de mere livrat în cameră de mama, mâncam destul de aiurea...
 
 Cam tot mutarea la bloc a fost momentul când am încetat să-mi mai scriu discuri cu arhive cu kit-uri de softuri și poze salvate de pe net. Am continuat însă să scriu filme și jocuri.
 
@@ -118,7 +118,7 @@ dvd writer Teac DV-W58G https://www.rusiczki.net/2004/04/01/brief/ - https://www
 
 După acea vară care a fost super fierbinte, în august 2004 a murit Palit Daytona https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/ și am primit de la soacra la schimb o placă video slabă dar stabilă ATI 9200 - https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/
 
-Nu știu ce am făcut în 2005 dar lipsesc complet informațiile despre orice legat de calculator. După cum am zis în introducere, din păcate facturile și bonurile din această perioadă s-au pierdut. În luna mai după ce a secat cererea de lucru de la clientul moștenit de la firma anterioară m-am angajat la a doua firmă. Știu că perindam între a dormi acasă la prietenă-mea, actuala soție, mers la muncă, mers la bloc să pornesc și ajustez niște download-uri, iar dormit la Ioana, șamd.
+Nu știu ce am făcut în 2005 dar lipsesc complet informațiile despre orice legat de calculator. După cum am zis în introducere, din păcate facturile și bonurile din această perioadă s-au pierdut. În luna mai după ce a secat cererea de lucru de la clientul moștenit de la firma anterioară m-am angajat la a doua firmă. Știu că perindam între a dormi acasă la prietenă-mea (actuala soție), mers la muncă, mers la bloc să pornesc și ajustez niște download-uri, iar dormit la Ioana, șamd.
 
 A început să-mi fie ciudă pe monitoarele LCD de la firmă așa că în ianuarie am trecut printr-o sagă pentru procurarea primului meu LCD, un Samsung Syncmaster 913N. 31.01.2006 - https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/
 

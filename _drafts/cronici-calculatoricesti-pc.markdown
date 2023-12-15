@@ -36,7 +36,7 @@ Un fost coleg de clasă de la liceu stătea foarte aproape de facultate iar frat
 
 Nu avea puterea necesară nici pentru VST-uri (care începeau să apară), dar mergea Hammerhead de la Bram Bros și mergea FastTracker 2 în care am pierdut zeci dacă nu sute de ore.
 
-O parte din timp mi-l petreceam programând un diskmag în Turbo Pascal. Decizia asta a venit deoarece îmi doream foarte mult să fac ceva în cadrul "scenei" dar cum nu știam să programez îndestul de bine încât să pot scriu demo-uri și nici muzică nu prea eram stare să fac am zis să încerc să fac ce pot. Acest efort a fost oarecum anacronic deoarece epoca diskmag-urilor era pe cale să apună odată cu accesul pe scară mai largă la internet. Totuși au mai existat câteva diskmag-uri mari și unele au dus-o încă mult și bine. Nu mică mi-a fost mirarea când am descoperit recent că am contribuit la cel mai popular diskmag, Hugi, prin interviuri luate unor muzicieni din scenă.
+O parte din timp mi-l petreceam programând un diskmag în Turbo Pascal. Decizia asta a venit deoarece îmi doream foarte mult să fac _ceva_ în cadrul "scenei" dar cum nu știam să programez îndestul de bine încât să pot scriu demo-uri și nici muzică nu prea eram stare să fac am zis să încerc să fac ce pot. Efortul a fost oarecum anacronic deoarece epoca diskmag-urilor era pe cale să apună odată cu accesul pe scară mai largă la internet. Totuși au mai existat câteva diskmag-uri mari și unele au dus-o încă mult și bine. Nu mică mi-a fost mirarea când am descoperit recent că am contribuit la cel mai popular diskmag, Hugi, prin interviuri luate unor muzicieni din scenă.
 
 Tot la capitolul programare, m-am jucat încercând să scriu un OS grafic folosind DJGPP și RHIDE și minunându-mă de ce poate face programarea orientată pe obiecte. DJGPP l-am ales pentru că era portul open source al GCC-ului de pe Linux, iar RHIDE ca și IDE pentru că avea interfața și shortcut-urile familiare din produsele Borland, adică în cazul meu Pascal-ul mai sus amintit.
 
@@ -52,11 +52,11 @@ Din momentul în care am avut acces mai stabil la internet, am tot făcut mici s
 
 Nu mai știu dacă mi-am luat acceleratorul grafic deodată sau separat de majoritatea componentelor, oricum a fost cândva în prima jumătate a lui 2001, și am fost efectiv în al nouălea cer când am putut în sfârșit să iau la rând jocurile la care am râvnit atât de mult și care nu-mi mergeau pe configurația anterioară. Am o amintire despre cum umblam în acea vară după jocuri și știu că am terminat tot ce era Half Life cu toate de expansiunile existente și că m-am jucat foarte mult Tony Hawk's Pro Skater 2.
 
-Din conversațiile de pe CG Forum am dedus că aveam atât la firmă cât și acasă aceași placă de bază. Știu că la firmă am făcut upgrade de la Windows 98 care nu se preta deloc pentru lucru din cauza numeroaselor blocări spre Windows 2000 care era "rock solid" dar nu mergeau jocurile pe el așa că am fost hulit de colegi. Dar după aia am făcut upgrade la Windows XP proaspăt apărut și a fost totul OK din nou, când nu eram eu pe acolo (și nici patronii) se putea folosi și calculatorul meu pentru campionate de StarCraft.
+Recitind conversațiile de pe CG Forum am dedus că aveam atât la firmă cât și acasă aceași placă de bază. Știu că la firmă am făcut upgrade de la Windows 98 care nu se preta deloc pentru lucru din cauza numeroaselor blocări spre Windows 2000 care era "rock solid" dar nu mergeau jocurile pe el așa că am fost hulit de colegi. Dar după aia am făcut upgrade la Windows XP proaspăt apărut și a fost totul OK din nou, când nu eram eu pe acolo (și nici patronii) se putea folosi și calculatorul meu pentru meciurile de StarCraft.
 
-La început de 2002 s-a închis firma asta și am început să lucrez de acasă cu clientul pentru care am lucrat și la firmă (și cu care am colaborat după aia mulți ani la rând), câștigam mult mai bine, eram toată ziua la calculatorul propriu și din această cauză, cum e și normal, am investit foarte mult în componente și periferice și astfel a demarat epoca de glorie...
+La început de 2002 s-a închis firma asta și am început să lucrez de acasă cu clientul pentru care am lucrat înainte de la firmă (și cu care am colaborat după aia mulți ani la rând), câștigam mult mai bine, eram toată ziua la calculatorul propriu și din această cauză, cum e și normal, am investit foarte mult în componente și periferice și astfel a demarat *epoca de glorie*...
 
-Primul upgrade a fost se pare monitorul, spre un Hansol 710DT (hârtiile de la Conseco sunt din 10 și 11 ianuarie 2002). Așa cum am amintit mai sus, cumpărasem acest monitor la sugestia unui amic, și l-am folosit 4 ani, până în [ianuarie 2006](https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/) dar [nu pot spune că aș fi fost pe deplin mulțumit de el](https://www.rusiczki.net/2005/12/29/lcd-suggestions-anyone/). - 280_8050.JPG Monitorul LG cred că l-am vândut pe bani mărunți sau l-am donat unui prieten, îmi aminteam foarte bine că aveam o poză cu el în tranzit prin parc când a plecat de la mine, am regăsit poza și se pare că m-am despărțit de el în 22 iulie 2003.
+Primul upgrade a fost se pare monitorul, spre un Hansol 710DT (hârtiile de la Conseco sunt din 10 și 11 ianuarie 2002). Așa cum amintisem mai sus, cumpărasem acest monitor la sugestia unui amic, și l-am folosit 4 ani, până în [ianuarie 2006](https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/) dar [nu pot spune că aș fi fost pe deplin mulțumit de el](https://www.rusiczki.net/2005/12/29/lcd-suggestions-anyone/). - 280_8050.JPG Monitorul LG cred că l-am vândut pe bani mărunți sau l-am donat unui prieten, îmi aminteam foarte bine că aveam o poză cu el în tranzit prin parc când a plecat de la mine, am regăsit poza și din data din EXIF se pare că m-am despărțit de el în 22 iulie 2003.
 
 Foarte rapid după ce am rămas să lucrez de acasă am și livrat primul site, și astfel ca o parte a plății, în primăvara lui 2002 am primit primul meu aparat digital, un Canon A20. Primele poze cu data corectă sunt din 6 martie 2002 și despre aparatele mele există [un întreg articol separat](https://www.rusiczki.net/2012/05/17/aventuri-in-fotografia-digitala/).
 
@@ -75,10 +75,6 @@ Cum am rămas fără internet mai rapid decât dial-up-ul și aveam placă satel
 despre netsystem - https://www.nytimes.com/2004/07/28/business/worldbusiness/IHT-satellites-bring-broadband-internet-to-remote.html
 
 în această perioadă cât am avut internet prin satelit am făcut rețea cu vecinul. O cunoștință care se ocupa de rețele mi-a explicat ce și cum se face, mi-a vândut un mic switch pe care îl am și acuma (pensionat desigur de foarte mult timp), mi-a confecționat și donat mai multe cabluri de rețea pe care le-am tot folosit și dintre care s-ar putea să mai fie câteva în uz. Cablul trecea de la colțul casei mele la casa vecinului de peste drum via stâlpul de la Electrica și am avut mari emoții să nu vină cineva să ni-l dea jos. Nu-mi mai amintesc niciun detaliu de implementare, nu știu dacă îmi împrumutase amicul menționat anterior cleștele și am mufat eu cablurile, nu știu nici cine a prins cablul pe stâlp (o fi fost tata?). Am studiat în acea perioadă rețelele wireless și am citit că se poate face antenă wireless cu specificații bune dintr-un tub de Pringles. Cum și în acea perioadă Pringles era mai scump și eu nefiind un băiat pretențios la mâncare mi-am cumpărat unul și după ce am mâncat conținutul a stat tubul mult și bine pregătit să fie transformat în antenă. Ceea ce nu s-a mai întâmplat în primul rând pentru că nu am mai găsit pe nimeni în Baia Sprie cu care să fac rețea wireless.
-
-minidisc sony - 2001 - 2004 (este mentionat în articolul cu switch) - destul de multe mențiuni despre el https://www.rusiczki.net/search/?janosrusiczki%5Bquery%5D=minidisc
-
-waitec hip hop, cumparat in 2002 https://www.rusiczki.net/2004/04/13/waitec-hiphop-sold/
 
 În aceasta primă perioadă chiar făceam ceva ieșit din comun pentru un băisprian, lucrând ca programator remote pentru un client francez. Nu cred că înțelegeau prea mulți ce fac eu acolo, nici măcar părinții mei. Bine, evident nu aveam seriozitatea și organizarea cerute pentru un job în ziua de astăzi, dar site-urile ieșeau de sub mâna mea, funcționau, eram plătit, toată lumea era fericită. Întotdeauna am zis că sunt foarte bucuros că am început cum am început, mai ales când vedeam la locurile de muncă ulterioare cum erau pescuiți tinerii din băncile facultății și băgați direct în măcinătoarea de suflete care e corporația.
 
@@ -206,6 +202,11 @@ Placi de sunet:
 - 2012.01.24 - Apoi am luat un Traktor Audio 2 DJ de pe Okazii, cred că ăsta a fost al doilea.
 - Apoi încet am revenit la plăcile de sunet on-board pe de-o parte și inițial KRK Rokit prin mixer Behringer cu placă audio încorporată și apoi prin Scarlett 2i2.
 - Caștile Audio Technica cumpărate de un Black Friday.
+
+###### Playere
+
+- minidisc sony - 2001 - 2004 (este mentionat în articolul cu switch) - destul de multe mențiuni despre el https://www.rusiczki.net/search/?janosrusiczki%5Bquery%5D=minidisc
+- waitec hip hop, cumparat in 2002 https://www.rusiczki.net/2004/04/13/waitec-hiphop-sold/
 
 Poză cu volanul 126-2693_IMG.JPG 20 iunie 2002 - Amintiri foarte plăcute cu NFS Porsche Unleashed. Volanul era de la un fost coleg de clasă, primit printr-un prieten care din păcate nu mai e printre noi. :(
 

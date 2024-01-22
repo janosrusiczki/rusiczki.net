@@ -7,7 +7,7 @@ categories:
 ---
 Or the fastest way I ever lost $50. Actually "only" $25...
 
-But first of all the I'll answer the question posed in the title of this entry: no. <a href="http://www.etoro.com">eToro</a> is not a scam. However it's very easy to lose money if you're not careful. And unfortunately I wasn't <em>that</em> careful.
+But first of all the I'll answer the question posed in the title of this entry: no. [eToro](http://www.etoro.com) is not a scam. However it's very easy to lose money if you're not careful. And unfortunately I wasn't <em>that</em> careful.
 
 And now on to the story. I discovered eToro accidentally and I've spent quite a few days on the demo account to familiarize myself with the system before commiting to deposit. Unfortunately there are some differences when you're dealing with a real account. Differences I didn't know about until after I actually made the deposit. If you read around about Forex trading systems, there are warnings everywhere to only invest money that you afford to lose. And I heeded them, although the $50 required as the minimum amount to be deposited is at the top of my "I can gamble that" threshold. On the demo I wasn't actually trading currencies but commodities, more specifically gold and as it was going very low I thought hey, I can't go wrong with this, it has to climb back to a "normal" rate sometime and that could earn a bit of money. I could even set a "take profit" limit and have the computer work for me...
 

@@ -3,15 +3,18 @@ layout: post
 title: Oscar Bla Bla - Part III
 date: 2003-03-24 06:03:11.000000000 +01:00
 categories:
-- general
+  - general
+  - movies
+  - oscars
 ---
+
 Woaaa!!! Now this was an antiwar speech! It gave me the shivers!!! But somehow I knew this would happen. It was a great speech. He's got some guts.
 
 And of course that Steve Martin made a joke about it.
 
 Look. There's Kevin Spacey. Too bad he haven't done anything worthy this year... Hehe. Shrek found a practical use for the statuette it seems.
 
-"This is his ass, these are my lips. *KISS*" :-)
+"This is his ass, these are my lips. _KISS_" :-)
 
 Another technical award for Chicago.
 

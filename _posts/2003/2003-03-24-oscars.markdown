@@ -3,8 +3,11 @@ layout: post
 title: Oscars
 date: 2003-03-24 03:35:09.000000000 +01:00
 categories:
-- general
+  - general
+  - movies
+  - oscars
 ---
+
 Yes. I'm awake. And I'm watching them.
 
 As usual.

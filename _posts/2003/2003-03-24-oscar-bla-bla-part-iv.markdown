@@ -3,13 +3,17 @@ layout: post
 title: Oscar Bla Bla - Part IV
 date: 2003-03-24 06:59:04.000000000 +01:00
 categories:
-- general
+  - general
+  - movies
+  - oscars
 ---
+
 Peter O'Toole. Oh. He's, well, old. But a great actor nonetheless.
 
 The 'Bowling for Columbine' speech is up. Here it goes.
 
-<blockquote><i> Whoa. On behalf of our producers Kathleen Glynn and Michael Donovan from Canada, I'd like to thank the Academy for this. I have invited my fellow documentary nominees on the stage with us, and we would like to � they're here in solidarity with me because we like nonfiction. We like nonfiction and we live in fictitious times. We live in the time where we have fictitious election results that elects a fictitious president. We live in a time where we have a man sending us to war for fictitious reasons. Whether it's the fictition of duct tape or fictition of orange alerts we are against this war, Mr. Bush. Shame on you, Mr. Bush, shame on you. And any time you got the Pope and the Dixie Chicks against you, your time is up. Thank you very much. </i></p></blockquote>
+> Whoa. On behalf of our producers Kathleen Glynn and Michael Donovan from Canada, I'd like to thank the Academy for this. I have invited my fellow documentary nominees on the stage with us, and we would like to -- they're here in solidarity with me because we like nonfiction. We like nonfiction and we live in fictitious times. We live in the time where we have fictitious election results that elects a fictitious president. We live in a time where we have a man sending us to war for fictitious reasons. Whether it's the fictition of duct tape or fictition of orange alerts we are against this war, Mr. Bush. Shame on you, Mr. Bush, shame on you. And any time you got the Pope and the Dixie Chicks against you, your time is up. Thank you very much.
+
 Best actress after the commercials... Waiting.
 
 OK. Presenting is Denzel Washington. Who's gonna be!? I keep my fingers crossed for Renee... But it's Nicole Kidman. For her role in a movie I haven't seen. She's not one of my favourites. Quite nice speech though.
@@ -24,7 +28,7 @@ Here comes the most important part of the show. And The Pianist get another awar
 
 Original screenplay. Ben Affleck gives the statuette to Pedro Almodovar. Who delivers another short pro-peace speech.
 
-Adrien Brody's <a href="http://www.oscar.com/oscarnight/winners/win_32290.html" title="Touching...">speech</a> is up.
+Adrien Brody's [speech](http://www.oscar.com/oscarnight/winners/win_32290.html "Touching...") is up.
 
 Best director. Polanski. The pianist gets yet another award! Followed by a standing ovation.
 

@@ -3,13 +3,7 @@ layout: post
 title: The Helilog - Part 1
 date: 2009-04-30 09:06:37.000000000 +02:00
 categories:
-- helicopter
 - rc helicopter
-- rc
-- helicopter
-- align t-rex 450se v2
-- align trex
-- align trex 450se v2
 ---
 Since I have a few new contacts (mostly on Twitter) interested in the subject I thought that now and then I'll post a few words about my flights. It'll also be interesting for me too to re-read later on, to see how I progressed. It was the same with the snowboarding experience...
 

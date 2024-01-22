@@ -86,11 +86,9 @@ planuri de upgrade https://www.rusiczki.net/2003/04/13/plans-for-a-pc-upgrade/
 
 - 23.05.2003 - EPOX 8RDA, K7 XP2000, 256 RAM, Cooler, PSU 400W - Systek
 
-Din păcate nu îmi amintesc mai nimic despre acest upgrade și nu mai știu la cine am dat această placa asta de bază și procesorul - a rămas la Ioana, nu? Mai jos scriu că am găsit mobo. Și îmi vine cumva greu să cred că am rezistat cu acest procesor 3 ani jumate. De la Remus Kolozsvari - https://www.rusiczki.net/2004/04/23/re-building-a-computer/ pe la final.
+Din păcate nu îmi amintesc mai nimic despre acest upgrade și nu mai știu la cine am dat această placa asta de bază și procesorul - a rămas la Ioana, nu? Mai jos scriu că am găsit mobo. Și îmi vine cumva greu să cred că am rezistat cu acest procesor 3 ani jumate. De la Remus Kolozsvari - https://www.rusiczki.net/2004/04/23/re-building-a-computer/ pe la final și din facturile și bonurile găsite.
 
-Am găsit ambalajul plăcii de bază din această configurație precum și cutia plăcii de bază de la următoarea configurație într-una din săpăturile arheologice efectuate în fosta mea cameră din Baia Sprie, iar mai recent efectuând cercetări prin pod am găsit și plăcile de bază efective - dar mă confuzează că am găsit o mențiune din 2003 în care ziceam că am amd xp1800+ https://www.rusiczki.net/2003/09/03/100-days-is-quite-a-long-time/ și eu am găsit procesorul ăsta 2000+
-
-Ca să fie și mai confuz, aici spun că am un procesor de 1.66 ghz care corespunde cu 2000+ https://www.rusiczki.net/2005/07/24/windows-reinstall/
+Am găsit ambalajul plăcii de bază din această configurație precum și cutia plăcii de bază de la următoarea configurație într-una din săpăturile arheologice efectuate în fosta mea cameră din Baia Sprie, iar mai recent efectuând cercetări prin pod am găsit și plăcile de bază efective - dar mă încurcă faptul că am găsit o mențiune din 2003 în care ziceam că am amd xp1800+ https://www.rusiczki.net/2003/09/03/100-days-is-quite-a-long-time/ și eu am găsit procesorul ăsta 2000+. Ca să fie și mai confuză teaba, aici spun că am un procesor de 1.66 ghz care corespunde cu 2000+ https://www.rusiczki.net/2005/07/24/windows-reinstall/
 
 despre harddisc-uri https://www.rusiczki.net/2003/10/23/the-price-of-laziness/
 
@@ -98,7 +96,7 @@ ipod nou https://www.rusiczki.net/2004/01/11/a-week-of-packages-part-2-ipod/
 
 ### 4. O schimbare de placă de bază
 
-În 23 aprilie 2004 am făcut o schimbare de placă de bază spre un Epox EP-8RDA3I. Restul configurației a rămas la fel. Această rocadă a fost [una dintre excepțiile](https://www.rusiczki.net/2004/04/23/re-building-a-computer/) care confirmă regula că nu prea scriam pe blog despre hardware. Placa de bază am găsit-o în pod cu 768 de mega de RAM instalați. 512 inițiali plus 256 adăugați.
+În 23 aprilie 2004 am făcut o schimbare de placă de bază spre un Epox EP-8RDA3I. Restul configurației a rămas la fel. Această rocadă a fost [una dintre excepțiile](https://www.rusiczki.net/2004/04/23/re-building-a-computer/) când am documentat aici pe blog o schimbare de hardware. Placa de bază am găsit-o în pod cu 768 de mega de RAM instalați. 512 inițiali plus 256 adăugați.
 
 După Conseco și apoi prietenului distribuitor se pare că din 2004 începuse deja pentru mine era UltraPro Computers. Motivul a fost comoditatea și faptul că în sfârșit exista în Baia Mare un magazin de calculatoare în care nu trebuia comandat chiar totul de la furnizor. Mai aveau și chestii în stoc. Știu că a existat și un magazin Depozitul de Calculatoare (unde a lucrat fratele colegului despre care scriam mai sus că avea super configurații de gaming în jurul turnurii de mileniu) dar eu am rămas fidel UltraPro. O altă amintire este că atunci când s-a închis magazinul am fost chemat de un prieten și am primit șuruburi potrivite pentru fixarea hardurilor și altor componente.
 
@@ -122,7 +120,7 @@ https://www.rusiczki.net/2007/01/23/need-for-hardware-upgrade-painfully-felt/
 
 2007.02.06 - Intel Dual Core
 
-Înainte de acest upgrade am tot citit despre multimedia PCs și silent PCs și am devenit fascinat de acest aspect.
+Înainte de acest upgrade am tot citit despre multimedia PCs și silent PCs, am devenit fascinat de acest aspect și am hotărât că și eu vreau așa ceva.
 
 despre upgrade-ul din 2006 / 2007 - https://www.rusiczki.net/2007/03/14/the-masterpiece-is-almost-complete/
 
@@ -187,7 +185,7 @@ Din 2017 tot duceam la Baia Sprie laptop-ul să plătesc facturile prin Internet
 
 2022
 
-Placi de sunet:
+#### Placi de sunet
 
 - Ceva pe ISA probabil, nu mergea Fast Tracker 2 pe el, a fost prioritate maximă să o schimb
 - Sound Blaster 16 luat de la Arhimedes, nu mai știu exact de la cine am primit un pont că au de vânzare, sunt destul de sigur că era iarnă, am "împrumutat" 100 Deutsche Mark de la părinți fără știrea lor dar i-am pus înapoi când am luat bursa, știu că am întrebat la schimbul valutar dacă sigur nu sunt falși, hahaha - Sigur a fost în cursul primului an de facultate că din anul 2 nu am mai avut bursă. Update 1 iulie 2022: Am găsit fițuica schimbului valutar, datată în 7 decembrie 1999. Așadar era primul semestru al celui de-al doilea an de facultate și se pare că am rezistat 1 an cu placa aia nasoală despre care nu-mi amintesc mai nimic.
@@ -199,7 +197,7 @@ Placi de sunet:
 - Apoi încet am revenit la plăcile de sunet on-board pe de-o parte și inițial KRK Rokit prin mixer Behringer cu placă audio încorporată și apoi prin Scarlett 2i2.
 - Caștile Audio Technica cumpărate de un Black Friday.
 
-###### Playere
+#### Playere
 
 - minidisc sony - 2001 - 2004 (este mentionat în articolul cu switch) - destul de multe mențiuni despre el https://www.rusiczki.net/search/?janosrusiczki%5Bquery%5D=minidisc
 - waitec hip hop, cumparat in 2002 https://www.rusiczki.net/2004/04/13/waitec-hiphop-sold/

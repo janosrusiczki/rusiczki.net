@@ -170,6 +170,8 @@ prin 2013 iar m-a apucat idea de silent si credeam ca cel mai silent pot fi prin
 
 2013.02.15 - Carcasa Nanoxia Deep Silence 1 (Neagra)
 
+2013.05.02 - Poze când am pus la vânzare Mac mini și MacBook
+
 3 comenzi in 2013 de la aquatuning.de
 
 2013.12.23 - EVGA - Placa Video EVGA GeForce GTX 760 SC, 2GB, GDDR5, 256bit, 2 x DVI, HDMI, DisplayPort, PCI-E 3.0 (Cod: 02G-P4-2762-KR)

@@ -18,7 +18,7 @@ Am terminat [articolul anterior](https://www.rusiczki.net/2022/10/06/cronici-cal
 
 ### 1. Primul, mult așteptatul
 
-Așadar în toamna lui 1998 mi-au cumpărat părinții primul PC cu următoarea configurație: procesor **Pentium** la **233 MHz** cu **MMX** (înainte să accesez forumul computergames.ro eram convins că a fost un Pentium 2 266 MMX), placă de bază **VXPro 2**, **32 MB EDO RAM**, hard disc de 4,3 GB pe care credeam că îmi va lua o eternitate să-l umplu, monitor **LG StudioWorks** de **14"**, placă video _SiS_ cu 4 MB memorie video (2 MB din fabrica plus 2 MB upgrade - singurul upgrade pentru care am optat).
+Așadar în toamna lui 1998 mi-au cumpărat părinții primul PC cu următoarea configurație: procesor **Pentium** la **233 MHz** cu **MMX** (înainte să accesez forumul computergames.ro eram convins că a fost un Pentium 2 266 MMX), placă de bază **VXPro 2**, **32 MB EDO RAM**, hard disc de 4,3 GB pe care credeam că îmi va lua o eternitate să-l umplu, monitor **LG StudioWorks** de **14"**, placă video **SiS** cu 4 MB memorie video (2 MB din fabrica plus 2 MB upgrade - singurul upgrade pentru care optasem).
 
 M-au delegat pe mine să cercetez și să decid de unde iese cel mai bine, am ales și mi l-au cumpărat de la Sprint Computers pentru că m-am gândit eu că e mai bine să cumperi cu garanție de la o firmă consacrată decât de la bișnițari. Greșit! Un prieten, Radu, și-a luat aproximativ deodată cu mine un Pentium 2 "Klamath" la 350 MHz, placă de bază Intel 440BX cu video Intel i740. El nu și l-a luat de la firmă, parcă a fost și mai ieftin decât ce-mi luasem eu și știu că mergeam pe la el și mă minunam că-i mergeau jocurile care aveau nevoie de accelerator grafic, ceea ce eu nu aveam.
 
@@ -68,6 +68,8 @@ Cum tot stăteam pe IRC la taclale cu prietenii făcuți în anii anteriori, pe 
 
 În acel moment prietenii mei cam știau că sunt pregătit să investesc în componente și orice legat de calculator și a venit unul dintre ei la mine și m-a întrebat dacă nu aș vrea să-mi cumpăr un Geforce 4 Ti la un preț imbatabil. Conform facturii am bătut palma în 4 noiembrie 2002 și chiar a fost un preț incredibil, dar am impresia că placa "[căzuse de pe un camion](https://en.wiktionary.org/wiki/fall_off_the_back_of_a_truck)". Nu eram pregătit pentru ce putea să ofere această placă. Dacă mai sus spuneam că înainte cu câțiva ani rămăsesem gură cască când vedeam ce puteau plăcile Voodoo, acuma am rămas fascinat de ce putea placa mea. Nu prea exista joc care să nu meargă cu toate detaliile și brizbrizurile la maxim.
 
+Poză cu volanul 126-2693_IMG.JPG 20 iunie 2002 - Amintiri foarte plăcute cu NFS Porsche Unleashed. Volanul era de la un fost coleg de clasă, primit printr-un prieten care din păcate nu mai e printre noi. :(
+
 De când am început să am acces la "broadband" de la Internet Cafe din toamna lui '99 și până la [finalul lui 2002 când am găsit Internet Cafe-ul golit de calculatoare](https://www.rusiczki.net/2002/12/27/the-end-of-broadband/) am stat oarecum cu frica în sân temându-mă de momentul când nu voi mai avea acces, dar și pregătindu-mă pentru el, am scris mai mult de 80 de CD-uri cu MP3 pe care am avut ocazia să le ascult după aia. La aproape 20 de ani după ce le-am scris mai băgam câte unul în playerul din mașină să "descopăr" ce-i pe el.
 
 Cum am rămas fără internet mai rapid decât dial-up-ul și aveam placă satelit, următorul pas logic a fost internetul prin satelit de la NetSystem (am găsit un formular fizic din 15 mai 2003 și posibil să fi fost primul formular deorece în 25 aprilie [menționez](https://www.rusiczki.net/2003/04/25/advantages-of-digital-tv/) că aștept după un download pe dialup). Funcționa ca un VPN, request-urile le făceai prin dial-up și răspunsurile (la foarte mare viteză) veneau prin satelit. În timp ce am avut abonamentul [au făcut un stress test la un transponder nou](https://www.satellitetoday.com/uncategorized/2003/07/14/netsystem-adds-astra-transponder/), am primit acces și s-a concretizat prin download nelimitat cu viteză mult mai bună și știu că am descărcat multe imagini de CD-uri cu jocuri. Îmi amintesc că îmi programam calculatorul să se oprească sau să închidă conexiunea fix înainte de ora 8 (ora de la care se termina dial-up-ul ieftin de noapte) și mă culcam. Astfel în fiecare zi când mă trezeam parcă era ziua mea, făceam inventarul la cadourile descărcate peste noapte. Nu știu dacă am avut acces în continuu dar știu că am anulat abonamentul după ce m-am mutat la bloc în mai 2004 (după fix un an).
@@ -96,7 +98,7 @@ ipod nou https://www.rusiczki.net/2004/01/11/a-week-of-packages-part-2-ipod/
 
 ### 4. O schimbare de placă de bază
 
-În 23 aprilie 2004 am făcut o schimbare de placă de bază spre un Epox EP-8RDA3I. Restul configurației a rămas la fel. Această rocadă a fost [una dintre excepțiile](https://www.rusiczki.net/2004/04/23/re-building-a-computer/) când am documentat aici pe blog o schimbare de hardware. Placa de bază am găsit-o în pod cu 768 de mega de RAM instalați. 512 inițiali plus 256 adăugați.
+În 23 aprilie 2004 am făcut o schimbare de placă de bază spre un Epox EP-8RDA3I. Restul configurației a rămas la fel. Această rocadă a fost [una dintre excepțiile](https://www.rusiczki.net/2004/04/23/re-building-a-computer/) când am documentat aici pe blog o schimbare de hardware. Această placă de bază am găsit-o recent în pod cu 768 de mega de RAM instalați. 512 inițiali plus 256 adăugați.
 
 După Conseco și apoi prietenului distribuitor se pare că din 2004 începuse deja pentru mine era UltraPro Computers. Motivul a fost comoditatea și faptul că în sfârșit exista în Baia Mare un magazin de calculatoare în care nu trebuia comandat chiar totul de la furnizor. Mai aveau și chestii în stoc. Știu că a existat și un magazin Depozitul de Calculatoare (unde a lucrat fratele colegului despre care scriam mai sus că avea super configurații de gaming în jurul turnurii de mileniu) dar eu am rămas fidel UltraPro. O altă amintire este că atunci când s-a închis magazinul am fost chemat de un prieten și am primit șuruburi potrivite pentru fixarea hardurilor și altor componente.
 
@@ -134,11 +136,11 @@ despre upgrade-ul din 2006 / 2007 - https://www.rusiczki.net/2007/03/14/the-mast
 - antec truepowertrio 430-ec - de la pc garage - 274 ron - http://www.pcgarage.ro/surse/antec/truepowertrio-430-ec-430w/
   total = 3176 ron (la cursul din 6 februarie 2007)
 
-Era super placa asta de bază, avea un mod silent care oprea sau reducea mult turația ventilatorului de pe procesor astfel încât abia auzeai că merge calculatorul. Se putea lăsa să meargă peste noapte.
+Era super placa asta de bază, avea un mod silent care oprea sau reducea mult turația ventilatorului de pe procesor astfel încât abia auzeai că merge calculatorul. Se putea lăsa să meargă peste noapte. Atât de plăcut m-a impresionat acest mobo încât am devenit fan ASUS pe viață.
 
-cred ca dupa ce mi-am luat lcd-ul si am avut un "calculator în plus" după ce am făcut upgrade-ul ăsta, am dus sus la Baia Sprie calculatorul vechi. Nu mai știu de unde am avut un stick wifi cu care prindeam wifi de la vecini.
+După ce am făcut acest upgrade ăsta (și având monitorul Hansol rămas), am dus sus la Baia Sprie calculatorul vechi. Nu mai știu de unde am avut un stick wifi cu care prindeam WiFi de la vecini și am avut planuri să lucru acolo la un mic content management system nedistras de tentanțiile internetului.
 
-În vara lui 2007 iar am rămas fără proiecte și am demarat procesul de angajare la prima firmă serioasă. Unde am reușit să intru.
+În vara lui 2007 am rămas iar fără proiecte și am demarat procesul de angajare la o firmă de software serioasă. Unde am reușit să intru.
 
 2007 toamna - MacBook https://www.rusiczki.net/2007/10/04/time-for-a-switch/
 
@@ -234,8 +236,6 @@ Poze din 2017.05.09 am cumparat mobo nou. În 2017.05.18 era instalat la Baia Sp
 
 - minidisc sony - 2001 - 2004 (este mentionat în articolul cu switch) - destul de multe mențiuni despre el https://www.rusiczki.net/search/?janosrusiczki%5Bquery%5D=minidisc
 - waitec hip hop, cumparat in 2002 https://www.rusiczki.net/2004/04/13/waitec-hiphop-sold/
-
-Poză cu volanul 126-2693_IMG.JPG 20 iunie 2002 - Amintiri foarte plăcute cu NFS Porsche Unleashed. Volanul era de la un fost coleg de clasă, primit printr-un prieten care din păcate nu mai e printre noi. :(
 
 Cum am recuperat CD-urile cu MP3-uri. M-am apucat sa le copiez la Baia Sprie, știam că pe vremuri luasem câte unul sau câteva să le mai ascult prin mașină. Erau o parte într-o cutie care a stat la soacra în cameră (acolo am pus când am făcut zugrăvit la un moment dat camera), o parte în pod într-o cutie găsită din greșeală - una dintre carcase era goală, discul l-am găsit într-o mapă din garaj.
 

@@ -8,7 +8,7 @@ Am avut însă un noroc enorm deoarece la un moment dat mi-a scris [un prieten](
 
 De asemenea încercasem acum câțiva ani să mă uit pe hard discurile care mai țineau fișiere din acele vremuri dar am constatat că din păcate au cedat și au început să clicăie. Totuși, pe la începutul lui 2022, făcând ordine prin camera mea din Baia Sprie am găsit niște CD-uri care nu făceau parte din seria mea _oficială_ de CD-uri cu arhive dar am găsit pe unul dintre ele arhiva mailbox-urilor de pe vremea când lucram la Internet Cafe - despre asta [am scris un articol separat](https://www.rusiczki.net/2022/03/15/cum-sa-calatoresti-in-timp-ghid-practic/) - dar și ăsta s-a dovedit a fi un drum înfundat. Din fericire mai târziu, înspre vară, tot în camera din Baia Sprie, într-una dintre cutii am dat de un plic care nu dădea prea multe de bănuit, dar conținea cam toate bonurile, facturile și garanțiile pentru cumpărăturile IT din 2001 până în 2004 (când [m-am mutat din Baia Sprie](https://www.rusiczki.net/2004/05/18/the-new-home/)), mai puțin chestiile pe care le-am vândut, pentru că eram un fixist și ce vindeam dădeam cu totul, cutie, factură, garanție, etc. În schimb facturile din perioada mai 2004 - final de 2007, cât am stat în chirie la bloc, oricât le-am căutat, nu le-am mai găsit - probabil au fost aruncate din pod cu ocazia vreunei curățenii.
 
-A durat extrem de mult redactarea. Știu că am început să redactez articolul în Wordpress cred că prin 2015 sau 2016, apoi mi-am dat seama că nu va încăpea totul într-un singur articol, le-am împărțit, au urmat niște ani mai grei dar am început să le public în 2021 și am încercat să mă țin de program să public câte un articol din această serie în fiecare an.
+A durat extrem de mult redactarea. Știu că am început să redactez articolul în Wordpress cred că prin 2015 sau 2016, apoi când mi-am dat seama că nu va încăpea totul într-un singur articol, le-am împărțit, au urmat niște ani mai grei dar am început să le public în 2021 și am încercat să mă țin de program să public câte un articol din această serie în fiecare an.
 
 Cam atât cu introducerea, să trecem la felul principal:
 
@@ -60,11 +60,11 @@ Primul upgrade a fost se pare monitorul, spre un Hansol 710DT (hârtiile de la C
 
 Foarte rapid după ce am rămas să lucrez de acasă am și livrat primul site, și astfel ca o parte a plății, în primăvara lui 2002 am primit primul meu aparat digital, un Canon A20. Primele poze cu data corectă sunt din 6 martie 2002 și despre aparatele mele există [un întreg articol separat](https://www.rusiczki.net/2012/05/17/aventuri-in-fotografia-digitala/).
 
-Aveam un amic cu inscriptor de CD-uri de prin '99 și umblam pe la el destul de des să-mi "descarc" conținutul hardului și să scriu CD-uri audio din unele MP3-uri descărcate după ce am fost angajat la Internet Cafe. Apoi pe parcursul lui 2001 am avut inscriptor la birou și mai rămâneam câteodata peste noapte să inscripționez. Îndată ce am avut niște bani, după aparatul digital cea de-a doua investiție importantă a fost propriul inscriptor în 5 aprilie 2002, un TEAC CD-W524EB. Îmi amintesc că mergeam la METRO, singurul supermarket din zonă pe vremea aia - necesita legitimație pe care noroc că ne-au făcut-o la firmă, și-mi luam tone de CD-uri iar tata, care a fost aprovizioner la viața lui și una dintre pasiunile lui era să studieze facturi, a observat de atunci ce cheltuială mare sunt și m-a întrebat dacă chiar îmi trebuie. Ei bine, a avut dreptate, nu prea îmi trebuiau. Cele cu jocuri și filme nu prea au mai ajuns înapoi în unitate vreodată.
+Aveam un amic cu inscriptor de CD-uri de prin '99 și umblam pe la el destul de des să-mi "descarc" conținutul hardului și să scriu CD-uri audio din unele MP3-uri descărcate după ce am fost angajat la Internet Cafe. Apoi pe parcursul lui 2001 am avut inscriptor la birou și mai rămâneam câteodata peste noapte să inscripționez. Îndată ce am avut niște bani, după aparatul digital, cea de-a doua investiție importantă a fost propriul inscriptor în 5 aprilie 2002, un TEAC CD-W524EB. Îmi amintesc că mergeam la METRO, singurul supermarket din zonă pe vremea aia - necesita legitimație pe care noroc că ne-au făcut-o la firmă, și-mi luam tone de CD-uri iar tata, care a fost aprovizioner la viața lui și una dintre pasiunile lui era să studieze facturi, a observat de atunci ce cheltuială mare sunt și m-a întrebat dacă chiar îmi trebuie. Ei bine, a avut dreptate, nu prea îmi trebuiau. Cele cu jocuri și filme nu prea au mai ajuns înapoi în unitate vreodată.
 
 Binențeles că din momentul în care am rămas să lucru de acasă pierdusem accesul stabil la Internet. De fapt e puțin mai complicat de atâta căci în ultimele luni ale firmei în 2001 intrasem prin dial-up de acasă, cel puțin de pe la finalul lunii octombrie și în noiembrie, doar că a venit totul pe factura vecinilor cu care eram "cuplați" și a rezultat un mic scandal. Nu mai știu de la cine am avut modem în acea perioadă dar știu că intram prin XNet, care era un serviciu de dial-up gratuit oferit de Connex. Ca să pot continua totuși să lucru aveam acces de la un Internet Cafe proaspăt deschis în orășelul meu, unde prin amabilitatea unui fost coleg de clasă am putut să-mi descarc și încarc chestiuțele mele. Salutări și mulțumuri Romeo! În primăvara acelui an m-a sunat rectorul de la universitate să-mi ceară o favoare și astfel am continuat să am acces la Net [prin metode mai puțin ortodoxe](https://www.rusiczki.net/2002/12/27/the-end-of-broadband/) de la Internet Cafe-ul unde lucrasem. Însă probabil că am început să fac demersuri să ne decuplăm cât mai repede și asta s-o fi întâmplat prin vară când am reînceput să intru de acasă prin Xnet. Conform facturilor găsite mi-am cumpărat modemul nou în 20 iunie 2002 și am semnat contractul pentru dial-up RDSLink plătit în data de 24. A fost o îmbunătățire majoră a calității: era stabil, nu mă mai arunca afară aleator și mergea la viteza maximă suportată de linia telefonică.
 
-Cum tot stăteam pe IRC la taclale cu prietenii făcuți în anii anteriori, pe un canal am dat de cineva care m-a înnebunit la cap cu satelitul digital și cu câte se pot decoda. Noi am avut antenă parabolică de prin '95 și băleam după canalele codate, așa că perspectiva de a putea decoda și privi filme de aproape ultimă oră m-a entuziasmat la maxim. Și așa la finalul acelei veri, pe 7 august 2002 mi-am luat de pe okazii.ro o placă Technisat Skystar 1. Imediat i-am rezolvat pe ai mei cu cablu, ceea ce a fost un upgrade pentru că dacă până atunci se rezumau la a privi cele 2 canale ungurești disponibile prin satelit, brusc au avut acces la mult mai multe, și le-am confiscat rapid antena de satelit. Această placă fost una dintre cele mai satisfăcătoare achiziții, din nou mi se împlinise un vis de vedea chestii la care am râvnit atât de mult. Au fost zile când am văzut și 4 filme unul după altul, și chiar am blogat despre asta: [unu](https://www.rusiczki.net/2003/01/23/the-sixth-sense/), [doi](https://www.rusiczki.net/2003/01/23/wonderful/) și [trei](https://www.rusiczki.net/2003/01/24/4-movies-in-a-day/)). Am înregistrat videoclipuri pe care le-am pasat la un prieten sau altul și apoi am aflat că s-au răspândit prin tot orașul. Îmi mai amintesc de Crăciunul când mi-am început blogul în forma curentă, cum mi-am întors monitorul pe masă și cât am împodobit bradul m-am uitat constant la televizor.
+Cum tot stăteam pe IRC la taclale cu prietenii făcuți în anii anteriori, pe un canal am dat de cineva care m-a înnebunit la cap cu satelitul digital și cu câte canale se pot decoda. Noi am avut antenă parabolică de prin '95 și băleam după canalele codate, așa că perspectiva de a putea decoda și privi filme de aproape ultimă oră m-a entuziasmat la maxim. Și așa la finalul acelei veri, pe 7 august 2002 mi-am luat de pe okazii.ro o placă Technisat Skystar 1. Imediat i-am rezolvat pe ai mei cu cablu și le-am confiscat rapid antena de satelit. Oricum pentru părinți a fost un upgrade pentru că dacă până atunci se rezumau la a privi cele 2 canale ungurești disponibile prin satelit, brusc au avut acces la mult mai multe,  Această placă fost una dintre cele mai satisfăcătoare achiziții, din nou mi se împlinise un vis de vedea chestii la care am râvnit atât de mult. Au fost zile când am văzut și 4 filme unul după altul, și chiar am blogat despre asta: [unu](https://www.rusiczki.net/2003/01/23/the-sixth-sense/), [doi](https://www.rusiczki.net/2003/01/23/wonderful/) și [trei](https://www.rusiczki.net/2003/01/24/4-movies-in-a-day/)). Am înregistrat videoclipuri pe care le-am pasat la un prieten sau altul și apoi am aflat că s-au răspândit prin tot orașul. Îmi mai amintesc de Crăciunul când mi-am început blogul în forma curentă, cum mi-am întors monitorul pe masă și cât am împodobit bradul m-am uitat constant la televizor.
 
 În acel moment prietenii mei cam știau că sunt pregătit să investesc în componente și orice legat de calculator și a venit unul dintre ei la mine și m-a întrebat dacă nu aș vrea să-mi cumpăr un Geforce 4 Ti la un preț imbatabil. Conform facturii am bătut palma în 4 noiembrie 2002 și chiar a fost un preț incredibil, dar am impresia că placa "[căzuse de pe un camion](https://en.wiktionary.org/wiki/fall_off_the_back_of_a_truck)". Nu eram pregătit pentru ce putea să ofere această placă. Dacă mai sus spuneam că înainte cu câțiva ani rămăsesem gură cască când vedeam ce puteau plăcile Voodoo, acuma am rămas fascinat de ce putea placa mea. Nu prea exista joc care să nu meargă cu toate detaliile și brizbrizurile la maxim.
 
@@ -86,7 +86,7 @@ planuri de upgrade https://www.rusiczki.net/2003/04/13/plans-for-a-pc-upgrade/
 
 - 23.05.2003 - EPOX 8RDA, K7 XP2000, 256 RAM, Cooler, PSU 400W - Systek
 
-Din păcate nu îmi amintesc mai nimic despre acest upgrade și nu mai știu la cine am dat această placa asta de bază și procesorul - a rămas la Ioana, nu? Mai jos scriu că am găsit mobo. Și îmi vine cumva greu să cred că am rezistat cu acest procesor 3 ani jumate. De la Remus Kolozsvari - https://www.rusiczki.net/2004/04/23/re-building-a-computer/ pe la final și din facturile și bonurile găsite.
+Din păcate nu îmi amintesc mai nimic despre acest upgrade și nu mai știu la cine am dat placa anterioară și procesorul. Și îmi vine cumva greu să cred că am rezistat cu acest procesor 3 ani jumate. De la Remus Kolozsvari - https://www.rusiczki.net/2004/04/23/re-building-a-computer/ pe la final și din facturile și bonurile găsite.
 
 Am găsit ambalajul plăcii de bază din această configurație precum și cutia plăcii de bază de la următoarea configurație într-una din săpăturile arheologice efectuate în fosta mea cameră din Baia Sprie, iar mai recent efectuând cercetări prin pod am găsit și plăcile de bază efective - dar mă încurcă faptul că am găsit o mențiune din 2003 în care ziceam că am amd xp1800+ https://www.rusiczki.net/2003/09/03/100-days-is-quite-a-long-time/ și eu am găsit procesorul ăsta 2000+. Ca să fie și mai confuză teaba, aici spun că am un procesor de 1.66 ghz care corespunde cu 2000+ https://www.rusiczki.net/2005/07/24/windows-reinstall/
 
@@ -108,11 +108,11 @@ Privind în retrospectivă calitatea vieții mele s-a cam diminuat odată cu mut
 
 Cam tot mutarea la bloc a fost momentul când am încetat să-mi mai scriu discuri cu arhive cu kit-uri de softuri și poze salvate de pe net. Am conștientizat că internetul e *here to stay*. Am continuat însă să mai scriu filme și kituri de jocuri.
 
-După acea vară care a fost super fierbinte, în august 2004 [a murit Palit Daytona](https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/) și am primit de la soacra la schimb o placă video slabă dar stabilă [ATI 9200](https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/).
+După acea vară care a fost super fierbinte, în august 2004 [a murit Palit Daytona](https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/) și am primit de la soacra la schimb o placă video [ATI 9200](https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/) care era mult mai slabă din punct de vedere al performanței dar stabilă.
 
 Nu știu ce am făcut în 2005 dar lipsesc complet informațiile despre orice legat de calculator. După cum am zis în introducere, din păcate facturile și bonurile din această perioadă s-au pierdut. În luna mai după ce a secat cererea de lucru de la clientul moștenit de la firma anterioară m-am angajat la a două firmă din viața mea. Știu că perindam între a dormi acasă la prietenă-mea (actuala soție), mers la muncă, mers la bloc să pornesc și ajustez niște download-uri, iar dormit la Ioana, șamd. La bloc, adică la calculator stăteam destul de puțin.
 
-A început să-mi fie ciudă pe monitoarele LCD de la firmă așa că în ianuarie 2006 [am trecut printr-o veritabilă sagă](https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/) pentru procurarea primului meu LCD, un Samsung Syncmaster 913N. În afară de asta se pare că nu a fost nimic notabil pe plan hardware nici în 2006. Probabil și fiindcă focusul s-a orientat mai mult pe ce e interesant online și pentru că începeau să se diversifice și interesele mele, ne plimbam mult prin natură iar la final de 2006 mi-am luat permisul de conducere și orizonturile s-au lărgit și mai mult. În septembrie am renunțat la doua firmă și am revenit să lucrez de acasă pe un contract de a face redesign prin div-uri pentru acasa.ro care era pe atunci al doilea cel mai vizitat portal românesc.
+A început să-mi fie ciudă pe monitoarele LCD de la firmă așa că în ianuarie 2006 [am trecut printr-o veritabilă sagă](https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/) pentru procurarea primului meu LCD, un Samsung Syncmaster 913N. În afară de asta se pare că nu a fost nimic notabil pe plan hardware nici în 2006. Probabil și fiindcă focusul s-a orientat mai mult pe ce e interesant online și pentru că începeau să se diversifice și interesele mele, ne plimbam mult prin natură iar la final de 2006 mi-am luat permisul de conducere și orizonturile s-au lărgit și mai mult. În septembrie [am plecat de la a doua firmă](https://www.rusiczki.net/2006/09/15/the-last-day/) și am revenit să lucrez de acasă pe un contract de a face redesign prin div-uri pentru acasa.ro care era pe atunci al doilea cel mai vizitat portal românesc.
 
 https://www.rusiczki.net/2007/01/23/need-for-hardware-upgrade-painfully-felt/
 
@@ -134,21 +134,43 @@ despre upgrade-ul din 2006 / 2007 - https://www.rusiczki.net/2007/03/14/the-mast
 - antec truepowertrio 430-ec - de la pc garage - 274 ron - http://www.pcgarage.ro/surse/antec/truepowertrio-430-ec-430w/
   total = 3176 ron (la cursul din 6 februarie 2007)
 
-2007 vara - MacBook
-
-mac! https://www.rusiczki.net/2007/10/04/time-for-a-switch/
+Era super placa asta de bază, avea un mod silent care oprea sau reducea mult turația ventilatorului de pe procesor astfel încât abia auzeai că merge calculatorul. Se putea lăsa să meargă peste noapte.
 
 cred ca dupa ce mi-am luat lcd-ul si am avut un "calculator în plus" după ce am făcut upgrade-ul ăsta, am dus sus la Baia Sprie calculatorul vechi. Nu mai știu de unde am avut un stick wifi cu care prindeam wifi de la vecini.
 
-### 6. Revenirea din pauza de Mac
+În vara lui 2007 iar am rămas fără proiecte și am demarat procesul de angajare la prima firmă serioasă. Unde am reușit să intru.
 
-August 16, 2011 - Marea pauza Mac. Today I started up my PC which I haven't used since last year and look what I found in Chrome
+2007 toamna - MacBook https://www.rusiczki.net/2007/10/04/time-for-a-switch/
+
+Înspre finalul lui 2007 m-a înebunit un prieten să mă duc să lucrez la o firmă de construcții și eu am zis că oricum e un boom în domeniu așa că am plecat (pe salar mai mare) de la firma de programatori la final de 2007 și am început noul an în construcții. Totodată ne-am mutat de la bloc în casa soacrei mele. Din păcate a lovit criza în scurt timp, dar nu s-a resimțit atât de tare chiar la început. Știu că nu sunt informații despre calculatoare, însă aș vrea să argumentez de ce lipsesc informațiile despre acestea.
+
+Mac-ul l-am "plătit" parțial lucrând dupămasa de pe Mac la niște proiecte furnizate de Lucian. Cred că prin 2008 mi-am luat The Orange Box (prima achiziție pe Steam) și am avut zile când m-am jucat toată după-masa Team Fortress 2.
+
+La început de 2009 eram la firma de construcții când [au început problemele cu mama](https://www.rusiczki.net/2009/01/26/a-bitter-update/). Am stat până în octombrie la această firmă, pentru că din acea vară a început să mă curteze o cunoștință de pe Net să mă duc să lucrez remote pentru firma la care era asociat, ceea ce am și făcut din octombrie. Saltul salarial a fost unul mare, aproape s-a dublat, deci era a no-brainer cum se zice.
+
+La un moment dat am plecat pentru o zi la Cluj și când m-am întors seara acasă am găsit MacBook-ul defect. Așa că mi-am luat un Mac mini la final de 2009, cred.
+
+Din păcate această firmuliță nu a fost prea stabilă însă au încercat să îmi găsească proiecte și să mă plătească până s-a putut. Și s-a putut până în vara lui 2010.
+
+Îmi luasem un KVM să pot comuta între Mac mini și desktop dar din ce în ce mai puțin am făcut, am folosit exclusiv mac-ul. Apoi în toamna lui 2010 iar mi-am căutat de lucru și un fost coleg de la a doua firmă m-a chemat la firma la care lucra atunci, unde am intrat cu scopul glorios de a le rescrie tot sistemul într-un framework PHP nou dar am ajuns să fiu "deportat" în Budapesta și să lucru Java pe un proiect mizerabil.
+
+August 16, 2011 - Marea pauza Mac. Pe reddit am o postare: Today I started up my PC which I haven't used since last year and look what I found in Chrome - era vorba de notificarea de Google Wave.
+
+### 6. Revenirea din pauza de Mac
 
 2011.10.07 - Intel i5 2500k
 
 Cumpărată de la debo.ro, 2011.10.07, poză cu garantia pe Google Photos, actele probabil printre facturile PFA :)
 
 2011.11.04 - Placa video ASUS nVidia GeForce GTX560, 1024MB, GDDR5, DVI, HDMI, PCI-E
+
+am făcut NAS din calculatorul vechi - https://www.rusiczki.net/2013/03/10/joaca-de-a-nas-ul/
+
+prin 2013 iar m-a apucat idea de silent si credeam ca cel mai silent pot fi prin racire cu apa
+
+2013.02.15 - Carcasa Nanoxia Deep Silence 1 (Neagra)
+
+2013.05.02 - Poze când am pus la vânzare Mac mini și MacBook
 
 3 comenzi in 2013 de la aquatuning.de
 
@@ -165,6 +187,7 @@ PSU: Seasonic X-650, 650W
 Case: Nanoxia Deep Silence 1
 
 Watercooling
+
 Radiator: Alphacool NexXxoS XT45 Full Copper 240mm
 Radiator fans: 2 x Noiseblocker NB-eLoop B12-2 Bionic
 CPU block: Alphacool NexXxoS XP³ Light - Acetal Edition
@@ -175,15 +198,25 @@ Reservoir: Innovatek AGB-O-Matic
 
 2014.09.17 (comanda) Carcasă NZXT H440
 
+2015.05.25 - Placa video MSI GeForce GTX 970 OC Gaming 4G TF5 4GB DDR5 256Bit (1834 lei)
+
+2016.04.22 - Scythe Kotetsu
+
 ### 7. Tot Intel, pentru gaming
 
-Intel i7 7700k
+26 octombrie 2017 - Intel i7 7700k
+
+2017.10.28 - montaj - poze pe Google Photos
 
 Din 2017 tot duceam la Baia Sprie laptop-ul să plătesc facturile prin Internet până m-am enervat și am luat o placă de bază de putere laptop low end.
 
+Am inviat media player-ul in 2017.02.23 dar s-a dovedit a nu fi de ajuns
+
+Poze din 2017.05.09 am cumparat mobo nou. În 2017.05.18 era instalat la Baia Sprie pe primul LCD.
+
 ### 8. După 23 de ani, primul laptop cu Windows
 
-2022
+31 martie 2022 - Laptop Gaming ASUS ROG Zephyrus G14 GA401QM cu procesor AMD Ryzen™ 9 5900HS, 14", QHD, 120Hz, 16GB, 1TB SSD, NVIDIA® GeForce RTX™ 3060 6GB, Windows 10 Home, Moonlight White AniMe Matrix
 
 #### Placi de sunet
 

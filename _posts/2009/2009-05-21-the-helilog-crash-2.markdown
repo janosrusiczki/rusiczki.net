@@ -3,6 +3,7 @@ layout: post
 title: 'The Helilog - Crash #2'
 date: 2009-05-21 08:41:31.000000000 +02:00
 categories:
+- rc
 - rc helicopter
 ---
 Whoops I did it again!

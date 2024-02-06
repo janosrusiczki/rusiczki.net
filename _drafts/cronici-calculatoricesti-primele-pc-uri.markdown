@@ -105,7 +105,7 @@ ipod nou https://www.rusiczki.net/2004/01/11/a-week-of-packages-part-2-ipod/
 
 ### 4. O schimbare de placă de bază
 
-În 23 aprilie 2004 am făcut o schimbare de placă de bază spre un Epox EP-8RDA3I. Restul configurației a rămas la fel. Această rocadă a fost [una dintre excepțiile](https://www.rusiczki.net/2004/04/23/re-building-a-computer/) când am documentat aici pe blog o schimbare de hardware. Această placă de bază am găsit-o recent în pod cu 768 de mega de RAM instalați. 512 inițiali plus 256 adăugați.
+În 23 aprilie 2004 am făcut o schimbare de placă de bază spre un Epox EP-8RDA3I. Restul configurației a rămas la fel. Această rocadă a fost [una dintre excepțiile](https://www.rusiczki.net/2004/04/23/re-building-a-computer/) când am documentat aici pe blog o schimbare de hardware. Această placă de bază am găsit-o recent în pod cu 768 de mega de RAM instalați. 512 inițiali și apoi am adăugat 256 de mega în 30 octombrie 2003 conform chitanței găsite.
 
 După Conseco și apoi prietenului distribuitor se pare că din 2004 începuse deja pentru mine era UltraPro Computers. Motivul a fost comoditatea și faptul că în sfârșit exista în Baia Mare un magazin de calculatoare în care nu trebuia comandat chiar totul de la furnizor. Mai aveau și chestii în stoc. Știu că a existat și un magazin Depozitul de Calculatoare (unde a lucrat fratele colegului despre care scriam mai sus că avea super configurații de gaming în jurul turnurii de mileniu) dar eu am rămas fidel UltraPro. O altă amintire este că atunci când s-a închis magazinul am fost chemat de un prieten și am primit șuruburi potrivite pentru fixarea hardurilor și altor componente.
 
@@ -153,9 +153,9 @@ După ce am făcut acest upgrade ăsta (și având monitorul Hansol rămas), am 
 
 27 septembrie 2007 - MacBook https://www.rusiczki.net/2007/10/04/time-for-a-switch/
 
-Înspre finalul lui 2007 m-a înebunit un prieten să mă duc să lucrez la o firmă de construcții și eu am zis că oricum e un boom în domeniu așa că am plecat (pe salar mai mare) de la firma de programatori la final de 2007 și am început noul an în construcții. Totodată ne-am mutat de la bloc în casa soacrei mele. Din păcate a lovit criza în scurt timp, dar nu s-a resimțit atât de tare chiar la început. Știu că nu sunt informații despre calculatoare, însă aș vrea să argumentez de ce lipsesc informațiile despre acestea.
-
 Mac-ul l-am "plătit" parțial lucrând dupămasa de pe Mac la niște proiecte furnizate de Lucian. Cred că prin 2008 mi-am luat The Orange Box (prima achiziție pe Steam) și am avut zile când m-am jucat toată după-masa Team Fortress 2.
+
+Înspre finalul lui 2007 m-a înebunit un prieten la cap să mă duc să lucrez la o firmă de construcții și eu am zis că oricum e un boom în domeniu așa că am plecat de la firma de programatori la final de 2007 și am început noul an în construcții. Pe salar mai mare binențeles. Totodată ne-am mutat de la bloc în casa soacrei mele. Din păcate a lovit criza în scurt timp, dar nu s-a resimțit atât de tare la început. Știu că nu sunt informații despre calculatoare, însă aș vrea să argumentez de ce lipsesc informațiile despre acestea.
 
 La început de 2009 eram la firma de construcții când [au început problemele cu mama](https://www.rusiczki.net/2009/01/26/a-bitter-update/). Am stat până în octombrie la această firmă, pentru că din acea vară a început să mă curteze o cunoștință de pe Net să mă duc să lucrez remote pentru firma la care era asociat, ceea ce am și făcut din octombrie. Saltul salarial a fost unul mare, aproape s-a dublat, deci era a no-brainer cum se zice.
 

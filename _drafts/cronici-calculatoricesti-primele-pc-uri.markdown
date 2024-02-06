@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Cronici Calculatoricești - Primele PC-uri
+title: Cronici Calculatoricești - Primele PC-uri și câteva Mac-uri
 categories:
 - cronică
 - tehnic
@@ -149,7 +149,9 @@ După ce am făcut acest upgrade ăsta (și având monitorul Hansol rămas), am 
 
 În vara lui 2007 am rămas iar fără proiecte și am demarat procesul de angajare la o firmă de software serioasă. Unde am reușit să intru.
 
-2007 toamna - MacBook https://www.rusiczki.net/2007/10/04/time-for-a-switch/
+### 6. Mac-uri
+
+27 septembrie 2007 - MacBook https://www.rusiczki.net/2007/10/04/time-for-a-switch/
 
 Înspre finalul lui 2007 m-a înebunit un prieten să mă duc să lucrez la o firmă de construcții și eu am zis că oricum e un boom în domeniu așa că am plecat (pe salar mai mare) de la firma de programatori la final de 2007 și am început noul an în construcții. Totodată ne-am mutat de la bloc în casa soacrei mele. Din păcate a lovit criza în scurt timp, dar nu s-a resimțit atât de tare chiar la început. Știu că nu sunt informații despre calculatoare, însă aș vrea să argumentez de ce lipsesc informațiile despre acestea.
 

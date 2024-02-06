@@ -44,6 +44,10 @@ video {
   color: #9a9a9a;
 }
 
-.sidebar-copyright {
+.sidebar .intro {
+  font-size: 1.05em;
+}
+
+.sidebar .copyright {
   font-size: 18px;
 }

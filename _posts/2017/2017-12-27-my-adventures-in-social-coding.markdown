@@ -1,5 +1,5 @@
 ---
-layout: postwith
+layout: post
 title: My adventures in social coding
 categories:
 - ruby

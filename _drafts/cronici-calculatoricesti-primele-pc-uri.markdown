@@ -87,21 +87,21 @@ Cum am rămas fără internet mai rapid decât dial-up-ul și aveam placă satel
 
 despre netsystem - https://www.nytimes.com/2004/07/28/business/worldbusiness/IHT-satellites-bring-broadband-internet-to-remote.html
 
-în această perioadă cât am avut internet prin satelit am făcut rețea cu vecinul. O cunoștință care se ocupa de rețele mi-a explicat ce și cum se face, mi-a vândut un mic switch pe care îl am și acuma (pensionat desigur de foarte mult timp), mi-a confecționat și donat mai multe cabluri de rețea pe care le-am tot folosit și dintre care s-ar putea să mai fie câteva în uz. Cablul trecea de la colțul casei mele la casa vecinului de peste drum via stâlpul de la Electrica și am avut mari emoții să nu vină cineva să ni-l dea jos. Nu-mi mai amintesc niciun detaliu de implementare, nu știu dacă îmi împrumutase amicul menționat anterior cleștele și am mufat eu cablurile, nu știu nici cine a prins cablul pe stâlp (o fi fost tata?). Am studiat în acea perioadă rețelele wireless și am citit că se poate face antenă wireless cu specificații bune dintr-un tub de Pringles. Cum și în acea perioadă Pringles era mai scump și eu nefiind un băiat pretențios la mâncare mi-am cumpărat unul și după ce am mâncat conținutul a stat tubul mult și bine pregătit să fie transformat în antenă. Ceea ce nu s-a mai întâmplat în primul rând pentru că nu am mai găsit pe nimeni în Baia Sprie cu care să fac rețea wireless.
+În această perioadă cât am avut internet prin satelit am făcut rețea cu vecinul de peste drum. O cunoștință care se ocupa de rețele mi-a explicat ce și cum se face, mi-a vândut un mic switch pe care îl am și acuma (pensionat desigur de foarte mult timp), mi-a confecționat și donat mai multe cabluri de rețea pe care le-am tot folosit și dintre care s-ar putea să mai fie câteva în uz. Cablul trecea de la colțul casei mele la casa vecinului de peste drum via stâlpul de la Electrica și am avut mari emoții să nu vină cineva să ni-l dea jos. Nu-mi mai amintesc niciun detaliu de implementare, nu știu dacă îmi împrumutase amicul menționat anterior cleștele și am mufat eu cablurile, nu știu nici cine a prins cablul pe stâlp (o fi fost tata?). Am studiat în acea perioadă rețelele wireless și am citit că se poate face antenă wireless cu specificații bune dintr-un tub de Pringles. Cum și în acea perioadă Pringles era mai scump și eu nefiind un băiat pretențios la mâncare mi-am cumpărat unul și după ce am mâncat conținutul a stat tubul mult și bine pregătit să fie transformat în antenă. Ceea ce nu s-a mai întâmplat în primul rând pentru că nu am mai găsit pe nimeni în Baia Sprie cu care să fac rețea wireless.
 
-În aceasta primă perioadă chiar făceam ceva ieșit din comun pentru un băisprian, lucrând ca programator remote pentru un client francez. Nu cred că înțelegeau prea mulți ce fac eu acolo, nici măcar părinții mei. Bine, evident nu aveam seriozitatea și organizarea cerute pentru un job în ziua de astăzi, dar site-urile ieșeau de sub mâna mea, funcționau, eram plătit, toată lumea era fericită. Întotdeauna am zis că sunt foarte bucuros că am început cum am început, mai ales când vedeam la locurile de muncă ulterioare cum erau pescuiți tinerii din băncile facultății și băgați direct în măcinătoarea de suflete care e corporația.
+În aceasta primă perioadă chiar făceam ceva ieșit din comun pentru un băisprian, lucrând ca programator pentru un client francez. Nu cred că înțelegeau prea mulți ce fac eu acolo, nici măcar părinții mei. Bine, evident nu aveam seriozitatea și organizarea cerute pentru un job în ziua de astăzi, dar site-urile ieșeau de sub mâna mea și funcționau bine, nu au fost hack-uite, eram plătit, toată lumea era fericită. Întotdeauna am zis că sunt foarte bucuros că am început cum am început, mai ales când vedeam la locurile de muncă ulterioare cum erau pescuiți tinerii din băncile facultății și băgați direct în măcinătoarea de suflete numită corporație.
 
 planuri de upgrade https://www.rusiczki.net/2003/04/13/plans-for-a-pc-upgrade/
 
 ### 3. Al doilea Athlon
 
-2003 probabil în mai sau vara - Epox EP-8RDA - AMD Athlon XP 2000+
-
 - 23.05.2003 - EPOX 8RDA, K7 XP2000, 256 RAM, Cooler, PSU 400W - Systek
 
-Din păcate nu îmi amintesc mai nimic despre acest upgrade și nu mai știu la cine am dat placa anterioară și procesorul. Și îmi vine cumva greu să cred că am rezistat cu acest procesor 3 ani jumate. De la Remus Kolozsvari - https://www.rusiczki.net/2004/04/23/re-building-a-computer/ pe la final și din facturile și bonurile găsite.
+Din păcate nu îmi amintesc mai nimic despre acest upgrade și nu mai știu la cine am dat placa anterioară și procesorul. Și îmi vine cumva greu să cred că am rezistat cu acest procesor 3 ani jumate. https://www.rusiczki.net/2004/04/23/re-building-a-computer/
 
-Am găsit ambalajul plăcii de bază din această configurație precum și cutia plăcii de bază de la următoarea configurație într-una din săpăturile arheologice efectuate în fosta mea cameră din Baia Sprie, iar mai recent efectuând cercetări prin pod am găsit și plăcile de bază efective - dar mă încurcă faptul că am găsit o mențiune din 2003 în care ziceam că am amd xp1800+ https://www.rusiczki.net/2003/09/03/100-days-is-quite-a-long-time/ și eu am găsit procesorul ăsta 2000+. Ca să fie și mai confuză teaba, aici spun că am un procesor de 1.66 ghz care corespunde cu 2000+ https://www.rusiczki.net/2005/07/24/windows-reinstall/
+Am găsit ambalajul plăcii de bază din această configurație precum și cutia plăcii de bază de la următoarea configurație într-una din săpăturile arheologice efectuate în fosta mea cameră din Baia Sprie, iar mai recent efectuând cercetări prin pod am găsit și plăcile de bază efective - dar mă încurcă faptul că am găsit o mențiune din 2003 în care ziceam că am AMD XP1800+ https://www.rusiczki.net/2003/09/03/100-days-is-quite-a-long-time/ iar eu am găsit procesorul ăsta 2000+. Ca să fie și mai confuză teaba, aici spun că am un procesor de 1.66 ghz care corespunde cu 2000+ https://www.rusiczki.net/2005/07/24/windows-reinstall/
+
+La cât de multe am avut de scris despre perioada antecedentă, din păcate din acest punct începe perioada despre care nu-mi mai amintesc mare lucru...
 
 despre harddisc-uri https://www.rusiczki.net/2003/10/23/the-price-of-laziness/
 
@@ -115,7 +115,7 @@ După Conseco și apoi prietenului distribuitor se pare că din 2004 începuse d
 
 dvd writer Teac DV-W58G https://www.rusiczki.net/2004/04/01/brief/ - https://www.cnet.com/products/teac-dv-w58g-dvdrw-drive-ide-internal/
 
-Acesta a fost calculatorul cu care m-am mutat la bloc [în a doua parte a lunii mai 2004](https://www.rusiczki.net/2004/05/18/the-new-home/). Nu știu ce s-a ales de modemul de telefon de care nu am mai avut nevoie odată ce am avut internet prin cablu la care inițial optasem pentru [un abonament de 128 kbps](https://www.rusiczki.net/2004/06/01/cabled-headaches/) care avea incluși 1,5 giga de trafic lunar. Sună absolut ridicol acum, dar era ridicol și pe atunci. [Am schimbat foarte rapid](https://www.rusiczki.net/2004/06/05/the-headaches-are-over/) în 64 kbps cu trafic nelimitat.
+Acesta a fost calculatorul cu care m-am mutat la bloc [în a doua parte a lunii mai 2004](https://www.rusiczki.net/2004/05/18/the-new-home/). Nu mai știu ce s-a ales de modemul de telefon de care nu am mai avut nevoie odată ce am avut internet prin cablu la care inițial optasem pentru [un abonament de 128 kbps](https://www.rusiczki.net/2004/06/01/cabled-headaches/) care avea incluși 1,5 giga de trafic lunar. Sună absolut ridicol acum, dar era ridicol și pe atunci. [Am schimbat foarte rapid](https://www.rusiczki.net/2004/06/05/the-headaches-are-over/) în 64 kbps cu trafic nelimitat.
 
 Privind în retrospectivă calitatea vieții mele s-a cam diminuat odată cu mutarea la bloc. Nu că nu era deja deja cazul să mă mut, că era destul de stânjenitor ca la 25 de ani să stau încă pe gâtul părinților, plus a fost destul de necesar și să ajung la o conexiune de internet stabilă dar brusc am avut cheltuieli pe chirie și utilități, era gata cu compotul delicios de mere livrat în cameră de mama, mâncam destul de aiurea...
 
@@ -123,7 +123,7 @@ Cam tot mutarea la bloc a fost momentul când am încetat să-mi mai scriu discu
 
 După acea vară care a fost super fierbinte, în august 2004 [a murit Palit Daytona](https://www.rusiczki.net/2004/08/27/palit-daytona-geforce-4-ti-4200-2002-2004/) și am primit de la soacra la schimb o placă video [ATI 9200](https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/) care era mult mai slabă din punct de vedere al performanței dar stabilă.
 
-Nu știu ce am făcut în 2005 dar lipsesc complet informațiile despre orice legat de calculator. După cum am zis în introducere, din păcate facturile și bonurile din această perioadă s-au pierdut. În luna mai după ce a secat cererea de lucru de la clientul moștenit de la firma anterioară m-am angajat la a două firmă din viața mea. Știu că perindam între a dormi acasă la prietenă-mea (actuala soție), mers la muncă, mers la bloc să pornesc și ajustez niște download-uri, iar dormit la Ioana, șamd. La bloc, adică la calculator stăteam destul de puțin.
+Nu știu ce am făcut în 2005 dar lipsesc complet informațiile despre orice legat de calculator. După cum am zis în introducere, din păcate facturile și bonurile din această perioadă s-au pierdut. În luna mai după ce a secat cererea de lucru de la clientul moștenit de la firma anterioară m-am angajat la a două firmă din viața mea. Știu că perindam între a dormi acasă la prietenă-mea (actuala soție), mers la muncă, mers la bloc să pornesc și ajustez niște download-uri, iar dormit la Ioana, șamd. La bloc, adică la propriul calculator stăteam destul de puțin.
 
 A început să-mi fie ciudă pe monitoarele LCD de la firmă așa că în ianuarie 2006 [am trecut printr-o veritabilă sagă](https://www.rusiczki.net/2006/01/31/the-lcd-saga-ends/) pentru procurarea primului meu LCD, un Samsung Syncmaster 913N. În afară de asta se pare că nu a fost nimic notabil pe plan hardware nici în 2006. Probabil și fiindcă focusul s-a orientat mai mult pe ce e interesant online și pentru că începeau să se diversifice și interesele mele, ne plimbam mult prin natură iar la final de 2006 mi-am luat permisul de conducere și orizonturile s-au lărgit și mai mult. În septembrie [am plecat de la a doua firmă](https://www.rusiczki.net/2006/09/15/the-last-day/) și am revenit să lucrez de acasă pe un contract de a face redesign prin div-uri pentru acasa.ro care era pe atunci al doilea cel mai vizitat portal românesc.
 
@@ -133,11 +133,14 @@ https://www.rusiczki.net/2007/01/23/need-for-hardware-upgrade-painfully-felt/
 
 2007.02.06 - Intel Dual Core
 
-Înainte de acest upgrade am tot citit despre multimedia PCs și silent PCs, am devenit fascinat de acest aspect și am hotărât că și eu vreau așa ceva.
+Înainte de acest upgrade am tot citit despre PC-uri multimedia silențioase, devenind fascinat de acest aspect și am hotărât că vreau și eu așa ceva.
+
+Având în vedere că nu stăteam deloc bine cu banii, upgrade-ul l-am efectuat în doi pași, prima parte (memoria, placa video, sursa și carcasa) le-am luat la început de decembrie, apoi după ce chiar a cedat configurația veche am fost nevoit să mă împrumut și să-mi cumpăr și restul componentelor (procesorul și placa de bază) la început de februarie.
 
 despre upgrade-ul din 2006 / 2007 - https://www.rusiczki.net/2007/03/14/the-masterpiece-is-almost-complete/
 
-- kit dual channel corsair twin2X 2x512mb ddr2, 667MHz - 353 ron - http://www.emag.ro/memorii/kit-dual-channel-corsair-twin2x-2x512mb-ddr2-667mhz--pTWIN2X1024-5400C4
+kit dual channel corsair twin2X 2x512mb ddr2, 667MHz - 353 ron - http://www.emag.ro/memorii/kit-dual-channel-corsair-twin2x-2x512mb-ddr2-667mhz--pTWIN2X1024-5400C4
+
 - hdd western digital caviar se16, 250gb, sata 300 mb/s - 272 ron - http://www.emag.ro/hdd/hdd-western-digital-caviar-se16-250gb-sata-300-mb-s--pWD2500KS
 - asus p5b-e-plus - 604 ron - http://www.pcgarage.ro/placi-de-baza/asus/p5b-e-plus/
 - intel core2 duo e6600 - 1132 ron - http://www.pcgarage.ro/procesoare/intel/core2-duo-e6600-240-ghz-box/

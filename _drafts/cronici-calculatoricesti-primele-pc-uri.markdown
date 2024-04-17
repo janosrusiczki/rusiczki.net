@@ -6,7 +6,7 @@ categories:
 - cronică
 - tehnic
 - cronici calculatoricești
-description: Despre perioada care a început cu primul meu PC până am primit primul MacBook
+description: Despre perioada care a început cu primul meu PC până la primul MacBook
 ---
 
 Am să încep acest penultim(?) articol din seria celor dedicate amintirilor despre calculatoarele mele cu câteva cuvinte despre procesul de documentare: frustrant este că deși am avut deja acest blog în mare parte din perioada pe care vreau să o descriu aici, nu prea am scris despre calculatoare. Mă rog, de fapt veți găsi destul de multe link-uri în cele ce urmează - dar procentual au fost totuși relativ rare mențiunile. Cu atât mai puțin am scris despre upgrade-uri și din păcate majoritatea discuțiilor pe care le-am avut despre acest subiect, le-am avut pe [Yahoo! Messenger](https://en.wikipedia.org/wiki/Yahoo!_Messenger) care după cum probabil știți a murit de o bună bucată de vreme. Și nu salvasem arhivele discuțiilor așa [cum făceam mai pe la început](https://www.rusiczki.net/2022/03/15/cum-sa-calatoresti-in-timp-ghid-practic/) cu mail-urile, log-urile de IRC și multe alte chestii insignifiante.

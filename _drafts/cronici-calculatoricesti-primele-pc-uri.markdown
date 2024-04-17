@@ -79,7 +79,7 @@ Cum tot stăteam pe IRC la taclale cu prietenii făcuți în anii anteriori, pe 
 
 În acel moment prietenii mei cam știau că sunt pregătit să investesc în componente și orice legat de calculator și a venit unul dintre ei la mine și m-a întrebat dacă nu aș vrea să-mi cumpăr un Geforce 4 Ti la un preț imbatabil. Conform facturii am bătut palma în 4 noiembrie 2002 și chiar a fost un preț incredibil, dar am impresia că "[picase de pe un camion](https://en.wiktionary.org/wiki/fall_off_the_back_of_a_truck)". Dacă mai sus spuneam că înainte cu câțiva ani rămăsesem gură cască când vedeam ce puteau plăcile Voodoo, acuma am rămas fascinat de ce putea placa mea. Nu prea exista joc care să nu meargă cu toate detaliile și brizbrizurile la maxim.
 
-Poză cu volanul 126-2693_IMG.JPG 20 iunie 2002 - Amintiri foarte plăcute cu NFS Porsche Unleashed. Volanul era de la un fost coleg de clasă, primit printr-un prieten care din păcate nu mai e printre noi. :(
+Poză cu volanul 126-2693_IMG.JPG 20 iunie 2002 - Amintiri foarte plăcute cu NFS Porsche Unleashed. Volanul era al unui fost coleg de clasă din primară și generală, dar stătea și îl primeam de la un prieten care din păcate nu mai este printre noi. :(
 
 De când am început să am acces la "broadband" de la Internet Cafe din toamna lui '99 și până la [finalul lui 2002 când am găsit Internet Cafe-ul golit de calculatoare](https://www.rusiczki.net/2002/12/27/the-end-of-broadband/) am stat oarecum cu frica în sân temându-mă de momentul când nu voi mai avea acces, dar și pregătindu-mă pentru el, am scris mai mult de 80 de CD-uri cu MP3 pe care am avut ocazia să le ascult după aia. La aproape 20 de ani după ce le-am scris mai băgam câte unul în playerul din mașină să "descopăr" ce-i pe el.
 
@@ -97,7 +97,7 @@ planuri de upgrade https://www.rusiczki.net/2003/04/13/plans-for-a-pc-upgrade/
 
 - 23.05.2003 - EPOX 8RDA, K7 XP2000, 256 RAM, Cooler, PSU 400W - Systek
 
-Din păcate nu îmi amintesc mai nimic despre acest upgrade și nu mai știu la cine am dat placa anterioară și procesorul. Și îmi vine cumva greu să cred că am rezistat cu acest procesor 3 ani jumate. https://www.rusiczki.net/2004/04/23/re-building-a-computer/
+Cu toate că s-a întâmplat în epoca de glorie din păcate nu îmi amintesc mai nimic despre acest upgrade și nu mai știu la cine am dat placa anterioară și procesorul. Și îmi vine cumva greu să cred că am rezistat cu acest procesor 3 ani jumate. https://www.rusiczki.net/2004/04/23/re-building-a-computer/
 
 Am găsit ambalajul plăcii de bază din această configurație precum și cutia plăcii de bază de la următoarea configurație într-una din săpăturile arheologice efectuate în fosta mea cameră din Baia Sprie, iar mai recent efectuând cercetări prin pod am găsit și plăcile de bază efective - dar mă încurcă faptul că am găsit o mențiune din 2003 în care ziceam că am AMD XP1800+ https://www.rusiczki.net/2003/09/03/100-days-is-quite-a-long-time/ iar eu am găsit procesorul ăsta 2000+. Ca să fie și mai confuză teaba, aici spun că am un procesor de 1.66 ghz care corespunde cu 2000+ https://www.rusiczki.net/2005/07/24/windows-reinstall/
 

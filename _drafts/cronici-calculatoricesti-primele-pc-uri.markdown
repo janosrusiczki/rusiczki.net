@@ -129,24 +129,20 @@ https://www.rusiczki.net/2007/01/23/need-for-hardware-upgrade-painfully-felt/
 
 2007.02.06 - Intel Dual Core
 
-Înainte de acest upgrade am tot citit despre PC-uri multimedia silențioase, devenind fascinat de acest aspect și am hotărât că vreau și eu așa ceva.
+Înainte de acest upgrade am tot citit despre PC-uri multimedia silențioase, devenind fascinat de acest aspect și am hotărât că aș vrea să încerc și eu așa ceva. Plus că era oarecum și necesar, că între timp ne mutasem la bloc și calculatorul îmi mergea aproape constant descărcând una alta, și era deranjant să huruie în timpul nopții.
 
-Având în vedere că nu stăteam deloc bine cu banii, upgrade-ul l-am efectuat în doi pași, prima parte (memoria, placa video, sursa și carcasa) le-am luat la început de decembrie 2006, apoi după ce chiar a cedat configurația veche am fost nevoit să mă împrumut și să-mi cumpăr și restul componentelor (procesorul și placa de bază) la început de februarie 2007.
-
-despre upgrade-ul din 2006 / 2007 - https://www.rusiczki.net/2007/03/14/the-masterpiece-is-almost-complete/
-
-kit dual channel corsair twin2X 2x512mb ddr2, 667MHz - 353 ron - http://www.emag.ro/memorii/kit-dual-channel-corsair-twin2x-2x512mb-ddr2-667mhz--pTWIN2X1024-5400C4
+Având în vedere că nu stăteam prea bine cu banii, upgrade-ul l-am efectuat în doi pași, prima parte (memoria, placa video, sursa și carcasa) le-am luat la început de decembrie 2006, apoi după ce chiar a cedat configurația veche am fost nevoit să mă împrumut și să-mi cumpăr și restul componentelor (procesorul și placa de bază) [la început de februarie 2007](https://www.rusiczki.net/2007/03/14/the-masterpiece-is-almost-complete/).
 
 - hdd western digital caviar se16, 250gb, sata 300 mb/s - 272 ron - http://www.emag.ro/hdd/hdd-western-digital-caviar-se16-250gb-sata-300-mb-s--pWD2500KS
 - asus p5b-e-plus - 604 ron - http://www.pcgarage.ro/placi-de-baza/asus/p5b-e-plus/
 - intel core2 duo e6600 - 1132 ron - http://www.pcgarage.ro/procesoare/intel/core2-duo-e6600-240-ghz-box/
 - asus ati rx1650xt - de la vasi - 120 euro - http://www.emag.ro/placi_video/placa-video-asus-ati-rx1650xt-256mb-ddr3-128biti-pci-e-crossfire--pEAX1650XT-CF2DHT256M
-- corsair twin 2x512mb - de la vasi - 100 euro - 2 x http://www.cel.ro/memorie-corsair-xms-ddrii-667mhz-512mb-pc-5400-l
+- corsair twin 2x512mb - de la vasi - 100 euro - 2 x http://www.cel.ro/memorie-corsair-xms-ddrii-667mhz-512mb-pc-5400-l (din ceva motiv aveam și linkul spre emag - kit dual channel corsair twin2X 2x512mb ddr2, 667MHz - 353 ron - http://www.emag.ro/memorii/kit-dual-channel-corsair-twin2x-2x512mb-ddr2-667mhz--pTWIN2X1024-5400C4)
 - antec p160 - de la pc garage - 422 ron - http://www.pcgarage.ro/carcase/antec/p160/
 - antec truepowertrio 430-ec - de la pc garage - 274 ron - http://www.pcgarage.ro/surse/antec/truepowertrio-430-ec-430w/
   total = 3176 ron (la cursul din 6 februarie 2007)
 
-Era super placa asta de bază, avea un mod silent care oprea sau reducea mult turația ventilatorului de pe procesor astfel încât abia auzeai că merge calculatorul. Se putea lăsa să meargă peste noapte. Atât de plăcut m-a impresionat acest mobo încât am devenit fan ASUS pe viață.
+Era super placa asta de bază, avea un mod silent care oprea sau reducea mult turația ventilatorului de pe procesor astfel încât abia auzeai că merge calculatorul. Se putea lăsa să meargă peste noapte. Atât de plăcut m-a impresionat acest mobo încât am devenit fan ASUS pe viață. Haha. Poate e o ușoară exagerare asta dar tot în zona ASUS m-am mișcat cu plăcile de bază.
 
 După ce am făcut acest upgrade ăsta (și având monitorul Hansol rămas), am dus sus la Baia Sprie calculatorul vechi. Nu mai știu de unde am avut un stick wifi cu care prindeam WiFi de la vecini și am avut planuri să lucru acolo la un mic sistem de content management nedistras de tentanțiile internetului.
 
@@ -158,9 +154,11 @@ După ce am făcut acest upgrade ăsta (și având monitorul Hansol rămas), am 
 
 Mac-ul l-am "plătit" parțial lucrând dupămasa de pe Mac la niște proiecte furnizate de Lucian. Cred că prin 2008 mi-am luat The Orange Box (prima achiziție pe Steam) și am avut zile când m-am jucat toată după-masa Team Fortress 2.
 
-Înspre finalul lui 2007 m-a înebunit un prieten la cap să mă duc să lucrez la o firmă de construcții și eu am zis că oricum e un boom în domeniu așa că am plecat de la firma de programatori la final de 2007 și am început noul an în construcții. Pe salar mai mare binențeles. Totodată ne-am mutat de la bloc în casa soacrei mele. Din păcate a lovit criza în scurt timp, dar nu s-a resimțit atât de tare la început. Știu că nu sunt informații despre calculatoare, însă aș vrea să argumentez de ce lipsesc informațiile despre acestea.
+Înspre finalul lui 2007 m-a înebunit un prieten la cap să mă duc să lucrez la o firmă de construcții și eu am zis că oricum e un boom în domeniu așa că am plecat de la firma de programatori la final de an și am început 2008 în construcții. Pe salar mai mare binențeles. Totodată ne-am mutat de la bloc în casa soacrei mele. Din păcate a lovit criza în scurt timp, dar nu s-a resimțit atât de tare la început. Știu că nu sunt informații despre calculatoare, însă aș vrea să argumentez de ce lipsesc informațiile despre acestea.
 
 La început de 2009 eram la firma de construcții când [au început problemele cu mama](https://www.rusiczki.net/2009/01/26/a-bitter-update/). Am stat până în octombrie la această firmă, pentru că din acea vară a început să mă curteze o cunoștință de pe Net să mă duc să lucrez remote pentru firma la care era asociat, ceea ce am și făcut din octombrie. Saltul salarial a fost unul mare, aproape s-a dublat, deci era a no-brainer cum se zice.
+
+În vara lui 2009 [ne-am luat biciclete](https://photos.rusiczki.net/photos/3629058541) și am ajuns să stau și mai puțin în fața calculatorului.
 
 La un moment dat am plecat pentru o zi la Cluj și când m-am întors seara acasă am găsit MacBook-ul defect. Așa că mi-am luat un Mac mini la final de 2009, cred.
 

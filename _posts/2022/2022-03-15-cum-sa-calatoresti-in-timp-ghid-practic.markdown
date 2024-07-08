@@ -53,6 +53,8 @@ Iar despre WebWebStudio, îmi amintesc că perioada cât am fost angajat acolo c
 
 [![Șurubelnița galbenă](https://content.rusiczki.net/2022/03/surubelnita-galbena-resized.jpg)](https://content.rusiczki.net/2022/03/surubelnita-galbena.jpg){:.glightbox}
 
+**Update în 8 iulie 2024** În timp ce reciteam postări care sunt menționate în a treia parte a cronicilor calculatoricești [mi-am dat seama](https://www.rusiczki.net/2003/10/23/the-price-of-laziness/) că s-a mai lipit de mine ceva la firmă. Un hard disc de 6 giga.
+
 La un moment dat pe parcursul redactării acestei serii de articole am făcut un efort dar nu am reușit să-mi amintesc pe ce traseu ajungeam de la facultate (unde în 2001 eram în ultimul an) la firmă. Nu îmi mai amintesc nici cum mă împărțeam cu prezența la facultate, învățat și mers la muncă și nici cu ce frecvență am mers pe acolo începând cu toamna când au dispărut patronii. Îmi amintesc în schimb de luptele cu apă de la birou din acea vară (o idee absolut genială având în vedere că erau calculatoare în jur), de pizza adusă câteodată pentru cină, de skateboarderii și rockerii pe care îi vedeam în drum spre stația de autobus și de Lucian pe care îl lăsam vineri să joace niște Fallout și luni dimineața tot acolo îl găseam. Din păcate el ne-a părăsit acum câțiva ani...
 
 Revenind la arhive: discurile s-au păstrat surprinzător de bine fiind ținute în cameră într-un mediu oarecum controlat, fără umiditate excesivă sau temperaturi extreme. Chiar am fost mirat de cât de bine s-au comportat CD-urile care ilustrează articolul, care după câte se vede au fost ceva super ieftin neavând nici măcăr o inserție mată (fiind un coșmar de fotografiat) dar după 20 de ani am putut copia totul de pe ele fără probleme.

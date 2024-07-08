@@ -15,7 +15,7 @@ Am avut însă un _noroc enorm_ deoarece la un moment dat mi-a scris [un prieten
 
 De asemenea încercasem acum câțiva ani să mă uit pe hard discurile care mai țineau fișiere din acele vremuri dar am constatat că din păcate au cedat și au început să clicăie. Totuși, pe la începutul lui 2022, făcând ordine prin camera mea din Baia Sprie am găsit niște CD-uri care nu făceau parte din seria mea _oficială_ de CD-uri cu arhive dar am găsit pe unul dintre ele arhiva mailbox-urilor de pe vremea când lucram la Internet Cafe - despre asta [am scris un articol separat](https://www.rusiczki.net/2022/03/15/cum-sa-calatoresti-in-timp-ghid-practic/) - dar și ăsta s-a dovedit a fi un drum înfundat. Din fericire mai târziu, înspre vară, tot în camera din Baia Sprie, într-una dintre cutii am dat de un plic care nu dădea prea multe de bănuit, dar conținea cam toate bonurile, facturile și garanțiile pentru cumpărăturile IT din 2001 până în 2004 (când [m-am mutat din Baia Sprie](https://www.rusiczki.net/2004/05/18/the-new-home/)), mai puțin chestiile pe care le-am vândut, pentru că eram un fixist și ce vindeam dădeam cu totul, cutie, factură, garanție, etc. În schimb facturile din perioada mai 2004 - final de 2007, cât am stat în chirie la bloc, oricât le-am căutat, nu le-am mai găsit - probabil au fost aruncate din pod cu ocazia vreunei curățenii.
 
-A durat extrem de mult redactarea. Știu că am început să redactez articolul în Wordpress cred că prin 2015 sau 2016, apoi când mi-am dat seama că nu va încăpea totul într-un singur articol, le-am împărțit, au urmat niște ani mai grei dar am început să le public în 2021 și am încercat să mă țin de program să public câte un articol din această serie în fiecare an.
+A durat extrem de mult redactarea. Cred că am început să scriu articolul în Wordpress prin 2015 sau 2016, apoi când mi-am dat seama că nu va încăpea totul într-un singur articol, le-am împărțit, au urmat niște ani mai grei dar am început să le public în 2021 și am încercat să mă țin de program să public câte un articol din această serie în fiecare an.
 
 Cam atât cu introducerea, să trecem la felul principal:
 
@@ -99,9 +99,11 @@ Am găsit ambalajul plăcii de bază din această configurație cât și a celei
 
 La cât de multe am avut de scris despre perioada antecedentă, din păcate cam cu această configurație începe perioada despre care nu-mi mai amintesc mare lucru...
 
-despre harddisc-uri https://www.rusiczki.net/2003/10/23/the-price-of-laziness/
+despre harddisc-uri https://www.rusiczki.net/2003/10/23/the-price-of-laziness/ - Mi-am cumpărat Maxtorul de 80 de giga menționat în articol în 27 octombrie 2003.
 
 ipod nou https://www.rusiczki.net/2004/01/11/a-week-of-packages-part-2-ipod/
+
+PlayStation 2 https://www.rusiczki.net/2004/02/05/damn-army-service-die-die-die/ - A fost o afacere foarte bună, am luat un PS2, un volan și câteva jocuri. Îmi amintesc că vânzatorul de pe okazii.ro mi-a zis ceva de genul "l-am primit de la rudele din Germania dar pe copii nu îi prea interesează, preferă să se joace pe calculator".
 
 16 februarie 2004 - vorbesc despre reinstalaea plăcii TV pe care o găsesc în pod (nu-mi aminteam că îmi duceam lucrurile nefolosite atât de rapid în pod). Aparent placa TV mi-o cumpărasem în 12 iulie 2000.
 

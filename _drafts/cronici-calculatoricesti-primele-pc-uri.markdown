@@ -162,7 +162,7 @@ La început de 2009 eram la firma de construcții când [au început problemele 
 
 În vara lui 2009 [ne-am luat biciclete](https://photos.rusiczki.net/photos/3629058541) și am ajuns să stau și mai puțin în fața calculatorului.
 
-La un moment dat am plecat pentru o zi la Cluj și când m-am întors seara acasă am găsit MacBook-ul defect. Așa că mi-am luat un Mac mini la final de 2009, cred.
+La un moment dat am plecat pentru o zi la Cluj și când m-am întors seara acasă am găsit MacBook-ul defect. Așa că mi-am luat un Mac mini pe la final de 2009, cred.
 
 Din păcate această firmuliță nu a fost prea stabilă însă au încercat să îmi găsească proiecte și să mă plătească până s-a putut. Și s-a putut până în vara lui 2010.
 

@@ -10,11 +10,15 @@ Prin magia camerei de supraveghere (care era orientată unde trebuie) iată și 
 
 -- film --
 
-Și aici momentul cu ranga unde cu toate că sunt cu spatele se observă mirarea pe gesturi:
+Și aici momentul cu ranga unde cu toate că sunt cu spatele mi se observă mirarea pe gesturi:
 
 -- film --
 
-În câteva minute am revenit cu o frontală și într-adevăr se vedea că mai jos de breșă urmau câțiva centimetri de gol și apoi pământul. Apoi am făcut câteva poze și dacă tot aveam telefonul în mână rapid le-am și povestit unor prieteni ce am pățit. Unul din Baia Sprie chiar s-a oferit să-mi împrumute un mic endoscop conectabil la mobil și mi l-a și adus în scurt timp dar din păcate nu avea lumină destulă să pot vedea ceva. În acest punct încă presupuneam că dădusem de spațiul dintre 2 bolovani, mai ales că e la un metru și ceva de capătul garajului care e săpat la mai mult de 2 metri adâncime în pământ. Mă gândeam că atunci când au săpat prelungirea garajului în anii 70 or fi săpat mai mult sau au pus bolovanii mai mari în capăt și apoi când i-au acoperit a rezultat o cavitate. Garaj care de când îl știu eu avea o mobilă veche de bucătărie în acest capăt mai îngropat așa că eu nu văzusem niciodată acel perete golit.
+În câteva minute am revenit cu o lanternă frontală și într-adevăr se vedea că mai jos de breșă urmau câțiva centimetri de gol și apoi pământul. Apoi am făcut câteva poze și dacă tot aveam telefonul în mână rapid le-am și povestit unor prieteni ce am pățit. Unul din Baia Sprie chiar s-a oferit să-mi împrumute un mic endoscop conectabil la mobil și mi l-a și adus în scurt timp dar din păcate nu avea lumină destulă să pot vedea ceva. În acest punct încă presupuneam că dădusem de spațiul dintre 2 bolovani, mai ales că e la un metru și ceva de capătul garajului care e săpat la mai mult de 2 metri adâncime în pământ. Mă gândeam că atunci când au săpat prelungirea garajului în anii 70 or fi săpat mai mult sau au pus bolovanii mai mari în capăt și apoi când i-au acoperit a rezultat o cavitate. Garaj care de când îl știu eu avea o mobilă veche de bucătărie în acest capăt mai îngropat așa că eu nu văzusem niciodată acel perete golit.
+
+Brusc mi-am amintit că am o cameră de filmat 360 și am revenit cu ea a doua zi, plus îmi cumpărasem un bec de lucru de la Dedeman pentru că cel pe care îl aveam moștenit de la tata trecuse prin multe și nu mai avea niciun fel de bură sau protecție. Am coborât așadar becul și apoi camera și vizionând apoi filmarea rezultată am realizat că am descoperit probabil o canalizare străveche. Casa e în familie din anul 19xx când a fost cumpărată de bunicul meu dar în 1987 - 88 când am renovat zicea tata că are deja mai mult de 100 de ani.
+
+Nu cred că știa nici tata de această canalizare. În apropierea ei au turnat trotuarul și canalizarea nouă perpendicular, dar cred că a fost mult deasupra. A fost modificat trotuarul care ieșea din casă când au construit garajul a cărei deschidere dă în intersecție iar poarta a fost mutată mai sus, pe o altă stradă de fapt.
 
 e interesant că săpase acolo excavatorul, apoi am mai săpat să încapă căminul, dar am mers un pic mai jos decât trebuia, așa că am pus pietriș.
 

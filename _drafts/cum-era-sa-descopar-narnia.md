@@ -18,7 +18,7 @@ Prin magia camerei de supraveghere (care era orientată unde trebuie) iată și 
 
 Brusc mi-am amintit că am o cameră de filmat 360 și am revenit cu ea a doua zi, plus îmi cumpărasem un bec de lucru de la Dedeman pentru că cel pe care îl aveam moștenit de la tata trecuse prin multe și nu mai avea niciun fel de bură sau protecție. Am coborât așadar becul și apoi camera și vizionând apoi filmarea rezultată am realizat că am descoperit probabil o canalizare străveche. Casa e în familie din anul 19xx când a fost cumpărată de bunicul meu dar în 1987 - 88 când am renovat zicea tata că are deja mai mult de 100 de ani.
 
-Nu cred că știa nici tata de această canalizare. În apropierea ei au turnat trotuarul și canalizarea nouă perpendicular, dar cred că a fost mult deasupra. Asta a fost cu ocazia renovărilor de care vorbeam mai sus din anii 80. Înainte, în anii '70 a fost modificat trotuarul care ieșea din casă când au construit garajul a cărei deschidere dă în intersecție iar poarta a fost mutată mai sus, pe o altă stradă de fapt.
+Nu știu dacă tata știa de această canalizare. În apropierea ei au turnat trotuarul și canalizarea nouă perpendicular, dar cred că a fost mult deasupra. Asta a fost cu ocazia renovărilor de care vorbeam mai sus din anii 80. Înainte, în anii '70 a fost modificat trotuarul care ieșea din casă când au construit garajul a cărei deschidere dă în intersecție iar poarta a fost mutată mai sus, pe o altă stradă de fapt.
 
 e interesant că săpase acolo excavatorul, apoi am mai săpat să încapă căminul, dar am mers un pic mai jos decât trebuia, așa că am pus pietriș.
 

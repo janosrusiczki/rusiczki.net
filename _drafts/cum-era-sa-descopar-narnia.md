@@ -8,11 +8,11 @@ Am început așadar să sap să fac loc pentru țeava respectivă cu o lopățic
 
 Prin magia camerei de supraveghere (care era orientată unde trebuie) iată și cele două momente, întâi când îmi merge rotopercutorul ușor în jos:
 
--- film --
+<video controls><source src="https://content.rusiczki.net/2024/09/narnia-1-rotopercutor-trimmed.mp4" type="video/mp4">Dacă aici nu vedeți un video vizitați-mi blogul. :-)</video>
 
 Și aici momentul cu ranga unde cu toate că sunt cu spatele mi se observă mirarea pe gesturi:
 
--- film --
+<video controls><source src="https://content.rusiczki.net/2024/09/narnia-2-ranga-trimmed.mp4" type="video/mp4">Dacă aici nu vedeți un video vizitați-mi blogul. :-)</video>
 
 În câteva minute am revenit cu o lanternă frontală și într-adevăr se vedea că mai jos de breșă urmau câțiva centimetri de gol și apoi pământul. Apoi am făcut câteva poze și dacă tot aveam telefonul în mână rapid le-am și povestit unor prieteni ce am pățit. Unul din Baia Sprie chiar s-a oferit să-mi împrumute un mic endoscop conectabil la mobil și mi l-a și adus în scurt timp dar din păcate nu avea lumină destulă să pot vedea ceva. În acest punct încă presupuneam că dădusem de spațiul dintre 2 bolovani, mai ales că e la un metru și ceva de capătul garajului care e săpat la mai mult de 2 metri adâncime în pământ. Mă gândeam că atunci când au săpat prelungirea garajului în anii 70 or fi săpat mai mult sau au pus bolovanii mai mari în capăt și apoi când i-au acoperit a rezultat o cavitate. Garaj care de când îl știu eu avea o mobilă veche de bucătărie în acest capăt mai îngropat așa că eu nu văzusem niciodată acel perete golit.
 

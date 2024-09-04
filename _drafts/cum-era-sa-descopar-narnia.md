@@ -14,7 +14,7 @@ Prin magia camerei de supraveghere (care era orientată unde trebuie) iată și 
 
 -- film --
 
-În câteva minute am revenit cu o frontală și într-adevăr se vedea că mai jos de breșă urmau câțiva centimetri de gol și apoi pământul. Apoi am făcut poze și dacă tot aveam telefonul în mână rapid le-am și povestit unor prieteni ce am pățit. Unul din Baia Sprie chiar s-a oferit să-mi împrumute un mic endoscop conectabil la mobil și mi l-a și adus în scurt timp dar din păcate nu avea lumină destulă să pot vedea ceva. În acest punct încă presupuneam că dădusem de spațiul dintre 2 bolovani, mai ales că e la un metru și ceva de capătul garajului care e săpat la mai mult de 2 metri adâncime în pământ. a garaj care de când îl știu eu avea o mobilă veche de bucătărie în acest cap mai îngropat așa că eu nu văzusem niciodată acel perete golit. 
+În câteva minute am revenit cu o frontală și într-adevăr se vedea că mai jos de breșă urmau câțiva centimetri de gol și apoi pământul. Apoi am făcut poze și dacă tot aveam telefonul în mână rapid le-am și povestit unor prieteni ce am pățit. Unul din Baia Sprie chiar s-a oferit să-mi împrumute un mic endoscop conectabil la mobil și mi l-a și adus în scurt timp dar din păcate nu avea lumină destulă să pot vedea ceva. În acest punct încă presupuneam că dădusem de spațiul dintre 2 bolovani, mai ales că e la un metru și ceva de capătul garajului care e săpat la mai mult de 2 metri adâncime în pământ. Garaj care de când îl știu eu avea o mobilă veche de bucătărie în acest capăt mai îngropat așa că eu nu văzusem niciodată acel perete golit. 
 
 
 

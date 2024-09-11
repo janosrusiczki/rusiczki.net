@@ -8,6 +8,8 @@ Cumpărată de la debo.ro, 2011.10.07, poză cu garantia pe Google Photos, actel
 
 2011.11.04 - Placa video ASUS nVidia GeForce GTX560, 1024MB, GDDR5, DVI, HDMI, PCI-E
 
+2013-01-21 (in poze) - placa de baza ASRock E350M1, memorie si carcasa Inter Tech pentru media player. Prima experienta cu mini ITX, foarte placut impresionat.
+
 am făcut NAS din calculatorul vechi - https://www.rusiczki.net/2013/03/10/joaca-de-a-nas-ul/
 
 prin 2013 iar m-a apucat idea de silent si credeam ca cel mai silent pot fi prin racire cu apa

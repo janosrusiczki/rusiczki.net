@@ -23,7 +23,7 @@ GEM
     ffi (1.16.3)
     filesize (0.2.0)
     forwardable-extended (2.6.0)
-    google-protobuf (3.25.2)
+    google-protobuf (3.25.5)
     html-proofer (4.4.3)
       addressable (~> 2.3)
       mercenary (~> 0.3)

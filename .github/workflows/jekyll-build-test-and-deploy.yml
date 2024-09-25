@@ -34,7 +34,7 @@ jobs:
           path: _site
           key: site-sha-${{ github.sha }}
       - name: Deploy with rsync
-        uses: burnett01/rsync-deployments@5.2.1
+        uses: burnett01/rsync-deployments@7.0.1
         with:
           switches: -avzr --delete
           path: _site/

@@ -1,3 +1,13 @@
+---
+layout: post
+title: Narnia din curtea mea
+date: 2024-09-25 18:09:42.000000000 +02:00
+categories:
+- cronică
+image: https://content.rusiczki.net/2024/09/narnia-acces-inchis-1000x750.jpg
+description: Aventura unei descoperiri subterane suprinzătoare
+---
+
 Am mai amintit [într-o însemnare "recentă"](https://www.rusiczki.net/2023/06/05/noul-numar-de-casa/) că meșteresc în jurul casei din Baia Sprie aproximativ orice, mai puțin ceea ce ar fi chiar important de făcut. Anul trecut am reușit să depun cu succes dosarul pentru panouri fotovoltaice și m-am gândit să-mi fac un sistem de irigații pentru gazon cu apă provenită din fântâna din mijlocul curții via un hidrofor alimentat la rândul lui cu energie solară - practic **apă gratis**! De fapt începusem în 2022 cu construcția unui piedestal / coteț pentru hidrofor dar anul trecut mi-am zis că doar nu o să am furtunuri trase prin toată curtea ca un începător... Nu! Eu voi avea totul în *subteran* ca un adevărat profesionist! A rezultat brăzdarea curții cu șanțuri săpate de excavator și construirea unui cămin de apă de beton de 1 metru cub. Ocupație pentru toată vara dacă tot am fost șomer...
 
 Și dacă tot am pus conducte de apă pentru irigații am tras și niște țevi de canalizare pentru ape pluviale, dar a venit iarna peste mine și s-a "terminat" toată lucrarea în mijlocul curții după ce trecusem cu țevăraia pe sub trotuarul care duce de la poartă la intrarea în casă. Anul acesta m-am pus să continui dar m-am gândit că ar fi frumos să îndrept și să betonez o bucată mai mare de teren în fața ușii de la casă să rezulte un soi de terasă unde să-mi pot pune printre altele tomberoanele. Totodată era deja timpul să aranjez burlanul care a fost pus *provizoriu* să se scurgă într-un sifon al canalizării atunci când părinții mei au renovat casa prin 1987. Și așa a rămas mai mult de 35 de ani... Mai aveam și o streașină care arunca apa pur și simplu pe jos, sub aia am construit o rigolă din 3 cămine pluviale alipite. S-au cam complicat treburile și s-a lungit lucrarea peste toată vara, mai ales că am avut timp limitat de lucru.
@@ -8,13 +18,17 @@ Am început așadar să sap să fac loc pentru țeava respectivă cu o lopățic
 
 Prin magia camerei de supraveghere (care era orientată unde trebuie) iată și cele două momente, întâi când îmi merge rotopercutorul ușor în jos:
 
-<video controls><source src="https://content.rusiczki.net/2024/09/narnia-1-rotopercutor-trimmed.mp4" type="video/mp4">Dacă aici nu vedeți un video vizitați-mi blogul. :-)</video>
+<video poster="https://content.rusiczki.net/2024/09/narnia-1-rotopercutor-trimmed-snapshot.jpg" controls><source src="https://content.rusiczki.net/2024/09/narnia-1-rotopercutor-trimmed.mp4" type="video/mp4">Dacă aici nu vedeți un video vizitați-mi blogul. :-)</video>
 
 Și aici momentul cu ranga unde cu toate că sunt cu spatele mi se observă mirarea pe gesturi:
 
-<video controls><source src="https://content.rusiczki.net/2024/09/narnia-2-ranga-trimmed.mp4" type="video/mp4">Dacă aici nu vedeți un video vizitați-mi blogul. :-)</video>
+<video poster="https://content.rusiczki.net/2024/09/narnia-2-ranga-trimmed-snapshot.jpg" controls><source src="https://content.rusiczki.net/2024/09/narnia-2-ranga-trimmed.mp4" type="video/mp4">Dacă aici nu vedeți un video vizitați-mi blogul. :-)</video>
 
-În câteva minute am revenit cu o lanternă frontală și într-adevăr se vedea că mai jos de breșă urmau câțiva centimetri de gol și apoi pământul. Apoi am făcut câteva poze și dacă tot aveam telefonul în mână rapid le-am și povestit unor prieteni ce am pățit. Unul din Baia Sprie s-a oferit să-mi împrumute un mic endoscop pentru telefon și mi l-a adus și rapid, însă, din păcate, nu emitea suficientă lumină pentru a vedea ceva. În acel moment, încă presupuneam că am dat de spațiul dintre doi bolovani, mai ales că eram la aproximativ un metru de capătul garajului, care este săpat la peste doi metri adâncime. Mă gândeam că atunci când au săpat prelungirea garajului în anii '70, probabil au săpat mai departe decât trebuia sau au pus bolovanii mai mari în capăt, iar când le-au acoperit, a rămas o cavitate. De când mă știu, în capătul mai adânc al garajului a fost o mobilă veche de bucătărie, așa că nu am văzut niciodată peretele golit.
+În câteva minute am revenit cu o lanternă frontală și într-adevăr se vedea că mai jos de breșă urmau câțiva centimetri de gol și abia puțin mai jos pământul.
+
+[![Portalul spre Narnia](https://content.rusiczki.net/2024/09/narnia-portal-1000x750.jpg)](https://content.rusiczki.net/2024/09/narnia-portal.jpg){:.glightbox}
+
+Apoi am făcut câteva poze și dacă tot aveam telefonul în mână rapid le-am și povestit unor prieteni ce am pățit. Unul din Baia Sprie s-a oferit să-mi împrumute un mic endoscop pentru telefon și mi l-a adus și rapid, însă, din păcate, nu emitea suficientă lumină pentru a vedea ceva. În acel moment, încă presupuneam că am dat de spațiul dintre doi bolovani, mai ales că eram la aproximativ un metru de capătul garajului, care este săpat la peste doi metri adâncime. Mă gândeam că atunci când au săpat prelungirea garajului în anii '70, probabil au săpat mai departe decât trebuia sau au pus bolovanii mai mari în capăt, iar când le-au acoperit, a rămas o cavitate. De când mă știu, în capătul mai adânc al garajului a fost o mobilă veche de bucătărie, așa că nu am văzut niciodată peretele golit.
 
 Brusc mi-am amintit că am o cameră de filmat 360 și am revenit cu ea a doua zi, plus îmi cumpărasem un bec de lucru de la Dedeman pentru că cel pe care îl aveam moștenit de la tata trecuse prin multe și nu prea mai era utilizabil.Am coborât becul și apoi camera în cavitate. Vizionând filmarea, am realizat că, probabil, descoperisem **o canalizare veche**. Vă las aici un videoclip 360 în care (dacă îl accesați pe YouTube) puteți roti imaginea pentru a vedea despre ce este vorba:
 
@@ -29,4 +43,8 @@ M-am gândit la două lucruri interesante:
 
 Revenind la lucrarea în ansamblu, trebuie să spun că, neavând experiență, fac totul pas cu pas. Nu pot să-mi fac un plan detaliat pe termen lung, deoarece mereu apar lucruri noi care trebuie rezolvate după ce văd o parte terminată. Ajunge să mă gândesc de câte ori am mers seara să pornesc nivela cu laser sau că idea inițială era să betonez tot, până mi-a dat un amic idea cu pavele... Ah și mi-am dat seama că platforma / cotețul pentru hidrofor nu e o idee bună deloc, pentru că înainte de fiecare iarnă va trebuie să-l demontez, să golesc țevile de apă, dar despre asta altădată.
 
-Nu știu ce să scriu ca și concluzie în afară de englezismul: keep digging, you never know what you'll find. 🙂
+Iată cum arată căminul finalizat, accesul spre Narnia fiind după acel sifon:
+
+[![Narnia - Acces închis](https://content.rusiczki.net/2024/09/narnia-acces-inchis-1000x750.jpg)](https://content.rusiczki.net/2024/09/narnia-acces-inchis.jpg){:.glightbox}
+
+Nu știu ce concluzie să scriu în afară de englezismul: keep digging, you never know what you'll find. 🙂

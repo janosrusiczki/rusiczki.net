@@ -54,3 +54,5 @@ Practic un teren de joacă pentru fetișul meu legat de papetărie. 😄
 O altă noutate din ultima perioadă este și albumul pe care îl vedeți în poza ilustrativă. Și de la același domn cu [Postcards Market](https://postcardsmarket.com/) de la cine am cumpărat albumul am luat și cărți poștale fără număr (dacă cumva nu am chef să fabric ale mele).
 
 Din păcate mai nou nu mai e o distracție tocmai ieftină nici asta, dar mă rog, ce mai e? Costă 6 lei 50 de bani trimisul către Europa și 10 lei Par Avion spre restul lumii. Și mai avem situația că noi nu putem trimite corespondență spre Rusia dar ei pot trimite către noi. Ciudat.
+
+**Update în 10 iunie 2024:** Tocmai mi-a sosit o carte poștală expediată din Africa de Sud pe 30 mai 2022! A călătorit doar 2 ani și 11 zile...

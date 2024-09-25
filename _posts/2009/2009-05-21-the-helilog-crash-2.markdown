@@ -3,14 +3,8 @@ layout: post
 title: 'The Helilog - Crash #2'
 date: 2009-05-21 08:41:31.000000000 +02:00
 categories:
-- helicopter
 - rc
 - rc helicopter
-- rc
-- helicopter
-- align t-rex 450se v2
-- align trex
-- align trex 450se v2
 ---
 Whoops I did it again!
 
@@ -26,4 +20,4 @@ So now I'm in the market for a servo. Luckily a friend is ordering himself a T-R
 
 Well, that's the crash report... Hopefully back in the air by next weekend.
 
-<strong>Update:</strong> I found a local guy with three spare Hitec HS65MG's. I'll be picking them up this afternoon. Might be back in the air by the weekend? :)
+**Update:** I found a local guy with three spare Hitec HS65MG's. I'll be picking them up this afternoon. Might be back in the air by the weekend? :)

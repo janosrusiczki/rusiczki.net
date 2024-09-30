@@ -24,7 +24,7 @@ Nope, IDDQD will not work, try:
 
 * MP4 Video:
 
-  `<video controls><source src="https://content.rusiczki.net/2018/09/crosul-lacului-albastru.mp4" type="video/mp4">Dacă aici nu vedeți un video vizitați-mi blogul. :-)</video>`
+  `<video poster="https://content.rusiczki.net/2018/09/crosul-lacului-albastru-snapshot.jpg" controls><source src="https://content.rusiczki.net/2018/09/crosul-lacului-albastru.mp4" type="video/mp4">Dacă aici nu vedeți un video vizitați-mi blogul. :-)</video>`
 * YouTube Video:
   
   `<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/DELZ1EbqZfw?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>`

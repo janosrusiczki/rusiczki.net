@@ -23,12 +23,12 @@ De vreun an am început să mă satur de tot de camera foarte proastă și să 
 
 Acestea ar fi:
 
-* camera foarte bună (știu că am tot menționat camera dar ăsta e motivul principal de upgrade)</li>
-* cititor de amprentă</li>
-* viteză foarte bună, nu vreau să văd nici un soi de sughiț</li>
-* apropo de sughițuri, aici ar trebui să ajute și memoria RAM dublă față de cât am acuma</li>
-* baterie care ține o zi și la utilizare intensă (nu pot să zic același lucru despre Nexus 5 care mă cam lasă în miez de zi dacă trag de el)</li>
-* 64 Gb de stocare, expandabil prin SD card</li>
+* camera foarte bună (știu că am tot menționat camera dar ăsta e motivul principal de upgrade)
+* cititor de amprentă
+* viteză foarte bună, nu vreau să văd nici un soi de sughiț
+* apropo de sughițuri, aici ar trebui să ajute și memoria RAM dublă față de cât am acuma
+* baterie care ține o zi și la utilizare intensă (nu pot să zic același lucru despre Nexus 5 care mă cam lasă în miez de zi dacă trag de el)
+* 64 Gb de stocare, expandabil prin SD card
 
 Sacrificiul pe care a trebuit să-l fac a fost să renunț la experiența stock Android pe care o aveam pe Nexus, dar asta ar fi fost disponibilă doar pe Google Pixel și încă nu sunt pregătit să-mi vând un rinichi pentru un telefon.
 

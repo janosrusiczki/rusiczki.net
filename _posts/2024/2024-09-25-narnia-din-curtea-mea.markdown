@@ -5,7 +5,7 @@ date: 2024-09-25 18:09:42.000000000 +02:00
 categories:
 - cronică
 image: https://content.rusiczki.net/2024/09/narnia-acces-inchis-1000x750.jpg
-description: Aventura unei descoperiri subterane suprinzătoare
+description: Aventura unei descoperiri subterane suprinzătoare.
 ---
 
 Am mai amintit [într-o însemnare "recentă"](https://www.rusiczki.net/2023/06/05/noul-numar-de-casa/) că meșteresc în jurul casei din Baia Sprie aproximativ orice, mai puțin ceea ce ar fi chiar important de făcut. Anul trecut am reușit să depun cu succes dosarul pentru panouri fotovoltaice și m-am gândit să-mi fac un sistem de irigații pentru gazon cu apă provenită din fântâna din mijlocul curții via un hidrofor alimentat la rândul lui cu energie solară - practic **apă gratis**! De fapt începusem în 2022 cu construcția unui piedestal / coteț pentru hidrofor dar anul trecut mi-am zis că doar nu o să am furtunuri trase prin toată curtea ca un începător... Nu! Eu voi avea totul în *subteran* ca un adevărat profesionist! A rezultat brăzdarea curții cu șanțuri săpate de excavator și construirea unui cămin de apă de beton de 1 metru cub. Ocupație pentru toată vara dacă tot am fost șomer...

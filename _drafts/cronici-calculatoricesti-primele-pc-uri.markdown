@@ -13,9 +13,9 @@ Am să încep acest penultim(?) articol din seria celor dedicate amintirilor des
 
 Am avut însă un _noroc enorm_ deoarece la un moment dat mi-a scris [un prieten](https://www.lucianmarin.se) că din cauza GDPR-ului care urma să intre în vigoare se va închide forumul computergames.ro (menționat în continuare și ca CG Forum) ceea ce m-a îndemnat să arunc o privire acolo. Nu mă așteptam la mare lucru dar căutând după postările mele am găsit o tonă de informații despre calculatoarele mele din epoca când eram foarte activ pe acel forum, adică în jurul turnurii de mileniu. Până în acel moment, cea mai bună șansă de a afla configurația primelor două calculatoare de-ale mele o consideram să găsesc pe CD-urile cu arhive scrisorile (în format .txt) trimise la diferiți omuleți cu care corespondam. Dar din păcate am cam eșuat pentru că primul meu CD cu arhive, s-a decojit fix la margine unde era arhiva de scrisori.
 
-De asemenea încercasem acum câțiva ani să mă uit pe hard discurile care mai țineau fișiere din acele vremuri dar am constatat că din păcate au cedat și au început să clicăie. Totuși, pe la începutul lui 2022, făcând ordine prin camera mea din Baia Sprie am găsit niște CD-uri care nu făceau parte din seria mea _oficială_ de CD-uri cu arhive dar am găsit pe unul dintre ele arhiva mailbox-urilor de pe vremea când lucram la Internet Cafe - despre asta [am scris un articol separat](https://www.rusiczki.net/2022/03/15/cum-sa-calatoresti-in-timp-ghid-practic/) - dar și ăsta s-a dovedit a fi un drum înfundat. Din fericire mai târziu, înspre vară, tot în camera din Baia Sprie, într-una dintre cutii am dat de un plic care nu dădea prea multe de bănuit, dar conținea cam toate bonurile, facturile și garanțiile pentru cumpărăturile IT din 2001 până în 2004 (când [m-am mutat din Baia Sprie](https://www.rusiczki.net/2004/05/18/the-new-home/)), mai puțin chestiile pe care le-am vândut, pentru că eram un fixist și ce vindeam dădeam cu totul, cutie, factură, garanție, etc. În schimb facturile din perioada mai 2004 - final de 2007, cât am stat în chirie la bloc, oricât le-am căutat, nu le-am mai găsit - probabil au fost aruncate din pod cu ocazia vreunei curățenii.
+De asemenea încercasem acum câțiva ani să mă uit pe hard discurile care mai țineau fișiere din acele vremuri dar am constatat că din păcate au cedat și au început să clicăie. Totuși, pe la începutul lui 2022, făcând ordine prin camera mea din Baia Sprie am găsit niște CD-uri care nu făceau parte din seria mea _oficială_ de CD-uri cu arhive dar am găsit pe unul dintre ele arhiva mailbox-urilor de pe vremea când lucram la Internet Cafe - despre asta [am scris un articol separat](https://www.rusiczki.net/2022/03/15/cum-sa-calatoresti-in-timp-ghid-practic/) - dar și ăsta s-a dovedit a fi un drum înfundat. Din fericire mai târziu, înspre vară, tot în camera din Baia Sprie, într-una dintre cutii am dat de un plic care nu dădea prea multe de bănuit, dar conținea cam toate bonurile, facturile și garanțiile pentru cumpărăturile IT din 2001 până în 2004 (când [m-am mutat din Baia Sprie](https://www.rusiczki.net/2004/05/18/the-new-home/)), mai puțin chestiile pe care le-am vândut, pentru că eram un fixist și ce vindeam dădeam cu totul, cutie, factură, garanție, etc. În schimb facturile din perioada mai 2004 - final de 2007, cât am stat în chirie la bloc, oricât le-am căutat, nu le-am mai găsit - probabil au fost aruncate din podul din Baia Mare cu ocazia unei curățenii.
 
-A durat extrem de mult redactarea. Cred că am început să scriu articolul în Wordpress prin 2015 sau 2016, apoi când mi-am dat seama că nu va încăpea totul într-un singur articol, le-am împărțit, au urmat niște ani mai grei dar am început să le public în 2021 și am încercat să mă țin de program să public câte un articol din această serie în fiecare an.
+A durat extrem de mult redactarea acestei serii de articole. Cred că am început să scriu în Wordpress prin 2015 sau 2016, apoi când mi-am dat seama că nu va încăpea totul într-un singur articol, le-am împărțit, au urmat niște ani mai grei dar am început să le public în 2021 și am încercat să mă țin de program să public câte un articol din această serie în fiecare an.
 
 Cam atât cu introducerea, să trecem la felul principal:
 
@@ -99,7 +99,7 @@ Am găsit ambalajul plăcii de bază de la această configurație cât și a cel
 
 La cât de multe am avut de scris despre perioada antecedentă, din păcate cam cu această configurație începe perioada despre care nu-mi mai amintesc mare lucru și nu mă ajută prea mult nici blogul unde am avut o mare pauză între [aprilie](https://www.rusiczki.net/2003/04/25/advantages-of-digital-tv/) și [august](https://www.rusiczki.net/2003/08/15/re/) 2003. În principiu perioada de glorie a continuat, stăteam tot cu părinții, prietenii veneau pe la mine, ne mai jucam, ne uitam la filme de pe satelit, mai schimbam muzici...
 
-Am găsit o înseamnare despre [nevoia unui hard disk mai mare](https://www.rusiczki.net/2003/10/23/the-price-of-laziness/). Când nu am avut eu nevoie de hard mai mare? Mai ales în perioada asta când descărcam tot ce puteam de pe net... În orice caz mi-am cumpărat Maxtorul de 80 de giga menționat în articol în 27 octombrie 2003.
+Am găsit o înseamnare despre [nevoia unui hard disk mai mare](https://www.rusiczki.net/2003/10/23/the-price-of-laziness/). Când nu am avut eu nevoie de hard mai mare? Mai ales în perioada asta când descărcam tot ce puteam de pe internet... În orice caz mi-am cumpărat Maxtorul de 80 de giga menționat în articol în 27 octombrie 2003.
 
 ipod nou https://www.rusiczki.net/2004/01/11/a-week-of-packages-part-2-ipod/
 
@@ -178,8 +178,8 @@ Informații de pe facturi și bonuri
 - 20.06.2002 - Modem Extern 56k Ambient 2 - Conseco
 - 24.06.2002 - RDSLink
 - 26.08.2002 - Telefonul cordless GE - Germanos
-- 04.11.2002 - Palit Daytona - SC Creative CD COM SRL
-- 23.05.2003 - EPOX 8RDA, K7 XP2000, 256 RAM, Cooler, PSU 400W - Systek
+- 04.11.2002 - Palit Daytona - SC Creative CD COM SRL / Tibi Geiger
+- 23.05.2003 - EPOX 8RDA, K7 XP2000, 256 RAM, Cooler, PSU 400W - Systek / Remus Kolozsvari
 - 27.10.2003 - HDD Maxtor 80 GB - UltraPro
 - 27.10.2003 - Case Blue - UltraPro
 - 30.10.2003 - 256 RAM - UltraPro

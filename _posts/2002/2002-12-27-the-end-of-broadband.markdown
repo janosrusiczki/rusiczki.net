@@ -27,4 +27,4 @@ Too bad.
 
 **Update (on 10.06.2019 - 16 years later):** According to some photos I found in my archive the snack shop was there during my visits in the spring of 2002, so it probably started sometime in 2001.
 
-**Update (on 8.11.2024 - Almost 22 years later):** I wonder what did I do with that key. Also, I walked past the uni one of these past weeks and I thought about visiting (checking what happened to the space that hosted the cafe going and going around to the back of the building and checking if the door to the cafe is still there) but as there was a guard posted at the gate, I gave up on the idea.
+**Update (on 8.11.2024 - Almost 22 years later):** I wonder what did I do with that key copy? :) Also, I walked past the uni one of these past weeks and I thought about visiting (checking what happened to the space that hosted the cafe and going around to the back of the building and checking if the door to the cafe is still there) but as there was a guard posted at the gate, I gave up on the idea.

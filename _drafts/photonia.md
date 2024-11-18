@@ -29,9 +29,11 @@ Challenges:
 - Searching (Fulltext search in PostgreSQL)
 - The transition to VueJS
 - Logging in through GraphQL
+- I don't remember if there were builds before self hosting it, but in 2021 when I set up hosting things at home I setup up Jenkins as well and the builds were done via Docker. So I set up a Dockerfile and things worked fine. Then I moved the builds to Github actions and the Dockerfile went stale. Recently deploying it started to feel like a pain and I was eyeing Kamal (known as MRSK before) but what kept me back was Docker. But I finally solved that too.
 
 What's next:
 
 - It's still not an MVP, there are many things missing, even essential ones such as managing tags and albums
 - Allow signing up and commenting via email or your favorite social network
 - Try to integrate ActivityPub
+- I'm not very proud it relies so much on AWS, so it can't be selfhosted per se. S3 can be easily replaced, there are so many S3 compatible services, even self hosted one, but Rekognition...

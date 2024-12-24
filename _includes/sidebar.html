@@ -6,7 +6,7 @@
           {{ site.title }}
         </a>
       </h1>
-      <p class="lead">{{ site.description }}</p>
+      <p class="description">{{ site.description }}</p>
     </div>
 
     <nav class="sidebar-nav">
@@ -30,6 +30,6 @@
       {% endfor %}
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p class="copyright">&copy; 2002 - {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>

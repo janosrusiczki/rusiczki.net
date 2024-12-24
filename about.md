@@ -2,17 +2,17 @@
 layout: page
 title: About
 ---
-![János Rusiczki](https://content.rusiczki.net/2009/04/janos-rusiczki-150x150.jpg "János Rusiczki")
+![János Rusiczki](https://content.rusiczki.net/2023/10/janos-rusiczki-1000x750.jpg "János Rusiczki")
 
 Well, hello there and thanks for stopping by!
 
-My name is János Rusiczki and this is my personal space on the Internet, but you probably figured it out already. The guy in the blinding red t-shirt posing in the picture above is me, you caught that right too. So it would be around time to get down to some lesser known facts:
+My name is János Rusiczki and this is my personal space on the Internet, but you probably figured it out already. The guy posing in front of his computer in the photo above is me, you caught that right too. So it would be around time to get down to some lesser known facts:
 
 ## The basics
 
 - **Birthday:** April 17, 1979 ([my exact age](https://www.wolframalpha.com/input/?i=april+17,+1979)).
 - **Location:** [Baia Mare, Romania](http://www.openstreetmap.org/?lat=47.6522&lon=23.5652&zoom=13&layers=M).
-- **Working as:** Right now I'm looking for opportunities. Aka I'm unemployed.
+- **Working as:** Ruby on Rails developer for [Softia](https://softia.ro/).
 
 ## Contact details
 

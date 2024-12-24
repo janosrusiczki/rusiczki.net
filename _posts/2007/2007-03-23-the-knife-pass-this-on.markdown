@@ -6,6 +6,6 @@ categories:
 - web
 - music
 ---
-<object width="400" height="316"><param name="movie" value="http://www.dailymotion.com/swf/7255GGuIBZj8B9LpA"></param><param name="allowfullscreen" value="true"></param><embed src="http://www.dailymotion.com/swf/7255GGuIBZj8B9LpA" type="application/x-shockwave-flash" width="400" height="316" allowfullscreen="true"></embed></object>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/gKhjaGRhIYU?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
 
-If you're a reader of this blog you might have noticed that I'm not the one to post copy-paste videos. But when I happen to stumble upon something this cool I just can't help myself. As a side note: this is the only video in which <a href="http://en.wikipedia.org/wiki/The_Knife">the brother and sister</a> show their faces, Olof being the guy in the blue jacket who starts dancing first and Karin the girl with who stares at the end of the video.
+If you're a reader of this blog you might have noticed that I'm not the one to post copy-paste videos. But when I happen to stumble upon something this cool I just can't help myself. As a side note: this is the only video in which [the brother and sister](http://en.wikipedia.org/wiki/The_Knife) show their faces, Olof being the guy in the blue jacket who starts dancing first and Karin the girl who stares at the end of the video.

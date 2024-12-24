@@ -1,0 +1,3 @@
+- coincidența face ca tot în jurul unei schimbări de baterie să fi făcut upgrade-ul
+- încetinise puțin dar nu îndeajuns să fie supărător
+- android auto doar cu cablu

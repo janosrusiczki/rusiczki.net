@@ -43,3 +43,11 @@ video {
 .archive-post-date {
   color: #9a9a9a;
 }
+
+.sidebar .intro {
+  font-size: 1.05em;
+}
+
+.sidebar .copyright {
+  font-size: 18px;
+}

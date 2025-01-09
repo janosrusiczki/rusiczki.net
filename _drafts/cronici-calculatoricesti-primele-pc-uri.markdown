@@ -51,6 +51,8 @@ Tot la capitolul programare, m-am jucat încercând să scriu o interfață graf
 
 Lecturând revistele acelor vremuri mi-am mai amintit că eram un utilizator convins de [Paint Shop Pro](https://en.wikipedia.org/wiki/PaintShop_Pro) și mă simțeam cumva rebel și diferit față de cei care foloseau [Photoshop](https://en.wikipedia.org/wiki/Adobe_Photoshop).
 
+În timpul primul PC am scris un mic program de gestiune pentru cabinetul particular al mamei unui prieten. L-am scris în FoxPro pentru DOS și am fost oarecum dezamăgit că nu am știut să-l compilez.
+
 ### 2. Upgrade-ul *foarte necesar* și epoca de glorie
 
 În ianuarie 2001 mi-am luat deja din proprii bani cel de-al doilea calculator. Am găsit următoarea configurație: procesor **AMD Duron 800**, placă de bază **Soltek SL-75KV2-X**, **192 MB RAM** (probabil că începusem cu 128 și am pus pus ulterior 64 de mega de undeva), placă video **GEForce2 MX 200** și sursă de 300W. Fără forumul Computer Games nu prea aș fi știut nimic despre configurația asta în afară de procesor.
@@ -135,8 +137,10 @@ Având în vedere că nu stăteam prea bine cu banii, upgrade-ul l-am efectuat �
 
 A rezultat un calculator silențios, în prima mea carcasă mai interesantă și non-bej.
 
+Acest upgrade a fost făcut când eram deja de-a binelea în era Web 2.0 cu ale lui aplicații web și știu că am folosit ceva aplicație de luat notițe în care am trecut toate componentele împreună cu prețul lor.
+
 - hdd western digital caviar se16, 250gb, sata 300 mb/s - 272 ron - http://www.emag.ro/hdd/hdd-western-digital-caviar-se16-250gb-sata-300-mb-s--pWD2500KS
-- asus p5b-e-plus - 604 ron - http://www.pcgarage.ro/placi-de-baza/asus/p5b-e-plus/
+- asus p5b-e-plus - 604 ron - http://www.pcgarage.ro/placi-de-baza/asus/p5b-e-plus/ - https://theretroweb.com/motherboards/s/asus-p5b-plus
 - intel core2 duo e6600 - 1132 ron - http://www.pcgarage.ro/procesoare/intel/core2-duo-e6600-240-ghz-box/
 - asus ati rx1650xt - de la vasi - 120 euro - http://www.emag.ro/placi_video/placa-video-asus-ati-rx1650xt-256mb-ddr3-128biti-pci-e-crossfire--pEAX1650XT-CF2DHT256M
 - corsair twin 2x512mb - de la vasi - 100 euro - 2 x http://www.cel.ro/memorie-corsair-xms-ddrii-667mhz-512mb-pc-5400-l (din ceva motiv aveam și linkul spre emag - kit dual channel corsair twin2X 2x512mb ddr2, 667MHz - 353 ron - http://www.emag.ro/memorii/kit-dual-channel-corsair-twin2x-2x512mb-ddr2-667mhz--pTWIN2X1024-5400C4)
@@ -146,7 +150,9 @@ A rezultat un calculator silențios, în prima mea carcasă mai interesantă și
 
 Era super placa de bază, avea un mod silent care oprea sau reducea mult turația ventilatorului de pe procesor astfel încât abia auzeai că merge calculatorul. Se putea lăsa să meargă peste noapte fără să ne deranjeze prea tare - la acea vreme dormeam în garsonieră cu salteaua pusă pe jos... Atât de plăcut m-a impresionat acest mobo încât am devenit fan ASUS pe viață. Haha. Poate e o ușoară exagerare asta dar după acest moment tot spre ASUS m-am orientat când a venit vorba de plăci de bază și nu numai.
 
-După ce am făcut acest upgrade, am dus la Baia Sprie calculatorul vechi plus monitorul Hansol rămas de la upgrade-ul spre LCD. Nu mai știu de unde am avut un stick wifi cu care prindeam WiFi de la vecini și am avut planuri să lucru de acolo la un mic sistem de content management fără să fiu distras prea tare de tentanțiile internetului. Nu am reușit dar mi-a rămas amintirea.
+După ce am făcut acest upgrade, am dus la Baia Sprie calculatorul vechi plus monitorul Hansol rămas de la upgrade-ul spre LCD. Nu mai știu de unde am avut un stick WiFi cu care prindeam WiFi de la vecini și am avut planuri să lucru de acolo la un mic sistem de content management fără să fiu distras prea tare de tentanțiile internetului. Nu am reușit dar mi-a rămas amintirea.
+
+După următorul upgrade la PC, care s-a întâmplat abia în toamna lui 2011, [am refolosit această placă de bază în NAS](https://www.rusiczki.net/2013/03/10/joaca-de-a-nas-ul/) unde a mai mers bine mersi până în 
 
 În vara lui 2007 am rămas iar fără proiecte și am demarat procesul de angajare la o firmă de software serioasă. Unde am reușit să intru.
 
@@ -164,7 +170,7 @@ La început de 2009 eram la firma de construcții când [au început problemele 
 
 La un moment dat am plecat pentru o zi la Cluj și când m-am întors seara acasă am găsit MacBook-ul defect. Așa că mi-am luat un Mac mini pe la final de 2009, cred.
 
-Din păcate această firmuliță nu a fost prea stabilă însă au încercat să îmi găsească proiecte și să mă plătească până s-a putut. Și s-a putut până în vara lui 2010.
+Din păcate firmuliță la care am lucrat nu a fost prea stabilă însă au încercat să îmi găsească proiecte și să mă plătească până s-a putut. Și s-a putut până în vara lui 2010.
 
 Îmi luasem un KVM să pot comuta între Mac mini și desktop dar din ce în ce mai puțin am făcut, am folosit exclusiv mac-ul. Apoi în toamna lui 2010 iar mi-am căutat de lucru și un fost coleg de la a doua firmă m-a chemat la firma la care lucra atunci, unde am intrat cu scopul glorios de a le rescrie tot sistemul într-un framework PHP nou dar am ajuns să fiu "deportat" în Budapesta să lucru Java pe un proiect mizerabil.
 

@@ -163,4 +163,4 @@ La un moment dat am plecat pentru o zi la Cluj și când m-am întors seara acas
 
 Din păcate firmuliță la care am lucrat nu a fost prea stabilă însă au încercat să îmi găsească proiecte și să mă plătească până s-a putut. Și s-a putut până în vara lui 2010.
 
-Îmi luasem un KVM să pot comuta între Mac mini și desktop dar din ce în ce mai puțin am făcut, am folosit exclusiv mac-ul. Apoi în toamna lui 2010 iar mi-am căutat de lucru și un fost coleg de la a doua firmă m-a chemat la firma la care lucra atunci, unde am intrat cu scopul glorios de a le rescrie tot sistemul într-un framework PHP nou dar am ajuns să fiu "deportat" în Budapesta să lucru Java pe un proiect mizerabil.
+Îmi luasem un KVM să pot comuta între Mac mini și desktop dar am făcut asta din ce în ce mai puțin, am folosit exclusiv Mac-ul. Apoi în toamna lui 2010 iar mi-am căutat de lucru și un fost coleg de la a doua firmă m-a chemat la firma la care lucra atunci, unde am intrat cu scopul glorios de a le rescrie tot sistemul în framework-ul PHP numit Yii nou dar am ajuns să fiu "deportat" în Budapesta să lucru Java pe un proiect mizerabil.

@@ -46,7 +46,7 @@ Reservoir: Innovatek AGB-O-Matic
 
 2015.05.25 - Placa video MSI GeForce GTX 970 OC Gaming 4G TF5 4GB DDR5 256Bit (1834 lei)
 
-2016.04.22 - Scythe Kotetsu
+2016.04.22 - Scythe Kotetsu - afară cu watercooling
 
 ### 7. Tot Intel, pentru gaming
 

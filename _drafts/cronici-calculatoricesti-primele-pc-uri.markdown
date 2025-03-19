@@ -149,7 +149,7 @@ Pe 27 septembrie 2007 s-a concretizat o înțelegere cu Lucian care [mi-a trimis
 
 Înspre finalul lui 2007 m-a înebunit un prieten la cap să mă duc să lucrez la o firmă de construcții și eu am zis că oricum e un boom în domeniu așa că am plecat (cu niște scandal) de la firma de programatori la final de an și am început 2008 în construcții. Pe salar mai mare binențeles. Totodată ne-am mutat de la bloc în casa soacrei mele. Din păcate a lovit criza în scurt timp, dar nu s-a resimțit atât de tare la început. Știu că nu sunt informații despre calculatoare, însă aș vrea să argumentez de ce lipsesc...
 
-Cred că prin 2008 mi-am luat The Orange Box (prima mea achiziție pe Steam) și am avut zile când m-am jucat toată după-masa Team Fortress 2.
+Cred că prin 2008 mi-am luat The Orange Box (prima mea achiziție pe Steam) și am avut zile când m-am jucat toată după-masa Team Fortress 2. Atunci mi-am setat și de atunci a rămas aceași fotografia mea de profil pe Steam - nici nu intenționez să o schimb.
 
 La început de 2009 eram la firma de construcții când [au început problemele cu mama](https://www.rusiczki.net/2009/01/26/a-bitter-update/). Am stat până în octombrie la această firmă, pentru că din acea vară a început să mă curteze o cunoștință de pe Net să mă duc să lucrez remote pentru firma la care era asociat, ceea ce am și făcut din octombrie. Saltul salarial a fost unul mare, aproape s-a dublat, deci era *a no-brainer* cum ar zice englezu'.
 

@@ -4,13 +4,9 @@ published: false
 
 I have finally built a photo gallery for myself! But first, a bit of history...
 
-=== conflict below:
-
 I was always passionate about photography and one of the most important moments of my life was [getting my first digital camera](https://www.rusiczki.net/2012/05/17/aventuri-in-fotografia-digitala/), so almost immediately after I started this blog I wanted my own photo gallery. And checking The Internet Archive reminded me that I actually had a gallery section here on the site and I also have [a 20+ year old post about customizing Gallery](https://www.rusiczki.net/2003/02/19/gallery/). I vaguely remember trying out that piece of software (which we nowadays would call a web app) to upload some of my photos but I also remember it left a lot to be desired, back then I wanted things to integrate with the layout of the blog as tightly as possible and Gallery was not suitable for that, I seem to remember it didn't offer easily modifiable templates, so I gave up pretty fast...
 
-Then I discovered [Flickr](https://www.flickr.com/) which was among the first Web 2.0 sites I started using. It was my first social network where I met and interacted with people I didn't know from before, who were also passionate about their photos and / or photography in general. [I uploaded my first photo at the begining of 2005](https://photos.rusiczki.net/photos/4555559) and used the site very moderately at first because as far as I remember there was a 200 photos limit on the free accounts and the Pro option was unobtainable because PayPal wasn't available in Romania at that time. Then I convinced my French client whom I was working with back then to get me a Pro account, and the real fun started.
-
-Then I discovered [Flickr](https://www.flickr.com/) which was among the first [web 2.0](https://en.wikipedia.org/wiki/Web_2.0) sites I started using. It was my first social network where I met and interacted with people I didn't know from before, who were also passionate about their photos and / or photography in general. [I uploaded my first photo at the begining of 2005](https://photos.rusiczki.net/photos/4555559) and used the site very moderately at first because as far as I remember there was a 200 photos limit on the free accounts and I wasn't able to upgrade to Pro because PayPal wasn't available in Romania at that time. Then I asked my French client whom I was working for back then to get me a Pro account, which he kindly did in December 2006, and _the real fun_ started.
+Then I discovered [Flickr](https://www.flickr.com/) which was among the first [web 2.0](https://en.wikipedia.org/wiki/Web_2.0) sites I started using. It was my first social network where I met and interacted with people I didn't know from before, who were also passionate about their photos and / or photography in general. [I uploaded my first photo at the begining of 2005](https://photos.rusiczki.net/photos/4555559) and used the site very moderately at first because as far as I remember the free accounts were limited to only display your 200 most recent photos and I wasn't able to upgrade to Pro because PayPal wasn't available in Romania at that time. Then I asked my French client whom I was working for back then to get me a Pro account, which he kindly did in December 2006, and _the real fun_ started.
 
 Those were some glory years and although I was still active here on the blog, I was running sort of a photo blog over there. The nice thing about Flickr was its friendly userbase who would find your photos and interact with you and viceversa, you would find their photos and interact with them. There are [tons of mentions of the site around here](https://www.rusiczki.net/search/?janosrusiczki%5Bquery%5D=flickr) and I had a sidebar with my latest photos integrated in both [the first version of the blog](https://content.rusiczki.net/2023/05/weblog-screenshot-2009-01-24.png){:.glightbox} as well as [the one running on Wordpress](https://content.rusiczki.net/2022/12/weblog-screenshot-2009-04-10.png){:.glightbox}.
 
@@ -33,9 +29,11 @@ Challenges:
 - Searching (Fulltext search in PostgreSQL)
 - The transition to VueJS
 - Logging in through GraphQL
+- I don't remember if there were builds before self hosting it, but in 2021 when I set up hosting things at home I setup up Jenkins as well and the builds were done via Docker. So I set up a Dockerfile and things worked fine. Then I moved the builds to Github actions and the Dockerfile went stale. Recently deploying it started to feel like a pain and I was eyeing Kamal (known as MRSK before) but what kept me back was Docker. But I finally solved that too.
 
 What's next:
 
 - It's still not an MVP, there are many things missing, even essential ones such as managing tags and albums
 - Allow signing up and commenting via email or your favorite social network
 - Try to integrate ActivityPub
+- I'm not very proud it relies so much on AWS, so it can't be selfhosted per se. S3 can be easily replaced, there are so many S3 compatible services, even self hosted one, but Rekognition...

@@ -26,7 +26,7 @@ Am terminat [articolul anterior](https://www.rusiczki.net/2022/10/06/cronici-cal
 
 ### 1. Primul, mult așteptatul
 
-Așadar în toamna lui 1998 mi-au cumpărat părinții primul PC cu următoarea configurație: procesor **Pentium** la **233 MHz** cu **MMX** (înainte să accesez forumul computergames.ro eram convins că a fost un Pentium 2 266 MMX), placă de bază **VXPro 2**, **32 MB EDO RAM**, hard disc de 4,3 GB pe care credeam că îmi va lua o eternitate să-l umplu, monitor **LG StudioWorks** de **14"**, placă video **SiS** cu 4 MB memorie video (2 MB din fabrica plus 2 MB upgrade - singurul upgrade pentru care optasem).
+Așadar în toamna lui 1998 mi-au cumpărat părinții primul PC cu următoarea configurație: procesor **Pentium** la **233 MHz** cu **MMX** (înainte să accesez forumul computergames.ro eram convins că a fost un Pentium 2 266 MMX), placă de bază **[VXPro-II](https://theretroweb.com/motherboards/s/pcchips-m558)**, **32 MB EDO RAM**, hard disc de 4,3 GB pe care credeam că îmi va lua o eternitate să-l umplu, monitor **LG StudioWorks** de **14"**, placă video **SiS** cu 4 MB memorie video (2 MB din fabrica plus 2 MB upgrade - singurul upgrade pentru care optasem).
 
 M-au delegat pe mine să cercetez și să decid de unde iese cel mai bine, am ales și mi l-au cumpărat de la Sprint Computers pentru că m-am gândit eu că e mai bine să cumperi cu garanție de la o firmă consacrată decât de la "bișnițari". Greșit! Un prieten, Radu, și-a luat aproximativ deodată cu mine un Pentium 2 "Klamath" la 350 MHz, placă de bază Intel 440BX cu video Intel i740. El nu și l-a luat de la firmă, parcă a fost și mai ieftin decât ce-mi luasem eu și știu că mergeam pe la el și mă minunam că-i mergeau jocurile care aveau nevoie de accelerator grafic, ceea ce eu nu aveam.
 

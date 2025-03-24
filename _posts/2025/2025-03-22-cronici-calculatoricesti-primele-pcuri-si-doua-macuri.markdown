@@ -138,7 +138,7 @@ Acest upgrade a fost făcut când eram deja de-a binelea în era Web 2.0 cu ale 
 
 A rezultat așadar un calculator silențios, în prima mea carcasă mai interesantă și non-bej cu o super placa de bază având un mod silent care oprea sau reducea mult turația ventilatoarelor astfel încât abia auzeai că funcționează PC-ul. Se putea lăsa să meargă peste noapte fără să ne deranjeze prea tare - la acea vreme dormeam în garsonieră cu salteaua pusă pe jos... Atât de plăcut m-a impresionat acest mainboard încât am devenit fan ASUS pe viață. Haha. Poate că e o ușoară exagerare asta dar după acest moment tot spre ASUS m-am orientat când a venit vorba de plăci de bază și nu numai.
 
-După ce am făcut acest upgrade, am dus la Baia Sprie calculatorul vechi plus monitorul Hansol rămas de la upgrade-ul spre LCD. Nu mai știu de unde am avut un stick WiFi cu care prindeam WiFi de la vecini și am avut planuri să lucru de acolo la un mic sistem de content management fără să fiu distras prea tare de tentanțiile internetului. Nu am reușit dar mi-a rămas amintirea.
+După ce am făcut acest upgrade, am dus la Baia Sprie calculatorul vechi plus monitorul Hansol rămas de la upgrade-ul spre LCD. Nu mai știu de unde am avut un stick WiFi cu care mă puteam conecta la rețeaua vecinilor și am avut planuri să lucru de acolo la un mic sistem de content management fără să fiu distras prea tare de tentanțiile internetului. Nu am reușit dar am rămas cu amintirea.
 
 După următorul upgrade la PC, care s-a întâmplat abia în toamna lui 2011, [am refolosit această placă de bază în NAS](https://www.rusiczki.net/2013/03/10/joaca-de-a-nas-ul/) unde a mai mers bine mersi până prin 2016 dacă bine-mi amintesc.
 
@@ -146,18 +146,18 @@ După următorul upgrade la PC, care s-a întâmplat abia în toamna lui 2011, [
 
 ### 6. Mac-uri
 
-Pe 27 septembrie 2007 s-a concretizat o înțelegere cu Lucian care [mi-a trimis MacBook-ul](https://www.rusiczki.net/2007/10/04/time-for-a-switch/) lui care stătea de o vreme. Eu i-am trimis la schimb un PlayStation Portable (pe care îl primisem de la clientul meu francez pe vremea când încă lucram la a doua firmă, cel mai probabil în vara lui 2006) și restul a fost pe datorie căci am lucrat dupămesele la câteva proiecte furnizate de el tocmai de pe Mac.
+Pe 27 septembrie 2007 s-a concretizat o înțelegere cu [Lucian](https://www.lucianmarin.se) care [mi-a trimis MacBook-ul](https://www.rusiczki.net/2007/10/04/time-for-a-switch/) lui care stătea de o vreme nefolosit. Eu i-am trimis la schimb un PlayStation Portable (pe care îl primisem de la clientul meu francez pe vremea când încă lucram la a doua firmă, cel mai probabil prin vara lui 2006) și restul a fost pe datorie căci am lucrat dupămesele la câteva proiecte furnizate de el tocmai de pe Mac.
 
 Înspre finalul lui 2007 m-a înebunit un prieten la cap să mă duc să lucrez la o firmă de construcții și eu am zis că oricum e un boom în domeniu așa că am plecat (cu niște scandal) de la firma de programatori la final de an și am început 2008 în construcții. Pe salar mai mare binențeles. Totodată ne-am mutat de la bloc în casa soacrei mele. Din păcate a lovit criza în scurt timp, dar nu s-a resimțit atât de tare la început. Știu că nu sunt informații despre calculatoare, însă aș vrea să argumentez de ce lipsesc...
 
-Cred că prin 2008 mi-am luat The Orange Box (prima mea achiziție pe Steam) și am avut zile când m-am jucat toată după-masa Team Fortress 2. Atunci mi-am setat și de atunci a rămas aceași fotografia mea de profil pe Steam - nici nu intenționez să o schimb.
+Cred că prin 2008 mi-am luat The Orange Box (prima mea achiziție pe Steam) și am avut zile când m-am jucat toată după-masa Team Fortress 2. Atunci mi-am setat și de atunci a rămas aceași [fotografia mea de profil pe Steam](https://steamcommunity.com/id/kitsched/) - nici nu intenționez să o schimb vreodată.
 
 La început de 2009 eram la firma de construcții când [au început problemele cu mama](https://www.rusiczki.net/2009/01/26/a-bitter-update/). Am stat până în octombrie la această firmă, pentru că din acea vară a început să mă curteze o cunoștință de pe Net să mă duc să lucrez remote pentru firma la care era asociat, ceea ce am și făcut din octombrie. Saltul salarial a fost unul mare, aproape s-a dublat, deci era *a no-brainer* cum ar zice englezu'.
 
 În vara lui 2009 [ne-am luat biciclete](https://photos.rusiczki.net/photos/3629058541) și am ajuns să stau și mai puțin în fața calculatorului.
 
-La un moment dat am plecat pentru o zi la Cluj și când ne-am întors seara acasă am găsit MacBook-ul defect. Așa că mi-am luat un Mac mini pe la final de 2009, cred.
+La un moment dat în toamna lui 2009 am plecat pentru o zi la Cluj și când ne-am întors seara acasă mi-am găsit MacBook-ul defect. Așa că mi-am luat un Mac mini pe la final de 2009, cred.
 
 Din păcate firmuliță la care am lucrat nu a fost prea stabilă însă au încercat să îmi găsească proiecte și să mă plătească până s-a putut. Și s-a putut până în vara lui 2010.
 
-Îmi luasem un KVM să pot comuta între Mac mini și desktop dar am făcut asta din ce în ce mai puțin, am folosit exclusiv Mac-ul. Apoi în toamna lui 2010 iar mi-am căutat de lucru și un fost coleg de la a doua firmă m-a chemat la firma la care lucra atunci, unde am intrat cu scopul glorios de a le rescrie tot sistemul în framework-ul PHP numit [Yii](https://www.yiiframework.com). Însă am ajuns să fiu "deportat" în Budapesta să lucru Java pe un proiect mizerabil.
+Îmi luasem un KVM să pot comuta între Mac mini și desktop dar am făcut asta din ce în ce mai puțin, am folosit exclusiv Mac-ul. Apoi în toamna lui 2010 iar mi-am căutat de lucru și un fost coleg de la a doua firmă m-a chemat la firma la care lucra atunci, unde am intrat cu scopul glorios de a le rescrie tot sistemul în framework-ul PHP numit [Yii](https://www.yiiframework.com). Însă am ajuns să fiu "deportat" în Budapesta să lucru Java pe un proiect mizerabil. Cred că cu o săptămână înainte de această angajare [mi-am luat primul smartphone](https://www.rusiczki.net/2017/04/09/generatia-a-patra/).

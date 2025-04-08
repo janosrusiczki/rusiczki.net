@@ -6,7 +6,8 @@ categories:
 - cronică
 - tehnic
 - cronici calculatoricești
-description: Despre perioada care a început cu primul meu PC și a durat până la Mac mini.
+image: https://content.rusiczki.net/2025/03/trei-generatii-de-pc-uri-1000x750.jpg
+description: Despre perioada care a început cu primul meu PC și a durat până la Mac mini (1998 - 2010).
 ---
 **--- Acest articol este în construcție și va mai fi o vreme dar am simțit că dacă nu îl public așa cum e, risc să nu îl mai public niciodată. ---**
 

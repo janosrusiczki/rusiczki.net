@@ -115,7 +115,7 @@ Se pare că începutul lui 2004 a fost caracterizat de spart banii pe gadget-uri
 
 În 1 aprilie 2004 [am făcut upgrade](https://www.rusiczki.net/2004/04/01/brief/) de la inscriptorul de CD-uri la unul de DVD-uri, și anume un [TEAC DVW58G](https://www.cnet.com/products/teac-dv-w58g-dvdrw-drive-ide-internal/). Am așa un sentiment că am avut 2 inscriptoare de DVD pe parcursul timpului dar nu mai știu când l-am luat pe al doilea. Sau o fi fost 2 inscriptoare de CD!?
 
-### 4. O schimbare de placă de bază
+### 4. O schimbare de placă de bază și mutarea
 
 În 23 aprilie 2004 cu ocazia construirii unui calculator pentru Ioana am făcut o schimbare de placă de bază spre un **Epox EP-8RDA3I**. Restul configurației a rămas la fel. Această rocadă a fost una dintre excepțiile când [am documentat aici pe blog o schimbare de hardware](https://www.rusiczki.net/2004/04/23/re-building-a-computer/). Placa de bază am găsit-o recent în pod cu 768 de mega de RAM instalați. 512 inițiali și apoi am adăugat 256 de mega în 30 octombrie 2003 conform chitanței găsite.
 

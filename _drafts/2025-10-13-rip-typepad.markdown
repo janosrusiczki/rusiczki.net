@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RIP Typepad
-date: 2025-10-13 12:27:00 +02:00
+date: 2025-10-13 13:51:00 +02:00
 categories:
 - blog history
 description: S-a dus Typepad și amintiri despre resurseweb.net

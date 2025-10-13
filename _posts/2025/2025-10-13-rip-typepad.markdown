@@ -24,6 +24,6 @@ Vorbind de istoria blogului, [am mai scris în 2018](https://www.rusiczki.net/20
 
 ![Redactând pe iPad](https://content.rusiczki.net/2025/10/workflow-2025-1000x750.jpg)
 
-Cam așa am redactat ieri ciorna acestui articol, stând la biroul din camera Annei printre căluții ei de jucărie mult iubiți, folosind iPad Air-ul meu M2 de 13" și o tastatură Logitech MX Keys Mac. Aplicația este [Joplin](https://joplinapp.org/) și se sincronizează via un server cu alte instanțe de-ale lui rulând pe diferite sisteme, astfel azi am continuat și finisat scrierea pe laptop în [Typora](https://typora.io/). Ah, și se mai observă că mai nou (cam de 3 ani) am nevoie de ochelari pentru a vedea lucrurile de aproape.
+Cam așa am redactat ieri ciorna acestui articol, stând la biroul din camera Annei printre căluții ei de jucărie mult iubiți, folosind iPad Air-ul meu M2 de 13" și o tastatură Logitech MX Keys Mac. Aplicația este [Joplin](https://joplinapp.org/) și se sincronizează cu alte instanțe de-ale lui rulând pe diferite sisteme, astfel că azi am continuat și finisat scrierea pe laptop în [Typora](https://typora.io/). Ah, și se mai observă că mai nou (cam de 3 ani) am nevoie de ochelari pentru a vedea lucrurile de aproape.
 
 PS. Am adăugat și niște funcționalitate care să înlesnească navigarea, și anume: pe pagina unui articol (postări), sub titlu acestuia, luna, ziua și anul din dată au devenit link-uri *aproape invizibile* care duc la respectivele pagini de arhivă.

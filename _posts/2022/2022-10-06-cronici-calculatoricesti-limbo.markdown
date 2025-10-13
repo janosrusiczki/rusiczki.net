@@ -58,3 +58,7 @@ PC-X a fost ultima dintre revistele descoperite înainte să primesc propriul me
 În vacanța dintre liceu și facultate (vara lui 1998) am mers pe la un amic din Baia Sprie care avea un 286 și m-am jucat mult Civilization acolo. Știu că au fost cumva melancolice acele vizite, mai mult mă duceam să mai povestesc și să socializez, 286-le fiind deja super depășit la acea vreme.
 
 La facultate am încercat în Cluj-Napoca la Universitatea Tehnică dar nu am intrat, cu aceași notă aș fi intrat la Babeș Bolyai... Am intrat însă la Baia Mare și încă cu bursă!
+
+[Către partea a treia.](https://www.rusiczki.net/2025/03/22/cronici-calculatoricesti-primele-pcuri-si-doua-macuri/)
+
+Update pe 18 august 2025: Mi-am amintit cât am fost de fascinat când am aflat și apoi constatat că tastatura PC-ului are buffer, sau cum s-o fi numind efectul că dacă tastai în timp ce calculatorul era ocupat cu ceva ceea ce ai tastat apărea după ce reapărea promptul sau se mai elibera procesorul.

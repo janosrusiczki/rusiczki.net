@@ -1,4 +1,4 @@
-August 16, 2011 - Marea pauza Mac. Pe reddit am o postare: Today I started up my PC which I haven't used since last year and look what I found in Chrome - era vorba de notificarea de Google Wave.
+Marea pauza Mac. Pe Reddit am o postare datată 16 august, 2011: Today I started up my PC which I haven't used since last year and look what I found in Chrome. Era vorba de notificarea de Google Wave.
 
 ### 6. Revenirea din pauza de Mac
 
@@ -8,11 +8,13 @@ Cumpărată de la debo.ro, 2011.10.07, poză cu garantia pe Google Photos, actel
 
 2011.11.04 - Placa video ASUS nVidia GeForce GTX560, 1024MB, GDDR5, DVI, HDMI, PCI-E
 
+=== !? 2012 !? ===
+
 2013-01-21 (in poze) - placa de baza ASRock E350M1, memorie si carcasa Inter Tech pentru media player. Prima experienta cu mini ITX, foarte placut impresionat.
 
-am făcut NAS din calculatorul vechi - https://www.rusiczki.net/2013/03/10/joaca-de-a-nas-ul/
+2013-03-10 - Am făcut NAS din calculatorul vechi - https://www.rusiczki.net/2013/03/10/joaca-de-a-nas-ul/
 
-prin 2013 iar m-a apucat idea de silent si credeam ca cel mai silent pot fi prin racire cu apa
+prin 2013 iar m-a apucat idea de silent și credeam că cel mai silent pot fi prin răcire cu apă. Cu prima versiune am dat-o în bară, pompa era zgomotoasă rău.
 
 2013.02.15 - Carcasa Nanoxia Deep Silence 1 (Neagra)
 
@@ -35,30 +37,26 @@ Case: Nanoxia Deep Silence 1
 Watercooling
 
 Radiator: Alphacool NexXxoS XT45 Full Copper 240mm
-Radiator fans: 2 x Noiseblocker NB-eLoop B12-2 Bionic
+Radiator fans: 2 x Noiseblocker NB-eLoop B12-2 Bionic - Ventilatoarele astea... OMG.
 CPU block: Alphacool NexXxoS XP³ Light - Acetal Edition
 GPU block: Alphacool NexXxoS NVXP Nvidia GTX760
 GPU cover: Alphacool NexXxoS NVXP Nvidia Backplate GTX760
 Pump: Aquacomputer Aquastream XT Ultra Version
 Reservoir: Innovatek AGB-O-Matic
 
-2014.09.17 (comanda) Carcasă NZXT H440
+2014.09.17 (comandă) Carcasă NZXT H440
 
 2015.05.25 - Placa video MSI GeForce GTX 970 OC Gaming 4G TF5 4GB DDR5 256Bit (1834 lei)
 
-2016.04.22 - Scythe Kotetsu - afară cu watercooling
+2016.04.22 - Scythe Kotetsu - Afară cu watercooling
 
-### 7. Tot Intel, pentru gaming
+### 7. Tot Intel dar pentru gaming
 
 26 octombrie 2017 - Intel i7 7700k
 
 2017.10.28 - montaj - poze pe Google Photos
 
-Din 2017 tot duceam la Baia Sprie laptop-ul să plătesc facturile prin Internet până m-am enervat și am luat o placă de bază de putere laptop low end.
-
-Am inviat media player-ul in 2017.02.23 dar s-a dovedit a nu fi de ajuns
-
-Poze din 2017.05.09 am cumparat mobo nou. În 2017.05.18 era instalat la Baia Sprie pe primul LCD.
+Din 2017 tot duceam la Baia Sprie laptop-ul să plătesc facturile mamei mele prin Internet până m-am enervat și am luat o placă de bază de putere laptop low end. De fapt înainte să fac asta am încercat să înviu media player-ul in 2017.02.23 dar s-a dovedit a nu fi de ajuns. Poze din 2017.05.09 am cumparat mobo nou. În 2017.05.18 era instalat la Baia Sprie pe primul LCD.
 
 ### 8. După 23 de ani, primul laptop cu Windows
 

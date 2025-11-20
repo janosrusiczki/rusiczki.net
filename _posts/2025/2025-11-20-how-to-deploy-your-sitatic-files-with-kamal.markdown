@@ -112,7 +112,7 @@ This assumes that the sites reside on the host machine in the /var/www directory
 REGISTRY_PASSWORD=$REGISTRY_PASSWORD
 ```
 
-This way the (Docker) registry password can be defined by the environment.
+This way the (Docker) registry password can be defined by the environment of the machine from which you'll be issuing your `kamal deploy` commands.
 
 Make sure the DNS records already point to the new IP when running `kamal deploy` otherwise it won't be able to request SSL certificates for your virtual hosts.
 

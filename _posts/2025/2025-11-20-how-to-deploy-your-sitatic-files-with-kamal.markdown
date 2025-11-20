@@ -8,9 +8,9 @@ categories:
 description: A short write-up about how I'm deploying my static sites with Kamal.
 ---
 
-A while ago I switched [my photo app](https://photos.rusiczki.net)'s deployment process to [Kamal](https://kamal-deploy.org/). This was long needed because I started struggling with concurrent Ruby versions and [Passenger](https://www.phusionpassenger.com/) on my previous VPS and, *come on!*, almost everyone was doing containerized deploys for a long time now. However, I was not able to convince myself to learn [Kubernetes](https://kubernetes.io/), not even its [minikube](https://minikube.sigs.k8s.io/docs/) variant so I was very glad when I learned about Kamal. The switchover went smoothly, my problems were solved and I am happily deploying [Photonia](https://github.com/photonia-io/photonia) since then to a brand new [Hetzner](https://www.hetzner.com/) VPS which I started renting from that point in time onwards.
+A while ago I switched [my photo app](https://photos.rusiczki.net)'s deployment process to [Kamal](https://kamal-deploy.org/). This was long needed because I started struggling with concurrent Ruby versions and [Passenger](https://www.phusionpassenger.com/) on my previous VPS and, *come on!*, almost everyone was doing containerized deploys for a long time now. However, I was not able to convince myself to learn [Kubernetes](https://kubernetes.io/), not even its [minikube](https://minikube.sigs.k8s.io/docs/) variant so I was very glad when I learned about Kamal. The switchover went smoothly, my problems were solved, and I’ve been happily deploying [Photonia](https://github.com/photonia-io/photonia) to a brand-new [Hetzner](https://www.hetzner.com/) VPS ever since.
 
-However, the rest of my mostly static sites stayed on the old [Scaleway](https://www.scaleway.com/en/) VPS which sat very under used and for which I was billed monthly. That is up until now, when I figured out how to also deploy these sites with Kamal. And this here article will be documenting the process.
+However, the rest of my mostly static sites stayed on the old [Scaleway](https://www.scaleway.com/en/) VPS, which remained largely underused while I continued to be billed for it each month. That is until now, when I finally figured out how to deploy these sites with Kamal as well. This article documents the process.”
 
 My requirements were:
 
@@ -19,7 +19,9 @@ My requirements were:
 - automatic management of Let's Encrypt certificates - ain't nobody got time to manage those manually
 - the configuration should all be in once place
 
-My pick for a web server was [nginx](https://hub.docker.com/_/nginx), more precisely the **nginx:alpine** Docker variant which builds into a ~20 megabyte image - nobody will complain that my images take up a lot of space, even when using the free tier of container registries. One snag I hit was that Kamal's proxy needs each site to have an `/up` path (configurable) which will be used for health checks. Of course that since we're talking about static sites the interval can be increased a lot from the 1 second default. But this path has to be present in each `server { ... }` block, so I came up with an nginx configuration snippet (*health-check.conf*) to be reused:
+My web server of choice was [nginx](https://hub.docker.com/_/nginx), specifically the **nginx:alpine** Docker variant, which produces an image of around 20 MB. Nobody can complain about storage with something that tiny, even on free container registry tiers.
+
+One snag I ran into was that Kamal’s proxy requires each site to expose an `/up` endpoint (which is configurable) for health checks. Since these are static sites, we can safely increase the check interval from the default one second to something like 10 minutes. The only catch is that this endpoint needs to exist in every nginx `server { ... }` block. To somewhat avoid repetition, I put together a small nginx configuration snippet (*health-check.conf*) that I can reuse across sites:
 
 ```
 location /up {

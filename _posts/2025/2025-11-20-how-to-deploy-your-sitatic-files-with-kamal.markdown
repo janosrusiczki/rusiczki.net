@@ -10,7 +10,7 @@ description: A short write-up about how I'm deploying my static sites with Kamal
 
 A while ago I switched [my photo app](https://photos.rusiczki.net)'s deployment process to [Kamal](https://kamal-deploy.org/). This was long needed because I started struggling with concurrent Ruby versions and [Passenger](https://www.phusionpassenger.com/) on my previous VPS and, *come on!*, almost everyone was doing containerized deploys for a long time now. However, I was not able to convince myself to learn [Kubernetes](https://kubernetes.io/), not even its [minikube](https://minikube.sigs.k8s.io/docs/) variant so I was very glad when I learned about Kamal. The switchover went smoothly, my problems were solved and I am happily deploying [Photonia](https://github.com/photonia-io/photonia) since then to a brand new [Hetzner](https://www.hetzner.com/) VPS which I started renting from that point in time onwards.
 
-However, the rest of my mostly static sites stayed on the old [Scaleway](https://www.scaleway.com/en/) VPS which sat very under used and for which I was paying monthly. That is up until now, when I figured out how to also deploy these sites with Kamal. And this here article will be documenting the process.
+However, the rest of my mostly static sites stayed on the old [Scaleway](https://www.scaleway.com/en/) VPS which sat very under used and for which I was billed monthly. That is up until now, when I figured out how to also deploy these sites with Kamal. And this here article will be documenting the process.
 
 My requirements were:
 

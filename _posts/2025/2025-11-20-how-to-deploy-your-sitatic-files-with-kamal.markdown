@@ -16,8 +16,8 @@ My requirements were:
 
 - many small domains and subdomains (virtual hosts) served by the same container
 - a "passthrough" solution, as some of these hosts are serving files which can total in the gigabytes
-- automatic management of Let's Encrypt certificates - ain't nobody got time for those
-- the configuration should be all in once place
+- automatic management of Let's Encrypt certificates - ain't nobody got time to manage those manually
+- the configuration should all be in once place
 
 My pick for a web server was [nginx](https://hub.docker.com/_/nginx), more precisely the nginx:alpine Docker variant which builds into a ~20 megabyte image - nobody will complain that my images take up a lot of space, even when using the free tier of container registries. One snag I hit was that Kamal's proxy needs each site to have an `/up` path (configurable) which will be used for health checks. Of course that since we're talking about static sites the interval can be increased a lot from the 1 second default. But this path has to be present in each `server { ... }` block, so I came up with an nginx configuration snippet (health-check.conf) to be reused:
 

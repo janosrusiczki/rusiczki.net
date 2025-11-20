@@ -15,7 +15,7 @@ However, the rest of my mostly static sites stayed on the old [Scaleway](https:/
 My requirements were:
 
 - many small domains and subdomains (virtual hosts) served by the same container
-- a "passthrough" solution, as some of these hosts are serving files which can total some gigabytes
+- a "passthrough" solution, as some of these hosts are serving files which can total in the gigabytes
 - automatic management of Let's Encrypt certificates - ain't nobody got time for those
 - the configuration should be all in once place
 

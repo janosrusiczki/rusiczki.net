@@ -114,6 +114,6 @@ REGISTRY_PASSWORD=$REGISTRY_PASSWORD
 
 This way the (Docker) registry password can be defined by the environment.
 
-Make sure the DNS records already point to the new IP when running `kamal deploy` otherwise it won't be able to request a Let's Encrypt certificates for your virtual hosts.
+Make sure the DNS records already point to the new IP when running `kamal deploy` otherwise it won't be able to request SSL certificates for your virtual hosts.
 
 Tip: If you want to have a default site, make its filename something like vhosts/00-default.conf - it is important to be the first one it loads. Then you can define sites in the config/deploy.yml file alone (without the associated vhost file) and their contents will be whatever is defined in 00-default.conf.

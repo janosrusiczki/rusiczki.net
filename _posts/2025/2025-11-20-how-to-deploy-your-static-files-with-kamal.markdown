@@ -12,6 +12,8 @@ A while ago I switched [my photo app](https://photos.rusiczki.net)'s deployment 
 
 However, the rest of my mostly static sites stayed on the old [Scaleway](https://www.scaleway.com/en/) VPS, which remained largely underused while I continued to be billed for it each month. That is until now, when I finally figured out how to deploy these sites with Kamal as well. This article documents the process.
 
+**Note before going further**: In this setup, "deployment" refers to managing the Nginx server and its configuration using Kamal and Docker. The actual website files remain on the host system and are served via mounted volumes, so updates to site content do not require rebuilding or redeploying the container.
+
 My requirements were:
 
 - many small domains and subdomains (virtual hosts) served by the same container;
@@ -19,9 +21,9 @@ My requirements were:
 - automatic management of Let's Encrypt certificates - ain't nobody got time to manage those manually;
 - the configuration should all be in once place.
 
-My web server of choice was [nginx](https://hub.docker.com/_/nginx), specifically the **nginx:alpine** Docker variant, which produces an image of around 20 MB. Nobody can complain about storage with something that tiny, even on free container registry tiers.
+My web server of choice was [Nginx](https://hub.docker.com/_/nginx), specifically the **nginx:alpine** Docker variant, which produces an image of around 20 MB. Nobody can complain about storage with something that tiny, even on free container registry tiers.
 
-One snag I ran into was that Kamal’s proxy requires each site to expose an `/up` endpoint (which is configurable) for health checks. Since these are static sites, we can safely increase the check interval from the default one second to something like 10 minutes. The only catch is that this endpoint needs to exist in every nginx `server { ... }` block. To somewhat avoid repetition, I put together a small nginx configuration snippet (*health-check.conf*) that I can reuse across sites:
+One snag I ran into was that Kamal’s proxy requires each site to expose an `/up` endpoint (which is configurable) for health checks. Since these are static sites, we can safely increase the check interval from the default one second to something like 10 minutes. The only catch is that this endpoint needs to exist in every Nginx `server { ... }` block. To somewhat avoid repetition, I put together a small configuration snippet (*health-check.conf*) that I can reuse across sites:
 
 ```
 location /up {

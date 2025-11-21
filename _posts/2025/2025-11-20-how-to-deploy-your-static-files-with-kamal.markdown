@@ -12,7 +12,7 @@ A while ago I switched [my photo app](https://photos.rusiczki.net)'s deployment 
 
 However, the rest of my mostly static sites stayed on the old [Scaleway](https://www.scaleway.com/en/) VPS, which remained largely underused while I continued to be billed for it each month. That is until now, when I finally figured out how to deploy these sites with Kamal as well. This article documents the process.
 
-**Note before going further**: In this setup, "deployment" refers to managing the Nginx server and its configuration using Kamal and Docker. The actual website files remain on the host system and are served via mounted volumes, so updates to site content do not require rebuilding or redeploying the container.
+**Note before going further**: In this setup, "deployment" refers to managing the Nginx server and its configuration using Kamal and Docker. The actual website files remain on the host system and are served via mounted volumes, so updates to site content do not require rebuilding or redeploying the container. See [Matthew Roach's article](https://www.matthewroach.me/static-sites-with-kamal/) if you want to serve the files from the container and for a much better introduction than mine.
 
 My requirements were:
 
@@ -118,6 +118,6 @@ REGISTRY_PASSWORD=$REGISTRY_PASSWORD
 
 This way the (Docker) registry password can be defined by the environment of the machine from which you'll be issuing your `kamal deploy` commands.
 
-Make sure the DNS records already point to the new IP when running `kamal deploy` otherwise it won't be able to request SSL certificates for your virtual hosts.
+Make sure the DNS records already point to the new IP when running the above command otherwise it won't be able to request SSL certificates for your virtual hosts.
 
 Tip: If you want to have a default site, make its filename something like *vhosts/00-default.conf* - it is important to be the first one it loads. Then you can define sites in the *config/deploy.yml* file alone (without the associated vhosts file) and their contents will be whatever is defined in *00-default.conf*.

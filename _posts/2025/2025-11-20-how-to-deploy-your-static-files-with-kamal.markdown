@@ -14,10 +14,10 @@ However, the rest of my mostly static sites stayed on the old [Scaleway](https:/
 
 My requirements were:
 
-- many small domains and subdomains (virtual hosts) served by the same container
-- a "passthrough" solution, as some of these hosts are serving files which can total in the gigabytes
-- automatic management of Let's Encrypt certificates - ain't nobody got time to manage those manually
-- the configuration should all be in once place
+- many small domains and subdomains (virtual hosts) served by the same container;
+- a "passthrough" solution, as some of these hosts are serving files which can total in the gigabytes and I don't want to have them in the image;
+- automatic management of Let's Encrypt certificates - ain't nobody got time to manage those manually;
+- the configuration should all be in once place.
 
 My web server of choice was [nginx](https://hub.docker.com/_/nginx), specifically the **nginx:alpine** Docker variant, which produces an image of around 20 MB. Nobody can complain about storage with something that tiny, even on free container registry tiers.
 

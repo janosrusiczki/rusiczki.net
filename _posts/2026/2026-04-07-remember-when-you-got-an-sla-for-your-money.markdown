@@ -23,11 +23,7 @@ And here's the kicker: paying customers don't even get an SLA. Claude Pro is $20
 
 We used to have SLAs that meant something. Now we have status pages that perform optimism, billing systems that never sleep, and terms of service that promise you nothing. The old world was at least honest enough to admit when it had blown up and pay you back for the trouble. The new one keeps the green lights on, charges your card, and hopes you won't notice the smoke.
 
----
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;. Yes, the very same. It went down once while we were writing this, which felt fitting. I will not be receiving a refund.
-
----
+**Co-Authored-By**: Claude &lt;noreply@anthropic.com&gt; - Yep, the very same. It went down once while we were writing this, which felt fitting. I will not be receiving a refund.
 
 P.S. After I was done writing this, I asked Claude to search for details about the incident, thinking it had been forgotten in time. It actually came up with quite a lot.
 

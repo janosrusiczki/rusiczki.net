@@ -4,6 +4,7 @@ title: Hey, look what I stepped on!
 date: 2005-03-28 13:42:13.000000000 +02:00
 categories:
 - fun
+- english
 ---
 <img alt="Whoops! I stepped on Maggi!" src="https://content.rusiczki.net/blogpics/whoops_i_stepped_on_maggi.jpg" width="490" height="367" class="image" />
 

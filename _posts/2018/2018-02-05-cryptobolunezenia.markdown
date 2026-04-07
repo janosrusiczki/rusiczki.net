@@ -5,6 +5,7 @@ date: 2018-02-05 15:05:00.000000000 +02:00
 categories:
 - cronică
 - technical
+- română
 image: https://content.rusiczki.net/2018/02/cryptobolunzenia.jpg
 description: Îmi dau cu părerea despre criptomonede.
 ---

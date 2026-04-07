@@ -4,6 +4,7 @@ title: Technically frustrated
 date: 2006-01-19 14:18:09.000000000 +01:00
 categories:
 - technical
+- english
 ---
 Well, I decided which LCD to buy: the <a href="http://www.emag.ro/monitoare_lcd/samsung_913n_19_--p913N">Samsung 913N</a>.
 

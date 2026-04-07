@@ -6,6 +6,7 @@ categories:
 - web
 - technical
 - fun
+- english
 ---
 <img src="https://content.rusiczki.net/blogpics/future-spam.gif" width="493" height="331" class="image" alt="Screenshot of my Yahoo! Mail Bulk folder" />
 

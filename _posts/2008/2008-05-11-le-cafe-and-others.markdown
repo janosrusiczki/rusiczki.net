@@ -5,6 +5,7 @@ date: 2008-05-11 11:09:31.000000000 +02:00
 categories:
 - fun
 - video
+- english
 ---
 <object width="500" height="305"><param name="movie" value="http://www.dailymotion.com/swf/x2wfqp&v3=1&related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x2wfqp&v3=1&related=1" type="application/x-shockwave-flash" width="500" height="305" allowFullScreen="true" allowScriptAccess="always"></embed></object>
 

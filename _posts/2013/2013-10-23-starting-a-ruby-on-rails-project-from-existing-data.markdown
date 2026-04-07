@@ -5,6 +5,7 @@ date: 2013-10-23 12:10:45.000000000 +02:00
 categories:
 - technical
 - ruby on rails
+- english
 ---
 Ideally when you are starting a Ruby on Rails project you're starting from scratch and most tutorials and guides you'll find on the Internet assume this. I found very little information about starting a project from existing data and I thought I'd share the solution which I found and consider the simplest.
 

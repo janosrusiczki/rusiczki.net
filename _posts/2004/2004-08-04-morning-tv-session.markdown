@@ -4,6 +4,7 @@ title: Morning TV session
 date: 2004-08-04 13:55:39.000000000 +02:00
 categories:
 - life
+- english
 ---
 Yesterday night I went to Baia Sprie and I slept over at my parents house. This morning I woke up really early as it was 7:41 when I checked the time right after getting out of the bed. Well, what should I do awake at 8 in the morning? I quickly bagged a few sandwiches because actually it was my empty stomach that woke me up and then I glanced at the TV and reached for the remote...
 

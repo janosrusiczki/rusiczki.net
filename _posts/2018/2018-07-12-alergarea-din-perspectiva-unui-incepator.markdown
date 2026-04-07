@@ -6,6 +6,7 @@ categories:
 - cronică
 - sport
 - alergare
+- română
 image: https://content.rusiczki.net/2018/07/alergare-nike-wildhorse-4-1000x1000.jpg
 description: János a început să alerge.
 ---

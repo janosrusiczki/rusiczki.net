@@ -4,6 +4,7 @@ title: RDS still sucks
 date: 2005-09-08 17:05:54.000000000 +02:00
 categories:
 - technical
+- english
 ---
 OK. So here's a fact: I'm an RDS subscriber and I'm paying for the highest possible subscription available for the grand public and that's the $19 priced "Unlimited" flavour as listed on their randomly online homepage. In fact lately all their subscription plans were stamped with the "unlimited" label but we'll see about how unlimited that is a bit later.
 

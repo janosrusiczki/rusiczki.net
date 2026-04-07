@@ -6,6 +6,7 @@ categories:
 - technical
 - android
 - blog history
+- english
 ---
 Oh yeah, since last Friday I'm a proud smartphone owner. You might even ask what took me so long and you'd be quite right. Well, I considered that I don't really need a smartphone since 80% of the day I'm sitting in front of the computer but I sort of got the gadget lust after [Ioana](http://www.flickr.com/ioana) bought herself a [Samsung Galaxy S](http://galaxys.samsungmobile.com). She got hers on Tuesday and Friday I had mine. Go figure... I just sat there Thursday night and decided it's way too nice and good value for the money and that I need one.
 

@@ -6,6 +6,7 @@ categories:
 - life
 - photos
 - snowboard
+- english
 ---
 <a href="http://www.flickr.com/photos/janos/2414480484/"><img src="http://farm3.static.flickr.com/2062/2414480484_38179bf2eb.jpg" width="500" height="334" border="0" class="image" alt="Bâlea"/></a>
 

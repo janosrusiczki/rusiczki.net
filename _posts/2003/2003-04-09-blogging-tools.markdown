@@ -4,6 +4,7 @@ title: Blogging tools
 date: 2003-04-09 00:52:51.000000000 +02:00
 categories:
 - general
+- english
 ---
 Two of the Windows tools I use related to my "blogging experience", ehem, are <a href="http://www.wbloggar.com">w.bloggar</a>, which I'm using to write these lines and almost all the other lines in my blog, and <a href="http://yole.ru/projects/syndirella/">Syndirella</a> which I use to read almost all of the blogs I use to read. Almost all because I only use Syndirellea to read those blogs which offer full post RSS syndication.
 

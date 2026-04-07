@@ -4,6 +4,7 @@ title: Some more Christmas thoughts
 date: 2002-12-21 20:18:13.000000000 +01:00
 categories:
 - general
+- english
 ---
 A funny thing about Christmas is that wheter you turn on your TV, radio, open your favourite magazine or web portal you can just feel the vibe. You can feel the people preparing for the event. This is nice. Because unwillingly you get into that vibe too.
 

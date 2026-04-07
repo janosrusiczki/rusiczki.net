@@ -4,6 +4,7 @@ title: Days and saints
 date: 2003-02-13 04:49:29.000000000 +01:00
 categories:
 - web
+- english
 ---
 Yeah... It's almost <a href="http://www.shagtown.com/days/valentine.html" title="Bleaaah!">Valentine's Day</a>. And I'm just guessing what my girl collegues will come up with today... About boyfriends and this upcoming day.
 

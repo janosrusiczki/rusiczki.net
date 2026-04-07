@@ -5,6 +5,7 @@ date: 2007-10-04 12:52:43.000000000 +02:00
 categories:
 - technical
 - mac
+- english
 ---
 Since last Thursday (that's exactly one week ago) I'm the proud (half) owner of a 13" white MacBook.
 

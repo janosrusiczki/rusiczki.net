@@ -4,6 +4,7 @@ title: CD Copy Protection and shit...
 date: 2003-04-05 21:54:22.000000000 +02:00
 categories:
 - general
+- english
 ---
 ![MiniDisc recorder next to my monitor](https://content.rusiczki.net/blogpics/minidisc-big.jpg)
 

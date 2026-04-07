@@ -5,6 +5,7 @@ date: 2006-11-05 21:39:54.000000000 +01:00
 categories:
 - life
 - snowboard
+- english
 ---
 <a href="http://www.flickr.com/photos/janos/289634654/"><img src="http://static.flickr.com/118/289634654_47bf068ae9.jpg" width="500" height="356" border="0" alt="Deja vu?" class="image" /></a>
 

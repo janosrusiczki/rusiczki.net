@@ -5,6 +5,7 @@ date: 2026-04-07 14:28:00 +03:00
 categories:
 - technical
 - rant
+- english
 description: In 2008, a datacenter exploded and I got a full month of free hosting. In 2026, my AI subscription terms say payments are non-refundable, full stop.
 ---
 

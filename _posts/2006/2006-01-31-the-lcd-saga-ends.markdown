@@ -4,6 +4,7 @@ title: The LCD saga ends
 date: 2006-01-31 21:29:30.000000000 +01:00
 categories:
 - technical
+- english
 ---
 <img src="https://content.rusiczki.net/blogpics/syncmaster_913n.jpg" width="510" height="139" alt="SyncMaster 913N upper left corner" class="image" />
 

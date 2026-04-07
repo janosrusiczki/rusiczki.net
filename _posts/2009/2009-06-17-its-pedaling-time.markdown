@@ -4,6 +4,7 @@ title: It's pedaling time
 date: 2009-06-17 16:44:37.000000000 +02:00
 categories:
 - life
+- english
 ---
 If you're a really old school and hardcore follower of this blog you might remember that <a href="http://www.rusiczki.net/2005/05/01/biking-around-the-town/">I asked</a> about snowboarding alternatives waaay back in the spring of 2005 (and then <a href="http://www.rusiczki.net/2008/04/18/the-sad-the-bare-and-the-muddy/">again</a> last year).
 

@@ -5,6 +5,7 @@ date: 2008-04-04 15:37:37.000000000 +02:00
 categories:
 - technical
 - blog history
+- english
 ---
 Tadaaa! Hailing from [TotalChoice](http://www.totalchoicehosting.com) where everything is nice and zippy fast. Just as I expected.
 

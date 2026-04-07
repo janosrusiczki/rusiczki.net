@@ -5,6 +5,7 @@ date: 2009-10-28 11:24:29.000000000 +01:00
 categories:
 - life
 - technical
+- english
 ---
 I'm talking about yesterday. I have two reasons to say it was an important day:
 

@@ -5,6 +5,7 @@ date: 2009-05-01 09:16:42.000000000 +02:00
 categories:
 - rc
 - rc helicopter
+- english
 ---
 Because I can't really call it part 2.
 

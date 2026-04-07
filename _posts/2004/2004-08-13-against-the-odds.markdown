@@ -4,6 +4,7 @@ title: Against the odds
 date: 2004-08-13 17:00:56.000000000 +02:00
 categories:
 - life
+- english
 ---
 I think I couldn't find a four leaf clover on a better date. As it's Friday the 13th today and just as I was leaving my parents house today at around noon, what do I see right next to the gate? Yup!
 

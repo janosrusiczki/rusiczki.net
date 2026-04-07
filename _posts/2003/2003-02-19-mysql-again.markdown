@@ -4,6 +4,7 @@ title: MySQL again
 date: 2003-02-19 04:06:19.000000000 +01:00
 categories:
 - books
+- english
 ---
 <img src="https://content.rusiczki.net/blogpics/mysql_book.JPG" width="200" height="266" alt="Dubois, Paul - MySQL" class="postimage" /> Well, this is a pretty popular subject here in my blog. But I think I'll burry it. :-)
 

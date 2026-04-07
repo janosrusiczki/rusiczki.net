@@ -4,6 +4,7 @@ title: Days of silence
 date: 2005-11-17 18:20:00.000000000 +01:00
 categories:
 - life
+- english
 ---
 One of the earplugs of my trusty 4 year old Philips earphones gave in less than a week ago...
 

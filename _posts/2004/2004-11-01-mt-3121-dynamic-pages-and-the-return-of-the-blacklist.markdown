@@ -5,6 +5,7 @@ date: 2004-11-01 11:00:32.000000000 +01:00
 categories:
 - technical
 - blog history
+- english
 ---
 A few techical changes around here. First of all I upgraded the blogware to [Movable Type 3.121](http://www.movabletype.org/news/2004/10/movable_type_312_release.shtml) and this time around I took my time and dwelled a little into the docs on the MT site and the result is that now with the exception of my blog index and feeds all the other pages are generated on the spot. PHP to the rescue! No more timeouts and server errors while rebuilding...
 

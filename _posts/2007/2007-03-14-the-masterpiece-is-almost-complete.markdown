@@ -4,6 +4,7 @@ title: The masterpiece is (almost) complete!
 date: 2007-03-14 11:07:11.000000000 +01:00
 categories:
 - technical
+- english
 ---
 <img src="https://content.rusiczki.net/blogpics/corsair_memory.jpg" width="500" height="148" alt="1 gigabyte of Corsair memory" class="image" />
 

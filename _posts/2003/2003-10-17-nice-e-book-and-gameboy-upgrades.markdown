@@ -4,6 +4,7 @@ title: Nice e-book and GameBoy upgrades
 date: 2003-10-17 00:37:40.000000000 +02:00
 categories:
 - life
+- english
 ---
 Chuck Palahniuk's <a title="Palm Digital Media: Lullaby" href="http://www.palmdigitalmedia.com/book.cgi/0385504497">Lullaby</a> looks like my next read. I've neglegted my Palm lately and I feel guilty.
 

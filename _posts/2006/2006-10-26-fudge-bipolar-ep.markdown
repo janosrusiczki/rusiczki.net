@@ -4,6 +4,7 @@ title: Fudge - Bipolar EP
 date: 2006-10-26 09:06:41.000000000 +02:00
 categories:
 - music
+- english
 ---
 I rarely write about music lately but this time I just have to.
 

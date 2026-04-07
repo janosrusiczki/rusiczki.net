@@ -5,6 +5,7 @@ date: 2007-05-11 09:14:19 +02:00
 categories:
 - web
 - life
+- english
 ---
 [Paypal](http://www.paypal.com) is [finally available in Romania](http://www.seopedia.org/seo-news/paypal-for-romania-now-available-send-only/). While this is great news for all those wannabe eBay users, those who wanted a Pro account on Flickr and many others, there's a down side:
 

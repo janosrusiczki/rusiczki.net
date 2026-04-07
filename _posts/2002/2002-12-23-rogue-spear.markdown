@@ -4,6 +4,7 @@ title: Rogue? Spear!?
 date: 2002-12-23 03:09:01.000000000 +01:00
 categories:
 - general
+- english
 ---
 Apparently in the rush of creating an e-shop packed with everything from perfumes to hammers <a href="http://www.magazinultau.ro/" title="= yourshop.ro">magazinultau.ro</a> seriously overlooked the data entry part. You can see the results below.
 

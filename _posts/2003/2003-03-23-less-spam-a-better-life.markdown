@@ -4,6 +4,7 @@ title: Less spam. A better life.
 date: 2003-03-23 00:34:44.000000000 +01:00
 categories:
 - general
+- english
 ---
 Read in a <a href="http://cygnus.unix-girl.com/blog/archives/000843.html" title="Kasia's Record is 41.9 points!!!">post by Kasia</a> about <a href="http://www.spamassassin.org/">Spam Assassin</a> which lead me to <a href="http://saproxy.bloomba.com/">SAProxy for Windows</a>, a POP3 proxy server for Windows which will tag every SPAM mail so that your mail program can filter them out easily or put them directly in the Trash folder.
 

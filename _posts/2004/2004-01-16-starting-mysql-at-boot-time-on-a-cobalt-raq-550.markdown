@@ -4,6 +4,7 @@ title: Starting MySQL at boot time on a Cobalt RaQ 550
 date: 2004-01-16 13:32:26.000000000 +01:00
 categories:
 - technical
+- english
 ---
 Well, my client started renting a Cobalt RaQ 550 server, and yesterday night he passed me the access coordinates for it. Great! I was eager to see the new toy. This means I wanted to see a console window... But for geeks this is a satisfaction anyway.
 

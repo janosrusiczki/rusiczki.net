@@ -5,6 +5,7 @@ date: 2004-11-03 09:46:20.000000000 +01:00
 categories:
 - technical
 - blog history
+- english
 ---
 ![MT-Blacklist Statistics](https://content.rusiczki.net/blogpics/mt_blacklist_stats.gif)
 

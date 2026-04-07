@@ -5,6 +5,7 @@ date: 2007-10-11 11:13:56.000000000 +02:00
 categories:
 - web
 - fun
+- english
 ---
 Oh boy, our (as in Ioana's and mine) tummies still hurt for all that laughing. So I thought I'd share...
 

@@ -5,6 +5,7 @@ date: 2008-05-12 10:17:07.000000000 +02:00
 categories:
 - life
 - technical
+- english
 ---
 Good news day.
 

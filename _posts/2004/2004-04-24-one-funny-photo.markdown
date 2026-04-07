@@ -4,6 +4,7 @@ title: One funny photo
 date: 2004-04-24 17:51:54.000000000 +02:00
 categories:
 - photos
+- english
 ---
 ![Meet Bodri!](https://content.rusiczki.net/blogpics/funny_dog.jpg)
 

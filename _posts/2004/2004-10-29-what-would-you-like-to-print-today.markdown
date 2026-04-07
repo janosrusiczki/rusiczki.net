@@ -4,6 +4,7 @@ title: What would you like to print today?
 date: 2004-10-29 15:00:02.000000000 +02:00
 categories:
 - technical
+- english
 ---
 ![Cascading Style Cheatsheet](https://content.rusiczki.net/blogpics/cascading_style_cheatsheet.jpg)
 

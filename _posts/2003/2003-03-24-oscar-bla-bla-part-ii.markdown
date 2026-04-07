@@ -6,6 +6,7 @@ categories:
   - general
   - movies
   - oscars
+  - english
 ---
 
 Mickey Mouse was great!

@@ -5,6 +5,7 @@ date: 2003-11-30 23:10:16.000000000 +01:00
 categories:
 - technical
 - blog history
+- english
 ---
 ![This site as it looks in Safari 1.1](https://content.rusiczki.net/blogpics/icapture_screenshot.png)
 

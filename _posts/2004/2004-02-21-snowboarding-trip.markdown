@@ -4,6 +4,7 @@ title: Snowboarding trip
 date: 2004-02-21 19:38:59.000000000 +01:00
 categories:
 - life
+- english
 ---
 Wow! I was out boarding today and felt like I haven't felt a long time go. Very good that is.
 

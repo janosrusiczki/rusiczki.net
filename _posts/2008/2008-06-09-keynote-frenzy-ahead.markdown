@@ -7,6 +7,7 @@ categories:
 - technical
 - fun
 - mac
+- english
 ---
 Eff the match between Romania and France!
 

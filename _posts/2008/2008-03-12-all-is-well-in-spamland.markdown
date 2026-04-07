@@ -4,6 +4,7 @@ title: All is well in Spamland
 date: 2008-03-12 19:15:34.000000000 +01:00
 categories:
 - technical
+- english
 ---
 <img src="https://content.rusiczki.net/blogpics/mtkeystrokes-is-divine.png" width="500" height="215" alt="MT-Keystrokes is divine" class="image" />
 

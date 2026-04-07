@@ -4,6 +4,7 @@ title: The last day...
 date: 2006-09-15 08:10:52.000000000 +02:00
 categories:
 - life
+- english
 ---
 For me as an employee at SoftZone. This means cookies and soda for everyone there and yup folks, I'm moving back home to be a <a href="http://www.urbandictionary.com/define.php?term=1337">1337</a> freelancer again. Actually not so elite and not so freelancer but please don't be shy, projects proposals are always welcome. And I hope that this blog will see a lot more activity from now on, because as you can or could see I really ignored it lately.
 

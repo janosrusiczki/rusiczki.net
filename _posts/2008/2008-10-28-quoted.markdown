@@ -5,6 +5,7 @@ date: 2008-10-28 09:01:14.000000000 +01:00
 categories:
 - web
 - technical
+- english
 ---
 Wow, I'm such a web celebrity! Look, I'm quoted on the main page of <a href="http://www.pixlr.com">Pixlr</a>:
 

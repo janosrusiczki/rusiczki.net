@@ -6,6 +6,7 @@ categories:
 - web
 - technical
 - blog history
+- english
 ---
 Just a few weeks ago [I was bragging](http://www.rusiczki.net/2008/03/12/all-is-well-in-spamland/) about how spamless my blog was. Seriously, MT-Keystrokes kept everything miraculously clean, in the 3 years since [I installed it](http://www.rusiczki.net/2005/03/28/mt-keystrokes/) I received a total of maybe 5 spam comment notification e-mails. These were the results of uber-hardcore spammers who actually took the time to copy paste their spam comments into the text area and then press the 'Post' button instead of doing what thousands of other "Average Joe" spammers do, setting up some bot to spam away or worse, having hundreds of zombie PCs do the dirty work instead of them.
 

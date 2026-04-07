@@ -4,6 +4,7 @@ title: Fuckin' Rockaz
 date: 2002-12-22 05:01:00.000000000 +01:00
 categories:
 - general
+- english
 ---
 And when I say "fuckin' rockaz" I mean **FUCKING ROCKERS**.
 

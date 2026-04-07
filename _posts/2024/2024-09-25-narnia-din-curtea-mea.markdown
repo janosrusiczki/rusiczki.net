@@ -4,6 +4,7 @@ title: Narnia din curtea mea
 date: 2024-09-25 18:09:42.000000000 +02:00
 categories:
 - cronică
+- română
 image: https://content.rusiczki.net/2024/09/narnia-acces-inchis-1000x750.jpg
 description: Aventura unei descoperiri subterane suprinzătoare.
 ---

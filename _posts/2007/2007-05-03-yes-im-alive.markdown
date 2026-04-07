@@ -5,6 +5,7 @@ date: 2007-05-03 10:09:03.000000000 +02:00
 categories:
 - life
 - photos
+- english
 ---
 <a href="http://www.flickr.com/photos/janos/460128114/"><img src="http://farm1.static.flickr.com/231/460128114_57098cf866.jpg" alt="Barsana Monastery" width="500" height="357" border="0" class="image" /></a>
 

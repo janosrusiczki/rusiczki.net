@@ -4,6 +4,7 @@ title: YAB
 date: 2006-04-20 11:43:12.000000000 +02:00
 categories:
 - life
+- english
 ---
 As in Yet Another Birthday. It came and went as it always does and here I am one year older. If it's the number you're curious about, check out the <a href="http://www.rusiczki.net/about/">about page</a> (at least my site will get some traffic you RSS freaks).
 

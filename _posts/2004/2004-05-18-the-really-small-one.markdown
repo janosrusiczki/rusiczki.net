@@ -4,6 +4,7 @@ title: The really small one
 date: 2004-05-18 22:56:27.000000000 +02:00
 categories:
 - photos
+- english
 ---
 ![My cute kitten!](https://content.rusiczki.net/blogpics/cute_kitten.jpg)
 

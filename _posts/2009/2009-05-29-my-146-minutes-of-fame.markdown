@@ -5,6 +5,7 @@ date: 2009-05-29 13:56:40.000000000 +02:00
 categories:
 - web
 - helicopter
+- english
 ---
 Hehe, what a couple of e-mails can do. Oh, fair warning: get your propeller hats on, because this is yet another post about RC.
 

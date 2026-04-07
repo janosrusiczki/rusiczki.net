@@ -5,6 +5,7 @@ date: 2006-12-31 10:43:10.000000000 +01:00
 categories:
 - life
 - technical
+- english
 ---
 OK, so if you read this blog you might wonder what the hell happened after I posted <a href="http://www.rusiczki.net/2006/11/23/hospitals-and-surprise-travels/">that entry</a> saying that I'm going after my Mum in my first longer driving session...
 

@@ -5,6 +5,7 @@ date: 2013-05-17 14:52:23.000000000 +02:00
 categories:
 - technical
 - photos
+- română
 ---
 [![GoogleStreetView](https://content.rusiczki.net/2013/04/GoogleStreetView-693x391.png)](https://content.rusiczki.net/2013/04/GoogleStreetView.png)
 

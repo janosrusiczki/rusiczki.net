@@ -5,6 +5,7 @@ date: 2009-01-30 09:03:40.000000000 +01:00
 categories:
 - work
 - portofolio
+- english
 ---
 The title is obviously a pun, as <em>someone</em> is so obsessed with SEO... :-)
 

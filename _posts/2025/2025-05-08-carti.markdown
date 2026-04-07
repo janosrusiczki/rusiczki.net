@@ -5,6 +5,7 @@ date: 2025-05-08 17:35:35 +02:00
 title: Cărți
 categories:
 - cronică
+- română
 image: https://content.rusiczki.net/2025/05/carti-stephen-king-comanda-1000x667.jpg
 description: Istoricul meu de cititor și tentativa de revenire la cărțile fizice.
 ---

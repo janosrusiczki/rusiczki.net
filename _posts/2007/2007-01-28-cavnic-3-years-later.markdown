@@ -5,6 +5,7 @@ date: 2007-01-28 13:05:38.000000000 +01:00
 categories:
 - life
 - snowboard
+- english
 ---
 <img src="https://content.rusiczki.net/blogpics/cavnic_night_lighting.jpg" width="500" height="148" alt="The slopes at Icoana now featuring night lighting!" class="image" />
 

@@ -4,6 +4,7 @@ title: The Bathroom Survey
 date: 2003-10-04 02:34:26.000000000 +02:00
 categories:
 - fun
+- english
 ---
 A friend recommended me the <a title="Bathroom Habits Survey" href="http://www.bathroomsurvey.com/">Bathroom Habits Survey</a> which I had a lot of fun completing. The funniest part was reading the survey results after completing and submiting the initial form.
 

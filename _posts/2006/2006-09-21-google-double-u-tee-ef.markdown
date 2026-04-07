@@ -4,6 +4,7 @@ title: Google Double-U-Tee-Ef
 date: 2006-09-21 18:29:37.000000000 +02:00
 categories:
   - technical
+  - english
 ---
 
 [![Weird Google Results](https://content.rusiczki.net/blogpics/woodprofit-site-search-cropped-1000x860.png)](https://content.rusiczki.net/blogpics/woodprofit-site-search.png){:.glightbox}

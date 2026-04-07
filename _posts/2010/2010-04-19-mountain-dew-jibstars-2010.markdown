@@ -5,6 +5,7 @@ date: 2010-04-19 10:18:02.000000000 +02:00
 categories:
 - snowboard
 - video
+- english
 ---
 Or, what's been keeping Ioana busy these days:
 

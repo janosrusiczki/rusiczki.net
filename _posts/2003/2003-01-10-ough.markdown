@@ -4,6 +4,7 @@ title: Ough!
 date: 2003-01-10 19:17:23.000000000 +01:00
 categories:
 - life
+- english
 ---
 I don't have the power to start learning economics now.
 

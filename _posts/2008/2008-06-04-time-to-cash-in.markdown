@@ -4,6 +4,7 @@ title: Time to cash in
 date: 2008-06-04 16:07:05.000000000 +02:00
 categories:
 - technical
+- english
 ---
 Big time.
 

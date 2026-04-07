@@ -37,3 +37,21 @@ The 2008 explosion at The Planet's H1 facility in Houston was, apparently, a big
 - Best detail of all: this was the second time that same Houston facility had an electrical explosion. A transformer blew there back in June 2003, when the company was still called Rackshack.
 
 The Web Hosting Talk thread covering it was titled "[Data Center Explosion, Fire or FBI Bust?](https://www.webhostingtalk.com/showthread.php?t=698809)", which is pretty much peak 2008 internet.
+
+---
+
+P.S.2 Since the description of this blog still calls me an *incurable nostalgic*, here is the full corporate lineage of the company I signed up with in 2008. The arc from Rackshack to IBM Cloud is something else:
+
+- 1998: Robert Marsh founds Everyones Internet (EV1) in Houston, originally as a dial-up ISP.
+- 2001: EV1 launches a dedicated-server division branded Rackshack.net. This was the brand that owned the Houston facility when its first transformer explosion happened, in June 2003.
+- A bit later, Rackshack rebrands to EV1 Servers, reportedly because "the racks weren't in a shack anymore" once they had built proper datacenters.
+- May 2006: EV1 Servers merges with The Planet, a separate Texas dedicated-hosting company founded in 1998 by Peter Pathos. GI Partners private equity owned both. The combined company traded as The Planet.
+- May 31, 2008: The H1 explosion happens at the old EV1 / Rackshack datacenter, which is exactly why Wikipedia calls it "an EV1 Servers legacy datacenter."
+- August 2010: GI Partners acquires SoftLayer as well.
+- November 16, 2010: The Planet officially rebrands to SoftLayer.
+- June 4, 2013: IBM acquires SoftLayer for an estimated $2 billion, making it the foundation of IBM's cloud business.
+- Later: The SoftLayer brand is retired entirely, and the operation becomes part of IBM Cloud Infrastructure.
+
+So the company I signed up with as The Planet in 2008 is, today, part of IBM. Somewhere between "Rackshack" and "IBM Cloud" is an entire era of how the internet was hosted.
+
+As for me, I left SoftLayer for Hetzner on November 2, 2012. Funnily enough, I had first emailed Hetzner about it back in August 2011, asking whether they offered a DNS service before I committed to the move. They wrote back the same day saying yes. I then sat on it for fifteen months before actually pulling the trigger. Some things never change.

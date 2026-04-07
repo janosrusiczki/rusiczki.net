@@ -43,4 +43,22 @@ Nowadays, as a sort of a back to the roots statement, what you're looking at are
 
 ## Statistics
 
-rusiczki.net now rocks **{{ site.posts | size }}** pages of content with **{% posts_word_count total %}** total words.
+rusiczki.net now rocks **{{ site.posts | size }}** pages of content with **{% site_stats total_words %}** total words, written across **{% site_stats years_online %}** years since the [very first post]({{ site.posts.last.url }}) on {{ site.posts.last.date | date: "%B %-d, %Y" }}.
+
+Posts average **{% site_stats average_words %}** words each — at 200 words per minute, reading the entire archive back-to-back would take roughly **{% site_stats reading_hours %} hours**. The most prolific year was **{% site_stats most_prolific_year %}** with **{% site_stats most_prolific_year_count %}** posts. The only year with zero posts so far? **{% site_stats silent_years %}**, of course.
+
+### Top 5 longest articles
+
+{% site_stats longest_posts %}
+
+### Top 5 most prolific months
+
+{% site_stats top_months %}
+
+### Top 5 longest gaps between posts
+
+{% site_stats longest_gaps %}
+
+### Top 5 most-used categories
+
+{% site_stats top_categories %}

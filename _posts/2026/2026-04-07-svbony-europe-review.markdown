@@ -46,13 +46,13 @@ If the page had said "ships in 2-3 weeks" I would have shrugged and either order
 
 ## Updates
 
-**Update, April 7, around noon**: Just my luck. I was literally in the middle of writing this very post when I got an email from DHL:
+**Update, April 7, around noon**: Well, just my luck. I was in the middle of writing this very post when I got an email from DHL:
 
 [![DHL package update email](https://content.rusiczki.net/2026/dhl-package-update.png)](https://content.rusiczki.net/2026/dhl-package-update.png){:.glightbox}
 
-The package had supposedly been handed over to DHL and was being prepared for shipment to Romania, expected to arrive in 3-4 business days delivered by Cargus. For about five minutes I thought the situation was resolving itself.
+So apparently the package has been handed over to DHL after all, is being prepared for shipment to Romania, and should arrive in 3-4 business days, delivered by Cargus. For a brief moment I wondered if I should even bother publishing this post anymore.
 
-**Update, April 7, a bit later**: Then SVBONY support actually responded. And it turns out things are even worse than I thought. Here's what they wrote:
+**Update, April 7, a bit later**: Then SVBONY support actually got back to me. Here's what they said:
 
 > Dear customer,
 >
@@ -61,9 +61,9 @@ The package had supposedly been handed over to DHL and was being prepared for sh
 >
 > Other products, it is on the way. And now the tracking info has been updated, I think you will receive it in 3-5 business days.
 
-So that DHL package isn't the camera. The "other products" turn out to be an SV220 dual-band H-alpha/OIII narrowband nebula filter and an SV226 filter drawer to hold it. Both completely useless to me without the actual camera at the back of the imaging train, the SV605CC, which won't ship until end of April or early May. Exactly what I was complaining about above: the "in stock" label was a lie.
+So the DHL package isn't the camera. It's the SV220 dual-band H-alpha/OIII narrowband filter and the SV226 filter drawer that goes with it. Pretty pointless on their own, given that the SV605CC, you know, the camera I was actually waiting for, won't ship until the end of April or the beginning of May. The "in stock" label was indeed a lie.
 
-And here's the kicker: as I'm writing this update, the SV605CC is **still** listed as "In Stock" on SVBONY's website. Screenshot:
+Also, while I'm writing this, the SV605CC is *still* listed as "In Stock" on the SVBONY website. Screenshot:
 
 [![SV605CC still listed as "In Stock" on SVBONY's website on April 7, 2026](https://content.rusiczki.net/2026/svbony-still-in-stock.png)](https://content.rusiczki.net/2026/svbony-still-in-stock.png){:.glightbox}
 

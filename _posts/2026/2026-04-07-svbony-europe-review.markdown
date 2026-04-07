@@ -6,7 +6,7 @@ categories:
 - review
 - astronomy
 - astrophotography
-description: My order from SVBONY's EU store has been "in stock" with a DHL tracking number for a week, and nothing has actually moved.
+description: Waited a week for my SVBONY order to ship, only to find out that the product I ordered wasn't really in stock. It's on backorder and I'll get it a month late, if I'm lucky.
 ---
 
 A few notes on what happened when I tried to order an SVBONY SV605CC astronomy camera from SVBONY's official European store. Short version: I'm disappointed, and I figure other buyers might want to know what they could be walking into.

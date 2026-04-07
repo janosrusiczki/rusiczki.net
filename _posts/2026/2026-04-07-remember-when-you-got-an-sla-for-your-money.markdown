@@ -25,3 +25,16 @@ We used to have SLAs that meant something. Now we have status pages that perform
 ---
 
 Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;. Yes, the very same. It went down once while we were writing this, which felt fitting. I will not be receiving a refund.
+
+---
+
+P.S. After I was done writing this, I asked Claude to search for details about the incident, thinking it had been forgotten in time. It actually came up with quite a lot.
+
+The 2008 explosion at The Planet's H1 facility in Houston was, apparently, a big enough deal to land on [Slashdot](https://tech.slashdot.org/story/08/06/01/1715247/explosion-at-theplanet-datacenter-drops-9000-servers), [The Register](https://www.theregister.com/2008/06/01/the_planet_houston_data_center_fire/), [Data Center Knowledge](https://www.datacenterknowledge.com/outages/explosion-at-the-planet-causes-major-outage), and even [SANS](https://isc.sans.edu/forums/diary/The+Planet+outage+what+can+we+all+learn+from+it/4504/). A few details I either forgot or never knew at the time:
+
+- The explosion happened on Saturday, May 31, 2008, at 4:55pm CDT. I was three weeks into my contract, not one month. Close enough.
+- It took down 9,000 customer servers in total. About 3,000 of them, including mine, were on the first floor and took the longest to come back.
+- A generator failure early Tuesday morning knocked another 1,500 servers back offline mid-recovery, which lines up exactly with the "I cheered, then it went down again" bit from my [original 2008 post](/2008/06/04/boom/).
+- Best detail of all: this was the second time that same Houston facility had an electrical explosion. A transformer blew there back in June 2003, when the company was still called Rackshack.
+
+The Web Hosting Talk thread covering it was titled "[Data Center Explosion, Fire or FBI Bust?](https://www.webhostingtalk.com/showthread.php?t=698809)", which is pretty much peak 2008 internet.

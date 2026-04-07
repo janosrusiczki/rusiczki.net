@@ -25,6 +25,8 @@ We used to have SLAs that meant something. Now we have status pages that perform
 
 **Co-Authored-By**: Claude &lt;noreply@anthropic.com&gt; - Yep, the very same. It went down once while we were writing this, which felt fitting. I will not be receiving a refund.
 
+---
+
 P.S. After I was done writing this, I asked Claude to search for details about the incident, thinking it had been forgotten in time. It actually came up with quite a lot.
 
 The 2008 explosion at The Planet's H1 facility in Houston was, apparently, a big enough deal to land on [Slashdot](https://tech.slashdot.org/story/08/06/01/1715247/explosion-at-theplanet-datacenter-drops-9000-servers), [The Register](https://www.theregister.com/2008/06/01/the_planet_houston_data_center_fire/), [Data Center Knowledge](https://www.datacenterknowledge.com/outages/explosion-at-the-planet-causes-major-outage), and even [SANS](https://isc.sans.edu/forums/diary/The+Planet+outage+what+can+we+all+learn+from+it/4504/). A few details I either forgot or never knew at the time:

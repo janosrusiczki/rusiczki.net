@@ -4,6 +4,7 @@ title: Offline browsing
 date: 2004-05-12 13:49:51.000000000 +02:00
 categories:
 - life
+- english
 ---
 <img src="https://content.rusiczki.net/blogpics/newspaper_clip.jpg" width="490" height="119" border="0" alt="Browsing the ads in the newspaper" class="image" />
 

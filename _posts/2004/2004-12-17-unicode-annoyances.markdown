@@ -4,6 +4,7 @@ title: Unicode annoyances
 date: 2004-12-17 18:59:54.000000000 +01:00
 categories:
 - technical
+- english
 ---
 I'm trying to hack together a small and simple search engine for the (not so) few Romanian RSS and Atom feeds that exist today. But the special characters are killing me slowly and painfully.
 

@@ -5,6 +5,7 @@ date: 2008-04-03 17:46:29.000000000 +02:00
 categories:
 - web
 - technical
+- english
 ---
 I noticed that lately I started preferring desktop feed readers to web based ones.
 

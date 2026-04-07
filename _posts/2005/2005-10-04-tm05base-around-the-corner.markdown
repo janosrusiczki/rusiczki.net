@@ -4,6 +4,7 @@ title: TM05Base around the corner
 date: 2005-10-04 12:15:45.000000000 +02:00
 categories:
 - music
+- english
 ---
 <img src="https://content.rusiczki.net/blogpics/tm05base_promo_screenshot.jpg" alt="tm05base_promo_screenshot.jpg" width="480" height="360" class="image" />
 

@@ -6,6 +6,7 @@ categories:
 - life
 - technical
 - games
+- english
 ---
 <a href="http://www.flickr.com/photos/ioana/4216363251/"><img src="https://content.rusiczki.net/2009/12/hearts.jpg" alt="Christmas Hearts" width="500" height="747"/></a>
 

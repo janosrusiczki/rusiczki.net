@@ -5,6 +5,7 @@ date: 2008-03-12 08:29:24.000000000 +01:00
 categories:
 - technical
 - music
+- english
 ---
 As my new plan of action is to get all my domains under [GoDaddy](http://www.godaddy.com)'s wing I started out by transferring a client's domain there and extending it by 5 years while I was at it. The good news was that the order amount was really close to $40 and as an avid viewer of [Diggnation](http://diggnation.com) I had the 'DIGG5' coupon code which gives $10 off any order above $40. And so I added another domain to the order and applied the coupon code which brought my order back under $40...
 

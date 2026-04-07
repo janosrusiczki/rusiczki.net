@@ -4,6 +4,7 @@ title: Declaration
 date: 2003-01-07 15:38:40.000000000 +01:00
 categories:
 - general
+- english
 ---
 This winter is officially a big pile of shit.
 

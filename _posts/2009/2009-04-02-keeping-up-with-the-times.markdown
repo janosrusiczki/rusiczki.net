@@ -5,6 +5,7 @@ date: 2009-04-02 12:15:04.000000000 +02:00
 categories:
 - technical
 - blog history
+- english
 ---
 Yep, I finally migrated this blog to [WordPress](http://wordpress.com).
 

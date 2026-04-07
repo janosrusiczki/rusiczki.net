@@ -4,6 +4,7 @@ title: Upgrade time!
 date: 2002-12-27 20:23:38.000000000 +01:00
 categories:
 - general
+- english
 ---
 Mailing lists are so good. You spare lots of time. :)
 

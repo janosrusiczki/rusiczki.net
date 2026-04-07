@@ -5,6 +5,7 @@ date: 2013-09-11 09:30:00.000000000 +02:00
 categories:
 - general
 - blog history
+- română
 ---
 Acuma observ că aparent mi-am cumpărat domeniul la fix 2 ani după tragicul eveniment din State, adică pe 11 septembrie 2003... Mă rog, e mai plauzibil să cred că trăiam într-o perioadă aeriană pe atunci și nu prea eram conștient ce dată e. M-am hotărât să-mi cumpăr propriul domeniu după ce [am pus mâna](http://www.rusiczki.net/2003/02/19/ready-to-shop-til-i-drop/) pe super cardul Taifun de la Bancpost și [după ce a expirat domeniul resurseweb.net](https://www.rusiczki.net/2003/09/21/restarting-again/) cumpărat de către altcineva pentru mine cu un an înainte, în ciuda rugăminților mele de prelungire.
 

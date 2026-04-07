@@ -6,6 +6,7 @@ categories:
 - web
 - technical
 - blog history
+- english
 ---
 Just got this by e-mail:
 

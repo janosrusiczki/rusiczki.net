@@ -4,6 +4,7 @@ title: Old school games
 date: 2003-03-26 01:41:25.000000000 +01:00
 categories:
 - general
+- english
 ---
 <a href="http://www.300ad.com/index.php3?u=games/westbang">Westbang</a> is a lot of fun. It's a remake of the ZX Spectrum classic I used to play... Once. More than 10 years ago.
 

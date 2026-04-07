@@ -4,6 +4,7 @@ title: Next generation handsfree head set
 date: 2003-03-06 03:56:16.000000000 +01:00
 categories:
 - fun
+- english
 ---
 Frustrated about your old and outdated cell phone's size?
 

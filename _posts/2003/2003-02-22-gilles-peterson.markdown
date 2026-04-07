@@ -4,6 +4,7 @@ title: Gilles Peterson
 date: 2003-02-22 14:27:09.000000000 +01:00
 categories:
 - music
+- english
 ---
 I mentioned this before but I think it definetly worths a separate post. So:
 

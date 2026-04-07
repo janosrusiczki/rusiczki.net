@@ -4,6 +4,7 @@ title: The trustable Romanian web
 date: 2005-06-13 16:20:55.000000000 +02:00
 categories:
 - web
+- english
 ---
 This morning we were rejoicing -
 

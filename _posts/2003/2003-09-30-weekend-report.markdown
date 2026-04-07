@@ -4,6 +4,7 @@ title: Weekend report
 date: 2003-09-30 15:55:06.000000000 +02:00
 categories:
 - life
+- english
 ---
 An unusual thing happened Saturday. Everything went as planned. And this is a rather unusual thing to happen.
 

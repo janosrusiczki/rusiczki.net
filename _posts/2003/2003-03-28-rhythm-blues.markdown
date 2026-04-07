@@ -4,6 +4,7 @@ title: Rhythm & Blues
 date: 2003-03-28 01:31:55.000000000 +01:00
 categories:
 - general
+- english
 ---
 <blockquote><i>Mary's got the same size hands
 

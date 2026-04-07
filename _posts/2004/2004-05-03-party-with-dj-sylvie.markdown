@@ -4,6 +4,7 @@ title: Party with DJ Sylvie
 date: 2004-05-03 14:14:43.000000000 +02:00
 categories:
 - life
+- english
 ---
 After [all that eating](http://www.rusiczki.net/2004/05/03/the-official-may-1st-food-fest/ "Kitsched - The official May 1st food fest!") it was time for a real party! With some real people. And a real DJ. Or DJess. As you wish.
 

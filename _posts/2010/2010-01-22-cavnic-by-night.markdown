@@ -6,6 +6,7 @@ categories:
 - life
 - snowboard
 - video
+- english
 ---
 Alrighty, after that post added before we left the house, here are not one but two fresh videos from Cavnic. Made tonight:
 

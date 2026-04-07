@@ -4,6 +4,7 @@ title: Hard working weeks
 date: 2003-03-09 23:50:05.000000000 +01:00
 categories:
 - life
+- english
 ---
 There went two really busy weeks, two weeks in which I basically worked, cancelled that trip I was talking about, massively skipped school and I started going to the swimming pool. To swim...
 

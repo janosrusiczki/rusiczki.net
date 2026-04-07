@@ -5,6 +5,7 @@ date: 2008-10-28 09:33:38.000000000 +01:00
 categories:
 - web
 - technical
+- english
 ---
 Finally, I'd say.
 

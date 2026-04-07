@@ -5,6 +5,7 @@ date: 2007-10-08 12:43:23.000000000 +02:00
 categories:
 - technical
 - mac
+- english
 ---
 Hopefully this will be the first of a series written by a recent switcher... :)
 

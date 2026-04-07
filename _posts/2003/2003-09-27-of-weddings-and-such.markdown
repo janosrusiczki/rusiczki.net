@@ -4,6 +4,7 @@ title: Of weddings and such
 date: 2003-09-27 15:53:10.000000000 +02:00
 categories:
 - life
+- english
 ---
 Well, here I am. I woke up at 4 PM after a rather fun night. And now I'm getting ready to go and attend my friend's wedding.
 

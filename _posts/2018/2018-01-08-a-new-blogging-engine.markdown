@@ -7,6 +7,7 @@ categories:
 - ruby
 - technical
 - blog history
+- english
 description: How I migrated this blog from Wordpress to Jekyll.
 image: https://content.rusiczki.net/2018/01/code-screenshot.jpg
 ---

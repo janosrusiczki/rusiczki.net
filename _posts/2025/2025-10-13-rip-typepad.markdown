@@ -4,6 +4,7 @@ title: RIP Typepad
 date: 2025-10-13 13:51:00 +02:00
 categories:
 - blog history
+- română
 description: Adio Typepad și amintiri despre site-ul meu de tutoriale.
 image: https://content.rusiczki.net/2025/10/typepad-closed-cropped.png
 ---

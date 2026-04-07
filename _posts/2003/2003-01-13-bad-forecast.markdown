@@ -4,6 +4,7 @@ title: Bad forecast
 date: 2003-01-13 21:56:54.000000000 +01:00
 categories:
 - life
+- english
 ---
 And no, this time it isn't about snow and rain...
 

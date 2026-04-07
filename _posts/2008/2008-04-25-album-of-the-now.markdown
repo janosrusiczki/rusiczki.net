@@ -4,6 +4,7 @@ title: Album of the now
 date: 2008-04-25 09:24:45.000000000 +02:00
 categories:
 - music
+- english
 ---
 Album of the week even.
 

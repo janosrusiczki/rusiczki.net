@@ -6,6 +6,7 @@ categories:
   - general
   - movies
   - oscars
+  - english
 ---
 
 Woaaa!!! Now this was an antiwar speech! It gave me the shivers!!! But somehow I knew this would happen. It was a great speech. He's got some guts.

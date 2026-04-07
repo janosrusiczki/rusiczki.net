@@ -6,6 +6,7 @@ categories:
 - cronică
 - sport
 - alergare
+- română
 image: https://content.rusiczki.net/2018/09/alergare-lacul-albastru-1000x750.jpg
 description: János continuă să alerge.
 ---

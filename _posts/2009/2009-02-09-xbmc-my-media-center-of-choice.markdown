@@ -4,6 +4,7 @@ title: XBMC - My media center of choice
 date: 2009-02-09 11:42:56.000000000 +01:00
 categories:
 - technical
+- english
 ---
 <a href="http://xbmc.org/">XBMC Media Center</a> or XBox Media Center to avoid the recurssion.
 

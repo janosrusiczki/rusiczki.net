@@ -4,6 +4,7 @@ title: To register or not to register...
 date: 2009-09-29 21:08:33.000000000 +02:00
 categories:
 - mac
+- english
 ---
 ... this is the question.
 

@@ -4,6 +4,7 @@ title: Spam fight reloaded
 date: 2008-04-06 21:25:02.000000000 +02:00
 categories:
 - technical
+- english
 ---
 Got so much stuff to blog about but my energy level is painfully low...
 

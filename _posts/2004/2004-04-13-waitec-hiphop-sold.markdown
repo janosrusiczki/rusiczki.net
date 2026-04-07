@@ -4,6 +4,7 @@ title: Waitec HipHop - Sold!
 date: 2004-04-13 20:27:36.000000000 +02:00
 categories:
 - uncategorized
+- english
 ---
 Yep! I finally sold my good ol' MP3 player.
 

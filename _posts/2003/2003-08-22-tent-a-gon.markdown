@@ -4,6 +4,7 @@ title: Tent-a-gon
 date: 2003-08-22 19:16:55.000000000 +02:00
 categories:
 - general
+- english
 ---
 Yep. It looks like there'll be some tent action tonight.
 

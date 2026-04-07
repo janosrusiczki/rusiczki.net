@@ -5,6 +5,7 @@ date: 2011-05-27 17:54:16.000000000 +02:00
 categories:
 - photos
 - bike
+- română
 ---
 Sau cum am ajuns din greseala la premierea maratonului de la Preluca...
 

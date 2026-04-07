@@ -5,6 +5,7 @@ categories:
 - life
 - photos
 - rc
+- română
 ---
 <a href="https://content.rusiczki.net/2014/12/dronesie.jpg"><img src="https://content.rusiczki.net/2014/12/dronesie.jpg" alt="#dronesie" /></a>
 

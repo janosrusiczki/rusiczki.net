@@ -4,6 +4,7 @@ title: Hello from Africa!
 date: 2007-11-07 09:05:00.000000000 +01:00
 categories:
 - web
+- english
 ---
 <img src="https://content.rusiczki.net/blogpics/my-world-visitor-map-com-booboo.png" width="420" height="211" alt="My World Visitor Map booboo" class="image"/>
 

@@ -4,6 +4,7 @@ title: A less bitter update
 date: 2009-01-30 08:52:03.000000000 +01:00
 categories:
 - life
+- english
 ---
 My mum is getting better. Slowly, with baby steps, but she's getting better.
 

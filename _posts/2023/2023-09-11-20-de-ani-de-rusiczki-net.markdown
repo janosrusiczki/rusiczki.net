@@ -4,6 +4,7 @@ title: 20 de ani de rusiczki.net
 date: 2023-09-11T09:11:00.000Z
 categories:
   - blog history
+  - română
 description: S-au împlinit 20 de ani de când am acest domeniu.
 published: true
 ---

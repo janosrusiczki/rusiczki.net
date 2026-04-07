@@ -4,6 +4,7 @@ title: MySQL books
 date: 2003-02-03 07:50:42.000000000 +01:00
 categories:
 - web
+- english
 ---
 I didn't went straight to bed yesterday last night. Instead I read some reviews of the book I intended to buy... Turns out it isn't that good actually since it only contains the documentation you can find on the site or included with the software on paper. And I also realized I have it in PDF. Downloaded it some time ago from a binaries group. Only for evaluation purposes of course! :-)
 

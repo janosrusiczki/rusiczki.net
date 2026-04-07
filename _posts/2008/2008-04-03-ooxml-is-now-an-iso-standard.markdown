@@ -5,6 +5,7 @@ date: 2008-04-03 11:59:54.000000000 +02:00
 categories:
 - web
 - technical
+- english
 ---
 Bad news of the day. Actually bad news of the yesterday when I found the link on <a href="http://www.techmeme.com/">Techmeme</a>, but I couldn't write about it as my blog has been <a href="http://www.rusiczki.net/2008/04/03/hello-world-41/">experiencing technical difficulties</a>.
 

@@ -4,6 +4,7 @@ title: Wonderful!
 date: 2003-01-23 21:33:56.000000000 +01:00
 categories:
 - movies
+- english
 ---
 Oh yes. I did saw '<a href="http://us.imdb.com/Title?0190138" title="IMDB Link">The Whole Nine Yards</a>'. Funny, entertaining, but not a big deal whatsoever.
 

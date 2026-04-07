@@ -5,6 +5,7 @@ date: 2003-09-21 20:24:06.000000000 +02:00
 categories:
 - web
 - blog history
+- english
 ---
 Well, to tell the truth I lost count. I lost count how many times I restarted blogging. But it wasn't always my fault.
 

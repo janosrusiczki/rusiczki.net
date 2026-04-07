@@ -6,6 +6,7 @@ categories:
 - cronică
 - tehnic
 - cronici calculatoricești
+- română
 image: https://content.rusiczki.net/2021/07/electronica-cip-1000x667.jpg
 description: Despre începuturile mele în d'ale calculatoarelor.
 ---

@@ -5,6 +5,7 @@ date: 2007-03-01 08:02:04.000000000 +01:00
 categories:
 - web
 - technical
+- english
 ---
 Leave a comment. I need need your first and last name plus e-mail. First come, first served. Hurry!
 

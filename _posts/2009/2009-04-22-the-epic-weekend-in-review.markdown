@@ -5,6 +5,7 @@ date: 2009-04-22 22:06:58.000000000 +02:00
 categories:
 - life
 - rc
+- english
 ---
 What's the word that best describes a weekend starting on Friday at 1 PM and from which you return to work only on Wednesday? Plus it contains your birthday. I think <em>epic</em> will do.
 

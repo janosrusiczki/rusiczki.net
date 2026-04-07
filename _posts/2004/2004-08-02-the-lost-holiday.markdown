@@ -4,6 +4,7 @@ title: The lost holiday
 date: 2004-08-02 22:00:51.000000000 +02:00
 categories:
 - life
+- english
 ---
 Oh joy!
 

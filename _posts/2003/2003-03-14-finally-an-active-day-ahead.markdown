@@ -4,6 +4,7 @@ title: Finally, an active day ahead
 date: 2003-03-14 19:06:38.000000000 +01:00
 categories:
 - general
+- english
 ---
 Well, tomorrow looks full. At least compared to my usual daily schedule which involves sitting in front of my 'puter typing, eating, then sitting some more, eating, and then sitting in front of it until morning...
 

@@ -4,6 +4,7 @@ title: The price of laziness
 date: 2003-10-23 21:46:14.000000000 +02:00
 categories:
 - technical
+- english
 ---
 Where can my lazyness lead I ask?
 

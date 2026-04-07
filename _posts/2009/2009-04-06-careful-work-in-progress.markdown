@@ -5,6 +5,7 @@ date: 2009-04-06 13:11:26.000000000 +02:00
 categories:
 - technical
 - blog history
+- english
 ---
 Don't mind me please while I try out some stuff.
 

@@ -4,6 +4,7 @@ title: Juno rocks da house
 date: 2004-01-05 22:18:41.000000000 +01:00
 categories:
 - music
+- english
 ---
 ![Hybrid, Freeland, Koma &amp; Bones](https://content.rusiczki.net/blogpics/hybrid_freeland_koma_and_bones.jpg)
 

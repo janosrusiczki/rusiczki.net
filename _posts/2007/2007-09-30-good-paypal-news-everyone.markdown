@@ -5,6 +5,7 @@ date: 2007-09-30 13:54:13.000000000 +02:00
 categories:
 - web
 - technical
+- english
 ---
 Cristi Mezei (who's domain seems to have expired) sent me an IM notice yesterday containing some <a href="http://forum.seopedia.ro/bar-lobby/5506-withdraw-si-receive-payments-paypal-acum-si-la-noi.html" title="In Romanian">great news</a>, namely that one can now receive and withdraw payments to / from a PayPal account opened from Romania. Withdrawal only works with US bank accounts however you can also withdraw money to your (Romanian) debit / credit card for a flat fee of 2 Euros (if I remember correctly).
 

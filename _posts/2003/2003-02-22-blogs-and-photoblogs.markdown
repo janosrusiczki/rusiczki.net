@@ -4,6 +4,7 @@ title: Blogs and photoblogs
 date: 2003-02-22 14:26:57.000000000 +01:00
 categories:
 - web
+- english
 ---
 I received a mail from <a href="http://www.triggerfinger.ro/lmarin/" title="He gave up having his personal space on the Web. Wanker! :-)">a friend</a> telling me that '<a href="http://www.iamgeneric.com/">I Am Generic</a>' is the best weblog of them all.
 

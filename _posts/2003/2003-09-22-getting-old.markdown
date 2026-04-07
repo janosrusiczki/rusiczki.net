@@ -4,6 +4,7 @@ title: Getting old?
 date: 2003-09-22 23:58:32.000000000 +02:00
 categories:
 - life
+- english
 ---
 Today I confirmed that I'm going to the wedding of a good friend and ex school mate. I feel weird again. But I usually feel weird when I'm about to go to weddings of people who have the same age or are younger than me (as in this case).
 

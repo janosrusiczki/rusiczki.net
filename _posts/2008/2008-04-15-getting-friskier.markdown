@@ -6,6 +6,7 @@ categories:
 - web
 - life
 - music
+- english
 ---
 <a href="http://www.friskyradio.com/store/item4/">friskySubscription</a>++;
 

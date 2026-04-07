@@ -4,6 +4,7 @@ title: Keynote frenzy passed
 date: 2008-06-09 22:03:59.000000000 +02:00
 categories:
 - technical
+- english
 ---
 I missed the first hour or so because despite <a href="http://www.rusiczki.net/2008/06/09/keynote-frenzy-ahead/">my morning promise</a> I went to a bar to watch that total EPIC FAIL of a match between Romania and France. Boooring. But it seems I haven't lost anything of the keynote. It was mostly iPhone application demos and MobileMe which is $99 for a year. No thanks!
 

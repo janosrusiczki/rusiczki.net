@@ -5,6 +5,7 @@ date: 2006-11-10 00:03:14.000000000 +01:00
 categories:
 - technical
 - windows
+- english
 ---
 "Inserting an index entry into index $0 of file 25" - the message I feared for a week...
 

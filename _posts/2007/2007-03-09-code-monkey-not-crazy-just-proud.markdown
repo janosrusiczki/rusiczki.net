@@ -6,6 +6,7 @@ categories:
 - web
 - life
 - fun
+- english
 ---
 I found <a href="http://www.jonathancoulton.com/lyrics/code-monkey" title="Click play">this song</a> by listening to <a href="http://www.twit.tv/ITN">net@nite</a> (with Leo Laporte and Amber MacArthur) and I must say it's one good dose of fun. Not to mention how catchy the tune and true the lyrics are. I quickly passed it on to my coder contacts on IM and of course they all had their share of fun. Because, did I mention the song is catchy, fun and true? Oh yes, I did.
 

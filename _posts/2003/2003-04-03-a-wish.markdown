@@ -4,6 +4,7 @@ title: A wish
 date: 2003-04-03 03:08:38.000000000 +02:00
 categories:
 - general
+- english
 ---
 Oh, how I wish I would have PHP on my Palm. But then again. If I think about it...
 

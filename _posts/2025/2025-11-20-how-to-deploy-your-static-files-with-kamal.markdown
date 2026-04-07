@@ -5,6 +5,7 @@ date: 2025-11-20 17:35:00 +02:00
 categories:
 - blog history
 - technical
+- english
 description: A short write-up about how I'm deploying my static site configurations with Kamal.
 ---
 

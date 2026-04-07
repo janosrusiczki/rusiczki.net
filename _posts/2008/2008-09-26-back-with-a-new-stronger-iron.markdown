@@ -5,6 +5,7 @@ date: 2008-09-26 17:27:00.000000000 +02:00
 categories:
 - technical
 - blog history
+- english
 ---
 Long story short: I moved a high traffic forum to my (ex-)server and it sort of crumbled under the load. Not once but twice. After the second manual reboot request I just deactivated the forum and drew the conclusion that it was time to upgrade. I had to do it fast, because said forum is my main AdSense cash cow and it meant that any downtime meant income = 0  and I just couldn't let that happen. So the upgrade happened yesterday night.
 

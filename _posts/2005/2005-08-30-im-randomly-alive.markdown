@@ -5,6 +5,7 @@ date: 2005-08-30 21:26:48.000000000 +02:00
 categories:
 - general
 - blog history
+- english
 ---
 Stuff worth mentioning (in no particular order, as usual):
 

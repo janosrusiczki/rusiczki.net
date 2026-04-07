@@ -5,6 +5,7 @@ date: 2019-12-11 18:00:00.000000000 +02:00
 categories:
 - cronică
 - music
+- română
 image: https://content.rusiczki.net/2019/12/casete-cu-roxette-1000x667.jpg
 description: Am fost un mare fan Roxette.
 ---

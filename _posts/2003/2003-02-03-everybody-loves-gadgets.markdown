@@ -4,6 +4,7 @@ title: Everybody loves gadgets!
 date: 2003-02-03 02:00:29.000000000 +01:00
 categories:
 - technical
+- english
 ---
 I'm about to receive the much avaited HotSync cable for my Palm. So the fun can begin. I hope not to get in such an <a href="http://www.aftenposten.no/english/local/article.jhtml?articleID=481193" title="The full article">embarassing situation</a> as this guy did:
 

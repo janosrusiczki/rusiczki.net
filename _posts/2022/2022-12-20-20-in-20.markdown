@@ -4,6 +4,7 @@ title: 20 în 20
 date: 2022-12-20 21:00:00.000000000 +02:00
 categories:
 - blog history
+- română
 description: Blogul a împlinit 20 de ani! Articol aniversar.
 image: https://content.rusiczki.net/2022/12/weblog-screenshot-2003-10-27.png
 ---

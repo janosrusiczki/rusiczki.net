@@ -6,6 +6,7 @@ categories:
 - review
 - astronomy
 - astrophotography
+- english
 description: Waited a week for my SVBONY order to ship, only to find out that the product I ordered wasn't really in stock. It's on backorder and I'll get it a month late, if I'm lucky.
 ---
 

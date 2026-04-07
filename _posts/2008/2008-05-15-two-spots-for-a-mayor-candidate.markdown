@@ -5,6 +5,7 @@ date: 2008-05-15 10:41:17.000000000 +02:00
 categories:
 - life
 - video
+- english
 ---
 Oh and talking about professionalism... Watching the videos below (made for one of Baia Mare's mayor candidates) will make you hurt. I guarantee it.
 

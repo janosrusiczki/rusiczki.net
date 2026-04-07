@@ -43,15 +43,15 @@ The Web Hosting Talk thread covering it was titled "[Data Center Explosion, Fire
 P.S.2 Since the description of this blog still calls me an *incurable nostalgic*, here is the full corporate lineage of the company I signed up with in 2008. The arc from Rackshack to IBM Cloud is something else:
 
 - 1998: Robert Marsh founds Everyones Internet (EV1) in Houston, originally as a dial-up ISP.
-- 2001: EV1 launches a dedicated-server division branded Rackshack.net. This was the brand that owned the Houston facility when its first transformer explosion happened, in June 2003.
-- A bit later, Rackshack rebrands to EV1 Servers, reportedly because "the racks weren't in a shack anymore" once they had built proper datacenters.
-- May 2006: EV1 Servers merges with The Planet, a separate Texas dedicated-hosting company founded in 1998 by Peter Pathos. GI Partners private equity owned both. The combined company traded as The Planet.
+- 2001: EV1 launches a dedicated server division called Rackshack.net. This was the brand that owned the Houston facility when its first transformer explosion happened, in June 2003.
+- A bit later, Rackshack rebrands to EV1 Servers, reportedly because the racks weren't in a shack anymore once they had built proper datacenters.
+- May 2006: EV1 Servers merges with The Planet, a separate Texas dedicated hosting company founded in 1998 by Peter Pathos. GI Partners, the private equity firm, owned both, and the combined company traded as The Planet.
 - May 31, 2008: The H1 explosion happens at the old EV1 / Rackshack datacenter, which is exactly why Wikipedia calls it "an EV1 Servers legacy datacenter."
-- August 2010: GI Partners acquires SoftLayer as well.
+- August 2010: GI Partners acquires SoftLayer too.
 - November 16, 2010: The Planet officially rebrands to SoftLayer.
-- June 4, 2013: IBM acquires SoftLayer for an estimated $2 billion, making it the foundation of IBM's cloud business.
+- June 4, 2013: IBM acquires SoftLayer for an estimated $2 billion, which becomes the basis for IBM Cloud.
 - Later: The SoftLayer brand is retired entirely, and the operation becomes part of IBM Cloud Infrastructure.
 
-So the company I signed up with as The Planet in 2008 is, today, part of IBM. Somewhere between "Rackshack" and "IBM Cloud" is an entire era of how the internet was hosted.
+So the company I signed up with as The Planet in 2008 is now part of IBM. Somewhere between Rackshack and IBM Cloud is an entire era of how the internet was hosted.
 
 As for me, I left SoftLayer for Hetzner on November 2, 2012. Funnily enough, I had first emailed Hetzner about it back in August 2011, asking whether they offered a DNS service before I committed to the move. They wrote back the same day saying yes. I then sat on it for fifteen months before actually pulling the trigger. Some things never change.

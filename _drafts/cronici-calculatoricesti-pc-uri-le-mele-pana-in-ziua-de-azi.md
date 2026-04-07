@@ -10,15 +10,21 @@ Cumpărată de la debo.ro, 2011.10.07, poză cu garantia pe Google Photos, actel
 
 === !? 2012 !? ===
 
+În august 2011 am observat că pozele prelucrate acasă arătau cu totul altfel la serviciu, așa că am făcut upgrade la monitor: un **HP ZR24w**, pentru redarea corectă a culorilor, cumpărat de la eMag cu 1.679,99 lei. De la momentul cumpărării n-am mai atins setările. ([sursa](https://www.rusiczki.net/2012/05/17/aventuri-in-fotografia-digitala/))
+
 2013-01-21 (in poze) - placa de baza ASRock E350M1, memorie si carcasa Inter Tech pentru media player. Prima experienta cu mini ITX, foarte placut impresionat.
 
 2013-03-10 - Am făcut NAS din calculatorul vechi - https://www.rusiczki.net/2013/03/10/joaca-de-a-nas-ul/
+
+2013-03-14 - Primul Windows **legal** pe calculatorul de acasă, după 15 ani. Ioana avea deja un ultrabook ACER cu Windows 7 din fabrică, dar ăla nu conta. ([sursa](https://www.rusiczki.net/2013/03/14/acel-sentiment-placut/))
 
 prin 2013 iar m-a apucat idea de silent și credeam că cel mai silent pot fi prin răcire cu apă. Cu prima versiune am dat-o în bară, pompa era zgomotoasă rău.
 
 2013.02.15 - Carcasa Nanoxia Deep Silence 1 (Neagra)
 
-2013.05.02 - Poze când am pus la vânzare Mac mini și MacBook
+Prin aprilie 2013 am cedat tentației unui coleg de muncă și am cumpărat de la el un **MacBook Pro**. Am făcut upgrade grabnic la SSD și mai târziu, cu un adaptor, am pus înapoi și hard-ul original în locul unității optice. ([sursa](https://www.rusiczki.net/2013/12/31/2013-marea-retrospectiva/))
+
+2013.05.02 - Poze când am pus la vânzare Mac mini și MacBook-ul vechi din 2007 (vândute rapid unei firme din Cluj)
 
 3 comenzi in 2013 de la aquatuning.de
 
@@ -56,6 +62,8 @@ Reservoir: Innovatek AGB-O-Matic
 
 2017.10.28 - montaj - poze pe Google Photos
 
+Prin 2018 fenomenul crypto mining a creat o penurie masivă de plăci video și surse de alimentare — stocuri goale, prețuri umflate. Tocmai când puteai face un PC bun fără să cheltui o avere. ([sursa](https://www.rusiczki.net/2018/02/05/cryptobolunezenia/))
+
 Din 2017 tot duceam la Baia Sprie laptop-ul să plătesc facturile mamei mele prin Internet până m-am enervat și am luat o placă de bază de putere laptop low end. De fapt înainte să fac asta am încercat să înviu media player-ul in 2017.02.23 dar s-a dovedit a nu fi de ajuns. Poze din 2017.05.09 am cumparat mobo nou. În 2017.05.18 era instalat la Baia Sprie pe primul LCD.
 
 ### 8. După 23 de ani, primul laptop cu Windows
@@ -72,10 +80,15 @@ Din 2017 tot duceam la Baia Sprie laptop-ul să plătesc facturile mamei mele pr
 - Vise de DJ, îmi trebuia o placă de sunet cu 2 ieșiri, pe o ieșire să meargă ce se aude și pe celaltă să pot asculta în căști ce pregătesc. Placa de sunet mi-am luat-o, și a fost una dintre cele mai bune investiții în hardware, dar DJ nu am ajuns. m-audio firewire audiophile - 2006 - https://www.rusiczki.net/2010/06/29/best-piece-of-hardware-ever/
 - 2012.01.24 - Apoi am luat un Traktor Audio 2 DJ de pe Okazii, cred că ăsta a fost al doilea.
 - Apoi încet am revenit la plăcile de sunet on-board pe de-o parte și inițial KRK Rokit prin mixer Behringer cu placă audio încorporată și apoi prin Scarlett 2i2.
+- Am câștigat de la [Sound Creation](http://www.soundcreation.ro) două premii: pe 20 noiembrie 2013 am trimis poza „Black Beats" (cu Maschine, MacBook și pisica), pe 26 noiembrie am aflat că am câștigat runda 1 — un **pop-filtru LD System D910**. Pe 5 decembrie 2013 am câștigat și marele premiu al rundei de Black Friday — o pereche de **căști Audio Technica 910 Pro** — pentru că, se pare, nimeni altcineva nu a mai comandat de Black Friday. ([sursa](https://www.rusiczki.net/2013/12/31/2013-marea-retrospectiva/))
+- **Sennheiser HD 518** — una dintre cele mai bune căști la nivel consumer; o aveam deja în octombrie 2013 (a doua Sennheiser, sau una ulterioară celei din 2006). ([sursa](https://www.rusiczki.net/2013/10/29/logitech-h390-usb-headset-quick-review/))
+- Logitech H390 USB headset — cumpărat pentru MacBook (USB, că jack dublu nu mergea), returnat după o zi din cauza unui hum/ground loop persistent. ([sursa](https://www.rusiczki.net/2013/10/29/logitech-h390-usb-headset-quick-review/))
+- **Blue Microphones Yeti (Platinum Edition)** — cumpărat în noiembrie 2013 prin prietenul Iov, care l-a comandat de pe Amazon.com ($109,99) și l-a adus din SUA. În februarie 2014 (13 feb) am comandat de pe voelkner.de și suportul anti-șoc **Blue Microphones The Radius** (54,05€ + transport = 65,12€), livrat la Baia Sprie.
 - Caștile Audio Technica cumpărate de un Black Friday.
 
 #### Playere
 
+- **iPod 2nd generation (20GB)** — cumpărat second-hand în ianuarie 2004 de la un tip din Galați. Cel mai satisfăcător gadget cumpărat până atunci. A necesitat o placă FireWire pentru a-l conecta la PC. A urmat și un episod cu înlocuirea bateriei. ([sursa](https://www.rusiczki.net/2004/01/11/a-week-of-packages-part-2-ipod/), [sursa2](https://www.rusiczki.net/2004/04/02/installing-a-new-battery-into-a-2nd-generation-ipod/))
 - minidisc sony - 2001 - 2004 (este mentionat în articolul cu switch) - destul de multe mențiuni despre el https://www.rusiczki.net/search/?janosrusiczki%5Bquery%5D=minidisc
 - waitec hip hop, cumparat in 2002 https://www.rusiczki.net/2004/04/13/waitec-hiphop-sold/
 

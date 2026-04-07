@@ -11,6 +11,8 @@ description: Waited a week for my SVBONY order to ship, only to find out that th
 
 A few notes on what happened when I tried to order an SVBONY SV605CC astronomy camera from SVBONY's official European store. Short version: I'm disappointed, and I figure other buyers might want to know what they could be walking into.
 
+*Edit, a few hours later: things got worse while I was writing this. See the [Updates](#updates) at the bottom.*
+
 ## The purchase
 
 I placed the order on March 31, 2026 for the camera bundled with a filter, total €650, which by any measure is not pocket change. The product page said "in stock" with an estimated delivery of 8 - 12 business days. I live in Romania, and I specifically went with the EU store instead of AliExpress (or whichever other channel) because I wanted a quick, painless delivery from inside Europe. Which is, you know, the whole point of having an EU storefront in the first place.

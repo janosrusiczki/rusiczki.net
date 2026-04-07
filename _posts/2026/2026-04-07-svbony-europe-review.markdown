@@ -50,7 +50,7 @@ If the page had said "ships in 2-3 weeks" I would have shrugged and either order
 
 [![DHL package update email](https://content.rusiczki.net/2026/dhl-package-update.png)](https://content.rusiczki.net/2026/dhl-package-update.png){:.glightbox}
 
-So apparently the package has been handed over to DHL after all, is being prepared for shipment to Romania, and should arrive in 3-4 business days, delivered by Cargus. For a brief moment I wondered if I should even bother publishing this post anymore.
+So it seems that the package has been handed over to DHL after all, it is being prepared for shipment to Romania and should arrive in 3-4 business days. For a brief moment I wondered if I should even bother publishing this post anymore, but then...
 
 **Update, April 7, a bit later**: Then SVBONY support actually got back to me. Here's what they said:
 
@@ -61,10 +61,10 @@ So apparently the package has been handed over to DHL after all, is being prepar
 >
 > Other products, it is on the way. And now the tracking info has been updated, I think you will receive it in 3-5 business days.
 
-So the DHL package isn't the camera. It's the SV220 dual-band H-alpha/OIII narrowband filter and the SV226 filter drawer that goes with it. Pretty pointless on their own, given that the SV605CC, you know, the camera I was actually waiting for, won't ship until the end of April or the beginning of May. The "in stock" label was indeed a lie.
+So the DHL package is not the camera. It's the SV220 dual-band H-alpha/OIII narrowband filter and the SV226 filter drawer from the bundle. Completely useless on their own, given that the camera I was actually waiting for, won't ship until the end of April or the beginning of May. So I was right, the "in stock" label is indeed a lie.
 
 Also, while I'm writing this, the SV605CC is *still* listed as "In Stock" on the SVBONY website. Screenshot:
 
 [![SV605CC still listed as "In Stock" on SVBONY's website on April 7, 2026](https://content.rusiczki.net/2026/svbony-still-in-stock.png)](https://content.rusiczki.net/2026/svbony-still-in-stock.png){:.glightbox}
 
-So slimy.
+Slimy!

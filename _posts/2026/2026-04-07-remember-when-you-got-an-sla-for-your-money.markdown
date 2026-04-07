@@ -5,6 +5,7 @@ date: 2026-04-07 14:28:00 +03:00
 categories:
 - technical
 - rant
+- blog history
 - english
 description: In 2008, a datacenter exploded and I got a full month of free hosting. In 2026, my AI subscription terms say payments are non-refundable, full stop.
 ---
@@ -49,7 +50,7 @@ P.S.2 Since the description of this blog still calls me an *incurable nostalgic*
 - May 31, 2008: The H1 explosion happens at the old EV1 / Rackshack datacenter, which is exactly why Wikipedia calls it "an EV1 Servers legacy datacenter."
 - August 2010: GI Partners acquires SoftLayer too.
 - November 16, 2010: The Planet officially [rebrands to SoftLayer](https://techcrunch.com/2010/11/08/the-planet-softlayer/).
-- June 4, 2013: IBM acquires SoftLayer for an estimated $2 billion, which becomes the basis for IBM Cloud.
+- June 4, 2013: [IBM acquires SoftLayer](https://www.bloomberg.com/news/articles/2013-06-04/ibm-to-acquire-cloud-computing-provider-softlayer-technologies) for an estimated $2 billion, which becomes the basis for IBM Cloud.
 - Later: The SoftLayer brand is retired entirely, and the operation becomes part of IBM Cloud Infrastructure.
 
 So the company I signed up with as The Planet in 2008 is now part of IBM. Somewhere between Rackshack and IBM Cloud is an entire era of how the internet was hosted.

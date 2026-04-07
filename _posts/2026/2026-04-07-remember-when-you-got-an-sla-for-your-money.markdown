@@ -42,13 +42,13 @@ The Web Hosting Talk thread covering it was titled "[Data Center Explosion, Fire
 
 P.S.2 Since the description of this blog still calls me an *incurable nostalgic*, here is the full corporate lineage of the company I signed up with in 2008. The arc from Rackshack to IBM Cloud is something else:
 
-- 1998: Robert Marsh founds Everyones Internet (EV1) in Houston, originally as a dial-up ISP.
-- 2001: EV1 launches a dedicated server division called Rackshack.net. This was the brand that owned the Houston facility when its first transformer explosion happened, in June 2003.
+- 1998: [Robert Marsh](https://www.netcraft.com/blog/interview_ev1servers_ceo_robert_marsh/) founds Everyones Internet (EV1) in Houston, originally as a dial-up ISP.
+- 2001: EV1 launches a dedicated server division called [Rackshack.net](https://news.ycombinator.com/item?id=16903774). This was the brand that owned the Houston facility when its first transformer explosion happened, in June 2003.
 - A bit later, Rackshack rebrands to EV1 Servers, reportedly because the racks weren't in a shack anymore once they had built proper datacenters.
-- May 2006: EV1 Servers merges with The Planet, a separate Texas dedicated hosting company founded in 1998 by Peter Pathos. GI Partners, the private equity firm, owned both, and the combined company traded as The Planet.
+- May 2006: EV1 Servers merges with [The Planet](https://en.wikipedia.org/wiki/The_Planet_Internet_Services), a separate Texas dedicated hosting company founded in 1998 by Peter Pathos. GI Partners, the private equity firm, owned both, and the combined company traded as The Planet.
 - May 31, 2008: The H1 explosion happens at the old EV1 / Rackshack datacenter, which is exactly why Wikipedia calls it "an EV1 Servers legacy datacenter."
 - August 2010: GI Partners acquires SoftLayer too.
-- November 16, 2010: The Planet officially rebrands to SoftLayer.
+- November 16, 2010: The Planet officially [rebrands to SoftLayer](https://techcrunch.com/2010/11/08/the-planet-softlayer/).
 - June 4, 2013: IBM acquires SoftLayer for an estimated $2 billion, which becomes the basis for IBM Cloud.
 - Later: The SoftLayer brand is retired entirely, and the operation becomes part of IBM Cloud Infrastructure.
 

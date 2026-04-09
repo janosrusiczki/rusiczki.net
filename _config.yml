@@ -27,8 +27,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-archives
 
-disqus:
-  username: kitsched
+remark42:
+  host: https://comments.rusiczki.net
+  site_id: rusiczki.net
 
 exclude:
   - README.md

@@ -6,7 +6,7 @@ categories:
 - general
 - english
 ---
-[![Christmas Tree](https://content.rusiczki.net/blogpics/christmas_tree.jpg)](https://content.rusiczki.net/blogpics/christmas_tree.jpg){:.glightbox}
+![Christmas Tree](https://content.rusiczki.net/blogpics/christmas_tree.jpg)
 
 OK. I rushed it with my last entry. Story: I woke up (phone call). Peeked out on the window. Saw snow falling. Wrote blog entry. Went back to sleep. When I woke up again after about 3 hours there was no trace of snow falling from the sky. The level of snow only raised with about 3 centimeters. Too bad.
 

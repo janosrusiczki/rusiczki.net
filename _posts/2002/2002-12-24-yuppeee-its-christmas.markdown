@@ -6,7 +6,7 @@ categories:
 - general
 - english
 ---
-[![Christmas Tree - Final Phase](https://content.rusiczki.net/blogpics/chrismtas_tree-final.jpg)](https://content.rusiczki.net/blogpics/chrismtas_tree-final.jpg){:.glightbox}
+![Christmas Tree - Final Phase](https://content.rusiczki.net/blogpics/chrismtas_tree-final.jpg)
 
 Here it is! You can see about an afternoon's work on the left side. Taking photos of a Christmas tree is kind of problematic because all those shiny things reflect the camera's flash and you end up with an ugly pic. So I assure you that the actual tree is a lot more beautiful than what you can see here.
 

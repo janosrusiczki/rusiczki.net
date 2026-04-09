@@ -6,7 +6,7 @@ categories:
 - games
 - english
 ---
-[![Need for Speed: Underground screenshot](https://content.rusiczki.net/blogpics/need_for_speed_underground.jpg)](https://content.rusiczki.net/blogpics/need_for_speed_underground.jpg){:.glightbox}
+![Need for Speed: Underground screenshot](https://content.rusiczki.net/blogpics/need_for_speed_underground.jpg)
 
 I've been playing this for the last few days and all I can say is: whew! It's fast and... no, not furious, but fun! A lot of fun! Yesterday my middle finger hurt after pressing most of the day the accelerate button on my keyboard. So I could say it's a little addictive too...
 

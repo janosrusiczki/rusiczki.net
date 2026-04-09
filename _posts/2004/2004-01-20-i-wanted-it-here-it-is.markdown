@@ -6,7 +6,7 @@ categories:
 - life
 - english
 ---
-[![Winter in front of my house](https://content.rusiczki.net/blogpics/winter_in_front_of_my_house.jpg)](https://content.rusiczki.net/blogpics/winter_in_front_of_my_house.jpg){:.glightbox}
+![Winter in front of my house](https://content.rusiczki.net/blogpics/winter_in_front_of_my_house.jpg)
 
 Snow and winter. The first obviously brought the second even if the second was theoretically here a long time ago. What a philosopher I am.
 

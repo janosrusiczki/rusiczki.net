@@ -6,7 +6,7 @@ categories:
 - games
 - english
 ---
-[![A bus riding through a town in Transport Tycoon](https://content.rusiczki.net/blogpics/openttd_kitsch_transports_26th_april_2006.gif)](https://content.rusiczki.net/blogpics/openttd_kitsch_transports_26th_april_2006.gif){:.glightbox}
+![A bus riding through a town in Transport Tycoon](https://content.rusiczki.net/blogpics/openttd_kitsch_transports_26th_april_2006.gif)
 
 ... playing way too much Transport Tycoon when just seeing a screenshot makes you right click and drag the mouse to see the rest of the map. As it happened a few days ago. But now seriously, this game puts an incredible spell on me, like no other game does. For example yesterday I fired it up just "to see something" at about 2 PM and there I was seeing my Windows desktop again at 8 PM and wondering just where did the day went?
 

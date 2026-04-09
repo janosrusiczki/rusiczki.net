@@ -6,7 +6,7 @@ categories:
 - life
 - english
 ---
-[![Good cats](https://content.rusiczki.net/blogpics/kittens_in_a_box.jpg)](https://content.rusiczki.net/blogpics/kittens_in_a_box.jpg){:.glightbox}
+![Good cats](https://content.rusiczki.net/blogpics/kittens_in_a_box.jpg)
 
 "Many good people fit well in a small space" teaches us a Hungarian saying. I don't know if it works for cats too but judging from this picture it seems so. However saying this is a little exagerated, because that black cat isn't exactly the definition of "good". He's naughty. Really-really naughty.
 

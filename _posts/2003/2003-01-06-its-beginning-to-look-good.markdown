@@ -6,7 +6,7 @@ categories:
 - general
 - english
 ---
-[![Snowing...](https://content.rusiczki.net/blogpics/snow.jpg)](https://content.rusiczki.net/blogpics/snow.jpg){:.glightbox}
+![Snowing...](https://content.rusiczki.net/blogpics/snow.jpg)
 
 I hope that I'm not getting my hopes high again... Though it's not that cold outside. I'm just keeping my fingers crossed! Please please please. If only a week of boarding. I'll be there. Day by day. 6 hours. As much as I can. Just a little snow. Pleeease!
 

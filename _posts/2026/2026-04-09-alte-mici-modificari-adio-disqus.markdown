@@ -1,0 +1,31 @@
+---
+layout: post
+title: Alte mici modificări (Adio Disqus!)
+date: 2026-04-09 23:42:21 +03:00
+categories:
+  - blog history
+  - technical
+description: După ani de "merge și așa", am mutat comentariile blogului de pe Disqus pe o instanță Remark42 găzduită de mine.
+image: https://content.rusiczki.net/2026/04/disqus-to-remark42.jpg
+---
+![De la Disqus la Remark42](https://content.rusiczki.net/2026/04/disqus-to-remark42.jpg "De la Disqus la Remark42")
+
+De curând am adăugat niște statistici drăguțe pe [pagina de About](https://www.rusiczki.net/about/#statistics) pe lângă numărul total de articole publicate și cuvinte scrise care existau de mai de mult: câți ani au trecut de la primul articol, cât ar dura să citești toată arhiva dintr-un foc, luna cea mai prolifică, pauzele cele mai mari dintre articole și alte lucruri pe care nici nu știam că vreau să le știu până nu mi le-a recomandat [Claudiu](https://claude.ai/). Și cum tot mă apucasem să fac ordine prin curte, am zis să mă ocup și de o chestie care era în to-do de mult: treaba cu Disqus.
+
+Dacă ați citit articolul despre [micile ajustări](https://www.rusiczki.net/2023/01/12/mici-ajustari/) de acum câțiva ani, probabil vă mai amintiți o frază aparent banală despre cum Disqus "a fost foarte ușor de adaptat" atunci când am trecut blogul pe dark mode: am intrat în panoul lor de administrare, am bifat o opțiune și gata. Articolul de față pleacă tot de la acea frază, doar că de data asta povestea nu se mai termină cu o bifă, ci cu o despărțire.
+
+Am folosit Disqus ani buni. L-am adoptat ori pe vremea când motorul blogului era încă Wordpress, ori când [am trecut pe Jekyll](https://www.rusiczki.net/2018/01/08/a-new-blogging-engine/), nu mai țin minte exact. Comentariile pe un site static sunt (sau erau) o durere de cap: nu ai unde să le stochezi, nu ai cum să le moderezi fără să inventezi un întreg backend. Disqus a fost soluția leneșă (și funcțională!): mi-am făcut cont la ei, am copiat o bucată de JavaScript, și gata: aveam comentarii! Din punctul ăsta de vedere a fost imbatabil.
+
+Sau cel puțin așa credeam. La un moment dat am început să observ că [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) îmi bloca o grămadă de request-uri către tot felul de domenii asociate cu Disqus atunci când încărcam paginile blogului meu. Nu făceam nimic special, doar intram pe un articol, iar contorul de la uBlock se învârtea ca cel de curent când bagi reșoul în priză. "Interesant", mi-am zis, și am uitat imediat de toată treaba. Apoi, mai recent, după o instalare proaspătă de Firefox, am văzut că [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) bloca *întreg formularul* Disqus. Tot widget-ul, cap-coadă. Atunci mi-am zis: "hopa, e groasă". Dacă extensiile mele de privacy au decis că cel mai simplu este să ascundă serviciul cu totul, probabil că nu e de bine...
+
+În timpul redactării prezentului articol am deschis și [articolul de pe Wikipedia despre Disqus](https://en.wikipedia.org/wiki/Disqus), să mă documentez, și am cam rămas cu gura căscată. I-auzi: prin 2017 s-a aflat că o copie a bazei lor de date din 2012 se scursese pe undeva, expunând 17,5 milioane de conturi. O treime din aceste conturi aveau parolele criptate cu SHA-1, un algoritm considerat compromis de prin 2005 încoace. Dacă aș fi fost mai atent la vremea respectivă, probabil că își lua șut imediat. Dar povestea continuă: tot în 2017 a avut loc și vânzarea către o firmă de publicitate și marketing digital, adică pentru cei care nu urmăresc industria e ca și cum popa la care te-ai spovedit și-ar vinde notițele unui ziar de scandal. Iar pe urmă, în 2021, Autoritatea Norvegiană de Protecție a Datelor a anunțat intenția de a amenda Disqus cu 2,5 milioane de euro pentru încălcări ale GDPR, mai exact pentru transferul neautorizat de date către parteneri din publicitate. De fapt, Wikipedia descrie serviciul ca fiind *"a web bug which tracks a user's activities, even when they are not logged in, across different sites"*. Frumos, ce să zic. Nu e de mirare că nu prea am mai văzut widget-ul lor de comentarii pe alte site-uri.
+
+Acum câțiva ani, când primele îndoieli începeau să-și facă loc, am făcut o primă încercare de migrare spre [Staticman](https://staticman.net/), un proiect simpatic și foarte nerdy care primea un POST cu un comentariu, îl transforma într-un fișier Markdown și îl dădea commit direct în repo-ul blogului. Era exact ce-mi trebuia: comentariile blogului meu în propriul meu repozitoriu git. Am pregătit un `staticman.yml`, am scris un formular HTML, am configurat o mică instanță de Heroku, parcă am și încercat un comentariu sau două, și apoi în dulcele meu stil clasic m-am împotmolit. Nu mai știu de ce nu am dus treaba la capăt, cert este că Heroku nu mai are ofertă gratuită de ceva vreme, iar proiectul Staticman a fost dat uitării. Codul meu a rămas uitat în repozitoriu...
+
+Când m-am pus iarăși pe treabă, l-am rugat pe Claude să-mi caute alternative moderne pentru un sistem de comentarii pe un site generat static. A înșirat câteva opțiuni, și am **remarcat** imediat [Remark42](https://remark42.com/): un proiect activ (neabandonat) scris în Go, self-hosted și cu un script de import pentru Disqus. Fiindcă rulez oricum containere Docker pe VPS-ul meu [Hetzner](https://www.hetzner.com/), l-am instalat pe subdomeniul `comments.rusiczki.net` în nici o oră.
+
+Migrarea comentariilor a mers mai bine decât îmi imaginam. Export din panoul Disqus (primești un email cu un link spre un `.xml.gz`), upload, o comandă `docker exec` și gata! Comentariile vechi au apărut sub articolele lor. Dacă vă mai amintiți de vreun comentariu mai vechi pe care l-ați lăsat pe aici prin arhivă, vă invit să-l verificați, ar trebui să fie acolo.
+
+Tot cu ocazia asta am șters și scheletul Staticman orfan din vechea tentativă: formularul comentat, fișierul `staticman.yml`, include-urile neutilizate. Și dacă tot eram pe val, am șters și directorul `_disqus/` cu exportul din 2021 și un script Ruby pe jumătate scris... O altă ciornă care stătea de ani buni în repo.
+
+Și cum acesta e primul articol publicat după migrare, dacă vreți să încercați Remark42, defilați în jos și lăsați un comentariu. Promit că nimeni nu vă va mai urmări pe aici cu pixeli invizibili și alte șmecherii slinoase.

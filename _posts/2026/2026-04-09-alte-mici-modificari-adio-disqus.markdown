@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alte mici modificări (Adio Disqus!)
-date: 2026-04-09 19:00:00 +03:00
+date: 2026-04-09 23:42:21 +03:00
 categories:
   - blog history
   - technical

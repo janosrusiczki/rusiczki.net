@@ -9,6 +9,7 @@ description: Ruby & Web Developer. Father. Incurable nostalgic.
 url: https://www.rusiczki.net
 baseurl: /
 permalink: /:year/:month/:day/:title/
+timezone: UTC
 future: true
 
 author:

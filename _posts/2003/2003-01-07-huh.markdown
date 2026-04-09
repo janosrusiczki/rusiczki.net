@@ -6,4 +6,4 @@ categories:
 - web
 - english
 ---
-Shouldn't this be the <a href="http://www.cccw.ro" title="What the hell!?">most communist site</a> of them all? Just for the safety of it I took <a href="https://content.rusiczki.net/blogpics/cccw_ro_fucked.php" onclick="window.open('https://content.rusiczki.net/blogpics/cccw_ro_fucked.php','popup','width=1045,height=824,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">a screenshot</a> for my archives... ;-)
+Shouldn't this be the [most communist site](http://www.cccw.ro "What the hell!?") of them all? Just for the safety of it I took [a screenshot](https://content.rusiczki.net/blogpics/cccw_ro_fucked.jpg){:.glightbox} for my archives... ;-)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pensionarea mult prea întârziată a popup-urilor
-date: 2026-04-11 14:04:27 +03:00
+date: 2026-04-11 14:52:33 +03:00
 categories:
   - blog history
   - technical

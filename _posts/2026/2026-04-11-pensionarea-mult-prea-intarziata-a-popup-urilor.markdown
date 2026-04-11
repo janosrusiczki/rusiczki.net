@@ -5,7 +5,7 @@ date: 2026-04-11 14:52:33 +03:00
 categories:
   - blog history
   - technical
-description: Am curățat 28 de articole vechi care încă mai aveau popup-uri JavaScript rămase din era Movable Type. Bonus\: tur nostalgic inclus!
+description: "Am curățat 28 de articole vechi care încă mai aveau popup-uri JavaScript rămase din era Movable Type. Bonus: tur nostalgic inclus!"
 image: https://content.rusiczki.net/2026/04/pensionarea-popup-urilor.jpg
 ---
 Continuând [curățenia prin curtea blogului](https://www.rusiczki.net/2026/04/09/alte-mici-modificari-adio-disqus/) pornită alaltăieri prin despărțirea de Disqus, m-am uitat azi la o chestie care mă sâcâia de demult: popup-urile vechi. Vă mai amintiți ce erau alea? Pe vremea când blogul rula pe Movable Type (adică [până în aprilie 2009](https://www.rusiczki.net/2009/04/02/keeping-up-with-the-times/)), pozele mai mari le afișam în popup-uri care se deschideau după un click pe un thumbnail sau link. Motivația inițială a fost evident lățimea de bandă, mi-am început blogul de pe dial-up, și îmi doream să se încarce rapid nu să stea să tragă poze enorme (pentru acele vremuri). Elegant pentru 2002, jalnic pentru 2026. Popup-urile nu mai funcționează pe telefoane, iar pe desktop se deschid ca un simplu tab. Oricum au fost abuzate și au căzut din grațiile internauților (bleah, nu-mi place acest cuvânt) destul de repede, m-am documentat și am aflat că prin 2004 chiar și Internet Explorer 6 a primit un popup blocker nativ. Ce să mai spun de Firefox care avea așa ceva de doi ani, Opera de patru(!!!), iar utilizatorii învățau să le blocheze din reflex dar eu continuam totuși, inocent, să le folosesc pentru pozele mele.

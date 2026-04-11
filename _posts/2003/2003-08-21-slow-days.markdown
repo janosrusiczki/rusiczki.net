@@ -4,6 +4,7 @@ title: Slow days
 date: 2003-08-21 14:27:13.000000000 +02:00
 categories:
 - general
+- english
 ---
 Not much happening.
 

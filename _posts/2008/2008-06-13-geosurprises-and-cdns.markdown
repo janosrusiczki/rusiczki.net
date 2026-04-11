@@ -5,6 +5,7 @@ date: 2008-06-13 08:37:33.000000000 +02:00
 categories:
 - web
 - technical
+- english
 ---
 <img src="https://content.rusiczki.net/blogpics/firefox-status-bar.png" width="500" height="53" border="0" alt="Firefox Status Bar with Flagfox" class="image"/>
 

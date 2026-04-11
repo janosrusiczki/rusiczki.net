@@ -6,6 +6,7 @@ categories:
 - life
 - helicopter
 - rc
+- english
 ---
 I rarely promote other projects of mine around here, a notable exception being the left sidebar, but this time I'll make an exception as it's something which I very much like.
 

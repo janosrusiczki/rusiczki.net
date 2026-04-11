@@ -4,6 +4,7 @@ title: Is eToro a scam?
 date: 2009-07-10 12:42:59.000000000 +02:00
 categories:
 - web
+- english
 ---
 Or the fastest way I ever lost $50. Actually "only" $25...
 

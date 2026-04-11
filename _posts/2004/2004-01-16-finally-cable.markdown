@@ -4,6 +4,7 @@ title: Finally cable!
 date: 2004-01-16 15:12:03.000000000 +01:00
 categories:
 - life
+- english
 ---
 First came <a href="http://www.rusiczki.net/2004/01/05/seinfeld/">the will</a>: "I want to re-install my TV card to be able to watch Seinfeld!"
 

@@ -5,6 +5,7 @@ date: 2009-04-30 09:06:37.000000000 +02:00
 categories:
 - rc
 - rc helicopter
+- english
 ---
 Since I have a few new contacts (mostly on Twitter) interested in the subject I thought that now and then I'll post a few words about my flights. It'll also be interesting for me too to re-read later on, to see how I progressed. It was the same with the snowboarding experience...
 

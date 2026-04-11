@@ -4,6 +4,7 @@ title: El grande blooper
 date: 2004-03-04 03:35:52.000000000 +01:00
 categories:
 - web
+- english
 ---
 A quote from the [Diverta Online](http://www.dol.ro) newsletter I received yesterday (translated):
 

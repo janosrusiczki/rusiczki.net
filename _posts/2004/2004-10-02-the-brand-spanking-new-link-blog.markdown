@@ -4,6 +4,7 @@ title: The brand spanking new link blog
 date: 2004-10-02 12:43:03.000000000 +02:00
 categories:
 - web
+- english
 ---
 OK, so after five days of using and loving it and two days after promising I fully integrated del.icio.us into my site.
 

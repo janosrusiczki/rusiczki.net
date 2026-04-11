@@ -4,6 +4,7 @@ title: Zen Pinball
 date: 2011-12-19 03:31:42.000000000 +01:00
 categories:
 - games
+- română
 ---
 [![Zen Pinball](https://content.rusiczki.net/2011/12/20111219-023235.jpg)](https://content.rusiczki.net/2011/12/20111219-023235.jpg)
 

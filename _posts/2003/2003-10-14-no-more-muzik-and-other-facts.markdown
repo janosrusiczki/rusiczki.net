@@ -4,6 +4,7 @@ title: No more Muzik and other facts
 date: 2003-10-14 17:00:08.000000000 +02:00
 categories:
 - general
+- english
 ---
 Here are some tidbits which I consider <i>news</i>:
 

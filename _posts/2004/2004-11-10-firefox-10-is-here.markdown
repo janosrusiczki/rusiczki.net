@@ -4,6 +4,7 @@ title: Firefox 1.0 is here!
 date: 2004-11-10 07:36:14.000000000 +01:00
 categories:
 - technical
+- english
 ---
 <a href="http://www.mozilla.org/products/firefox/"><img src="http://rheet.mozilla.org/sfx-images/affiliates/Banners/468x60/trust.png" width="468" height="60" border="0" class="image" alt="Firefox Banner"></a>
 

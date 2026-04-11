@@ -4,6 +4,7 @@ title: Positive feedback
 date: 2004-04-28 21:30:15.000000000 +02:00
 categories:
 - web
+- english
 ---
 Today I received the first feedback email from a person completely unknown to me who told me that he reads these babblings regularly. Well, what can I say other than this one email really put a big smile on my face.
 

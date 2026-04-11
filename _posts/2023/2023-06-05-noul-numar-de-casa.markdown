@@ -5,6 +5,7 @@ date: 2023-06-05 12:51:00.000000000 +02:00
 categories:
 - cronică
 - tehnic
+- română
 image: https://content.rusiczki.net/2023/06/gata-noul-numar-de-casa-resized.jpg
 description: Mi-am proiectat și fabricat număr de casă la imprimanta 3D.
 ---

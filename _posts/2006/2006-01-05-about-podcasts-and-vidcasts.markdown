@@ -4,6 +4,7 @@ title: About podcasts and vidcasts
 date: 2006-01-05 21:51:28.000000000 +01:00
 categories:
 - web
+- english
 ---
 <img src="https://content.rusiczki.net/blogpics/itunes_podcasts_screenshot.gif" width="500" height="100" alt="iTunes podcasts screenshot" class="image" />
 

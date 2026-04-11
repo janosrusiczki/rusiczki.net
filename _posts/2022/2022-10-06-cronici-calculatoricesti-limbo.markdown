@@ -6,6 +6,7 @@ categories:
 - cronică
 - tehnic
 - cronici calculatoricești
+- română
 image: https://content.rusiczki.net/2022/10/ecuson-tabara-informatica.jpg
 description: Aproximativ despre perioada liceului când nu am avut calculator.
 ---

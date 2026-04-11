@@ -4,6 +4,7 @@ title: That naughty Yahoo! Messenger
 date: 2003-11-28 00:06:55.000000000 +01:00
 categories:
 - fun
+- english
 ---
 Thanks to my friend Cosmo I succeeded in spicing up my <a href="http://messenger.yahoo.com">Yahoo! Messenger</a> a little bit by downloading and installing the <a href="http://www.geocities.com/basefaces/">Basefaces Adult Smileys Collection</a>. No more boring chats.
 

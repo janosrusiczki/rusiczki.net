@@ -6,6 +6,7 @@ categories:
   - general
   - movies
   - oscars
+  - english
 ---
 
 Yes. I'm awake. And I'm watching them.

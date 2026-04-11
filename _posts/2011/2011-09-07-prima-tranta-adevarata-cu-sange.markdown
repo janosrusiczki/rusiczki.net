@@ -4,6 +4,7 @@ title: Prima trântă adevărată (cu sânge)
 date: 2011-09-07 11:50:43.000000000 +02:00
 categories:
 - bike
+- română
 ---
 După doi ani de bicicletă în era nouă (adică excluzând datul din copilărie / adolescență) în weekend-ul ăsta am tras prima trântă mai serioasă. Și mă gândeam să marchez acest moment definitoriu din viață printr-o însemnare pe blog. Și să adaug și [o poză cu urmările](https://content.rusiczki.net/2011/09/2011-09-05-14.30.23.jpg){:.glightbox}. Nu, nu îmi prezint mușchii (inexistenți). Haha.
 

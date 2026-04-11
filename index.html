@@ -11,7 +11,7 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date: "%A, %B %-d, %Y" }}</span>
+    <span class="post-date-comments">{{ post.date | date: "%A, %B %-d, %Y" }} - <a href="{{ post.url }}#comments"><span class="remark42__counter" data-url="{{ post.url | absolute_url }}"></span></a></span>
     
     {% if post.image %}
       <img src="{{ post.image }}" alt="Imagine ilustrativă pentru articolul: {{ post.title }}"/>
@@ -24,6 +24,7 @@ title: Home
     {% endif %}
   </div>
   {% endfor %}
+  {% include remark42-counter.html %}
 </div>
 
 <div class="pagination">

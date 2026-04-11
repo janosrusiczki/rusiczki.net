@@ -4,6 +4,7 @@ title: Blogging in Baia Mare
 date: 2005-04-30 09:24:58.000000000 +02:00
 categories:
 - web
+- english
 ---
 Well, well, well... What do you know?
 

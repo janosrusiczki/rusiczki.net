@@ -5,6 +5,8 @@ date: 2026-04-07 14:28:00 +03:00
 categories:
 - technical
 - rant
+- blog history
+- english
 description: In 2008, a datacenter exploded and I got a full month of free hosting. In 2026, my AI subscription terms say payments are non-refundable, full stop.
 ---
 
@@ -22,13 +24,11 @@ And here's the kicker: paying customers don't even get an SLA. Claude Pro is $20
 
 We used to have SLAs that meant something. Now we have status pages that perform optimism, billing systems that never sleep, and terms of service that promise you nothing. The old world was at least honest enough to admit when it had blown up and pay you back for the trouble. The new one keeps the green lights on, charges your card, and hopes you won't notice the smoke.
 
----
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;. Yes, the very same. It went down once while we were writing this, which felt fitting. I will not be receiving a refund.
+**Co-Authored-By**: Claude &lt;noreply@anthropic.com&gt; - Yep, the very same. It went down once while we were writing this, which felt fitting. I will not be receiving a refund.
 
 ---
 
-P.S. After I was done writing this, I asked Claude to search for details about the incident, thinking it had been forgotten in time. It actually came up with quite a lot.
+P.S. After I was done writing this, I asked Claude to search for details about the incident, thinking it had been forgotten in time. Quite the opposite!
 
 The 2008 explosion at The Planet's H1 facility in Houston was, apparently, a big enough deal to land on [Slashdot](https://tech.slashdot.org/story/08/06/01/1715247/explosion-at-theplanet-datacenter-drops-9000-servers), [The Register](https://www.theregister.com/2008/06/01/the_planet_houston_data_center_fire/), [Data Center Knowledge](https://www.datacenterknowledge.com/outages/explosion-at-the-planet-causes-major-outage), and even [SANS](https://isc.sans.edu/forums/diary/The+Planet+outage+what+can+we+all+learn+from+it/4504/). A few details I either forgot or never knew at the time:
 
@@ -38,3 +38,21 @@ The 2008 explosion at The Planet's H1 facility in Houston was, apparently, a big
 - Best detail of all: this was the second time that same Houston facility had an electrical explosion. A transformer blew there back in June 2003, when the company was still called Rackshack.
 
 The Web Hosting Talk thread covering it was titled "[Data Center Explosion, Fire or FBI Bust?](https://www.webhostingtalk.com/showthread.php?t=698809)", which is pretty much peak 2008 internet.
+
+---
+
+P.S.2 Since the description of this blog still calls me an *incurable nostalgic*, here is the full corporate lineage of the company I signed up with in 2008. The arc from Rackshack to IBM Cloud is something else:
+
+- 1998: [Robert Marsh](https://www.netcraft.com/blog/interview_ev1servers_ceo_robert_marsh/) founds Everyones Internet (EV1) in Houston, originally as a dial-up ISP.
+- 2001: EV1 launches a dedicated server division called [Rackshack.net](https://news.ycombinator.com/item?id=16903774). This was the brand that owned the Houston facility when its first transformer explosion happened, in June 2003.
+- A bit later, Rackshack rebrands to EV1 Servers, reportedly because the racks weren't in a shack anymore once they had built proper datacenters.
+- May 2006: EV1 Servers merges with [The Planet](https://en.wikipedia.org/wiki/The_Planet_Internet_Services), a separate Texas dedicated hosting company founded in 1998 by Peter Pathos. GI Partners, the private equity firm, owned both, and the combined company traded as The Planet.
+- May 31, 2008: The H1 explosion happens at the old EV1 / Rackshack datacenter, which is exactly why Wikipedia calls it "an EV1 Servers legacy datacenter."
+- August 2010: GI Partners acquires SoftLayer too.
+- November 16, 2010: The Planet officially [rebrands to SoftLayer](https://techcrunch.com/2010/11/08/the-planet-softlayer/).
+- June 4, 2013: [IBM acquires SoftLayer](https://www.bloomberg.com/news/articles/2013-06-04/ibm-to-acquire-cloud-computing-provider-softlayer-technologies) for an estimated $2 billion, which becomes the basis for IBM Cloud.
+- Later: The SoftLayer brand is retired entirely, and the operation becomes part of IBM Cloud Infrastructure.
+
+So the company I signed up with as The Planet in 2008 is now part of IBM. Somewhere between Rackshack and IBM Cloud is an entire era of how the internet was hosted.
+
+As for me, I left SoftLayer for Hetzner on November 2, 2012. Funnily enough, I had first emailed Hetzner about it back in August 2011, asking whether they offered a DNS service before I committed to the move. They wrote back the same day saying yes. I then sat on it for fifteen months before actually pulling the trigger. Some things never change.

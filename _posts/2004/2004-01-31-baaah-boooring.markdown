@@ -4,6 +4,7 @@ title: Baaah, boooring
 date: 2004-01-31 22:04:41.000000000 +01:00
 categories:
 - life
+- english
 ---
 Sitting in front of my computer. Clicking this and that while banging the speakers with Tom Middleton's remix of Rob Dougan's <i>Clubbed to Death</i>.
 

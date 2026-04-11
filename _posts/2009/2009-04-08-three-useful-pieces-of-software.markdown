@@ -5,6 +5,7 @@ date: 2009-04-08 09:00:48.000000000 +02:00
 categories:
 - technical
 - windows
+- english
 ---
 So now that <a href="http://www.rusiczki.net/2009/04/07/macheist-3/">MacHeist 3</a> is almost over and I filled up on Mac software, it's time to write a few words about Windows software I use because I'm forced to use by having a Windows PC at work...
 

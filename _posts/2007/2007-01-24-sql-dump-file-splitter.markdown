@@ -4,6 +4,7 @@ title: SQL Dump File Splitter
 date: 2007-01-24 14:02:39.000000000 +01:00
 categories:
 - technical
+- english
 ---
 
 Scenario: You are a conscious user and you back up your site's database every once in a while. And you sit smiling and content knowing that your precious data is safe. Just to discover after disaster strikes that you can't restore the contents of the SQL dump file because of upload size limitations or because [phpMyAdmin](http://www.phpmyadmin.net/) would run out of memory while decompressing the gzip / zip file.

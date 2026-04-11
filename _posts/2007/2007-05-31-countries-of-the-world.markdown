@@ -5,6 +5,7 @@ date: 2007-05-31 15:31:31.000000000 +02:00
 categories:
 - web
 - technical
+- english
 ---
 At least according to Apple...
 

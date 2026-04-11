@@ -4,6 +4,7 @@ title: It just keeps coming
 date: 2004-11-09 12:17:42.000000000 +01:00
 categories:
 - technical
+- english
 ---
 There's one thing I learned: once an e-mail address receives one spam message you can wave farewell to the days when you checked your account and what you received was genuine, mint, legit e-mail that was really addressed to you.
 

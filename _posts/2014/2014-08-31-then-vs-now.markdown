@@ -4,6 +4,7 @@ title: Then vs. Now
 categories:
 - life
 - cronică
+- română
 ---
 Nevastă-mea mă acuză că trăiesc în trecut de fiecare dată când îi arăt câte un post aici pe blog și o invit să ne amintim împreună cum a fost "atunci". Și are dreptate, căci recunosc: sunt un nostalgic incurabil.
 

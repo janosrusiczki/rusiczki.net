@@ -4,6 +4,7 @@ title: Damn GMT timestamps!
 date: 2003-09-23 21:13:55.000000000 +02:00
 categories:
 - php
+- english
 ---
 I'm working on a project. And my ambition was to store all timestamps in the database as GMT timestamps for maximum flexibility.
 

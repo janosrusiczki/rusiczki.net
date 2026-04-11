@@ -4,6 +4,7 @@ title: Champagne please
 date: 2008-04-08 11:58:50.000000000 +02:00
 categories:
 - web
+- english
 ---
 Entry number 500. FIVE HUNDRED. Whoohoo, hurray me!
 

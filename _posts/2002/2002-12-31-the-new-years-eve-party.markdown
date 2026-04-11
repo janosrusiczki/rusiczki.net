@@ -4,6 +4,7 @@ title: The New Year's Eve party
 date: 2002-12-31 08:57:12.000000000 +01:00
 categories:
 - general
+- english
 ---
 Initially I was considering partying with my long-time-no-see cousin (with whom I haven't really spoken since he came home). But yesterday late in the afternoon (when else? I slept all day yesterday!) I found out that he wasn't coming to the party I was expecting and so I also canceled my intention to go there. Because this would have been the most boring party I ever attend to. So, instead I've choosen the second most boring party to attend to.
 

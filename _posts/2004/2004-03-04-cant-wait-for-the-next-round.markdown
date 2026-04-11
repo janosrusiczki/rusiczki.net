@@ -4,6 +4,7 @@ title: Can't wait for the next round!
 date: 2004-03-04 02:38:19.000000000 +01:00
 categories:
 - photos
+- english
 ---
 ![Panorama of the slope at Cavnic](https://content.rusiczki.net/blogpics/cavnic_panorama.jpg)
 

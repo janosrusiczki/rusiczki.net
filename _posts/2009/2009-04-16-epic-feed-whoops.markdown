@@ -5,6 +5,7 @@ date: 2009-04-16 21:05:33.000000000 +02:00
 categories:
 - technical
 - blog history
+- english
 ---
 It looks like when [I moved everything to the root of the site](http://www.rusiczki.net/2009/04/05/heading-into-the-straight-line/) and created the redirects I forgot an essential one: the FEED!
 

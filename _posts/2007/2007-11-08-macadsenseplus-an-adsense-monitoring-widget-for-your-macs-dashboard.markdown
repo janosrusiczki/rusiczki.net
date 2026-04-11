@@ -5,6 +5,7 @@ date: 2007-11-08 13:05:28.000000000 +01:00
 categories:
 - technical
 - mac
+- english
 ---
 <img src="https://content.rusiczki.net/blogpics/macadsenseplus-first-version.png" width="191" height="294" alt="MacAdSensePlus screenshot" class="postimage"/>
 

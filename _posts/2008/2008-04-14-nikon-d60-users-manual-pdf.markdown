@@ -4,6 +4,7 @@ title: Nikon D60 User's Manual PDF
 date: 2008-04-14 10:46:47.000000000 +02:00
 categories:
 - general
+- english
 ---
 The <a href="https://content.rusiczki.net/blogstuff/D60_en.pdf">User's Manual</a> and the <a href="https://content.rusiczki.net/blogstuff/D60QSG_en.pdf">Quick Start Guide</a>, both in English.
 

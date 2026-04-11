@@ -4,6 +4,7 @@ title: Happy birthday Bogdan
 date: 2003-02-02 23:30:30.000000000 +01:00
 categories:
 - life
+- english
 ---
 ![De la Revu](https://content.rusiczki.net/blogpics/de-la-revu.gif)
 

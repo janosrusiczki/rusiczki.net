@@ -6,6 +6,7 @@ categories:
 - blog
 - ruby
 - technical
+- english
 image: https://content.rusiczki.net/2018/01/bricks-jekyll-github-travis.jpg
 description: How to use Travis to build and deploy your Jekyll site to your VPS through
   SSH.

@@ -6,6 +6,7 @@ categories:
   - general
   - movies
   - oscars
+  - english
 ---
 
 Steve Martin:

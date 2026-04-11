@@ -4,6 +4,7 @@ title: Wow!
 date: 2002-12-31 03:52:30.000000000 +01:00
 categories:
 - general
+- english
 ---
 Holy Cow! I want this <a href="http://www.copyleft.net/item.phtml?dynamic=1&page=product_642_front.phtml" title="Cool PHP T-Shirt">t-shirt</a>! I need it!
 

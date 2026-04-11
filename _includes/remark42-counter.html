@@ -1,0 +1,28 @@
+<script>
+  var remark_config = {
+    host: "{{ site.remark42.host }}",
+    site_id: "{{ site.remark42.site_id }}",
+    components: ["counter"]
+  };
+  (function(c) {
+    for (var i = 0; i < c.length; i++) {
+      var d = document, s = d.createElement("script");
+      s.src = remark_config.host + "/web/" + c[i] + ".js";
+      s.defer = true;
+      (d.head || d.body).appendChild(s);
+    }
+  })(remark_config.components);
+
+  document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('.remark42__counter').forEach(function(el) {
+      var obs = new MutationObserver(function() {
+        obs.disconnect();
+        var n = parseInt(el.textContent, 10);
+        if (n === 0) el.textContent = 'No comments';
+        else if (n === 1) el.textContent = 'One comment';
+        else el.textContent = n + ' comments';
+      });
+      obs.observe(el, { childList: true, characterData: true, subtree: true });
+    });
+  });
+</script>

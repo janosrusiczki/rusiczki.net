@@ -4,6 +4,7 @@ title: eBay buys Skype
 date: 2005-09-12 17:36:41.000000000 +02:00
 categories:
 - technical
+- english
 ---
 Oh, the wonders of the Internet!
 

@@ -5,8 +5,9 @@ date: 2007-06-16 16:38:09.000000000 +02:00
 categories:
 - web
 - fun
+- english
 ---
-<a href="https://content.rusiczki.net/blogpics/ioangavrilrusiczki-is-available.php" onclick="window.open('https://content.rusiczki.net/blogpics/ioangavrilrusiczki-is-available.php','popup','width=648,height=83,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="https://content.rusiczki.net/blogpics/ioangavrilrusiczki-is-available-thumb.gif" width="500" height="64" alt="ioan-gavrilrusiczki.com is available for registration" border="0" class="image" /></a>
+![ioan-gavrilrusiczki.com is available for registration](https://content.rusiczki.net/blogpics/ioangavrilrusiczki-is-available.gif)
 
 Yeah, I bet the domain sharks are stepping on each others toes to grab this easy to remember domain name. How could they have missed it?
 

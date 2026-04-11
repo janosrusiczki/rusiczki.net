@@ -53,13 +53,17 @@ video {
 }
 
 .post-date a,
-.post-date a:visited {
+.post-date a:visited,
+.post-date-comments a,
+.post-date-comments a:visited {
   color: inherit;
   text-decoration: none;
   transition: text-decoration 0.2s;
 }
 
 .post-date a:hover,
-.post-date a:focus {
+.post-date a:focus,
+.post-date-comments a:hover,
+.post-date-comments a:focus {
   text-decoration: underline;
 }

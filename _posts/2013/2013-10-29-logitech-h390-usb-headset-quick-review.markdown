@@ -4,6 +4,7 @@ title: Logitech H390 USB headset - quick review
 date: 2013-10-29 16:35:12.000000000 +01:00
 categories:
 - technical
+- english
 ---
 In a nutshell: <strong>do not buy</strong> this headset.
 

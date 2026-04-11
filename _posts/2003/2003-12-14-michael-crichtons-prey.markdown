@@ -4,6 +4,7 @@ title: Michael Crichton's Prey
 date: 2003-12-14 22:11:31.000000000 +01:00
 categories:
 - books
+- english
 ---
 <img alt="Michael Crichton - Prey (Book Cover)" src="https://content.rusiczki.net/blogpics/michael_crichton-prey.jpg" width="80" height="123" border="0" class="postimage" /> I got annoyed. Because I finished a great novel in a very short time. This happened to me before but quite a long time ago. And I'm really pleased when I get this kind of excitement while reading a book. "Just one more paragraph and I'll put it down" was my motto since Wednesday night when I purchased the <a href="http://www.palmdigitalmedia.com/product/detail/7549" title="Michael Crichton's Prey at Palm Digital Media">extra packed e-book</a> from <a href="http://www.palmdigitalmedia.com/" title="Reading material for your handheld">Palm Digital Media</a>.
 

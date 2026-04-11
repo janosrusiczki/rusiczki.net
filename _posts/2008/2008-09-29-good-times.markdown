@@ -6,6 +6,7 @@ categories:
 - fun
 - video
 - helicopter
+- english
 ---
 I'll keep it short and let the videos do the talking.
 

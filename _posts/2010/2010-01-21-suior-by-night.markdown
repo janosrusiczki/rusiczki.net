@@ -6,6 +6,7 @@ categories:
 - life
 - snowboard
 - video
+- english
 ---
 For the few of you that haven't been spammed with this the last two days via Twitter, Facebook, Flickr and my Messenger status, here's Ioana and me riding the nearby slope of Suior by night.
 

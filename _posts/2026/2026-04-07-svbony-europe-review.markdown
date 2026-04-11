@@ -6,6 +6,7 @@ categories:
 - review
 - astronomy
 - astrophotography
+- english
 description: Waited a week for my SVBONY order to ship, only to find out that the product I ordered wasn't really in stock. It's on backorder and I'll get it a month late, if I'm lucky.
 ---
 
@@ -50,7 +51,7 @@ If the page had said "ships in 2-3 weeks" I would have shrugged and either order
 
 **Update, April 7, around noon**: Well, just my luck. I was in the middle of writing this very post when I got an email from DHL:
 
-[![DHL package update email](https://content.rusiczki.net/2026/dhl-package-update.png)](https://content.rusiczki.net/2026/dhl-package-update.png){:.glightbox}
+![DHL package update email](https://content.rusiczki.net/2026/dhl-package-update.png)
 
 So it seems that the package has been handed over to DHL after all, it is being prepared for shipment to Romania and should arrive in 3-4 business days. For a brief moment I wondered if I should even bother publishing this post anymore, but then...
 
@@ -67,6 +68,6 @@ So the DHL package is not the camera. It's the SV220 dual-band H-alpha/OIII narr
 
 Also, while I'm writing this, the SV605CC is *still* listed as "In Stock" on the SVBONY website. Screenshot:
 
-[![SV605CC still listed as "In Stock" on SVBONY's website on April 7, 2026](https://content.rusiczki.net/2026/svbony-still-in-stock.png)](https://content.rusiczki.net/2026/svbony-still-in-stock.png){:.glightbox}
+![SV605CC still listed as "In Stock" on SVBONY's website on April 7, 2026](https://content.rusiczki.net/2026/svbony-still-in-stock.png)
 
 Slimy!

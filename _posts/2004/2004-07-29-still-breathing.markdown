@@ -4,6 +4,7 @@ title: Still breathing
 date: 2004-07-29 17:30:46.000000000 +02:00
 categories:
 - life
+- english
 ---
 Yes, I'm still here and I feel really guilty because <a href="http://www.weblog.ro/deea/" title="Deea's 'My Addictions'">people</a> who I read are linking me and I'm not posting anything. And the front page looks really empty and sad without posts.
 

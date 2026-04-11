@@ -5,6 +5,7 @@ date: 2010-04-22 15:00:08.000000000 +02:00
 categories:
 - life
 - photos
+- english
 ---
 I think the following are the two most awesome photos of my hometown:
 

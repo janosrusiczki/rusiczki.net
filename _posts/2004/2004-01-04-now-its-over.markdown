@@ -4,6 +4,7 @@ title: Now it's over
 date: 2004-01-04 22:45:30.000000000 +01:00
 categories:
 - life
+- english
 ---
 ![Presenting the fine drinks](https://content.rusiczki.net/blogpics/presenting_the_fine_drinks.jpg)
 

@@ -4,6 +4,7 @@ title: The automotive pleasures of life
 date: 2008-04-03 17:15:23.000000000 +02:00
 categories:
 - life
+- english
 ---
 Hey, I have to share this.
 

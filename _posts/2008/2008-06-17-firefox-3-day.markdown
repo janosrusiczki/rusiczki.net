@@ -5,6 +5,7 @@ date: 2008-06-17 09:10:26.000000000 +02:00
 categories:
 - web
 - technical
+- english
 ---
 So, today is the big day! The day we'll hopefully set a record...
 

@@ -5,6 +5,7 @@ date: 2009-04-05 11:59:11.000000000 +02:00
 categories:
 - technical
 - blog history
+- english
 ---
 ... with the WordPress installation.
 

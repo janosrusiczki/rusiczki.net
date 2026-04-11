@@ -5,6 +5,7 @@ date: 2009-05-21 08:41:31.000000000 +02:00
 categories:
 - rc
 - rc helicopter
+- english
 ---
 Whoops I did it again!
 

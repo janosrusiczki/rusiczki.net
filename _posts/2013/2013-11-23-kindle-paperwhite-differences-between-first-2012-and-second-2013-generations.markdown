@@ -5,6 +5,7 @@ date: 2013-11-23 22:02:30.000000000 +01:00
 categories:
 - technical
 - photos
+- english
 ---
 The older Kindle (and its box) is always on the left.
 

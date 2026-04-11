@@ -4,6 +4,7 @@ title: New acquisition
 date: 2003-03-12 22:19:08.000000000 +01:00
 categories:
 - life
+- english
 ---
 I bought a microwave oven yesterday.
 

@@ -4,5 +4,6 @@ title: Snow
 date: 2003-01-11 07:03:46.000000000 +01:00
 categories:
 - life
+- english
 ---
 It's snowing heavily outside. Really heavily. And yesterday snowed all the day. Good chances to board today! Even in the snowfall.

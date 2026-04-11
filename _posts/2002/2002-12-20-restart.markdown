@@ -5,6 +5,7 @@ date: 2002-12-20 12:46:02.000000000 +01:00
 categories:
 - general
 - blog history
+- english
 ---
 Well, here I am. Blogging.
 

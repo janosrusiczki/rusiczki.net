@@ -4,6 +4,7 @@ title: Monday morning LCD menace
 date: 2008-04-07 08:29:32.000000000 +02:00
 categories:
 - technical
+- english
 ---
 How do you know it's going to be a great week?
 

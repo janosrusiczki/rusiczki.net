@@ -9,6 +9,7 @@ description: Ruby & Web Developer. Father. Incurable nostalgic.
 url: https://www.rusiczki.net
 baseurl: /
 permalink: /:year/:month/:day/:title/
+timezone: UTC
 future: true
 
 author:
@@ -27,8 +28,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-archives
 
-disqus:
-  username: kitsched
+remark42:
+  host: https://comments.rusiczki.net
+  site_id: rusiczki.net
 
 exclude:
   - README.md

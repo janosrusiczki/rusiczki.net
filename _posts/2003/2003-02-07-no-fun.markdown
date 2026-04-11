@@ -4,6 +4,7 @@ title: No fun
 date: 2003-02-07 20:54:25.000000000 +01:00
 categories:
 - life
+- english
 ---
 I'm sick. My neck hurts. I hate to be sick.
 

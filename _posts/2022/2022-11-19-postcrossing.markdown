@@ -6,6 +6,7 @@ categories:
 - life
 - cronică
 - hobby
+- română
 image: https://content.rusiczki.net/2022/11/postcrossing-album-resized.jpg
 description: În câteva cuvinte despre pasiunea mea de a primi și trimite cărți poștale.
 ---

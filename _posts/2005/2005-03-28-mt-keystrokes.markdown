@@ -5,6 +5,7 @@ date: 2005-03-28 13:12:29.000000000 +02:00
 categories:
 - web
 - blog history
+- english
 ---
 Hey spammers, bite my shiny metal... [MT-Keystrokes](http://overstated.net/projects/mt-keystrokes/). Wow! I could almost say that this is the best invention since sliced bread! It's based on such a simple ideea but it proves to be really effective in practice.
 

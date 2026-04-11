@@ -4,6 +4,7 @@ title: Sfârșit de săptămână tot munte cu Merida One-Twenty XT-D
 date: 2012-07-15 21:24:54.000000000 +02:00
 categories:
 - bike
+- română
 ---
 [![Merida One-Twenty XT-D](https://content.rusiczki.net/2012/07/DSC_8343-693x461.jpg "Merida One-Twenty XT-D")](http://photos.rusiczki.net/photos/7576163362)
 

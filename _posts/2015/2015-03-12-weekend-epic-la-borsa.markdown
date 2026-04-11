@@ -5,6 +5,7 @@ categories:
 - cronică
 - rc
 - video
+- română
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ob1ApAO-Y2I?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 

@@ -4,6 +4,7 @@ title: Software love
 date: 2004-07-30 19:00:20.000000000 +02:00
 categories:
 - technical
+- english
 ---
 <img src="https://content.rusiczki.net/blogpics/picasa_screenshot.jpg" width="490" height="45" border="0" alt="Picasa Screenshot" class="image" />
 

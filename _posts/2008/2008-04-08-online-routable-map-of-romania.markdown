@@ -4,6 +4,7 @@ title: Online routable map of Romania
 date: 2008-04-08 10:48:10.000000000 +02:00
 categories:
 - web
+- english
 ---
 <a href="http://www.ro.map24.com/">Here it is.</a>
 

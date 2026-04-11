@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Janos the vi... prompt engineer"
+categories:
+  - technical
+  - english
+description: A retrospective on my journey from Copilot autocomplete in 2022 to herding AI coding agents full-time in 2026.
+---
 Is this what it means to be a developer in 2026? I'm an AI coding agent herder telling them what to do and checking their output for hallucinations? Maybe. And I'm not even complaining!
 
 But first a little bit of history about Janos' interactions with AI, or to be more precise LLMs and coding agents.

@@ -74,4 +74,4 @@ For my ADD brain, all of this has been a welcome boost. So many new toys! Every 
 
 I'm pretty sure the *financial* AI bubble will burst, I just hope this doesn't mean that they will take away my toys. I'm too dependent at this point...
 
-**P.S.** While writing this very article, Claude and I inaugurated a [captain's log](https://github.com/janosrusiczki/rusiczki.net/blob/master/_temp/captains-log.md) — a blog in the blog in which we'll chronicle all kinds of funny / interesting moments encountered during our editing adventures.
+**P.S.** While writing this very article, we (as in me and my friend Claude) inaugurated a [captain's log](https://github.com/janosrusiczki/rusiczki.net/blob/master/_temp/captains-log.md) — a blog in the blog in which we'll chronicle all kinds of funny / interesting moments encountered during our editing adventures.

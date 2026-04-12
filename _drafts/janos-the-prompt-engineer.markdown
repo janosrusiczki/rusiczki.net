@@ -62,7 +62,7 @@ Fast forward to February 2026 when I decided to revive [Hai Afară!](https://hai
 
 Once I had Claude Max I didn't really need z.ai anymore (except for the occasional agentic code review), so I handed the keys over to my wife. She had a blast with it and finally tackled some QA automation tasks. She even reimbursed me for the z.ai renewal on the 28th of February ($90).
 
-It's not just coding, either. I've used Claude Code to reorganize my home server (configuring and debugging Docker containers), to set up and secure my VPS, and lately for blogging help, including the article you're reading right now. But I never got around to using autonomous agent wrappers like [OpenClaw](https://openclaw.ai/), which can run Claude Code sessions on their own, open PRs and resolve errors while you sleep. I don't trust AI blindly enough for that.
+It's not just coding, either. I've used Claude Code to reorganize my home server (configuring and debugging Docker containers), to set up and secure my VPS, and lately for blogging help, including the article you're reading right now. But I never got around to using autonomous agent wrappers like [OpenClaw](https://openclaw.ai/), which can run Claude Code sessions on their own, open PRs and resolve errors *while you sleep*. I don't trust AI blindly enough for that.
 
 A few things I've picked up along the way which are still valid today:
 

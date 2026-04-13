@@ -5,6 +5,7 @@ date: 2026-04-09 23:42:21 +03:00
 categories:
   - blog history
   - technical
+  - română
 description: După ani de "merge și așa", am mutat comentariile blogului de pe Disqus pe o instanță Remark42 găzduită de mine.
 image: https://content.rusiczki.net/2026/04/disqus-to-remark42.jpg
 ---

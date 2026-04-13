@@ -25,6 +25,7 @@ Where `<slug>` is the filename without extension.
 - Copy the file from the `drafts` branch: `git show drafts:<path> > <destination>`
 - The destination is `_posts/{year}/{date}-{slug}.markdown` (e.g., `_posts/2026/2026-04-13-my-post.markdown`). Create the year directory if needed.
 - Add a `date:` field to the frontmatter using the current timestamp (`date +"%Y-%m-%d %H:%M:%S %:z"`). Tell the user what timestamp you used so they can ask to change it before committing.
+- Check the `categories` list in the frontmatter. Every post must include a language category: `english` or `română`. If neither is present, determine the language from the post content and add the appropriate one. Tell the user which language category you added.
 
 ## 4. Commit, push, and open a PR
 

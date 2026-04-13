@@ -5,6 +5,7 @@ date: 2026-04-11 14:52:33 +03:00
 categories:
   - blog history
   - technical
+  - română
 description: "Am curățat 28 de articole vechi care încă mai aveau popup-uri JavaScript rămase din era Movable Type. Bonus: tur nostalgic inclus!"
 image: https://content.rusiczki.net/2026/04/pensionarea-popup-urilor.jpg
 ---

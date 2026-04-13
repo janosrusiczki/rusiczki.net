@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "János the vi... prompt engineer"
+title: "János the vib... prompt engineer"
 date: 2026-04-13 08:44:52 +03:00
 categories:
   - technical

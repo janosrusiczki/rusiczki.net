@@ -5,13 +5,14 @@ date: 2026-04-13 15:30:00 +03:00
 categories:
   - blog history
   - technical
+  - română
 description: De la Movable Type și poze descărcate de pe card, prin Wordpress, la Jekyll, Joplin și un coleg de redacție artificial.
 ---
 Am tot amânat momentul ăsta. În [ianuarie 2018](https://www.rusiczki.net/2018/01/13/imagini-aeriene-de-final-de-an/), cu ocazia unor poze cu drona, am inserat un paragraf despre cum s-a complicat procesul publicării unei poze față de zilele de odinioară. Apoi, în [octombrie 2025](https://www.rusiczki.net/2025/10/13/rip-typepad/), la finalul unui articol despre Typepad, am pus o poză cu mine redactând pe iPad și am descris în câteva rânduri cum arăta workflow-ul de la acea vreme. Iar [mai devreme azi](https://www.rusiczki.net/2026/04/13/janos-the-prompt-engineer/) am promis explicit că voi scrie un articol separat despre cum s-a schimbat procesul meu de scriere pe blog. Ei bine, iată-l.
 
 ### Movable Type (2002–2009)
 
-La începuturile blogului, pe vremea Movable Type, workflow-ul era de o simplitate dezarmantă: deschideam panoul de administrare în browser, scriam textul, eventual atașam o poză mică (eram pe dial-up, fiecare kilobyte conta), apăsam Publish și gata. Pozele veneau de pe un card de memorie, le descărcam pe calculator, eventual le micșoram puțin ca să nu sufle conexiunea, și le încărcam manual prin interfață. Nu aveam nevoie de niciun alt instrument, totul se întâmpla în browser. [Șase ani](https://www.rusiczki.net/2009/04/02/keeping-up-with-the-times/) am funcționat așa.
+La începuturile blogului, pe vremea Movable Type, nu știu dacă era vorba de un proces: deschideam panoul de administrare în browser, scriam textul, eventual atașam o poză (redimensionată atent, căci eram pe dial-up și fiecare kilo conta), apăsam Publish și gata. Timp de [șase ani](https://www.rusiczki.net/2009/04/02/keeping-up-with-the-times/) și cea mai activă perioadă a blogului fiecare articol a fost creat în felul acesta. w.bloggar mentions.
 
 ### WordPress (2009–2018)
 
@@ -41,6 +42,6 @@ Dar eu încă editez masiv. Uneori rescriu complet secțiuni întregi. Articolel
 
 ### Ce s-a schimbat și ce nu
 
-În aproape 24 de ani de blog am schimbat trei motoare (Movable Type, WordPress, Jekyll) și nu știu câte unelte de scris. Complexitatea procesului a oscilat: simplă, apoi și mai simplă, apoi complicată, apoi altfel complicată. Dar esența e aceeași: un tip stă undeva, fie la un birou din Baia Sprie, fie printre căluți de jucărie, scrie despre ce-l preocupă, și apasă Publish.
+În aproape 24 de ani de blog am schimbat trei motoare (Movable Type, WordPress, Jekyll) și nu știu câte unelte de scris. Complexitatea procesului a oscilat: simplă, apoi și mai simplă, apoi complicată, apoi altfel complicată. Dar esența e aceeași: un tip stă undeva, fie la un birou, fie printre căluți de jucărie, scrie despre ce-l preocupă, și apasă Publish.
 
 Și dacă tot "sufăr" de ADD, trebuie să recunosc un lucru: jucăriile noi aduc motivație nouă. Claude a fost jucăria care m-a pus din nou pe scris. Am publicat mai multe articole într-o săptămână decât în câțiva ani la un loc. Cât va dura valul, nu știu. Dar cât durează, mă bucur de el.

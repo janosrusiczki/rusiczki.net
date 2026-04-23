@@ -1,6 +1,6 @@
 Is this what it means to be a developer in 2026? I'm an AI coding agent herder telling them what to do and checking their output for hallucinations? Maybe. And I'm not even complaining!
 
-But first a little bit of history about Janos' interactions with AI.
+But first a little bit of history about János' interactions with AI.
 
 I'm not sure exactly when I signed up for the Github Copilot trial but I got an email on the 17th of august 2022 that my trial is about to end. The 5th of September was a $0 free plan setup and the first real payment came on the 8th of September. I remember I haven't used it during the trial and I got charged for it which gave me the motivation to start testing it out and while doing that I thought I'd give the competition a chance. So on the 18th of september 2022 I signed up for the Tabnine trial and I somehow forgot to cancel that too. After the 14-day trial ended, on the 2nd of October 2022, I was charged for a $144 yearly subscription. I contacted them that same day and got refunded the next day. And stayed with Copilot since then.
 

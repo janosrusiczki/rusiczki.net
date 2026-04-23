@@ -45,7 +45,7 @@ The Five-O Jib Stars 2009 freeski / snowboard contest and the mandatory afterpar
 
 I couldn't wait for the real spring though so I could be out with my RC "toys". Had good times with both <a href="http://www.rusiczki.net/2009/04/18/4-x-4/">my car</a> and my helicopter and I remember that I carried my helicopter to work daily due to the fact that I could go around the flying field on my way home and actually fly if the wind was friendly. <a href="http://www.rusiczki.net/2009/05/21/the-helilog-crash-2/">I crashed once again</a> but got back in the air quick because it wasn't that bad of a crash, I had all the parts I needed from the last stock up and I made friends in the local RC community so I got some servos really fast.
 
-<a href="http://www.flickr.com/photos/ioana/3463590534/" title="Janos again by Clumsy Bat, on Flickr"><img src="http://farm4.static.flickr.com/3521/3463590534_d2c022fa2d.jpg" width="500" height="334" alt="Janos again" /></a>
+<a href="http://www.flickr.com/photos/ioana/3463590534/" title="János again by Clumsy Bat, on Flickr"><img src="http://farm4.static.flickr.com/3521/3463590534_d2c022fa2d.jpg" width="500" height="334" alt="János again" /></a>
 
 Around this time of the year we started visiting Hungary hard, first <a href="http://www.rusiczki.net/2009/04/22/the-epic-weekend-in-review/">going</a> to <a href="http://www.aquaticum.hu/">Aquaticum</a> in <a href="http://en.wikipedia.org/wiki/Debrecen">Debrecen</a> around my birthday then one month later to Hajduszoboszlo where we spent one day bathing and the next day at an RC helicopter meet which was a real eye opener for me. So many helis - such skills.
 

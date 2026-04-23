@@ -1,4 +1,4 @@
-Janos Rusiczki
+János Rusiczki
 ==============
 [![Jekyll Build, Test and Deploy](https://github.com/janosrusiczki/rusiczki.net/actions/workflows/jekyll-build-test-and-deploy.yml/badge.svg)](https://github.com/janosrusiczki/rusiczki.net/actions/workflows/jekyll-build-test-and-deploy.yml) [![Index with Algolia](https://github.com/janosrusiczki/rusiczki.net/actions/workflows/algolia-index.yml/badge.svg)](https://github.com/janosrusiczki/rusiczki.net/actions/workflows/algolia-index.yml)
 

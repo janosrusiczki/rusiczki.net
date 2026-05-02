@@ -68,33 +68,22 @@ video {
   text-decoration: underline;
 }
 
-.photo-grid-2,
-.photo-grid-3 {
+.photo-grid {
   display: grid;
+  grid-template-columns: repeat(2, 1fr);
   gap: 0.5rem;
   margin-bottom: 1rem;
 }
 
-.photo-grid-2 {
-  grid-template-columns: repeat(2, 1fr);
-}
-
-.photo-grid-3 {
-  grid-template-columns: repeat(3, 1fr);
-}
-
-.photo-grid-2 p,
-.photo-grid-3 p {
+.photo-grid p {
   margin: 0;
 }
 
-.photo-grid-2 a,
-.photo-grid-3 a {
+.photo-grid a {
   display: block;
 }
 
-.photo-grid-2 img,
-.photo-grid-3 img {
+.photo-grid img {
   width: 100%;
   margin: 0;
 }

@@ -1,0 +1,60 @@
+name: Sync Mastodon to microblog
+on:
+  schedule:
+    - cron: '17 3 * * *'   # 03:17 UTC daily
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+
+      - name: Sync from Mastodon (stages media + writes entries)
+        env:
+          MASTODON_INSTANCE: ${{ vars.MASTODON_INSTANCE }}
+          MASTODON_HANDLE:   ${{ vars.MASTODON_HANDLE }}
+          MASTODON_TOKEN:    ${{ secrets.MASTODON_TOKEN }}
+        run: ruby _support/scripts/sync_mastodon.rb
+
+      - name: Check whether anything new was staged
+        id: changes
+        run: |
+          if [ -n "$(git status --porcelain _microblog/mastodon)" ] \
+             || [ -n "$(ls -A _microblog_media_staging/mastodon 2>/dev/null)" ]; then
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Upload staged media to content host (additive, no --delete)
+        if: steps.changes.outputs.has_changes == 'true'
+        uses: burnett01/rsync-deployments@7.0.1
+        with:
+          switches: -avz
+          path: _microblog_media_staging/mastodon/
+          remote_path: ${{ secrets.CONTENT_PATH }}/microblog/mastodon/
+          remote_host: ${{ secrets.CONTENT_HOST }}
+          remote_user: ${{ secrets.CONTENT_USER }}
+          remote_key:  ${{ secrets.CONTENT_KEY }}
+
+      - name: Commit and push new entries
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name  "rusiczki-bot"
+          git config user.email "bot@rusiczki.net"
+          if [ -n "$(git status --porcelain _microblog/mastodon)" ]; then
+            git add _microblog/mastodon
+            git commit -m "Sync Mastodon microblog"
+            git push origin master
+          fi

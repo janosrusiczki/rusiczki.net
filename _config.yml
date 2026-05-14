@@ -19,6 +19,16 @@ author:
 paginate: 10
 paginate_path: '/page/:num'
 
+collections:
+  microblog:
+    output: true
+    permalink: /microblog/:year/:month/:day/:slug/
+
+feed:
+  collections:
+    microblog:
+      path: /microblog/feed.xml
+
 # Custom vars
 plugins:
   - jekyll-paginate
@@ -55,6 +65,11 @@ defaults:
       path: 'page'
     values:
       sitemap: false
+  -
+    scope:
+      type: microblog
+    values:
+      layout: microblog_entry
 
 jekyll-archives:
   enabled:
@@ -74,4 +89,4 @@ jekyll-archives:
     category: '/category/:name/'
 
 jekyll_tidy:
-  exclude: ["feed.xml"] 
+  exclude: ["feed.xml", "microblog/feed.xml"]

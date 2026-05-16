@@ -24,7 +24,7 @@ require 'time'
 require 'uri'
 require 'yaml'
 
-REPO_ROOT         = File.expand_path('../../..', __dir__)
+REPO_ROOT         = File.expand_path('../..', __dir__)
 ENTRIES_DIR       = File.join(REPO_ROOT, '_microblog', 'mastodon')
 MEDIA_STAGING     = File.join(REPO_ROOT, '_microblog_media_staging', 'mastodon')
 PUBLIC_MEDIA_BASE = 'https://content.rusiczki.net/microblog/mastodon'
@@ -56,7 +56,7 @@ def highest_existing_id(dir)
   Dir.glob(File.join(dir, '**', '*.md')).each do |path|
     head = File.foreach(path).first(20).join
     if head =~ /\A---\s*\n(.*?)\n---/m
-      front = YAML.safe_load(Regexp.last_match(1))
+      front = YAML.safe_load(Regexp.last_match(1), permitted_classes: [Time])
       id = front && front['source_id']
       ids << id.to_s if id
     end
@@ -88,8 +88,9 @@ loop do
 end
 puts "Fetched #{new_statuses.size} status(es) newer than the last sync"
 
-def original?(status, my_account_id)
-  return false if status['reblog']
+def keep?(status, my_account_id)
+  # Boosts are kept; replies-to-others are skipped.
+  return true if status['reblog']
   reply_to = status['in_reply_to_account_id']
   return false if reply_to && reply_to.to_s != my_account_id.to_s
   true
@@ -107,7 +108,7 @@ media_staged   = 0
 media_failed   = 0
 
 new_statuses.each do |status|
-  unless original?(status, account_id)
+  unless keep?(status, account_id)
     skipped += 1
     next
   end
@@ -118,18 +119,22 @@ new_statuses.each do |status|
   date_full  = created_at.strftime('%Y-%m-%d %H:%M:%S +0000')
   year       = created_at.strftime('%Y')
 
+  is_boost  = !status['reblog'].nil?
+  payload   = is_boost ? status['reblog'] : status
+  boost_of  = is_boost ? "@#{payload.dig('account', 'acct')}" : nil
+
   # HTML → Markdown
-  body_md = ReverseMarkdown.convert(status['content'].to_s,
+  body_md = ReverseMarkdown.convert(payload['content'].to_s,
                                     unknown_tags: :bypass,
                                     github_flavored: false).strip
 
   # Content warning prepended as a blockquote
-  spoiler = status['spoiler_text'].to_s.strip
+  spoiler = payload['spoiler_text'].to_s.strip
   body_md = "> CW: #{spoiler}\n\n#{body_md}" unless spoiler.empty?
 
   # Media: download each attachment and reference it from the body
   media_lines = []
-  Array(status['media_attachments']).each_with_index do |m, i|
+  Array(payload['media_attachments']).each_with_index do |m, i|
     src = m['url']
     next unless src
     filename = safe_media_filename(toot_id, src, i)
@@ -152,8 +157,8 @@ new_statuses.each do |status|
   end
   body_md += "\n\n" + media_lines.join("\n\n") unless media_lines.empty?
 
-  lang_value = status['language'] == 'ro' ? 'ro' : 'en'
-  source_url = status['url'] || "https://#{instance}/@#{handle}/#{toot_id}"
+  lang_value = payload['language'] == 'ro' ? 'ro' : 'en'
+  source_url = payload['url'] || "https://#{instance}/@#{handle}/#{toot_id}"
 
   out_dir  = File.join(ENTRIES_DIR, year)
   FileUtils.mkdir_p(out_dir)
@@ -168,6 +173,7 @@ new_statuses.each do |status|
     f.puts "source_url: #{source_url}"
     f.puts "lang: #{lang_value}"
     f.puts %(slug: "#{toot_id}")
+    f.puts %(boost_of: "#{boost_of}") if boost_of
     f.puts '---'
     f.puts body_md
   end

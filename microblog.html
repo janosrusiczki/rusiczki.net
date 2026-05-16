@@ -6,21 +6,23 @@ permalink: /microblog/
 
 <p>Short-form notes mirrored here from Mastodon, plus a one-time import of my old Twitter timeline. <a href="/microblog/feed.xml">Subscribe via RSS</a>.</p>
 
+{% assign recent = site.microblog | sort: 'date' | reverse %}
 <ul class="microblog-list">
-  {% assign entries = site.microblog | sort: 'date' | reverse %}
-  {% for entry in entries %}
-    <li class="microblog-entry">
-      <span class="post-date">
-        <a href="{{ entry.url }}">{{ entry.date | date: "%B %-d, %Y &middot; %H:%M UTC" }}</a>
-      </span>
-      {{ entry.content }}
-      {% if entry.source_url %}
-        <p class="microblog-source">
-          From
-          {% if entry.source == 'mastodon' %}Mastodon{% elsif entry.source == 'twitter' %}Twitter{% else %}{{ entry.source }}{% endif %}:
-          <a href="{{ entry.source_url }}" rel="noopener">{{ entry.source_url }}</a>
-        </p>
-      {% endif %}
-    </li>
+  {% for entry in recent limit:50 %}
+    {% include microblog_entry_block.html entry=entry %}
   {% endfor %}
 </ul>
+
+{% if site.data.microblog_months %}
+<h2>Archive</h2>
+{% assign months_by_year = site.data.microblog_months | group_by: 'year' | sort: 'name' | reverse %}
+{% for year_group in months_by_year %}
+  <h3>{{ year_group.name }}</h3>
+  <ul class="microblog-month-nav">
+    {% assign sorted_months = year_group.items | sort: 'month' | reverse %}
+    {% for m in sorted_months %}
+      <li><a href="{{ m.url }}">{{ m.month_name }} ({{ m.count }})</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+{% endif %}

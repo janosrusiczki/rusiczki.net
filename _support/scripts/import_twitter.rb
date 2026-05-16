@@ -1,9 +1,9 @@
 #!/usr/bin/env ruby
-# One-shot importer for a Twitter/X archive zip.
+# One-shot importer for a decompressed Twitter/X archive directory.
 #
-#   ruby _support/scripts/import_twitter.rb path/to/twitter-archive.zip
+#   ruby _support/scripts/import_twitter.rb path/to/twitter-archive/
 #
-# Reads tweets.js (or tweets-part*.js) and account.js from inside the zip,
+# Reads tweets.js (or tweets-part*.js) and account.js from the data/ subdir,
 # keeps original tweets only (no retweets, no replies-to-others), copies
 # attached media into _microblog_media_staging/twitter/, and writes one
 # Markdown file per tweet under _microblog/twitter/<year>/.
@@ -16,24 +16,22 @@ require 'bundler/setup'
 require 'json'
 require 'fileutils'
 require 'time'
-require 'tmpdir'
 require 'uri'
-require 'zip'
 
-REPO_ROOT         = File.expand_path('../../..', __dir__)
+REPO_ROOT         = File.expand_path('../..', __dir__)
 ENTRIES_DIR       = File.join(REPO_ROOT, '_microblog', 'twitter')
 MEDIA_STAGING     = File.join(REPO_ROOT, '_microblog_media_staging', 'twitter')
 PUBLIC_MEDIA_BASE = 'https://content.rusiczki.net/microblog/twitter'
 
-archive_path = ARGV[0]
-abort "Usage: #{$PROGRAM_NAME} path/to/twitter-archive.zip" unless archive_path
-abort "Archive not found: #{archive_path}" unless File.exist?(archive_path)
+archive_dir = ARGV[0]
+abort "Usage: #{$PROGRAM_NAME} path/to/twitter-archive/" unless archive_dir
+abort "Directory not found: #{archive_dir}" unless File.directory?(archive_dir)
+
+data_dir = File.join(archive_dir, 'data')
+abort "No data/ subdir found in #{archive_dir}" unless File.directory?(data_dir)
 
 FileUtils.mkdir_p(ENTRIES_DIR)
 FileUtils.mkdir_p(MEDIA_STAGING)
-
-tmpdir = Dir.mktmpdir
-at_exit { FileUtils.rm_rf(tmpdir) }
 
 # Strip the `window.YTD.<thing>.partN = ` prefix Twitter wraps each data file in,
 # leaving plain JSON behind.
@@ -41,40 +39,27 @@ def strip_js_prefix(raw)
   raw.sub(/\Awindow\.YTD\.[\w]+\.part\d+\s*=\s*/, '')
 end
 
-tweet_js_files = []
-media_files    = {}
-account_id     = nil
-username       = nil
+account_js = File.join(data_dir, 'account.js')
+abort 'Could not find data/account.js' unless File.exist?(account_js)
+acc_data   = JSON.parse(strip_js_prefix(File.read(account_js)))
+account_id = acc_data.first.dig('account', 'accountId')
+username   = acc_data.first.dig('account', 'username')
+abort 'Could not parse account id/username from account.js' unless account_id && username
 
-Zip::File.open(archive_path) do |zip|
-  zip.each do |entry|
-    case entry.name
-    when %r{^data/tweets(?:-part\d+)?\.js$}
-      target = File.join(tmpdir, File.basename(entry.name))
-      entry.extract(target)
-      tweet_js_files << target
-    when %r{^data/tweets_media/(.+)$}
-      filename = Regexp.last_match(1)
-      target = File.join(tmpdir, 'media', filename)
-      FileUtils.mkdir_p(File.dirname(target))
-      entry.extract(target)
-      media_files[filename] = target
-    when 'data/account.js'
-      target = File.join(tmpdir, 'account.js')
-      entry.extract(target)
-      data = JSON.parse(strip_js_prefix(File.read(target)))
-      account_id = data.first.dig('account', 'accountId')
-      username   = data.first.dig('account', 'username')
-    end
+tweet_js_files = Dir[File.join(data_dir, 'tweets.js'), File.join(data_dir, 'tweets-part*.js')].sort
+abort 'No tweets.js / tweets-part*.js found in data/' if tweet_js_files.empty?
+
+media_dir   = File.join(data_dir, 'tweets_media')
+media_files = {}
+if File.directory?(media_dir)
+  Dir[File.join(media_dir, '*')].each do |path|
+    media_files[File.basename(path)] = path
   end
 end
 
-abort 'Could not find data/account.js in the archive' unless account_id && username
-abort 'No tweets.js / tweets-part*.js found in the archive' if tweet_js_files.empty?
-
 puts "Account: @#{username} (id=#{account_id})"
 puts "Tweet data files: #{tweet_js_files.size}"
-puts "Media files in archive: #{media_files.size}"
+puts "Media files on disk: #{media_files.size}"
 
 all_tweets = tweet_js_files.flat_map do |path|
   JSON.parse(strip_js_prefix(File.read(path))).map { |entry| entry['tweet'] }
@@ -101,6 +86,45 @@ end
 # Twitter HTML-escapes &, <, > inside full_text. Reverse for Markdown output.
 def unescape_twitter(text)
   text.gsub('&amp;', '&').gsub('&lt;', '<').gsub('&gt;', '>')
+end
+
+# Linkify bare URLs, @mentions, and #hashtags in tweet body text.
+# Uses tweet entities for precise mention/hashtag values, regex for URLs.
+# Called after expand_urls and unescape_twitter, before image lines are appended.
+def linkify(text, tweet)
+  # Bare URLs → [display](url). Strip trailing punctuation, then shorten the
+  # display text to hostname+path (no query string); truncate if still long.
+  text = text.gsub(%r{https?://[^\s\])"'<>]+}) do |url|
+    url = url.sub(/[.,;:!?)\]>]+$/, '')
+    display = begin
+      uri     = URI.parse(url)
+      host    = uri.host.to_s.delete_prefix('www.')
+      short   = "#{host}#{uri.path}".chomp('/')
+      short.length > 60 ? "#{short[0, 60]}…" : short
+    rescue URI::InvalidURIError
+      url.length > 60 ? "#{url[0, 60]}…" : url
+    end
+    "[#{display}](#{url})"
+  end
+
+  # @mentions → Twitter profile links. Use entity screen_names for exact values;
+  # negative lookbehind avoids matching @ inside already-linked URL text.
+  mentions = (tweet.dig('entities', 'user_mentions') || []).map { |m| m['screen_name'] }.uniq
+  mentions.each do |name|
+    text = text.gsub(/(?<![\/\w\[(])@#{Regexp.escape(name)}(?![\/\w])/i) do
+      "[@#{name}](https://twitter.com/#{name})"
+    end
+  end
+
+  # #hashtags → Twitter hashtag search links.
+  hashtags = (tweet.dig('entities', 'hashtags') || []).map { |h| h['text'] }.uniq
+  hashtags.each do |tag|
+    text = text.gsub(/(?<![\/\w\[(&#])##{Regexp.escape(tag)}(?![\/\w])/i) do
+      "[##{tag}](https://twitter.com/hashtag/#{tag})"
+    end
+  end
+
+  text
 end
 
 kept           = 0
@@ -147,6 +171,7 @@ all_tweets.each do |tweet|
   end
 
   body = unescape_twitter(body).strip
+  body = linkify(body, tweet)
   body += "\n\n" + media_lines.join("\n\n") unless media_lines.empty?
 
   lang_value = tweet['lang'] == 'ro' ? 'ro' : 'en'

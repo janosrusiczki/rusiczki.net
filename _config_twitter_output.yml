@@ -1,0 +1,16 @@
+# One-shot override: emit HTML pages for all Twitter entries.
+# Use when deploying the Twitter archive for the first time, or after
+# a CSS/JS or layout change that should propagate to the Twitter pages.
+#
+#   bundle exec jekyll build --config _config.yml,_config_microblog.yml,_config_twitter_output.yml
+#
+# After building, rsync _site/microblog/ to the deploy host. The daily
+# Mastodon sync workflow does NOT use this config, so Twitter pages are
+# never rebuilt unnecessarily.
+
+defaults:
+  - scope:
+      path: '_microblog/twitter'
+      type: microblog
+    values:
+      output: true

@@ -67,3 +67,40 @@ video {
 .post-date-comments a:focus {
   text-decoration: underline;
 }
+
+.microblog-list {
+  list-style: none;
+  padding: 0;
+}
+
+.microblog-entry {
+  margin-bottom: 1.5rem;
+}
+
+.microblog-entry--twitter,
+.microblog-entry--mastodon {
+  border: 1px solid #555;
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+}
+
+.microblog-boost-label {
+  font-size: 0.85em;
+  color: #9a9a9a;
+  margin-bottom: 0.4rem;
+}
+
+.microblog-boost-label a {
+  color: #9a9a9a;
+}
+
+.microblog-footer {
+  margin-top: 0.6rem;
+  margin-bottom: 0;
+  font-size: 0.85em;
+  color: #9a9a9a;
+}
+
+.microblog-footer a {
+  color: #9a9a9a;
+}

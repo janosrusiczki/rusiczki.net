@@ -20,6 +20,7 @@ feed:
   collections:
     microblog:
       path: /microblog/feed.xml
+      limit: 50
 
 defaults:
   -
@@ -32,3 +33,9 @@ defaults:
       type: microblog
     values:
       layout: microblog_entry
+  -
+    scope:
+      path: '_microblog/twitter'
+      type: microblog
+    values:
+      output: false

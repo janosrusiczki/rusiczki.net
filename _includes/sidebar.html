@@ -15,10 +15,14 @@
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
+
+        The Microblog link is hardcoded below the loop so it shows up even
+        when the base build excludes microblog.html.
       {% endcomment %}
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
+        {% if node.url == "/microblog/" %}{% continue %}{% endif %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
@@ -28,6 +32,8 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+
+      <a class="sidebar-nav-item{% if page.url contains '/microblog' %} active{% endif %}" href="/microblog/">Microblog</a>
     </nav>
 
     <p class="copyright">&copy; 2002 - {{ site.time | date: '%Y' }}. All rights reserved.</p>

@@ -19,16 +19,6 @@ author:
 paginate: 10
 paginate_path: '/page/:num'
 
-collections:
-  microblog:
-    output: true
-    permalink: /microblog/:year/:month/:day/:slug/
-
-feed:
-  collections:
-    microblog:
-      path: /microblog/feed.xml
-
 # Custom vars
 plugins:
   - jekyll-paginate
@@ -48,6 +38,8 @@ exclude:
   - Gemfile.lock
   - vendor
   - Rakefile
+  - _microblog
+  - microblog.html
 
 algolia:
   application_id: WMKRED0LJU
@@ -65,11 +57,6 @@ defaults:
       path: 'page'
     values:
       sitemap: false
-  -
-    scope:
-      type: microblog
-    values:
-      layout: microblog_entry
 
 jekyll-archives:
   enabled:

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Microblog la mine acasă: PESOS, Mastodon și o ultimă petrecere cu arhiva de Twitter"
+title: "Microblog la mine acasă"
 categories:
   - blog history
   - technical
   - română
-description: Am adăugat o secțiune de microblog pe rusiczki.net, alimentată automat de pe Mastodon (PESOS) și sămânțată cu o importare unică a vechii mele arhive de Twitter.
+description: Am adăugat o nouă secțiune alimentată automat de pe Mastodon și de arhiva mea Twitter.
 ---
-Continuăm seria de [curățenii prin curtea blogului](https://www.rusiczki.net/2026/04/09/alte-mici-modificari-adio-disqus/) cu ceva ce tot amânam: un loc pentru notițele scurte. Genul de chestie pe care până nu demult o postam pe Twitter și care n-a avut niciodată ce căuta în structura clasică a blogului ("articol cu titlu, paragrafe, poze, descriere SEO, blah blah"). De acum am [/microblog/](https://www.rusiczki.net/microblog/), cu propriul lui [feed RSS](https://www.rusiczki.net/microblog/feed.xml).
+Continuăm seria de [curățenii prin curtea blogului](https://www.rusiczki.net/2026/04/09/alte-mici-modificari-adio-disqus/) cu o altă piesă de puzzle amânată până acum: un loc pentru notițele scurte. O notiță scurtă e genul de chestie pe care până nu demult o postam pe Twitter și care n-a avut niciodată ce căuta în structura clasică a blogului ("articol cu titlu, paragrafe, poze, descriere SEO, blah blah"). De acum am [/microblog/](https://www.rusiczki.net/microblog/), cu propriul lui [feed RSS](https://www.rusiczki.net/microblog/feed.xml).
 
 ## De ce acum, și de ce așa
 

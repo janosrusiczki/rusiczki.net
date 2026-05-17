@@ -7,46 +7,40 @@ categories:
   - română
 description: Am adăugat o secțiune de microblog pe rusiczki.net, alimentată automat de pe Mastodon (PESOS) și sămânțată cu o importare unică a vechii mele arhive de Twitter.
 ---
-Continuăm seria de [curățenii prin curtea blogului](https://www.rusiczki.net/2026/04/09/alte-mici-modificari-adio-disqus/) cu încă o piesă pe care o tot amânam de ceva vreme: un loc pentru notițele scurte. Adică genul de chestie pe care până nu demult o postam pe Twitter și care, în mod evident, nu și-a găsit niciodată locul în structura clasică a blogului ("articol cu titlu, paragrafe, poze, descriere SEO, blah blah"). De acum am [/microblog/](https://www.rusiczki.net/microblog/), cu propriul lui [feed RSS](https://www.rusiczki.net/microblog/feed.xml).
+Continuăm seria de [curățenii prin curtea blogului](https://www.rusiczki.net/2026/04/09/alte-mici-modificari-adio-disqus/) cu ceva ce tot amânam: un loc pentru notițele scurte. Genul de chestie pe care până nu demult o postam pe Twitter și care n-a avut niciodată ce căuta în structura clasică a blogului ("articol cu titlu, paragrafe, poze, descriere SEO, blah blah"). De acum am [/microblog/](https://www.rusiczki.net/microblog/), cu propriul lui [feed RSS](https://www.rusiczki.net/microblog/feed.xml).
 
 ## De ce acum, și de ce așa
 
-Twitter (sau X, sau cum se mai numește) a încetat să fie o destinație pentru ceea ce scriu de ceva vreme. Mastodon, în schimb, a devenit destul de plăcut pentru genul ăsta de notițe scurte. Dar nu vreau să fie singurul loc unde trăiesc. Instanțele Mastodon dispar, conturile sunt închise, serverele se mută, totul se întâmplă — și odată cu ele se duc în neant și mesajele tale. Vechea zicală "your data is your data only when it lives on a domain you own" e mai actuală ca niciodată.
+Twitter (sau X, sau cum se mai numește) a încetat să fie o destinație pentru ceea ce scriu de ceva vreme. Mastodon, în schimb, merge destul de bine pentru genul ăsta de notițe. Dar nu vreau ca Mastodon să fie singurul loc unde trăiesc. Instanțele dispar, conturile se închid, serverele se mută — și odată cu ele, mesajele tale. Vechea zicală "your data is your data only when it lives on a domain you own" rămâne la fel de adevărată.
 
-Soluția se cheamă în jargonul indie web **PESOS**: *Publish Elsewhere, Syndicate to Own Site*. Adică: publici unde îți este comod (Mastodon, în cazul de față), iar copia oficială ajunge pe site-ul tău, automat. Opusul, **POSSE** (*Publish on Own Site, Syndicate Elsewhere*), ar fi însemnat să scriu notițele aici și să le împing apoi pe Mastodon — mai pur, dar incomod: aș fi fost obligat să-mi deschid laptop-ul și să fac un commit pentru fiecare gând de două propoziții, ceea ce ar fi însemnat că nu aș scrie nimic. Mastodon-ul îl am în buzunar; blogul, nu.
+Soluția se cheamă în jargonul indie web **PESOS**: *Publish Elsewhere, Syndicate to Own Site*. Publici unde îți e comod (Mastodon), iar copia ajunge automat pe site-ul tău. Opusul, **POSSE** (*Publish on Own Site, Syndicate Elsewhere*), ar fi mai pur conceptual, dar în practică ar fi însemnat să deschid laptop-ul și să fac un commit pentru fiecare gând de două propoziții. Mastodon-ul îl am în buzunar; blogul, nu.
 
 ## Cum funcționează
 
-L-am rugat din nou pe [Claude](https://claude.ai/) (de data asta în varianta lui [Claude Code pe web](https://www.anthropic.com/news/claude-code-on-the-web), care e atât de comodă!) să mă ajute să gândesc arhitectura, și după niște iterații (și niște schimbări de direcție din partea mea) am ajuns la următorul aranjament:
+L-am rugat din nou pe [Claude](https://claude.ai/) (de data asta în varianta lui [Claude Code pe web](https://www.anthropic.com/news/claude-code-on-the-web), pe care o găsesc nespus de comodă) să mă ajute cu arhitectura, și după câteva iterații — și câteva schimbări de direcție din partea mea — am ajuns la ceva simplu.
 
-- O nouă **colecție Jekyll** numită `microblog`, cu propriul layout, propria pagină de listare la [/microblog/](https://www.rusiczki.net/microblog/) și propriul feed Atom.
-- Un **GitHub Action care rulează zilnic** (la 03:17 UTC, off-peak ca să nu se bată cu altcineva pe runner-uri) și interoghează API-ul Mastodon-ului meu. Ia toate toot-urile noi de la ultima sincronizare, le filtrează (păstrăm originalele și firele de discuție către sine, eliminăm boost-urile și răspunsurile către alții), descarcă atașamentele media, și scrie câte un fișier Markdown pentru fiecare. Apoi face un commit și un push pe `master`. Dacă nu sunt toot-uri noi, nu se întâmplă nimic — niciun commit, niciun build.
-- Build-ul existent al site-ului se declanșează firesc la commit-ul de mai sus, exact ca pentru orice articol nou. Costul: maxim un build pe zi, în loc de zero–trei pe zi cum mă temeam inițial.
-- Fișierele media (imagini, video, GIF-uri din toot-uri) sunt **rehostate pe** [content.rusiczki.net](https://content.rusiczki.net) sub `/microblog/mastodon/` și `/microblog/twitter/`. Așa, dacă instanța mea Mastodon (sau Twitter, sigur) dispare mâine, fotografiile rămân.
-- Upload-ul media se face cu **rsync** (peste SSH/SFTP, exact ca deploy-ul site-ului), niciodată cu `--delete`. Nimic nu poate șterge accidental restul conținutului de pe `content.rusiczki.net` — am verificat de trei ori, am pus și un dry-run obligatoriu pentru pasul manual de import.
+Un **GitHub Action rulează zilnic** la 03:17 UTC și interoghează API-ul Mastodon. Ia tot ce e nou de la ultima sincronizare, filtrează (rămân originalele, firele de discuție cu mine însumi și boost-urile; dispar răspunsurile la alții), descarcă media, scrie câte un fișier Markdown și face commit și push. Boost-urile sunt marcate vizibil cu link către autorul original. Dacă nu e nimic nou, nu se întâmplă nimic — niciun commit, niciun build.
+
+Imaginile sunt redimensionate la 1000px lățime dacă depășesc asta. Varianta mică se afișează inline, originalul se deschide la click. Media e rehostată pe [content.rusiczki.net](https://content.rusiczki.net) — dacă instanța mea Mastodon dispare mâine, fotografiile rămân. Upload-ul e cu rsync, niciodată cu `--delete`, că sunt paranoic.
+
+Arhiva e navigabilă pe luni la adrese de genul [/microblog/2009/04/](https://www.rusiczki.net/microblog/2009/04/).
 
 ## Adio, vechi cont de Twitter, dar bună ziua, arhivă!
 
-Cum vechiul meu cont de Twitter este încă acolo (nu l-am șters, doar nu mai postez), mai am ceva moștenire de salvat. Twitter mai oferă încă (slavă Domnului) posibilitatea de a-ți cere o copie a întregului tău arhivă: un fișier zip cu toate tweet-urile tale, atașamentele, like-urile, DM-urile și încă vreo câteva chestii. L-am cerut și după câteva ore mi-a sosit pe email un link spre un archive.
+Contul meu de Twitter e încă acolo (nu l-am șters, doar nu mai postez). Twitter mai oferă încă posibilitatea de a-ți cere arhiva completă — un zip cu toate tweet-urile, atașamentele, DM-urile și altele. Am cerut-o și am primit un link câteva ore mai târziu.
 
-Pentru a-l importa în secțiunea nouă de microblog am scris un script Ruby (`_support/scripts/import_twitter.rb`) care:
-- citește `data/tweets.js` (sau `tweets-part*.js` pentru arhivele mari) din zip,
-- păstrează doar tweet-urile *originale* (fără retweet-uri, fără răspunsuri către alți utilizatori; firele de discuție către mine însumi rămân întregi),
-- extinde URL-urile scurtate de t.co la formele lor complete,
-- copiază atașamentele media într-un director local de staging,
-- scrie un fișier Markdown pentru fiecare tweet în `_microblog/twitter/<an>/`.
+Am scris un script Ruby (`_support/scripts/import_twitter.rb`) care citește `tweets.js` din arhivă, păstrează doar originalele (fără retweet-uri, fără răspunsuri la alții), extinde URL-urile scurtate de t.co, transformă mențiunile `@utilizator` și hashtag-urile `#subiect` în link-uri reale, copiază media în staging și scrie câte un Markdown per tweet. Un rsync, un commit, gata.
 
-Apoi un singur `rsync` urcă media pe `content.rusiczki.net/microblog/twitter/`, un singur commit/push și gata, vechile mele tweet-uri devin parte din istoricul blogului meu. Nu vor mai dispărea atunci când conturile sau companiile pe care le-am folosit se vor stinge.
+Rezultatul: **3.374 de tweet-uri** din 2008 până în 2025. Nu vor mai dispărea când Twitter decide că nu mai există sau că eu nu mai merit să fiu acolo.
 
-## Mici detalii tehnice care m-au amuzat
+Două note tehnice care merită consemnate.
 
-- **Twitter HTML-escapează `&`, `<` și `>` în corpul tweet-urilor** chiar și în arhiva exportată. A trebuit să le decodez manual, altfel ar fi apărut peste tot `&amp;` în loc de `&`.
-- **Mastodon API-ul folosește `min_id` pentru paginare incrementală**, nu `since_id`. Diferența pare minoră dar e crucială: cu `min_id` ești garantat să nu pierzi toot-uri intermediare dacă ai mai mult de 40 de noi între două sincronizări. Documentația o explică, am ales calea bună din prima. (Bine, eu nu, Claude. Cum spuneam.)
-- **GitHub Actions face commit din workflow** doar dacă i s-a dat `permissions: contents: write` și folosește `secrets.GITHUB_TOKEN` la checkout. Mi-a luat două încercări să-mi amintesc combinația.
-- **rsync fără `--delete` este aditiv**, niciodată distructiv. Pentru un sysadmin paranoid (cum mă consider, mai ales după unele "experimente" din anii '90 cu rm -rf), e o liniște binevenită.
+Prima: build-ul cu 3.374 de intrări în plus dura inițial aproape 9 minute. Cauza era un loop în template-ul sidebar-ului care, pentru fiecare din cele ~1.500 de pagini generate, itera prin toate paginile site-ului — inclusiv cele 182 de pagini de arhivă lunară nou create. Clasic O(N²). Am bănuit tot timpul că Jekyll e pur și simplu lent; [de când am migrat blogul pe Jekyll](https://www.rusiczki.net/2018/01/08/a-new-blogging-engine/) build-ul dura cam un minut și mi-am zis că asta-i prețul. Nu era Jekyll. Era sidebar-ul meu. Acum cu navigare hardcodată, build-ul durează XX secunde. Uneori soluțiile simple chiar funcționează.
 
-## Ce urmează
+A doua: procesul a scos la iveală că [jekyll_asset_pipeline](https://www.rusiczki.net/2018/01/08/a-new-blogging-engine/) — gemul pe care îl co-întrețin și pe care îl folosesc [pe blogul ăsta din 2018](https://www.rusiczki.net/2018/01/08/a-new-blogging-engine/) — nu funcționa corect cu Jekyll 4.4 pe care îl trăgeam ca dependință. A trebuit să fac un mic sidequest: am [preluat repo-ul](https://github.com/janosrusiczki/jekyll-asset-pipeline), am rezolvat problema (build-urile CI generau mereu fișiere cu hash-uri diferite pentru același conținut, ceea ce ar fi spart referințele din paginile arhivate), și am lansat versiunea 0.7.0. Abia după aia am putut continua.
 
-În momentul în care citiți acestea, infrastructura este pusă la punct, dar conținutul tocmai începe să curgă. Mai trebuie să-mi fac efectiv un cont de Mastodon (am amânat luni de zile, e momentul) și să decid pe ce instanță. După aceea, configurez câteva variabile în setările repo-ului de pe GitHub, lansez prima sincronizare manuală, și fluxul ar trebui să-și intre în ritmul lui zilnic. Importul Twitter-ului îl voi face într-un weekend liniștit, când voi avea răbdare să mă uit prin diff și să curăț ce mai trebuie curățat.
+## Și iată-l live
 
-Și, da, asta înseamnă că pagina de [/microblog/](https://www.rusiczki.net/microblog/) o să fie goală câteva zile. Dar lume nouă, pagină nouă, răbdare nouă.
+[/microblog/](https://www.rusiczki.net/microblog/) e live, cu tweet-uri din 2008 încoace și toot-uri Mastodon care vor continua să apară zilnic. Există arhivă lunară, există RSS, există lightbox. Ce nu există: comentarii, like-uri, algoritmul de recomandare.
+
+Exact ce mi-am dorit.

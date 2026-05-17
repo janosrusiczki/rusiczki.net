@@ -59,7 +59,7 @@ jobs:
         if: hashFiles('_microblog_media_staging/mastodon/**') != ''
         uses: burnett01/rsync-deployments@7.0.1
         with:
-          switches: -avz
+          switches: -avz --chmod=D755,F644
           path: _microblog_media_staging/mastodon/
           remote_path: ${{ secrets.CONTENT_PATH }}/microblog/mastodon/
           remote_host: ${{ secrets.CONTENT_HOST }}

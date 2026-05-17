@@ -20,6 +20,7 @@ require 'httparty'
 require 'reverse_markdown'
 require 'json'
 require 'fileutils'
+require 'shellwords'
 require 'time'
 require 'uri'
 require 'yaml'
@@ -102,6 +103,29 @@ def safe_media_filename(toot_id, media_url, index)
   "#{toot_id}-#{basename}"
 end
 
+# If the downloaded image is wider than 1000px, produce a proportionally
+# resized copy at 1000px wide in staged_dir. Returns [display_filename,
+# original_filename] — display is the resized copy when one was made,
+# otherwise both are the original. Falls back gracefully on non-image files.
+def resize_for_web(src_path, staged_dir)
+  ext         = File.extname(src_path)
+  basename    = File.basename(src_path)
+  base_no_ext = File.basename(src_path, ext)
+
+  dims = `identify -format "%wx%h" #{Shellwords.escape(src_path)} 2>/dev/null`.strip
+  w, h = dims.split('x').map(&:to_i)
+  return [basename, basename] unless w && w > 1000
+
+  new_h        = (h * 1000.0 / w).round
+  resized_name = "#{base_no_ext}-1000x#{new_h}#{ext}"
+  resized_path = File.join(staged_dir, resized_name)
+
+  system("convert #{Shellwords.escape(src_path)} -resize 1000x #{Shellwords.escape(resized_path)}") \
+    unless File.exist?(resized_path)
+
+  File.exist?(resized_path) ? [resized_name, basename] : [basename, basename]
+end
+
 written        = 0
 skipped        = 0
 media_staged   = 0
@@ -153,7 +177,10 @@ new_statuses.each do |status|
       end
     end
     alt = m['description'].to_s
-    media_lines << "![#{alt}](#{PUBLIC_MEDIA_BASE}/#{filename})"
+    display_name, original_name = resize_for_web(dest, MEDIA_STAGING)
+    display_url  = "#{PUBLIC_MEDIA_BASE}/#{display_name}"
+    original_url = "#{PUBLIC_MEDIA_BASE}/#{original_name}"
+    media_lines << "[![#{alt}](#{display_url})](#{original_url}){:.glightbox}"
   end
   body_md += "\n\n" + media_lines.join("\n\n") unless media_lines.empty?
 

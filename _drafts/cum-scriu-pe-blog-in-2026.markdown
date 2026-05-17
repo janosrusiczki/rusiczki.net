@@ -12,7 +12,7 @@ Am tot amânat momentul ăsta. În [ianuarie 2018](https://www.rusiczki.net/2018
 
 ### Movable Type (2002–2009)
 
-La începuturile blogului, pe vremea Movable Type, nu știu dacă era vorba de un proces: deschideam panoul de administrare în browser, scriam textul, eventual atașam o poză (redimensionată atent, căci eram pe dial-up și fiecare kilo conta), apăsam Publish și gata. Timp de [șase ani](https://www.rusiczki.net/2009/04/02/keeping-up-with-the-times/) și cea mai activă perioadă a blogului fiecare articol a fost creat în felul acesta. w.bloggar mentions.
+La începuturile blogului, pe vremea Movable Type, procesul nu era chiar atât de simplu pe cât aș fi tentat să-mi amintesc. De cele mai multe ori deschideam panoul de administrare în browser, scriam textul, eventual atașam o poză (redimensionată atent, căci eram pe dial-up și fiecare kilobyte conta), apăsam Publish și gata. Dar a existat și o perioadă în care am folosit destul de intens [w.bloggar](http://wbloggar.com/), un client desktop pentru Windows care vorbea cu Movable Type prin XML-RPC. Funcția lui de undo chiar [mi-a salvat un articol întreg](https://www.rusiczki.net/2003/01/25/thank-god-for-wbloggar/) când serverul rămăsese fără spațiu pe disc. Timp de [șase ani](https://www.rusiczki.net/2009/04/02/keeping-up-with-the-times/) (totodată cea mai activă perioadă a blogului), fiecare articol a fost creat în unul dintre aceste două feluri.
 
 ### WordPress (2009–2018)
 

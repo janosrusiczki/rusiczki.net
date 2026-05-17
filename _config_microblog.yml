@@ -30,9 +30,15 @@ defaults:
       sitemap: false
   -
     scope:
+      path: '_microblog'
+    values:
+      sitemap: false
+  -
+    scope:
       type: microblog
     values:
       layout: microblog_entry
+      sitemap: false
   -
     scope:
       path: '_microblog/twitter'

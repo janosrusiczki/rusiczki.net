@@ -1,0 +1,28 @@
+---
+layout: page
+title: Microblog
+permalink: /microblog/
+---
+
+<p>Short-form notes mirrored here from Mastodon, plus a one-time import of my old Twitter timeline. <a href="/microblog/feed.xml">Subscribe via RSS</a>.</p>
+
+{% assign recent = site.microblog | sort: 'date' | reverse %}
+<ul class="microblog-list">
+  {% for entry in recent limit:50 %}
+    {% include microblog_entry_block.html entry=entry %}
+  {% endfor %}
+</ul>
+
+{% if site.data.microblog_months %}
+<h2>Archive</h2>
+{% assign months_by_year = site.data.microblog_months | group_by: 'year' | sort: 'name' | reverse %}
+{% for year_group in months_by_year %}
+  <h3>{{ year_group.name }}</h3>
+  <ul class="microblog-month-nav">
+    {% assign sorted_months = year_group.items | sort: 'month' | reverse %}
+    {% for m in sorted_months %}
+      <li><a href="{{ m.url }}">{{ m.month_name }} ({{ m.count }})</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+{% endif %}

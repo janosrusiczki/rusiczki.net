@@ -36,3 +36,10 @@ end
 
 gem 'rake'
 gem 'html-proofer'
+
+# Used only by importer/sync scripts in _support/scripts/, not by the Jekyll build.
+group :scripts do
+  gem 'reverse_markdown'
+  gem 'httparty'
+  gem 'rubyzip'
+end

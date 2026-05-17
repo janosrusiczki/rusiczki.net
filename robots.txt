@@ -1,2 +1,3 @@
 User-agent: *
+Disallow: /microblog/
 Sitemap: http://www.rusiczki.net/sitemap.xml

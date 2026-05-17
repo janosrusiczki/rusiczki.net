@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="page">
+  <h1 class="page-title">Microblog — {{ page.month_name }} {{ page.year }}</h1>
+
+  <p>
+    {% if page.prev_month %}<a href="{{ page.prev_month.url }}">&laquo; {{ page.prev_month.month_name }} {{ page.prev_month.year }}</a>{% endif %}
+    {% if page.prev_month and page.next_month %} &middot; {% endif %}
+    {% if page.next_month %}<a href="{{ page.next_month.url }}">{{ page.next_month.month_name }} {{ page.next_month.year }} &raquo;</a>{% endif %}
+  </p>
+
+  <ul class="microblog-list">
+    {% for entry in page.entries %}
+      {% include microblog_entry_block.html entry=entry %}
+    {% endfor %}
+  </ul>
+
+  <p><a href="/microblog/">&laquo; Back to microblog</a></p>
+</div>

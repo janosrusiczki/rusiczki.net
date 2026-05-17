@@ -6,9 +6,12 @@ categories:
   - technical
   - română
 description: Am adăugat o nouă secțiune alimentată automat de Mastodon și de arhiva mea Twitter.
+image: https://content.rusiczki.net/2026/05/rusiczki-net-2026-05-17-microblog.png
 date: 2026-05-17 21:23:56 +03:00
 ---
 [Seria](https://www.rusiczki.net/2023/01/12/mici-ajustari/) de [îmbunătățiri](https://www.rusiczki.net/2026/04/09/alte-mici-modificari-adio-disqus/) și [curățenii în curtea blogului](https://www.rusiczki.net/2026/04/11/pensionarea-mult-prea-intarziata-a-popup-urilor/) continuă cu o altă piesă de puzzle: un loc pentru notițele scurte. O notiță scurtă e genul de chestie pe care până nu demult o postam pe Twitter și mai nou Mastodon și care n-a avut niciodată ce căuta printre articolele clasice ale blogului (adică de alea cu titlu, paragrafe, descriere SEO). De acum am un [microblog](https://www.rusiczki.net/microblog/), cu propriul său [feed RSS](https://www.rusiczki.net/microblog/feed.xml).
+
+![Screenshot microblog pe rusiczki.net](https://content.rusiczki.net/2026/05/rusiczki-net-2026-05-17-microblog.png)
 
 Am mai scris că [regret că am neglijat blogul](https://www.rusiczki.net/2022/12/20/20-in-20/) în favoarea rețelelor sociale care s-au dovedit atât de efemere. Mai nou chiar *evit* să intru pe Facebook să nu mă enervez din cauza vreunui subiect politic (și nu numai) de actualitate. O bună bucată de vreme, Twitter (sau X, sau cum se mai numește) a fost destinația pentru genul ăsta de notițe ușor mai tehnice, dar, de când cu împărăția lui Elonuț, am cam încetat să-l folosesc din principiu. Îmi făcusem [cont pe Mastodon](https://ruby.social/@janosrusiczki), dar mi-l creasem pe un server care era oarecum nișat pe idea că aș fi programator Ruby. Nu că *nu aș fi avut voie* să public chestii offtopic dar m-ar fi supărat pe mine la OCD să pun poze cu pisici pe ruby.social...
 

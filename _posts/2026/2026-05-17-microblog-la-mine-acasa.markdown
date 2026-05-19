@@ -9,7 +9,7 @@ description: Am adăugat o nouă secțiune alimentată automat de Mastodon și d
 image: https://content.rusiczki.net/2026/05/rusiczki-net-2026-05-17-microblog.png
 date: 2026-05-17 21:23:56 +03:00
 ---
-[Seria](https://www.rusiczki.net/2023/01/12/mici-ajustari/) de [îmbunătățiri](https://www.rusiczki.net/2026/04/09/alte-mici-modificari-adio-disqus/) și [curățenii în curtea blogului](https://www.rusiczki.net/2026/04/11/pensionarea-mult-prea-intarziata-a-popup-urilor/) continuă cu o altă piesă de puzzle: un loc pentru notițele scurte. O notiță scurtă e genul de chestie pe care până nu demult o postam pe Twitter și mai nou Mastodon și care n-a avut niciodată ce căuta printre articolele clasice ale blogului (adică de alea cu titlu, paragrafe, descriere SEO). De acum am un [microblog](https://www.rusiczki.net/microblog/), cu propriul său [feed RSS](https://www.rusiczki.net/microblog/feed.xml).
+[Seria](https://www.rusiczki.net/2023/01/12/mici-ajustari/) de [îmbunătățiri](https://www.rusiczki.net/2026/04/09/alte-mici-modificari-adio-disqus/) și [curățenii prin curtea blogului](https://www.rusiczki.net/2026/04/11/pensionarea-mult-prea-intarziata-a-popup-urilor/) continuă cu o altă piesă de puzzle: un loc pentru notițele scurte. O notiță scurtă e genul de chestie pe care până nu demult o postam pe Twitter și mai nou Mastodon și care n-a avut niciodată ce căuta printre articolele clasice ale blogului (adică de alea cu titlu, paragrafe, descriere SEO). De acum am un [microblog](https://www.rusiczki.net/microblog/), cu propriul său [feed RSS](https://www.rusiczki.net/microblog/feed.xml).
 
 ![Screenshot microblog pe rusiczki.net](https://content.rusiczki.net/2026/05/rusiczki-net-2026-05-17-microblog.png)
 

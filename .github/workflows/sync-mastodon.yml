@@ -48,7 +48,7 @@ jobs:
       - name: Deploy full site with rsync
         uses: burnett01/rsync-deployments@7.0.1
         with:
-          switches: -avzr --delete --exclude=/microblog/twitter/
+          switches: -azr --delete --stats --exclude=/microblog/twitter/
           path: _site/
           remote_path: ${{ secrets.DEPLOY_PATH }}
           remote_host: ${{ secrets.DEPLOY_HOST }}
@@ -59,7 +59,7 @@ jobs:
         if: hashFiles('_microblog_media_staging/mastodon/**') != ''
         uses: burnett01/rsync-deployments@7.0.1
         with:
-          switches: -avz --chmod=D755,F644
+          switches: -az --stats --chmod=D755,F644
           path: _microblog_media_staging/mastodon/
           remote_path: ${{ secrets.CONTENT_DEPLOY_PATH }}/microblog/mastodon/
           remote_host: ${{ secrets.DEPLOY_HOST }}

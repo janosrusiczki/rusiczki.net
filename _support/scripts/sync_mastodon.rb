@@ -14,6 +14,9 @@
 # converts each toot's HTML body to Markdown, and downloads media into
 # _microblog_media_staging/mastodon/. The accompanying GitHub Action rsyncs
 # that staging dir to content.rusiczki.net and commits the new entries.
+#
+# Quote posts (Boost → Quote on mastodon.social) are handled like boosts but
+# preserve your commentary above the quoted content rendered as a blockquote.
 
 require 'bundler/setup'
 require 'httparty'
@@ -90,17 +93,18 @@ end
 puts "Fetched #{new_statuses.size} status(es) newer than the last sync"
 
 def keep?(status, my_account_id)
-  # Boosts are kept; replies-to-others are skipped.
+  # Boosts and quote posts are kept; replies-to-others are skipped.
   return true if status['reblog']
+  return true if status.dig('quote', 'quoted_status')
   reply_to = status['in_reply_to_account_id']
   return false if reply_to && reply_to.to_s != my_account_id.to_s
   true
 end
 
-def safe_media_filename(toot_id, media_url, index)
+def safe_media_filename(file_prefix, media_url, index)
   basename = File.basename(URI.parse(media_url).path) rescue nil
   basename = "#{index}.bin" if basename.nil? || basename.empty?
-  "#{toot_id}-#{basename}"
+  "#{file_prefix}-#{basename}"
 end
 
 # If the downloaded image is wider than 1000px, produce a proportionally
@@ -126,6 +130,39 @@ def resize_for_web(src_path, staged_dir)
   File.exist?(resized_path) ? [resized_name, basename] : [basename, basename]
 end
 
+# Download media attachments for a status payload; return [lines, staged, failed].
+# file_prefix is prepended to each saved filename to avoid collisions.
+def stage_media(payload, file_prefix)
+  lines  = []
+  staged = 0
+  failed = 0
+  Array(payload['media_attachments']).each_with_index do |m, i|
+    src = m['url']
+    next unless src
+    filename = safe_media_filename(file_prefix, src, i)
+    dest = File.join(MEDIA_STAGING, filename)
+    if File.exist?(dest)
+      staged += 1
+    else
+      resp = HTTParty.get(src, follow_redirects: true)
+      if resp.success?
+        File.binwrite(dest, resp.body)
+        staged += 1
+      else
+        failed += 1
+        warn "  media download failed (#{resp.code}): #{src}"
+        next
+      end
+    end
+    alt = m['description'].to_s
+    display_name, original_name = resize_for_web(dest, MEDIA_STAGING)
+    display_url  = "#{PUBLIC_MEDIA_BASE}/#{display_name}"
+    original_url = "#{PUBLIC_MEDIA_BASE}/#{original_name}"
+    lines << "[![#{alt}](#{display_url})](#{original_url}){:.glightbox}"
+  end
+  [lines, staged, failed]
+end
+
 written        = 0
 skipped        = 0
 media_staged   = 0
@@ -147,45 +184,61 @@ new_statuses.each do |status|
   payload   = is_boost ? status['reblog'] : status
   boost_of  = is_boost ? "@#{payload.dig('account', 'acct')}" : nil
 
+  quoted_status = !is_boost && status.dig('quote', 'quoted_status')
+  is_quote      = !!quoted_status
+  quote_of      = is_quote ? "@#{quoted_status.dig('account', 'acct')}" : nil
+  quoted_url    = is_quote ? quoted_status['url'] : nil
+
   # HTML → Markdown
   body_md = ReverseMarkdown.convert(payload['content'].to_s,
                                     unknown_tags: :bypass,
                                     github_flavored: false).strip
 
+  # Strip the mastodon.social-injected "RE: [url](url)" fallback line from
+  # quote posts — we render the actual quoted content as a blockquote below.
+  if is_quote && quoted_url
+    body_md = body_md.sub(
+      /RE:\s*\[#{Regexp.escape(quoted_url)}\]\(#{Regexp.escape(quoted_url)}\)\n*/,
+      ''
+    ).strip
+  end
+
   # Content warning prepended as a blockquote
   spoiler = payload['spoiler_text'].to_s.strip
   body_md = "> CW: #{spoiler}\n\n#{body_md}" unless spoiler.empty?
 
-  # Media: download each attachment and reference it from the body
-  media_lines = []
-  Array(payload['media_attachments']).each_with_index do |m, i|
-    src = m['url']
-    next unless src
-    filename = safe_media_filename(toot_id, src, i)
-    dest = File.join(MEDIA_STAGING, filename)
-    if File.exist?(dest)
-      media_staged += 1
-    else
-      resp = HTTParty.get(src, follow_redirects: true)
-      if resp.success?
-        File.binwrite(dest, resp.body)
-        media_staged += 1
-      else
-        media_failed += 1
-        warn "  media download failed (#{resp.code}): #{src}"
-        next
-      end
-    end
-    alt = m['description'].to_s
-    display_name, original_name = resize_for_web(dest, MEDIA_STAGING)
-    display_url  = "#{PUBLIC_MEDIA_BASE}/#{display_name}"
-    original_url = "#{PUBLIC_MEDIA_BASE}/#{original_name}"
-    media_lines << "[![#{alt}](#{display_url})](#{original_url}){:.glightbox}"
-  end
+  # Media for the main payload
+  media_lines, ms, mf = stage_media(payload, toot_id)
+  media_staged += ms
+  media_failed += mf
   body_md += "\n\n" + media_lines.join("\n\n") unless media_lines.empty?
 
+  # Quote post: append the quoted content as an attributed blockquote
+  if is_quote
+    quoted_md = ReverseMarkdown.convert(quoted_status['content'].to_s,
+                                        unknown_tags: :bypass,
+                                        github_flavored: false).strip
+    quoted_spoiler = quoted_status['spoiler_text'].to_s.strip
+    quoted_md = "> CW: #{quoted_spoiler}\n\n#{quoted_md}" unless quoted_spoiler.empty?
+
+    q_media_lines, ms, mf = stage_media(quoted_status, "#{toot_id}-q")
+    media_staged += ms
+    media_failed += mf
+    quoted_md += "\n\n" + q_media_lines.join("\n\n") unless q_media_lines.empty?
+
+    attribution = "— [#{quote_of}](#{quoted_url})"
+    blockquote  = (quoted_md + "\n\n" + attribution)
+                    .split("\n")
+                    .map { |l| l.empty? ? '>' : "> #{l}" }
+                    .join("\n")
+
+    body_md = [body_md, blockquote].reject(&:empty?).join("\n\n")
+  end
+
   lang_value = payload['language'] == 'ro' ? 'ro' : 'en'
-  source_url = payload['url'] || "https://#{instance}/@#{handle}/#{toot_id}"
+  source_url = is_quote \
+    ? (status['url'] || "https://#{instance}/@#{handle}/#{toot_id}") \
+    : (payload['url'] || "https://#{instance}/@#{handle}/#{toot_id}")
 
   out_dir  = File.join(ENTRIES_DIR, year)
   FileUtils.mkdir_p(out_dir)
@@ -201,6 +254,7 @@ new_statuses.each do |status|
     f.puts "lang: #{lang_value}"
     f.puts %(slug: "#{toot_id}")
     f.puts %(boost_of: "#{boost_of}") if boost_of
+    f.puts %(quote_of: "#{quote_of}") if quote_of
     f.puts '---'
     f.puts body_md
   end

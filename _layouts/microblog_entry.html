@@ -9,16 +9,12 @@ layout: default
   {{ content }}
   {% if page.source_url %}
   <p class="microblog-source">
-    Originally posted on
-    {% if page.source == 'mastodon' %}Mastodon{% elsif page.source == 'twitter' %}Twitter{% else %}{{ page.source }}{% endif %}:
-    <a href="{{ page.source_url }}" rel="noopener">{{ page.source_url }}</a>
+    Originally <a href="{{ page.source_url }}" rel="noopener">posted to
+    {% if page.source == 'mastodon' %}Mastodon{% elsif page.source == 'twitter' %}Twitter{% else %}{{ page.source }}{% endif %}</a>. Have thoughts? Reply there.
   </p>
   {% endif %}
 </div>
 
 <p><a href="/microblog/">&laquo; Back to the microblog</a></p>
-
-<div id="comments"></div>
-{% include comment-form-remark42.html %}
 
 {% include built-from.html %}

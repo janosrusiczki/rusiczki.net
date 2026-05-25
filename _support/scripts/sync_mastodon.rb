@@ -154,7 +154,7 @@ def stage_media(payload, file_prefix)
         next
       end
     end
-    alt = m['description'].to_s
+    alt = m['description'].to_s.gsub(/\s*\n\s*/, ' ').strip
     display_name, original_name = resize_for_web(dest, MEDIA_STAGING)
     display_url  = "#{PUBLIC_MEDIA_BASE}/#{display_name}"
     original_url = "#{PUBLIC_MEDIA_BASE}/#{original_name}"

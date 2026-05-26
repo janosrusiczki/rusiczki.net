@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="microblog-entry">
+  <span class="post-date">
+    {{ page.date | date: "%A, %B %-d, %Y &middot; %H:%M UTC" }}
+  </span>
+  {{ content }}
+  {% if page.source_url %}
+  <p class="microblog-source">
+    Originally <a href="{{ page.source_url }}" rel="noopener">posted to
+    {% if page.source == 'mastodon' %}Mastodon{% elsif page.source == 'twitter' %}Twitter{% else %}{{ page.source }}{% endif %}</a>. Have thoughts? Reply there.
+  </p>
+  {% endif %}
+</div>
+
+<p><a href="/microblog/">&laquo; Back to the microblog</a></p>
+
+{% include built-from.html %}

@@ -38,6 +38,8 @@ exclude:
   - Gemfile.lock
   - vendor
   - Rakefile
+  - _microblog
+  - microblog.html
 
 algolia:
   application_id: WMKRED0LJU
@@ -74,4 +76,4 @@ jekyll-archives:
     category: '/category/:name/'
 
 jekyll_tidy:
-  exclude: ["feed.xml"] 
+  exclude: ["feed.xml", "microblog/feed.xml"]

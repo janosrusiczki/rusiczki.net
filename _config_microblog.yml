@@ -1,0 +1,47 @@
+# Overlay config that activates the microblog collection.
+#
+# Use with:   bundle exec jekyll build --config _config.yml,_config_microblog.yml
+#
+# The base _config.yml deliberately excludes _microblog/ and microblog.html so
+# the regular blog build stays fast even as the Twitter archive grows. Only
+# the nightly Mastodon sync workflow (and ad-hoc local previews of the
+# microblog) merges this overlay in.
+
+include:
+  - _microblog
+  - microblog.html
+
+collections:
+  microblog:
+    output: true
+    permalink: /microblog/:year/:month/:day/:slug/
+
+feed:
+  collections:
+    microblog:
+      path: /microblog/feed.xml
+      limit: 50
+
+defaults:
+  -
+    scope:
+      path: 'page'
+    values:
+      sitemap: false
+  -
+    scope:
+      path: '_microblog'
+    values:
+      sitemap: false
+  -
+    scope:
+      type: microblog
+    values:
+      layout: microblog_entry
+      sitemap: false
+  -
+    scope:
+      path: '_microblog/twitter'
+      type: microblog
+    values:
+      output: false

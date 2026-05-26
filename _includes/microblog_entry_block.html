@@ -1,0 +1,17 @@
+<li class="microblog-entry microblog-entry--{{ include.entry.source }}{% if include.entry.boost_of %} microblog-entry--boost{% endif %}">
+  {% if include.entry.boost_of %}
+  <p class="microblog-boost-label">Boosted <a href="{{ include.entry.source_url }}" rel="noopener">{{ include.entry.boost_of }}</a>:</p>
+  {% endif %}
+  {{ include.entry.content }}
+  <p class="microblog-footer">
+    <a href="{{ include.entry.url }}">{{ include.entry.date | date: "%B %-d, %Y &middot; %H:%M UTC" }}</a>
+    &mdash;
+    {% if include.entry.boost_of %}
+      Boosted on <a href="{{ include.entry.source_url }}" rel="noopener">Mastodon</a>
+    {% elsif include.entry.source == 'twitter' %}
+      Imported from <a href="{{ include.entry.source_url }}" rel="noopener">Twitter</a>
+    {% else %}
+      Imported from <a href="{{ include.entry.source_url }}" rel="noopener">Mastodon</a>
+    {% endif %}
+  </p>
+</li>

@@ -76,6 +76,6 @@ Slimy!
 
 On May 25 I got an official "Your order has been shipped" email with a tracking number. I've seen this movie before. Checked the tracker today: the label was created on May 23. And that's it, that's all the tracking information. The DHL tracking appears to originate from Germany, so it's either in transit from China to Germany, or they just created the label to shut me up and nothing has actually moved. I can't tell.
 
-They offered me a refund at one point, blaming chip prices and stricter quality control. I turned it down because I still want the camera. Starting to feel like a mistake.
+They offered me a refund at one point, blaming chip prices and stricter quality control. I turned it down. I still want the camera, and a refund would mean they got to hold 650 of my euros for two months and walk away with no consequences. Anyway, starting to feel like a mistake. I've since spotted a much better secondhand deal on the ZWO equivalent, but I didn't have the cash at hand...
 
 I'm on the internet since 2001 and this is one of the worst online shopping experiences of my life, if not the worst. For a product listed as "In Stock" at the end of March.

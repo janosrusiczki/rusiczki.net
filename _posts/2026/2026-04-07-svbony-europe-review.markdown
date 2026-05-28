@@ -74,7 +74,7 @@ Slimy!
 
 **Update, May 28, 2026**: Almost two months since I placed the order. Camera still hasn't shipped. I won't try to summarize every email I've exchanged with their customer service; the short version is that each one pushed the promised date further back. Beginning of May. Then half of May. Then May 18. Then May 21. Then "it's shipped" on May 22.
 
-On May 25 I got an official "Your order has been shipped" email with a tracking number. I've seen this movie before. Checked the tracker today: the label was created on May 23. The DHL tracking appears to originate from Germany, so it's either in transit from China, or they just created the label to shut me up and nothing has actually moved. I can't tell.
+On May 25 I got an official "Your order has been shipped" email with a tracking number. I've seen this movie before. Checked the tracker today: the label was created on May 23. The DHL tracking appears to originate from Germany, so it's either in transit from China to Germany, or they just created the label to shut me up and nothing has actually moved. I can't tell.
 
 They offered me a refund at one point, blaming chip prices and stricter quality control. I turned it down because I still want the camera. Starting to feel like a mistake.
 

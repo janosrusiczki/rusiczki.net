@@ -72,7 +72,7 @@ Also, while I'm writing this, the SV605CC is *still* listed as "In Stock" on the
 
 Slimy!
 
-**Update, May 28, 2026**: It's been almost two months since I placed the order. The camera still hasn't shipped. I'm not even going to try to summarize every email in between — the short version is that in each one, the promised date moved further back. Beginning of May. Then half of May. Then May 18. Then May 21. Then "it's shipped" on May 22.
+**Update, May 28, 2026**: It's been almost two months since I placed the order. The camera still hasn't shipped. I'm not even going to try to summarize every email I've exchanged with their customer service — the short version is that in each one, the promised date moved further back. Beginning of May. Then half of May. Then May 18. Then May 21. Then "it's shipped" on May 22.
 
 On May 25 I got an official "Your order has been shipped" email with a tracking number. I've seen this movie before. Checked the tracker today: the label was created on May 23. The DHL tracking appears to originate from Germany, so it's either genuinely in transit from China — or they just created the label to shut me up and the package hasn't actually moved. At this point I genuinely can't tell.
 

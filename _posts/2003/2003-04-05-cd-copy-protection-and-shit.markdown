@@ -6,7 +6,7 @@ categories:
 - general
 - english
 ---
-![MiniDisc recorder next to my monitor](https://content.rusiczki.net/blogpics/minidisc-big.jpg)
+![MiniDisc recorder next to my monitor](https://content.rusiczki.net/2003/04/minidisc-big.jpg)
 
 Well I bought my first CD. My first original CD. Massive Attack's <i>100th Window</i>.
 

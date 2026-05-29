@@ -10,4 +10,4 @@ Read in a [post by Kasia](http://cygnus.unix-girl.com/blog/archives/000843.html 
 
 This is not only a useful piece of software but it's also quite funny as it rates every mail according to the results of the spam tests it does on each mail. So you can go through all your spam and see which rates higher. Geeky. :-)
 
-Oh and [this is an old account of mine](https://content.rusiczki.net/blogpics/spam.gif){:.glightbox} after processing. Looks quite sad, does it?
+Oh and [this is an old account of mine](https://content.rusiczki.net/2003/03/spam.gif){:.glightbox} after processing. Looks quite sad, does it?

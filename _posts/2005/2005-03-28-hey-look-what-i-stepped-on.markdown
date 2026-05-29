@@ -6,7 +6,7 @@ categories:
 - fun
 - english
 ---
-<img alt="Whoops! I stepped on Maggi!" src="https://content.rusiczki.net/blogpics/whoops_i_stepped_on_maggi.jpg" width="490" height="367" class="image" />
+<img alt="Whoops! I stepped on Maggi!" src="https://content.rusiczki.net/2005/03/whoops_i_stepped_on_maggi.jpg" width="490" height="367" class="image" />
 
 OK, I admit this was staged. But I think I'll print <a href="http://www.taredisco.ro/muie/magggimuie.pdf" title="Adobe PDF file">the "alternative campaign's" sticker</a> soon and I might even post it in my window because this damn campaign is really starting to drive me nuts. I'm far from being alone, but I won't give any links because I didn't check my newsreader for a while and I don't want to omit anyone who posted about this.
 

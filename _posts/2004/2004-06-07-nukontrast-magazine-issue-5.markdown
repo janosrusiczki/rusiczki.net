@@ -6,7 +6,7 @@ categories:
 - web
 - english
 ---
-<img src="https://content.rusiczki.net/blogpics/nukontrast_5.jpg" width="490" height="90" border="0" alt="Nukontrast 5 clip" class="image" />
+<img src="https://content.rusiczki.net/2004/06/nukontrast_5.jpg" width="490" height="90" border="0" alt="Nukontrast 5 clip" class="image" />
 
 Hey, I want to be the first to blog about it!
 

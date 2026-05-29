@@ -16,7 +16,7 @@ Nope, IDDQD will not work, try:
 
   `[![Casetă Roxette - Joyride](https://content.rusiczki.net/2019/12/roxette-joyride-1000x667.jpg)](https://content.rusiczki.net/2019/12/roxette-joyride.jpg){:.glightbox}`
 
-  `[The plastic claws](https://content.rusiczki.net/blogpics/plastic_claws.jpg){:.glightbox}`
+  `[The plastic claws](https://content.rusiczki.net/2004/04/plastic_claws.jpg){:.glightbox}`
   
 * Link with title:
 

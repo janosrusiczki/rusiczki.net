@@ -6,7 +6,7 @@ categories:
 - technical
 - english
 ---
-<img src="https://content.rusiczki.net/blogpics/mtkeystrokes-is-divine.png" width="500" height="215" alt="MT-Keystrokes is divine" class="image" />
+<img src="https://content.rusiczki.net/2008/03/mtkeystrokes-is-divine.png" width="500" height="215" alt="MT-Keystrokes is divine" class="image" />
 
 39730 entries. And I delete them periodically!
 

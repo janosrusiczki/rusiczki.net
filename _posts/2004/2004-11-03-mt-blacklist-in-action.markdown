@@ -7,7 +7,7 @@ categories:
 - blog history
 - english
 ---
-![MT-Blacklist Statistics](https://content.rusiczki.net/blogpics/mt_blacklist_stats.gif)
+![MT-Blacklist Statistics](https://content.rusiczki.net/2004/11/mt_blacklist_stats.gif)
 
 It's working! Not one spam comment went through since [I installed it](http://www.rusiczki.net/2004/11/01/mt-3121-dynamic-pages-and-the-return-of-the-blacklist/) two days ago, it blocked 22 because they matched 'cialis' and forced me to moderate another two of them because they were added to older entries. That's what I call a smart plug-in! Kudos to the author, [Jay Allen](http://www.jayallen.org/).
 

@@ -6,7 +6,7 @@ categories:
 - music
 - english
 ---
-![Hybrid, Freeland, Koma &amp; Bones](https://content.rusiczki.net/blogpics/hybrid_freeland_koma_and_bones.jpg)
+![Hybrid, Freeland, Koma &amp; Bones](https://content.rusiczki.net/2004/01/hybrid_freeland_koma_and_bones.jpg)
 
 Uuuh, they finally arrived! The CDs I ordered before Christmas from [Juno](http://www.juno.co.uk "Finest online record store"). Namely: Adam Freeland's 'Now &amp; Them', Koma &amp; Bones' 'Shutterspeed' and Hybrid's 'Morning Sci-Fi' which includes a bonus DVD. I have to urgently call a friend to borrow a DVD drive.
 

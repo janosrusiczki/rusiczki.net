@@ -6,7 +6,7 @@ categories:
 - fun
 - english
 ---
-<img src="https://content.rusiczki.net/blogpics/o-rly.gif" width="317" height="312" alt="O RLY?" title="O RLY?" class="image" style="background: black;" />
+<img src="https://content.rusiczki.net/2007/03/o-rly.gif" width="317" height="312" alt="O RLY?" title="O RLY?" class="image" style="background: black;" />
 
 Animated GIF version.
 

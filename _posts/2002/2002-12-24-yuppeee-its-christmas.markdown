@@ -6,7 +6,7 @@ categories:
 - general
 - english
 ---
-![Christmas Tree - Final Phase](https://content.rusiczki.net/blogpics/chrismtas_tree-final.jpg)
+![Christmas Tree - Final Phase](https://content.rusiczki.net/2002/12/chrismtas_tree-final.jpg)
 
 Here it is! You can see about an afternoon's work on the left side. Taking photos of a Christmas tree is kind of problematic because all those shiny things reflect the camera's flash and you end up with an ugly pic. So I assure you that the actual tree is a lot more beautiful than what you can see here.
 
@@ -16,6 +16,6 @@ I played a little and then Mum came and told me to get started with that tree. I
 
 After about an hour of fixing work I came back into my room to find my friends half frozen. I apologized but they left in hurry.
 
-I continued with the tree slowly reaching [phase 1](https://content.rusiczki.net/blogpics/chrismtas_tree-layer_1.jpg){:.glightbox} ( = all the candies up) then [phase 2](https://content.rusiczki.net/blogpics/chrismtas_tree-layer_2.jpg){:.glightbox} ( = all the globes) and then the final stage.
+I continued with the tree slowly reaching [phase 1](https://content.rusiczki.net/2002/12/chrismtas_tree-layer_1.jpg){:.glightbox} ( = all the candies up) then [phase 2](https://content.rusiczki.net/2002/12/chrismtas_tree-layer_2.jpg){:.glightbox} ( = all the globes) and then the final stage.
 
 I was done with it! Ha. Time for some more Dungeon Siege. Which I played for a few more hours. Then I took a nightly bath. And here I am.

@@ -6,7 +6,7 @@ categories:
 - photos
 - english
 ---
-<img alt="View from my window" src="https://content.rusiczki.net/blogpics/view_from_my_window.jpg" width="488" height="263" border="0" class="image" />
+<img alt="View from my window" src="https://content.rusiczki.net/2004/06/view_from_my_window.jpg" width="488" height="263" border="0" class="image" />
 
 This is it. Staying in alone on Saturday night makes me melancholic. And as I looked out the window on my way to a nightly shower I thought the street underneath looked pretty melancholic too. So I took a shot...
 

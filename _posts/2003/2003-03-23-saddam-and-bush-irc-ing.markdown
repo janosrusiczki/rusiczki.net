@@ -6,4 +6,4 @@ categories:
 - general
 - english
 ---
-Check out the [screenshot](https://content.rusiczki.net/blogpics/gulfwar2IRC.jpg){:.glightbox}! :-)
+Check out the [screenshot](https://content.rusiczki.net/2003/03/gulfwar2IRC.jpg){:.glightbox}! :-)

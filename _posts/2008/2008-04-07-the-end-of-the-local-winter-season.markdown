@@ -9,7 +9,7 @@ categories:
 ---
 Webcam image of the the base of the Roata slopes at Cavnic captured a few minutes ago:
 
-<img src="https://content.rusiczki.net/blogpics/webcam-roata-cavnic-2008-04-07.png" width="500" height="362" class="image" alt="Webcam image of Roata slope at Cavnic (2008-04-07)"/>
+<img src="https://content.rusiczki.net/2008/04/webcam-roata-cavnic-2008-04-07.png" width="500" height="362" class="image" alt="Webcam image of Roata slope at Cavnic (2008-04-07)"/>
 
 Depressing.
 

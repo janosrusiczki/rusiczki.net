@@ -6,6 +6,6 @@ categories:
 - photos
 - english
 ---
-![Panorama of the slope at Cavnic](https://content.rusiczki.net/blogpics/cavnic_panorama.jpg)
+![Panorama of the slope at Cavnic](https://content.rusiczki.net/2004/03/cavnic_panorama.jpg)
 
 And so, each and every weekend became a much expected one...

@@ -6,7 +6,7 @@ categories:
 - technical
 - english
 ---
-<img src="https://content.rusiczki.net/blogpics/syncmaster_913n.jpg" width="510" height="139" alt="SyncMaster 913N upper left corner" class="image" />
+<img src="https://content.rusiczki.net/2006/01/syncmaster_913n.jpg" width="510" height="139" alt="SyncMaster 913N upper left corner" class="image" />
 
 [ Context: <a href="http://www.rusiczki.net/2005/12/29/lcd-suggestions-anyone/">one</a> and <a href="http://www.rusiczki.net/2006/01/19/technically-frustrated/">two</a>. ]
 

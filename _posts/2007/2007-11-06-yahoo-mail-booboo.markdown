@@ -6,7 +6,7 @@ categories:
 - uncategorized
 - english
 ---
-![Yahoo! Mail - Can't talk now. System's down.](https://content.rusiczki.net/blogpics/yahoo-mail-down.gif)
+![Yahoo! Mail - Can't talk now. System's down.](https://content.rusiczki.net/2007/11/yahoo-mail-down.gif)
 
 Never - ever saw Yahoo! Mail having an outage before. That's why I marked the occasion with a screenshot.
 

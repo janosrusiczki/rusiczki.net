@@ -6,7 +6,7 @@ categories:
 - general
 - english
 ---
-![Nintendo Gameboy Advance SP](https://content.rusiczki.net/blogpics/gameboy_advance_sp.jpg)
+![Nintendo Gameboy Advance SP](https://content.rusiczki.net/2003/04/gameboy_advance_sp.jpg)
 
 I can't be stopped. Even I myself can't stop myself.
 

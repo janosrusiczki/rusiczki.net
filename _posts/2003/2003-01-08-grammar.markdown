@@ -6,7 +6,7 @@ categories:
 - general
 - english
 ---
-<img src="https://content.rusiczki.net/blogpics/notes.jpg" width="300" height="145" border="0" alt="Grammar notes" class="image" />
+<img src="https://content.rusiczki.net/2003/01/notes.jpg" width="300" height="145" border="0" alt="Grammar notes" class="image" />
 
 I'll write these down 100 times. Until I get them.
 

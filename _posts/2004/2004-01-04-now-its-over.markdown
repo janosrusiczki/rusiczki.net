@@ -6,7 +6,7 @@ categories:
 - life
 - english
 ---
-![Presenting the fine drinks](https://content.rusiczki.net/blogpics/presenting_the_fine_drinks.jpg)
+![Presenting the fine drinks](https://content.rusiczki.net/2004/01/presenting_the_fine_drinks.jpg)
 
 Well, it finally is. I'm talking about the <i>madness</i> associated with the winter holidays. I think today marked the end of it all, because I slept through most of the day. Relieving myself of almost all of the accumulated tiredness.
 

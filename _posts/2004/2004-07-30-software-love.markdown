@@ -6,7 +6,7 @@ categories:
 - technical
 - english
 ---
-<img src="https://content.rusiczki.net/blogpics/picasa_screenshot.jpg" width="490" height="45" border="0" alt="Picasa Screenshot" class="image" />
+<img src="https://content.rusiczki.net/2004/07/picasa_screenshot.jpg" width="490" height="45" border="0" alt="Picasa Screenshot" class="image" />
 
 Following <a href="http://www.timbru.com/jurnal/2004/Jul/gen_iphoto_pentru_windows">a post</a> by <a href="http://www.timbru.com">Gabriel Radic</a> I downloaded <a href="http://www.picasa.com/">Picasa</a> and since then, I'm using it almost exclusively when it comes to browsing my digital photo collection. I basically rediscovered the joy of looking at my photos, the joy I lost after about a year of using my late PowerShot A20...
 

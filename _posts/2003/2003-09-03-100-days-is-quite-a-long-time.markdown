@@ -7,7 +7,7 @@ categories:
 - technical
 - english
 ---
-![UD Agent Screenshot](https://content.rusiczki.net/blogpics/100_days.gif)
+![UD Agent Screenshot](https://content.rusiczki.net/2003/09/100_days.gif)
 
 And all this time my CPU was in the service of humanity. Haha. In fact 70% of this time was made at my ex - workplace where the [UD Agent](http://www.grid.org) was running night and day - seven days a week.
 

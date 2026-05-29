@@ -9,9 +9,9 @@ categories:
 ---
 I think the following are the two most awesome photos of my hometown:
 
-<a href="https://content.rusiczki.net/blogpics/8027351.jpg"><img src="https://content.rusiczki.net/2010/04/baia-sprie-from-paraglider-1-500x375.jpg" alt="Baia Sprie seen from a paraglider #1" title="Baia Sprie seen from a paraglider #1" width="500" height="375"/></a>
+<a href="https://content.rusiczki.net/2010/04/8027351.jpg"><img src="https://content.rusiczki.net/2010/04/baia-sprie-from-paraglider-1-500x375.jpg" alt="Baia Sprie seen from a paraglider #1" title="Baia Sprie seen from a paraglider #1" width="500" height="375"/></a>
 
-<a href="https://content.rusiczki.net/blogpics/8027320.jpg"><img src="https://content.rusiczki.net/2010/04/baia-sprie-from-paraglider-2-500x375.jpg" alt="Baia Sprie seen from a paraglider #2" title="Baia Sprie seen from a paraglider #2" width="500" height="375"/></a>
+<a href="https://content.rusiczki.net/2010/04/8027320.jpg"><img src="https://content.rusiczki.net/2010/04/baia-sprie-from-paraglider-2-500x375.jpg" alt="Baia Sprie seen from a paraglider #2" title="Baia Sprie seen from a paraglider #2" width="500" height="375"/></a>
 
 Especially this second one, as it features the house where I spent 25 years of my life (give or take the first 6 years when I lived in a flat).
 

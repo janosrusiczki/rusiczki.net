@@ -9,6 +9,6 @@ categories:
 ---
 At least according to Apple...
 
-<img src="https://content.rusiczki.net/blogpics/countries-of-the-world.gif" width="118" height="363" alt="Countries of the world according to Apple" class="image" />
+<img src="https://content.rusiczki.net/2007/05/countries-of-the-world.gif" width="118" height="363" alt="Countries of the world according to Apple" class="image" />
 
 Bring on the inferiority complex for more than half of the planet.

@@ -6,7 +6,7 @@ categories:
 - technical
 - english
 ---
-<img src="https://content.rusiczki.net/blogpics/t100.jpg" width="115" height="250" border="0" alt="Sony Ericsson T100" class="postimage" /> Lately I cooled down a little bit with my gadget mania. After I bought my Palm that is. Which I bought more because it was a damn good deal (I got it for the third of the original price, hah!) and I found out later that it's a very smart and useful thing for such a small gadget. So I bought it with small hopes and found out later how great it is. Not as with my MP3 player. Which I bought with great hopes and ended up hating it. I don't like it...
+<img src="https://content.rusiczki.net/2003/03/t100.jpg" width="115" height="250" border="0" alt="Sony Ericsson T100" class="postimage" /> Lately I cooled down a little bit with my gadget mania. After I bought my Palm that is. Which I bought more because it was a damn good deal (I got it for the third of the original price, hah!) and I found out later that it's a very smart and useful thing for such a small gadget. So I bought it with small hopes and found out later how great it is. Not as with my MP3 player. Which I bought with great hopes and ended up hating it. I don't like it...
 
 So I cooled down. But I still want this phone. I wanted it from the first moment I saw it. Yes. It was that. Love at first glance. I mean sight. :-) I don't know. But it's just too cool! It's small, it's thin and that blue! Oh!
 

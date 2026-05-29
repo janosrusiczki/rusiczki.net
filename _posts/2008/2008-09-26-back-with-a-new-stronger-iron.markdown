@@ -11,11 +11,11 @@ Long story short: I moved a high traffic forum to my (ex-)server and it sort of 
 
 From this:
 
-![old-server.png](https://content.rusiczki.net/blogpics/old-server.png)
+![old-server.png](https://content.rusiczki.net/2008/09/old-server.png)
 
 To this:
 
-![new-server.png](https://content.rusiczki.net/blogpics/new-server.png)
+![new-server.png](https://content.rusiczki.net/2008/09/new-server.png)
 
 For just $30 per month more... I'd say it's worth it! I don't want to sound like a [Planet](http://www.theplanet.com) fanboy but their [server specials](http://www.theplanet.com/dedicated-servers/server-specials/) are just awesomely priced. Plus I've got the setup waived after speaking with a support person cause my card didn't go through at first.
 

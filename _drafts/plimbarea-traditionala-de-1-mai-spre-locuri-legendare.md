@@ -17,7 +17,7 @@ Destul de recent, acum 2 sau 3 ani mi-am dat seama că s-au adunat deja mai mult
 
 Și acum niște tehnicalități despre redactare (oamenii normali pot sări peste acest paragraf): mi-a venit idea să scriu articolul chiar în timpul plimbării din data de 1, dar cum înainte de ieșire am grătărit cu orele pe acasă nu am mai avut energie în acea seară / dupămasă. În data de 2, sâmbătă dimineața l-am pus pe Claude să-mi scrie o mică aplicație de explorat arhiva foto. Apoi când mi-am dat seama că am material vizual din belșug dar neavând chef să editez și să redimensionez manual zeci de fișiere, am dezgropat un alt proiect spre care am "diversificat" în momentul în care descoperisem Claude Code: un manager de media pentru site-uri generate static. Apoi înapoi la muncă și viață, dar între timp am tot lucrat și finisat aplicația până am adus-o la starea în care toate pozele și filmulețele care ilustrează acest articol au fost încărcate și prelucrate cu el.
 
-Șă nu uităm de ce am venit, urmează **arhiva vizuală**!
+Și în încheiere să nu uităm de ce am venit, iată **arhiva vizuală**!
 
 **2004** - A doua ediție. **Legendară!**
 

@@ -4,7 +4,6 @@ title: "Plimbarea tradițională de 1 mai spre locuri legendare"
 date: 2026-05-31 20:31:51 +03:00
 categories:
 - cronică
-- sport
 - română
 - foto
 image: https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619614-1556720974000-1000x563.jpg

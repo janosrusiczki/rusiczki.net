@@ -17,7 +17,25 @@ Nope, IDDQD will not work, try:
   `[![Casetă Roxette - Joyride](https://content.rusiczki.net/2019/12/roxette-joyride-1000x667.jpg)](https://content.rusiczki.net/2019/12/roxette-joyride.jpg){:.glightbox}`
 
   `[The plastic claws](https://content.rusiczki.net/2004/04/plastic_claws.jpg){:.glightbox}`
-  
+
+  To add a caption in the lightbox, add a title attribute to the link:
+
+  `[![alt text](thumb.jpg)](full.jpg "Caption text"){:.glightbox}`
+
+* Photo grid (2 or 3 columns) — wrap images in a div with `markdown="1"`, one image per paragraph:
+
+  ```
+  <div class="photo-grid-3" markdown="1">
+  [![alt](thumb1.jpg)](full1.jpg "Caption"){:.glightbox}
+
+  [![alt](thumb2.jpg)](full2.jpg "Caption"){:.glightbox}
+
+  [![alt](thumb3.jpg)](full3.jpg "Caption"){:.glightbox}
+  </div>
+  ```
+
+  Use `photo-grid-2` for 2 columns. Square thumbnails (e.g. `-bigthumb.jpg`) work best as the grid cell images.
+
 * Link with title:
 
   `[Link to something awesome](https://rusiczki.net/ "Only the best site on the Internet")`

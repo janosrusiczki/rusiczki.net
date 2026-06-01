@@ -9,24 +9,28 @@ categories:
 image: https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619614-1556720974000-1000x563.jpg
 description: O retrospectivă a picnicurilor de 1 mai din Grădina Danila și a vizitelor nostalgice din ultimii ani.
 ---
-Așa, sau ceva de genul mi-am intitulat plimbările de 1 mai pe Strava de câțiva ani... Și mă gândeam să scriu o explicație:
+Așa, sau ceva de genul mi-am intitulat plimbările de 1 mai pe [Strava](https://www.strava.com) de câțiva ani... Și mă gândeam să scriu:
 
-- **Tradițională** - pentru că deja de câțiva ani buni fac această plimbare de remember.
-- **Locuri legendare** - pentru că pe vremuri în acel loc s-au desfășurat niște picnicuri de 1 mai foarte reușite.
+*O explicație*:
 
-Și o retrospectivă: ieșirile de demult credeam că au fost trei, două concentrate în jur de 2003 și 2004 și apoi unul mai târziu. Ca să-mi validez amintirile, în dimineața zilei de 2 mai am scris un mic script pentru a putea explora arhiva mea foto. După ce a fost gata, am văzut că, conform pozelor, picnicurile au fost de fapt în 2004, urmat de un an de [pauză](https://www.rusiczki.net/2005/05/01/biking-around-the-town/), și apoi în 2006 și 2007. Dar, *răsturnare de situație*! Când m-am apucat de redactat acest articol am găsit chiar aici pe blog [un articol despre ediția din 2004](https://www.rusiczki.net/2004/05/03/the-official-may-1st-food-fest/) care menționează cât de reușită a fost cea din anul precedent. La care, în mod surprinzător, se pare că nu am făcut poze...
+- **Tradițională** - pentru că deja de câțiva ani buni fac această plimbare nostalgică.
+- **Locuri legendare** - de fapt loc legendar, pentru că pe vremuri s-au desfășurat acolo niște picnicuri de 1 mai foarte reușite.
+
+Și *o retrospectivă*:
+
+Picnicurile de demult credeam că au fost trei, două concentrate în jur de 2003 și 2004 și apoi unul mai târziu. Explorându-mi arhiva foto, am văzut că, conform pozelor, picnicurile au fost de fapt în 2004, urmate de un an de [pauză](https://www.rusiczki.net/2005/05/01/biking-around-the-town/), și apoi în 2006 și 2007. Dar, *răsturnare de situație*! Când m-am apucat de redactat acest articol am găsit chiar aici pe blog [un articol despre ediția din 2004](https://www.rusiczki.net/2004/05/03/the-official-may-1st-food-fest/) care menționează cât de reușită a fost cea din anul precedent. La care, în mod surprinzător, se pare că nu am făcut poze...
 
 Așadar edițiile de odinioară s-au desfășurat în **2003**, **2004**, **2006** și **2007**.
 
-Despre cel din 2003 nu-mi amintesc nimic, dar cel din 2004 a devenit *absolut legendar* în cercul de prieteni, datorită unor filmări făcute cu [proaspătul meu aparat foto](https://www.rusiczki.net/2004/01/30/digital-camera-upgrade/) care știa și filma și pentru că era multă, *foarte multă*, energie și veselie tinerească. Ediția din 2006 a fost deja mai cuminte iar 2007 a fost cea mai cuminte.
+Despre cel din 2003 nu-mi amintesc nimic, dar cel din 2004 a devenit *legendar* în cercul de prieteni, datorită unor filmări făcute cu [cel de-al doilea aparat foto digital al meu](https://www.rusiczki.net/2004/01/30/digital-camera-upgrade/) și pentru că era multă, *foarte multă*, energie și veselie tinerească. Ediția din 2006 a fost deja mai cuminte iar 2007 a fost cea mai cuminte.
 
-Revenind la *loc*: Este vorba de o poiană în pantă numită Grădina Danila (*Danila Kert*), de fapt versantul unui deal, situată la câteva sute de metri de ruinele Puțului Francisc din apropierea orașului meu natal. [Am pus-o și pe OSM.](https://www.openstreetmap.org/way/593658818) Mai precis grătarele se făceau lângă o construcție din beton, un bazin de apă aflat în partea superioară a acestei poieni, la liziera pădurii. Am pus întrebări despre scopul lui dar nu a știut nimeni să-mi răspundă. Aduna apa dintr-un izvor aflat la câțiva metri distanță, dar alimenta ce? Nu știu...
+Revenind la *loc*: Este vorba de o poiană în pantă numită Grădina Danila (*Danila Kert*), de fapt versantul unui deal, situat la câteva sute de metri de ruinele Puțului Francisc din apropierea orașului meu natal. [Am pus-o și pe OSM.](https://www.openstreetmap.org/way/593658818) Mai precis grătarele se făceau lângă o construcție din beton, un bazin de apă aflat în partea superioară a acestei poieni, la liziera pădurii. Pe parcursul timpului am pus întrebări despre scopul acestui bazin dar nu a știut nimeni să-mi răspundă. Aduna apa dintr-un izvor aflat la câțiva metri distanță, dar alimenta ce? Nu știu...
 
-Au trecut 11 ani, între timp organizatorul principal al acestor ieșiri a plecat departe peste hotare, nouă ni s-a născut copilul și după un 2017 pe care l-am simțit destul de "îmbâcsit", la începutul lui 2018 [m-am pus pe alergat](https://www.rusiczki.net/2018/07/12/alergarea-din-perspectiva-unui-incepator/) și am ajuns, cred că mai mult din greșeală, din nou în acel loc tocmai în data de 1 mai. Am revenit în anul următor și apoi s-a format un soi de obicei și ambiție să trec în fiecare an pe acolo.
+Au trecut 11 ani, între timp organizatorul principal al acestor ieșiri a plecat departe peste hotare, nouă ni s-a născut copilul și după un 2017 pe care l-am simțit destul de "îmbâcsit", la începutul lui 2018 [m-am pus pe alergat](https://www.rusiczki.net/2018/07/12/alergarea-din-perspectiva-unui-incepator/) și am ajuns, cred că mai mult din greșeală, din nou în acel loc tocmai în data de 1 mai. Am revenit în anul următor și apoi s-a format un soi de obicei și ambiție să trec în fiecare an pe data de 1 mai pe acolo.
 
 Destul de recent, acum 2 sau 3 ani mi-am dat seama că s-au adunat deja mai multe vizite de remember decât picnicuri propriu-zise... Momentan contorul stă la 4 ediții originale versus 9 vizite nostalgice. Ce am observat a fost că în ultimii ani a devenit parcă mai animată pădurea, dar în primii ani de revizitare nu prea erau oameni prin zonă. Nici măcar mai jos, în zonele mai accesibile.
 
-Și acum niște tehnicalități despre redactare (oamenii normali pot sări peste acest paragraf): mi-a venit ideea să scriu articolul chiar în timpul plimbării din data de 1, dar cum înainte de ieșire am grătărit cu orele pe acasă nu am mai avut energie în acea seară / dupămasă. În data de 2, sâmbătă dimineața l-am pus pe Claude să-mi scrie o mică aplicație de explorat arhiva foto. Apoi când mi-am dat seama că am material vizual din belșug dar neavând chef să redimensionez manual zeci de fișiere, am dezgropat și am continuat să dezvolt un alt proiect spre care am "diversificat" în momentul în care descoperisem Claude Code: un manager de media pentru site-uri generate static. Apoi m-am întors la muncă și viață, dar am tot lucrat și finisat aplicația până am adus-o la starea în care toate pozele și filmulețele care ilustrează acest articol au fost încărcate și prelucrate cu el. Iar au trecut niște zile și săptămâni dar apoi ambiționat să public în mai, am reușit în ultima zi a lunii.
+Și acum niște tehnicalități despre redactare (oamenii normali pot sări peste acest paragraf): mi-a venit ideea să scriu articolul chiar în timpul plimbării din data de 1, dar cum înainte de ieșire am grătărit cu orele pe acasă nu am mai avut energie în acea seară / după-masă. În data de 2, sâmbătă dimineața l-am pus pe Claude să-mi scrie o mică aplicație de explorat arhiva foto. Apoi când mi-am dat seama că am material vizual din belșug dar neavând chef să redimensionez manual zeci de fișiere, am dezgropat și am continuat să dezvolt un alt proiect spre care am "diversificat" în momentul în care [descoperisem Claude Code](https://www.rusiczki.net/2026/04/13/janos-the-prompt-engineer/): un manager de media pentru site-uri generate static. Apoi *life happened*, cum ar zice englezul, dar am tot lucrat și finisat aplicația până am adus-o la starea în care toate pozele și filmulețele care ilustrative au fost încărcate și prelucrate cu el. Iar au trecut niște zile și săptămâni dar apoi ambiționat să public articolul în mai, am reușit în ultima zi a lunii.
 
 Și acum să nu uităm de ce am venit, iată **arhiva vizuală**!
 
@@ -46,7 +50,7 @@ Povestea ierbii de la Hoia (cu pișat)
 <video src="https://content.rusiczki.net/2026/05/1-mai/2004/263-6392-web.mp4" poster="https://content.rusiczki.net/2026/05/1-mai/2004/263-6392-poster.jpg" controls></video>
 Un mic pogo
 
-**2006** - Mai cuminte (nu am inclus poze cu gașca dar nu am fost doar noi)
+**2006** - Mai cuminte. Nu am inclus poze cu gașca dar promit că nu am fost doar doi.
 
 [![Tot Dealul Minei, tot văzut din Grădina Danila.](https://content.rusiczki.net/2026/05/1-mai/2006/img-1274-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2006/img-1274.jpg "Tot Dealul Minei, tot văzut din Grădina Danila."){:.glightbox}
 
@@ -84,7 +88,7 @@ Un mic pogo
 [![Locul văzut de jos, cu liziera pădurii (proaspăt tăiate)](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182146-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182146.jpg "Locul văzut de jos, cu liziera pădurii (proaspăt tăiate)"){:.glightbox}
 </div>
 
-**2019** - Întoarcerea cu Osmo Pocket
+**2019** - Documentat cu DJI Osmo Pocket
 
 [![Căminul de apă și Dealul Minei (pozate de data asta cu prospătul meu Osmo Pocket)](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619608-1556720772000-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619608-1556720772000.jpg "Căminul de apă și Dealul Minei (pozate de data asta cu prospătul meu Osmo Pocket)"){:.glightbox}
 
@@ -94,7 +98,7 @@ Un mic pogo
 [![Dealul Minei într-o lumină de vis](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619614-1556720974000-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619614-1556720974000.jpg "Dealul Minei într-o lumină de vis"){:.glightbox}
 </div>
 
-**2020** - Cu ocazia pandemiei, am mers de fapt în 2 mai
+**2020** - Cu ocazia pandemiei, am mers de fapt în data de 2 mai, cu Ioana și Anna
 
 [![Pandemie sau nu, Dealul Minei arăta la fel](https://content.rusiczki.net/2026/05/1-mai/2020/img-20200502-144809-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2020/img-20200502-144809.jpg "Pandemie sau nu, Dealul Minei arăta la fel"){:.glightbox}
 
@@ -118,7 +122,7 @@ Un mic pogo
 [![Fetele la beton](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404325564-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404325564.jpg "Fetele la beton"){:.glightbox}
 </div>
 
-**2023** - Revenirea cu fetele și Olympus-ul renăscut
+**2023** - Revenirea cu fetele și aparatul Olympus renăscut
 
 [![Dealul Minei din nou într-o lumină superbă](https://content.rusiczki.net/2026/05/1-mai/2023/p5010646-1000x664.jpg)](https://content.rusiczki.net/2026/05/1-mai/2023/p5010646.jpg "Dealul Minei din nou într-o lumină superbă"){:.glightbox}
 
@@ -132,7 +136,7 @@ Un mic pogo
 
 **2024** - Anul misterios
 
-Nu am înregistrat cu Strava, am [doar o poză](https://content.rusiczki.net/2026/05/1-mai/2024/img-20240501-163031.jpg) de pe drum.
+Nu am înregistrat cu Strava, am [doar o poză](https://content.rusiczki.net/2026/05/1-mai/2024/img-20240501-163031.jpg){:.glightbox} de pe drum.
 
 **2025** - Cu Anna și Ioana, văzut prin lentila Galaxy S24 Ultra
 

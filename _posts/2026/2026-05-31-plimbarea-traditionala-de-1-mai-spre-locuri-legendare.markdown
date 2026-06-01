@@ -81,16 +81,16 @@ Un mic pogo
 [![Dealul Minei, la șase jumate dupămasa și cer înorat](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182232-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182232.jpg "Dealul Minei, la șase jumate dupămasa și cer înorat"){:.glightbox}
 
 <div class="photo-grid-3" markdown="1">
-[![Căminul (construcția de beton) și Dealul Minei](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182314-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182314.jpg "Căminul (construcția de beton) și Dealul Minei"){:.glightbox}
+[![Bazinul (construcția de beton) și Dealul Minei](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182314-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182314.jpg "Bazinul (construcția de beton) și Dealul Minei"){:.glightbox}
 
-[![Picioarele mele sexoase pe colțul căminului de apă](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182421-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182421.jpg "Picioarele mele sexoase pe colțul căminului de apă"){:.glightbox}
+[![Picioarele mele sexoase pe colțul bazinului de apă](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182421-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182421.jpg "Picioarele mele sexoase pe colțul bazinului de apă"){:.glightbox}
 
 [![Locul văzut de jos, cu liziera pădurii (proaspăt tăiate)](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182146-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182146.jpg "Locul văzut de jos, cu liziera pădurii (proaspăt tăiate)"){:.glightbox}
 </div>
 
 **2019** - Documentat cu DJI Osmo Pocket
 
-[![Căminul de apă și Dealul Minei (pozate de data asta cu prospătul meu Osmo Pocket)](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619608-1556720772000-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619608-1556720772000.jpg "Căminul de apă și Dealul Minei (pozate de data asta cu prospătul meu Osmo Pocket)"){:.glightbox}
+[![Bazinul de apă și Dealul Minei (pozate de data asta cu prospătul meu Osmo Pocket)](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619608-1556720772000-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619608-1556720772000.jpg "Bazinul de apă și Dealul Minei (pozate de data asta cu prospătul meu Osmo Pocket)"){:.glightbox}
 
 <div class="photo-grid-2" markdown="1">
 [![Izvorul unde odinioară ne țineam berile la rece](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619610-1556720820000-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619610-1556720820000.jpg "Izvorul unde odinioară ne țineam berile la rece"){:.glightbox}
@@ -108,7 +108,7 @@ Un mic pogo
 
 [![În 2021 cu natura întarziată bine](https://content.rusiczki.net/2026/05/1-mai/2021/img-20210501-163228-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2021/img-20210501-163228.jpg "În 2021 cu natura întarziată bine"){:.glightbox}
 
-[![Căminul de apă](https://content.rusiczki.net/2026/05/1-mai/2021/img-20210501-163100-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2021/img-20210501-163100.jpg "Căminul de apă"){:.glightbox}
+[![Bazinul de apă](https://content.rusiczki.net/2026/05/1-mai/2021/img-20210501-163100-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2021/img-20210501-163100.jpg "Bazinul de apă"){:.glightbox}
 
 **2022** - Cu Anna, Ioana, GoPro și drona!
 
@@ -117,7 +117,7 @@ Un mic pogo
 <div class="photo-grid-3" markdown="1">
 [![Grădina Danila în toată splendoarea ei](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404326823-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404326823.jpg "Grădina Danila în toată splendoarea ei"){:.glightbox}
 
-[![Vedere cu căminul și liziera pădurii](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404327786-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404327786.jpg "Vedere cu căminul și liziera pădurii"){:.glightbox}
+[![Vedere cu bazinul și liziera pădurii](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404327786-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404327786.jpg "Vedere cu bazinul și liziera pădurii"){:.glightbox}
 
 [![Fetele la beton](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404325564-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404325564.jpg "Fetele la beton"){:.glightbox}
 </div>
@@ -127,7 +127,7 @@ Un mic pogo
 [![Dealul Minei din nou într-o lumină superbă](https://content.rusiczki.net/2026/05/1-mai/2023/p5010646-1000x664.jpg)](https://content.rusiczki.net/2026/05/1-mai/2023/p5010646.jpg "Dealul Minei din nou într-o lumină superbă"){:.glightbox}
 
 <div class="photo-grid-3" markdown="1">
-[![Căminul și liziera crescută la loc](https://content.rusiczki.net/2026/05/1-mai/2023/p5010648-1000x664.jpg)](https://content.rusiczki.net/2026/05/1-mai/2023/p5010648.jpg "Căminul și liziera crescută la loc"){:.glightbox}
+[![Bazinul și liziera crescută la loc](https://content.rusiczki.net/2026/05/1-mai/2023/p5010648-1000x664.jpg)](https://content.rusiczki.net/2026/05/1-mai/2023/p5010648.jpg "Bazinul și liziera crescută la loc"){:.glightbox}
 
 [![Vedere de la umbră](https://content.rusiczki.net/2026/05/1-mai/2023/p5010651-1000x664.jpg)](https://content.rusiczki.net/2026/05/1-mai/2023/p5010651.jpg "Vedere de la umbră"){:.glightbox}
 
@@ -143,7 +143,7 @@ Nu am înregistrat cu Strava, am [doar o poză](https://content.rusiczki.net/202
 [![Dealul Minei văzut cu Galaxy S24 Ultra](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-145420-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-145420.jpg "Dealul Minei văzut cu Galaxy S24 Ultra"){:.glightbox}
 
 <div class="photo-grid-3" markdown="1">
-[![Căminul de apă într-o lumină](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-144854-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-144854.jpg "Căminul de apă într-o lumină"){:.glightbox}
+[![Bazinul de apă într-o lumină](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-144854-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-144854.jpg "Bazinul de apă într-o lumină"){:.glightbox}
 
 [![Ultra Wide!](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-145437-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-145437.jpg "Ultra Wide!"){:.glightbox}
 

@@ -32,11 +32,13 @@ Destul de recent, acum 2 sau 3 ani mi-am dat seama că s-au adunat deja mai mult
 
 **2004** - A doua ediție. **Legendară!**
 
-[![Dealul Minei din Baia Sprie, văzut dinspre nord est.](https://content.rusiczki.net/2026/05/1-mai/2004/263-6303-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2004/263-6303.jpg)
+[![Dealul Minei din Baia Sprie, văzut dinspre nord est.](https://content.rusiczki.net/2026/05/1-mai/2004/263-6303-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2004/263-6303.jpg "Dealul Minei din Baia Sprie, văzut dinspre nord est."){:.glightbox}
 
-[![Picnicul din 2004 în plină desfășurare](https://content.rusiczki.net/2026/05/1-mai/2004/263-6366-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2004/263-6366.jpg)
+<div class="photo-grid-2" markdown="1">
+[![Picnicul din 2004 în plină desfășurare](https://content.rusiczki.net/2026/05/1-mai/2004/263-6366-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2004/263-6366.jpg "Picnicul din 2004 în plină desfășurare"){:.glightbox}
 
-[![Vizita unei turme](https://content.rusiczki.net/2026/05/1-mai/2004/263-6325-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2004/263-6325.jpg)
+[![Vizita unei turme](https://content.rusiczki.net/2026/05/1-mai/2004/263-6325-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2004/263-6325.jpg "Vizita unei turme"){:.glightbox}
+</div>
 
 <video src="https://content.rusiczki.net/2026/05/1-mai/2004/263-6388-web.mp4" poster="https://content.rusiczki.net/2026/05/1-mai/2004/263-6388-poster.jpg" controls></video>
 Povestea ierbii de la Hoia (cu pișat)
@@ -46,75 +48,87 @@ Un mic pogo
 
 **2006** - Mai cuminte (nu am inclus poze cu gașca dar nu am fost doar noi)
 
-[![Tot Dealul Minei, tot văzut din Grădina Danila.](https://content.rusiczki.net/2026/05/1-mai/2006/img-1274-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2006/img-1274.jpg)
+[![Tot Dealul Minei, tot văzut din Grădina Danila.](https://content.rusiczki.net/2026/05/1-mai/2006/img-1274-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2006/img-1274.jpg "Tot Dealul Minei, tot văzut din Grădina Danila."){:.glightbox}
 
-[![Fac focul.](https://content.rusiczki.net/2026/05/1-mai/2006/img-1271-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2006/img-1271.jpg)
+<div class="photo-grid-3" markdown="1">
+[![Fac focul.](https://content.rusiczki.net/2026/05/1-mai/2006/img-1271-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2006/img-1271.jpg "Fac focul."){:.glightbox}
 
-[![Ioana picură slănină pe pâine.](https://content.rusiczki.net/2026/05/1-mai/2006/img-1281-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2006/img-1281.jpg)
+[![Ioana picură slănină pe pâine.](https://content.rusiczki.net/2026/05/1-mai/2006/img-1281-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2006/img-1281.jpg "Ioana picură slănină pe pâine."){:.glightbox}
 
-[![Cred că se jucau amicii cu frisbee.](https://content.rusiczki.net/2026/05/1-mai/2006/img-1308-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2006/img-1308.jpg)
+[![Cred că se jucau amicii cu frisbee.](https://content.rusiczki.net/2026/05/1-mai/2006/img-1308-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2006/img-1308.jpg "Cred că se jucau amicii cu frisbee."){:.glightbox}
+</div>
 
 **2007** - Și mai cuminte
 
-[![Dealul Minei](https://content.rusiczki.net/2026/05/1-mai/2007/img-7537-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2007/img-7537.jpg)
+[![Dealul Minei](https://content.rusiczki.net/2026/05/1-mai/2007/img-7537-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2007/img-7537.jpg "Dealul Minei"){:.glightbox}
 
-[![Vârful Dealului Minei, cu zoom](https://content.rusiczki.net/2026/05/1-mai/2007/img-7498-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2007/img-7498.jpg)
+<div class="photo-grid-3" markdown="1">
+[![Vârful Dealului Minei, cu zoom](https://content.rusiczki.net/2026/05/1-mai/2007/img-7498-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2007/img-7498.jpg "Vârful Dealului Minei, cu zoom"){:.glightbox}
 
-[![Grătar](https://content.rusiczki.net/2026/05/1-mai/2007/img-7468-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2007/img-7468.jpg)
+[![Grătar](https://content.rusiczki.net/2026/05/1-mai/2007/img-7468-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2007/img-7468.jpg "Grătar"){:.glightbox}
 
-[![Gașca și Dealul Minei](https://content.rusiczki.net/2026/05/1-mai/2007/img-7464-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2007/img-7464.jpg)
+[![Gașca și Dealul Minei](https://content.rusiczki.net/2026/05/1-mai/2007/img-7464-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2007/img-7464.jpg "Gașca și Dealul Minei"){:.glightbox}
+</div>
 
 *..... 10 ani de pauză ......*
 
 **2018** - Reîntoarcerea
 
-[![Dealul Minei, la șase jumate dupămasa și cer înorat](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182232-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182232.jpg)
+[![Dealul Minei, la șase jumate dupămasa și cer înorat](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182232-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182232.jpg "Dealul Minei, la șase jumate dupămasa și cer înorat"){:.glightbox}
 
-[![Căminul (construcția de beton) și Dealul Minei](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182314-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182314.jpg)
+<div class="photo-grid-3" markdown="1">
+[![Căminul (construcția de beton) și Dealul Minei](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182314-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182314.jpg "Căminul (construcția de beton) și Dealul Minei"){:.glightbox}
 
-[![Picioarele mele sexoase pe colțul căminului de apă](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182421-750x1000.jpg)](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182421.jpg)
+[![Picioarele mele sexoase pe colțul căminului de apă](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182421-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182421.jpg "Picioarele mele sexoase pe colțul căminului de apă"){:.glightbox}
 
-[![Locul văzut de jos, cu liziera pădurii (proaspăt tăiate)](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182146-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182146.jpg)
+[![Locul văzut de jos, cu liziera pădurii (proaspăt tăiate)](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182146-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2018/img-20180501-182146.jpg "Locul văzut de jos, cu liziera pădurii (proaspăt tăiate)"){:.glightbox}
+</div>
 
 **2019** - Întoarcerea cu Osmo Pocket
 
-[![Căminul de apă și Dealul Minei (pozate de data asta cu prospătul meu Osmo Pocket)](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619608-1556720772000-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619608-1556720772000.jpg)
+[![Căminul de apă și Dealul Minei (pozate de data asta cu prospătul meu Osmo Pocket)](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619608-1556720772000-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619608-1556720772000.jpg "Căminul de apă și Dealul Minei (pozate de data asta cu prospătul meu Osmo Pocket)"){:.glightbox}
 
-[![Izvorul unde odinioară ne țineam berile la rece](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619610-1556720820000-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619610-1556720820000.jpg)
+<div class="photo-grid-2" markdown="1">
+[![Izvorul unde odinioară ne țineam berile la rece](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619610-1556720820000-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619610-1556720820000.jpg "Izvorul unde odinioară ne țineam berile la rece"){:.glightbox}
 
-[![Dealul Minei într-o lumină de vis](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619614-1556720974000-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619614-1556720974000.jpg)
+[![Dealul Minei într-o lumină de vis](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619614-1556720974000-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619614-1556720974000.jpg "Dealul Minei într-o lumină de vis"){:.glightbox}
+</div>
 
 **2020** - Cu ocazia pandemiei, am mers de fapt în 2 mai
 
-[![Pandemie sau nu, Dealul Minei arăta la fel](https://content.rusiczki.net/2026/05/1-mai/2020/img-20200502-144809-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2020/img-20200502-144809.jpg)
+[![Pandemie sau nu, Dealul Minei arăta la fel](https://content.rusiczki.net/2026/05/1-mai/2020/img-20200502-144809-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2020/img-20200502-144809.jpg "Pandemie sau nu, Dealul Minei arăta la fel"){:.glightbox}
 
-[![Cele 2 partenere de drum](https://content.rusiczki.net/2026/05/1-mai/2020/img-20200502-144845-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2020/img-20200502-144845.jpg)
+[![Cele 2 partenere de drum](https://content.rusiczki.net/2026/05/1-mai/2020/img-20200502-144845-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2020/img-20200502-144845.jpg "Cele 2 partenere de drum"){:.glightbox}
 
 **2021** - Natura super întârziată
 
-[![În 2021 cu natura întarziată bine](https://content.rusiczki.net/2026/05/1-mai/2021/img-20210501-163228-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2021/img-20210501-163228.jpg)
+[![În 2021 cu natura întarziată bine](https://content.rusiczki.net/2026/05/1-mai/2021/img-20210501-163228-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2021/img-20210501-163228.jpg "În 2021 cu natura întarziată bine"){:.glightbox}
 
-[![Căminul de apă](https://content.rusiczki.net/2026/05/1-mai/2021/img-20210501-163100-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2021/img-20210501-163100.jpg)
+[![Căminul de apă](https://content.rusiczki.net/2026/05/1-mai/2021/img-20210501-163100-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2021/img-20210501-163100.jpg "Căminul de apă"){:.glightbox}
 
 **2022** - Cu Anna, Ioana, GoPro și drona!
 
-[![Baia Sprie văzută din drona poziționată deasupra Grădinii Danila](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404327290-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404327290.jpg)
+[![Baia Sprie văzută din drona poziționată deasupra Grădinii Danila](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404327290-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404327290.jpg "Baia Sprie văzută din drona poziționată deasupra Grădinii Danila"){:.glightbox}
 
-[![Grădina Danila în toată splendoarea ei](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404326823-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404326823.jpg)
+<div class="photo-grid-3" markdown="1">
+[![Grădina Danila în toată splendoarea ei](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404326823-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404326823.jpg "Grădina Danila în toată splendoarea ei"){:.glightbox}
 
-[![Vedere cu căminul și liziera pădurii](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404327786-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404327786.jpg)
+[![Vedere cu căminul și liziera pădurii](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404327786-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404327786.jpg "Vedere cu căminul și liziera pădurii"){:.glightbox}
 
-[![Fetele la beton](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404325564-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404325564.jpg)
+[![Fetele la beton](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404325564-1000x563.jpg)](https://content.rusiczki.net/2026/05/1-mai/2022/dji-export-1651404325564.jpg "Fetele la beton"){:.glightbox}
+</div>
 
 **2023** - Revenirea cu fetele și Olympus-ul renăscut
 
-[![Dealul Minei din nou într-o lumină superbă](https://content.rusiczki.net/2026/05/1-mai/2023/p5010646-1000x664.jpg)](https://content.rusiczki.net/2026/05/1-mai/2023/p5010646.jpg)
+[![Dealul Minei din nou într-o lumină superbă](https://content.rusiczki.net/2026/05/1-mai/2023/p5010646-1000x664.jpg)](https://content.rusiczki.net/2026/05/1-mai/2023/p5010646.jpg "Dealul Minei din nou într-o lumină superbă"){:.glightbox}
 
-[![Căminul și liziera crescută la loc](https://content.rusiczki.net/2026/05/1-mai/2023/p5010648-1000x664.jpg)](https://content.rusiczki.net/2026/05/1-mai/2023/p5010648.jpg)
+<div class="photo-grid-3" markdown="1">
+[![Căminul și liziera crescută la loc](https://content.rusiczki.net/2026/05/1-mai/2023/p5010648-1000x664.jpg)](https://content.rusiczki.net/2026/05/1-mai/2023/p5010648.jpg "Căminul și liziera crescută la loc"){:.glightbox}
 
-[![Vedere de la umbră](https://content.rusiczki.net/2026/05/1-mai/2023/p5010651-1000x664.jpg)](https://content.rusiczki.net/2026/05/1-mai/2023/p5010651.jpg)
+[![Vedere de la umbră](https://content.rusiczki.net/2026/05/1-mai/2023/p5010651-1000x664.jpg)](https://content.rusiczki.net/2026/05/1-mai/2023/p5010651.jpg "Vedere de la umbră"){:.glightbox}
 
-[![Fetele pe drumul de conexiune](https://content.rusiczki.net/2026/05/1-mai/2023/p5010660-1000x664.jpg)](https://content.rusiczki.net/2026/05/1-mai/2023/p5010660.jpg)
+[![Fetele pe drumul de conexiune](https://content.rusiczki.net/2026/05/1-mai/2023/p5010660-1000x664.jpg)](https://content.rusiczki.net/2026/05/1-mai/2023/p5010660.jpg "Fetele pe drumul de conexiune"){:.glightbox}
+</div>
 
 **2024** - Anul misterios
 
@@ -122,18 +136,22 @@ Nu am înregistrat cu Strava, am [doar o poză](https://content.rusiczki.net/202
 
 **2025** - Cu Anna și Ioana, văzut prin lentila Galaxy S24 Ultra
 
-[![Dealul Minei văzut cu Galaxy S24 Ultra](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-145420-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-145420.jpg)
+[![Dealul Minei văzut cu Galaxy S24 Ultra](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-145420-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-145420.jpg "Dealul Minei văzut cu Galaxy S24 Ultra"){:.glightbox}
 
-[![Căminul de apă într-o lumină](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-144854-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-144854.jpg)
+<div class="photo-grid-3" markdown="1">
+[![Căminul de apă într-o lumină](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-144854-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-144854.jpg "Căminul de apă într-o lumină"){:.glightbox}
 
-[![Ultra Wide!](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-145437-1000x706.jpg)](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-145437.jpg)
+[![Ultra Wide!](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-145437-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-145437.jpg "Ultra Wide!"){:.glightbox}
 
-[![Fetele execută ceva dans :)](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-145704-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-145704.jpg)
+[![Fetele execută ceva dans :)](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-145704-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2025/20250501-145704.jpg "Fetele execută ceva dans :)"){:.glightbox}
+</div>
 
 **2026** - Cu Anna și Ioana
 
-[![Dealul Minei în anul curent](https://content.rusiczki.net/2026/05/1-mai/2026/20260501-145446-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2026/20260501-145446.jpg)
+[![Dealul Minei în anul curent](https://content.rusiczki.net/2026/05/1-mai/2026/20260501-145446-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2026/20260501-145446.jpg "Dealul Minei în anul curent"){:.glightbox}
 
-[![Mica gașcă](https://content.rusiczki.net/2026/05/1-mai/2026/20260501-145616-750x1000.jpg)](https://content.rusiczki.net/2026/05/1-mai/2026/20260501-145616.jpg)
+<div class="photo-grid-2" markdown="1">
+[![Mica gașcă](https://content.rusiczki.net/2026/05/1-mai/2026/20260501-145616-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2026/20260501-145616.jpg "Mica gașcă"){:.glightbox}
 
-[![O ultimă privire înapoi](https://content.rusiczki.net/2026/05/1-mai/2026/20260501-145943-1000x750.jpg)](https://content.rusiczki.net/2026/05/1-mai/2026/20260501-145943.jpg)
+[![O ultimă privire înapoi](https://content.rusiczki.net/2026/05/1-mai/2026/20260501-145943-bigthumb.jpg)](https://content.rusiczki.net/2026/05/1-mai/2026/20260501-145943.jpg "O ultimă privire înapoi"){:.glightbox}
+</div>

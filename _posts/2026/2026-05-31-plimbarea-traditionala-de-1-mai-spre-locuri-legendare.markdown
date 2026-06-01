@@ -9,12 +9,12 @@ categories:
 image: https://content.rusiczki.net/2026/05/1-mai/2019/org-photo-6619614-1556720974000-1000x563.jpg
 description: O retrospectivă a picnicurilor de 1 mai din Grădina Danila și a vizitelor nostalgice din ultimii ani.
 ---
-Așa, sau ceva de genul mi-am intitulat plimbările de 1 mai pe Strava de câțiva ani... Și mă gândeam să scriu o explicație / retrospectivă:
+Așa, sau ceva de genul mi-am intitulat plimbările de 1 mai pe Strava de câțiva ani... Și mă gândeam să scriu o explicație:
 
-- **Clasică** - pentru că deja de câțiva ani buni fac această plimbare de remember.
+- **Tradițională** - pentru că deja de câțiva ani buni fac această plimbare de remember.
 - **Locuri legendare** - pentru că pe vremuri în acel loc s-au desfășurat niște picnicuri de 1 mai foarte reușite.
 
-Ieșirile de demult credeam că au fost trei, două concentrate în jur de 2003 și 2004 și apoi unul mai târziu. Ca să-mi validez amintirile, în dimineața zilei de 2 mai am scris un mic script pentru a putea explora arhiva mea foto. După ce a fost gata, am văzut că, conform pozelor, picnicurile au fost de fapt în 2004, urmat de un an de [pauză](https://www.rusiczki.net/2005/05/01/biking-around-the-town/), și apoi în 2006 și 2007. Dar, *răsturnare de situație*! Când m-am apucat de redactat acest articol am găsit chiar aici pe blog [un articol despre ediția din 2004](https://www.rusiczki.net/2004/05/03/the-official-may-1st-food-fest/) care menționează cât de reușită a fost cea din anul precedent. La care, în mod surprinzător, se pare că nu am făcut poze...
+Și o retrospectivă: ieșirile de demult credeam că au fost trei, două concentrate în jur de 2003 și 2004 și apoi unul mai târziu. Ca să-mi validez amintirile, în dimineața zilei de 2 mai am scris un mic script pentru a putea explora arhiva mea foto. După ce a fost gata, am văzut că, conform pozelor, picnicurile au fost de fapt în 2004, urmat de un an de [pauză](https://www.rusiczki.net/2005/05/01/biking-around-the-town/), și apoi în 2006 și 2007. Dar, *răsturnare de situație*! Când m-am apucat de redactat acest articol am găsit chiar aici pe blog [un articol despre ediția din 2004](https://www.rusiczki.net/2004/05/03/the-official-may-1st-food-fest/) care menționează cât de reușită a fost cea din anul precedent. La care, în mod surprinzător, se pare că nu am făcut poze...
 
 Așadar edițiile de odinioară s-au desfășurat în **2003**, **2004**, **2006** și **2007**.
 
@@ -26,9 +26,9 @@ Au trecut 11 ani, între timp organizatorul principal al acestor ieșiri a pleca
 
 Destul de recent, acum 2 sau 3 ani mi-am dat seama că s-au adunat deja mai multe vizite de remember decât picnicuri propriu-zise... Momentan contorul stă la 4 ediții originale versus 9 vizite nostalgice. Ce am observat a fost că în ultimii ani a devenit parcă mai animată pădurea, dar în primii ani de revizitare nu prea erau oameni prin zonă. Nici măcar mai jos, în zonele mai accesibile.
 
-Și acum niște tehnicalități despre redactare (oamenii normali pot sări peste acest paragraf): mi-a venit ideea să scriu articolul chiar în timpul plimbării din data de 1, dar cum înainte de ieșire am grătărit cu orele pe acasă nu am mai avut energie în acea seară / dupămasă. În data de 2, sâmbătă dimineața l-am pus pe Claude să-mi scrie o mică aplicație de explorat arhiva foto. Apoi când mi-am dat seama că am material vizual din belșug dar neavând chef să editez și să redimensionez manual zeci de fișiere, am dezgropat un alt proiect spre care am "diversificat" în momentul în care descoperisem Claude Code: un manager de media pentru site-uri generate static. Apoi înapoi la muncă și viață, dar între timp am tot lucrat și finisat aplicația până am adus-o la starea în care toate pozele și filmulețele care ilustrează acest articol au fost încărcate și prelucrate cu el.
+Și acum niște tehnicalități despre redactare (oamenii normali pot sări peste acest paragraf): mi-a venit ideea să scriu articolul chiar în timpul plimbării din data de 1, dar cum înainte de ieșire am grătărit cu orele pe acasă nu am mai avut energie în acea seară / dupămasă. În data de 2, sâmbătă dimineața l-am pus pe Claude să-mi scrie o mică aplicație de explorat arhiva foto. Apoi când mi-am dat seama că am material vizual din belșug dar neavând chef să editez și să redimensionez manual zeci de fișiere, am dezgropat un alt proiect spre care am "diversificat" în momentul în care descoperisem Claude Code: un manager de media pentru site-uri generate static. Apoi m-am întors la muncă și viață, dar am tot lucrat și finisat aplicația până am adus-o la starea în care toate pozele și filmulețele care ilustrează acest articol au fost încărcate și prelucrate cu el. Iar au trecut niște zile și săptămâni dar apoi ambiționat să public în mai, am reușit în ultima zi a lunii.
 
-Și în încheiere să nu uităm de ce am venit, iată **arhiva vizuală**!
+Și acum să nu uităm de ce am venit, iată **arhiva vizuală**!
 
 **2004** - A doua ediție. **Legendară!**
 

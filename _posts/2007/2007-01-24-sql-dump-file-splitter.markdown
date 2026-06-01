@@ -13,7 +13,7 @@ In these cases there are two solutions at hand: if you have console access you c
 
 Today I encountered a problem like this. And since I had no console access and I was in no mood to lose a few precious hours splitting up a 40 meg file by hand I googled for "sql splitter" and I found a program called SQLDumpSplitter 2\. Unfortunately the author's site was not working (and since I don't know any German I couldn't really figure out why) but I found an [alternative download](http://ep2.nl/topic/2138/) on [a dutch web developer forum](http://ep2.nl/). And since that forum required to be a member to be able to download I thought I should offer yet another alternative download location without all those registration related mini headaches. Here on this site...
 
-[![SQLDumpSplitter 2](https://content.rusiczki.net/blogpics/sqldumpsplitter2.png)](https://content.rusiczki.net/blogstuff/SQLDumpSplitter.rar)
+[![SQLDumpSplitter 2](https://content.rusiczki.net/2007/01/sqldumpsplitter2.png)](https://content.rusiczki.net/blogstuff/SQLDumpSplitter.rar)
 
 So here it is ladies and gentlemen: [download SQLDumpSplitter 2](https://content.rusiczki.net/blogstuff/SQLDumpSplitter.rar) (or [zip compressed](https://content.rusiczki.net/blogstuff/SQLDumpSplitter.zip)). All credits for writing this program go to Philip Lehmann-Böhm ([http://www.philiplb.de](http://www.philiplb.de)).
 

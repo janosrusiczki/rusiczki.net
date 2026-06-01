@@ -6,7 +6,7 @@ categories:
 - music
 - english
 ---
-![Akufen - My Way Cover](https://content.rusiczki.net/blogpics/akufen-my_way.jpg)
+![Akufen - My Way Cover](https://content.rusiczki.net/2004/10/akufen-my_way.jpg)
 
 They call it microhouse. I didn't know they did. I just thought it's forward looking house music that happens to sound extremely groovy.
 

@@ -6,6 +6,6 @@ categories:
 - general
 - english
 ---
-<center><img src="https://content.rusiczki.net/blogpics/youarenot.gif" width="450" height="75" border="0" alt="You are NOT" class="image"/></center>
+<center><img src="https://content.rusiczki.net/2003/02/youarenot.gif" width="450" height="75" border="0" alt="You are NOT" class="image"/></center>
 
 And who's Tyler Durden after all?

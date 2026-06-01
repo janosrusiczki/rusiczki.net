@@ -6,7 +6,7 @@ categories:
 - life
 - english
 ---
-<img src="https://content.rusiczki.net/blogpics/weather-baia-mare-20070126.gif" width="500" height="195" alt="weather-baia-mare-20070126.gif" alt="Screenshot of the weather forecast for Baia Mare" class="image" />
+<img src="https://content.rusiczki.net/2007/01/weather-baia-mare-20070126.gif" width="500" height="195" alt="weather-baia-mare-20070126.gif" alt="Screenshot of the weather forecast for Baia Mare" class="image" />
 
 At least as it should be around this time of the year.
 

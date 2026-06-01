@@ -6,7 +6,7 @@ categories:
 - technical
 - english
 ---
-<img alt="Winamp 5 Beta" src="https://content.rusiczki.net/blogpics/winamp_5.gif" width="354" height="147" border="0" />
+<img alt="Winamp 5 Beta" src="https://content.rusiczki.net/2003/10/winamp_5.gif" width="354" height="147" border="0" />
 
 Yep! It simply does. Even if it's a beta.
 

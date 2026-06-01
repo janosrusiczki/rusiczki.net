@@ -6,7 +6,7 @@ categories:
 - web
 - english
 ---
-<img src="https://content.rusiczki.net/blogpics/itunes_podcasts_screenshot.gif" width="500" height="100" alt="iTunes podcasts screenshot" class="image" />
+<img src="https://content.rusiczki.net/2006/01/itunes_podcasts_screenshot.gif" width="500" height="100" alt="iTunes podcasts screenshot" class="image" />
 
 It's almost something usual and it's actually considered normal that after something (read: a trend) becomes outdated and boring elsewhere (read: mostly over the ocean) it catches on and gets overhyped in our beloved little country as something new and cool... And this is even more true when we're talking about technology.
 

@@ -7,7 +7,7 @@ categories:
 - english
 ---
 
-![The two packages](https://content.rusiczki.net/blogpics/threadless_packages.jpg)
+![The two packages](https://content.rusiczki.net/2004/01/threadless_packages.jpg)
 
 Yup. Packages. Inbound and outbound.
 

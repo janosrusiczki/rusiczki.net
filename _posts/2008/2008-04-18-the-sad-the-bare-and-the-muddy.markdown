@@ -7,7 +7,7 @@ categories:
 - snowboard
 - english
 ---
-<img alt="Webcam image of Roata slope at Cavnic (2008-04-18)" src="https://content.rusiczki.net/blogpics/webcam-roata-cavnic-2008-04-18.png" width="500" height="362" class="image" border="0"/>
+<img alt="Webcam image of Roata slope at Cavnic (2008-04-18)" src="https://content.rusiczki.net/2008/04/webcam-roata-cavnic-2008-04-18.png" width="500" height="362" class="image" border="0"/>
 
 <a href="http://www.rusiczki.net/2008/04/07/the-end-of-the-local-winter-season/">Told you so.</a>
 

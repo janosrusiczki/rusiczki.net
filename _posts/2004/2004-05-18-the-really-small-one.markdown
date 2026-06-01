@@ -6,7 +6,7 @@ categories:
 - photos
 - english
 ---
-![My cute kitten!](https://content.rusiczki.net/blogpics/cute_kitten.jpg)
+![My cute kitten!](https://content.rusiczki.net/2004/05/cute_kitten.jpg)
 
 OK, if [Kit](http://homepage.mac.com/cpaul/iblog/index.html) (the guy who usually posts hardcore branding and advertising rants) posted [this](http://homepage.mac.com/cpaul/iblog/C825079780/E912397590/index.html), I think I'm allowed post this. :-)
 

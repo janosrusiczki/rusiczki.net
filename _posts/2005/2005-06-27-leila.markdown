@@ -6,7 +6,7 @@ categories:
 - life
 - english
 ---
-<img src="https://content.rusiczki.net/blogpics/leila.jpg" width="490" height="369" class="image" style="background: #000;" alt="Leila" />
+<img src="https://content.rusiczki.net/2005/06/leila.jpg" width="490" height="369" class="image" style="background: #000;" alt="Leila" />
 
 August 5, 1994 - June 26, 2005.
 

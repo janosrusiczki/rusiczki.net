@@ -20,8 +20,8 @@ And it's done!
 
 Here are some photos of the innards:
 
-* [The plastic claws](https://content.rusiczki.net/blogpics/plastic_claws.jpg){:.glightbox} and [the metallic claws](https://content.rusiczki.net/blogpics/metallic_claws.jpg){:.glightbox} on the sides that hold the iPod together.
-* [The ribbon cable](https://content.rusiczki.net/blogpics/ribbon_cable.jpg){:.glightbox} that connects the hard drive to the mainboard at the bottom.
-* [The battery](https://content.rusiczki.net/blogpics/battery_alignment_cable_tucked.jpg){:.glightbox} is properly aligned and it's cable is safely tucked.
+* [The plastic claws](https://content.rusiczki.net/2004/04/plastic_claws.jpg){:.glightbox} and [the metallic claws](https://content.rusiczki.net/2004/04/metallic_claws.jpg){:.glightbox} on the sides that hold the iPod together.
+* [The ribbon cable](https://content.rusiczki.net/2004/04/ribbon_cable.jpg){:.glightbox} that connects the hard drive to the mainboard at the bottom.
+* [The battery](https://content.rusiczki.net/2004/04/battery_alignment_cable_tucked.jpg){:.glightbox} is properly aligned and it's cable is safely tucked.
 
 I hope this will help at least someone out there. If you read it and find it helpful please don't forget to leave a comment as that's the only way I know I haven't wasted my time writing this. Thanks.

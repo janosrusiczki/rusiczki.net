@@ -6,6 +6,6 @@ categories:
 - technical
 - english
 ---
-![Cascading Style Cheatsheet](https://content.rusiczki.net/blogpics/cascading_style_cheatsheet.jpg)
+![Cascading Style Cheatsheet](https://content.rusiczki.net/2004/10/cascading_style_cheatsheet.jpg)
 
 Yesterday night I printed the Cascading Style Cheatsheet put together by Brett Merkey, which will surely come in handy a number of times. My linkblog was very handy this time as I have no printer of my own and I was over at a friend who I asked if I could print. And there I was, two clicks and the printer was busy. Thanks Peti.

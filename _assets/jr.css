@@ -154,8 +154,3 @@ video {
 .glightbox-clean .gdesc-inner {
   padding: 0.35rem 0.32rem !important;
 }
-
-.glightbox-clean .gslide-image img {
-  max-height: 97vh !important;
-  display: block;
-}

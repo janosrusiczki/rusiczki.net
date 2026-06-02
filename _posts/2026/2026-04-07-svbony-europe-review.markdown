@@ -9,6 +9,9 @@ categories:
 - english
 description: Waited a week for my SVBONY order to ship, only to find out that the product I ordered wasn't really in stock. It's on backorder and I'll get it a month late, if I'm lucky.
 ---
+Let me start with a clarification: **in this article I'm refering to the svbony.com site**. According to a comment I received this is different from SvBony Europe which operates at [svbony.eu](https://svbony.eu/). I titled my review as such because on svbony.com the currency selector allows me to chose from EUR and GBP and at the bottom of the page it says Europe...
+
+---
 
 A few notes on what happened when I tried to order an SVBONY SV605CC astronomy camera from SVBONY's official European store. Short version: I'm disappointed, and I figure other buyers might want to know what they could be walking into.
 
@@ -79,3 +82,5 @@ On May 25 I got an official "Your order has been shipped" email with a tracking 
 They offered me a refund at one point, blaming chip prices and stricter quality control. I turned it down. I still want the camera, and a refund would mean they got to hold 650 of my euros for two months and walk away with no consequences. Anyway, starting to feel like a mistake. I've since spotted a much better secondhand deal on the ZWO equivalent, but I didn't have the cash at hand...
 
 I'm on the internet since 2001 and this is one of the worst online shopping experiences of my life, if not the worst. For a product listed as "In Stock" at the end of March.
+
+**Update, June 2, 2026**: I received a comment to this article and I added a clarification right at the start of the article. As an additional detail: this is the page where I ordered the camera from: www.svbony.com/products/sv605cc-camera - Oh and this morning, DHL got the package in Germany and it started moving towards Romania. I'll add a final update when I receive the camera.

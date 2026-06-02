@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Svbony.com - European Storefront Review - Not what I expected"
+title: "Svbony.com - Europe Storefront Review - Not what I expected"
 date: 2026-04-07 12:00:00 +03:00
 categories:
 - review

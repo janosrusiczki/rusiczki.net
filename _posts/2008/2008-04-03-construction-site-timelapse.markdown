@@ -6,7 +6,7 @@ categories:
 - video
 - english
 ---
-<object type="application/x-shockwave-flash" width="500" height="369" data="http://www.vimeo.com/moogaloop.swf?clip_id=844461&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff"><param name="quality" value="best" /><param name="allowfullscreen" value="true" /><param name="scale" value="showAll" /><param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=844461&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ffffff" /></object>
+<iframe src="https://player.vimeo.com/video/844461" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 My video. Let me show you it. OK, lolcat language over. :-)
 

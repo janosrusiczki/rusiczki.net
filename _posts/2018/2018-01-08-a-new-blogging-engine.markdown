@@ -13,13 +13,13 @@ image: https://content.rusiczki.net/2018/01/code-screenshot.jpg
 ---
 ![Code screenshot](https://content.rusiczki.net/2018/01/code-screenshot.jpg "Code screenshot")
 
-My last entry about a blogging software switch was called '[Keeping up with the times](http://www.rusiczki.net/2009/04/02/keeping-up-with-the-times/)' and I could have called this one the same. Back then, I finally realized that maintaining my [Movable Type](https://www.movabletype.org/) installation was a pain as I knew next to no Perl but since I was an established PHP developer the migration to [Wordpress](https://wordpress.org/) was a logical step. Now I'm 'admitting' that I slowly transitioned to being a Ruby developer so I'm embracing [Jekyll](https://jekyllrb.com/).
+My last entry about a blogging software switch was called '[Keeping up with the times](https://www.rusiczki.net/2009/04/02/keeping-up-with-the-times/)' and I could have called this one the same. Back then, I finally realized that maintaining my [Movable Type](https://www.movabletype.org/) installation was a pain as I knew next to no Perl but since I was an established PHP developer the migration to [Wordpress](https://wordpress.org/) was a logical step. Now I'm 'admitting' that I slowly transitioned to being a Ruby developer so I'm embracing [Jekyll](https://jekyllrb.com/).
 
 So what were the other reasons for the switch?
 
 * I was getting a little paranoid about Wordpress and the plugins I was using. I wasn't terribly excited about the perspective that if a security flaw appears and I'm not updating in time (if an update is available at all) my server gets f!@#ed.
 * It takes Jekyll about one minute to generate the whole site but the resulting files are vanilla HTMLs so they're served much faster than their Wordpress equivalents. I haven't even configured the web server for this site to include the PHP interpreter. As a note here, while discussing this post with [Alex](http://dordeduca.ro) he mentioned that there are caching solutions and even a static site generator for Wordpress too.
-* I wanted to use [the gem](https://github.com/matthodan/jekyll-asset-pipeline) that I'm a maintainer / co-author of, in a "production" environment. I put [quite a few hours of work](http://www.rusiczki.net/2017/12/27/my-adventures-in-social-coding/) into it and was very curious to actually see it doing its job.
+* I wanted to use [the gem](https://github.com/matthodan/jekyll-asset-pipeline) that I'm a maintainer / co-author of, in a "production" environment. I put [quite a few hours of work](https://www.rusiczki.net/2017/12/27/my-adventures-in-social-coding/) into it and was very curious to actually see it doing its job.
 
 What are the downsides?
 

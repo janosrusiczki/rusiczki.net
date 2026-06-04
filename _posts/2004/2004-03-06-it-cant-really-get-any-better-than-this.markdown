@@ -6,7 +6,7 @@ categories:
 - life
 - english
 ---
-I'm sitting in front of my computer, catching up with <a href="http://blog.whois.hu/index.php">one</a> favourite blog while listening to the latest and greatest <a href="http://www.thinnerism.com" title="The greatest netlabel PERIOD">Thinner</a> release. Did I ever mentioned that I purely love the music that comes out on Thinner? Oh yes, <a href="http://www.rusiczki.net/2003/04/09/ode-to-thinner/" title="Kitsched - Ode to Thinner">I did</a>.
+I'm sitting in front of my computer, catching up with <a href="http://blog.whois.hu/index.php">one</a> favourite blog while listening to the latest and greatest <a href="http://www.thinnerism.com" title="The greatest netlabel PERIOD">Thinner</a> release. Did I ever mentioned that I purely love the music that comes out on Thinner? Oh yes, <a href="https://www.rusiczki.net/2003/04/09/ode-to-thinner/" title="Kitsched - Ode to Thinner">I did</a>.
 
 Today's accomplishments? Well, 18 rounds of riding down my favourite mountain. And then laying lazily in bed watching Sliders and Startgate while munching popcorn.
 

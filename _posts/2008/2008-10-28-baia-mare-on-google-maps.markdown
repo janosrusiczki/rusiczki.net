@@ -15,4 +15,4 @@ High(ish) resolution photos of all Maramures county (at least as much as I've ch
 
 Another sweet find were <a href="http://maps.google.com/maps?f=q&hl=en&geocode=&sll=37.0625,-95.677068&sspn=49.310476,79.101563&ie=UTF8&ll=47.659289,23.888612&spn=0.020638,0.038624&t=h&z=15&iwloc=addr">the slopes of Cavnic</a>. Here's <a href="https://content.rusiczki.net/2008/10/google-maps-the-slopes-at-cavnic.png">a screenshot</a> for eternity. And this is also a very recent shot, because the <a href="http://www.hotelroata.ro/">Roata Hotel</a> is clearly visible.
 
-But if you're looking for Baia Sprie (Felsöbánya), hehe) <a href="http://www.rusiczki.net/2008/05/30/baia-sprie-from-satellite/">my tiled version</a> is still the best you can find on the web.
+But if you're looking for Baia Sprie (Felsöbánya), hehe) <a href="https://www.rusiczki.net/2008/05/30/baia-sprie-from-satellite/">my tiled version</a> is still the best you can find on the web.

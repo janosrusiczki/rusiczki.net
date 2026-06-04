@@ -6,7 +6,7 @@ categories:
 - life
 - english
 ---
-After [all that eating](http://www.rusiczki.net/2004/05/03/the-official-may-1st-food-fest/ "Kitsched - The official May 1st food fest!") it was time for a real party! With some real people. And a real DJ. Or DJess. As you wish.
+After [all that eating](https://www.rusiczki.net/2004/05/03/the-official-may-1st-food-fest/ "Kitsched - The official May 1st food fest!") it was time for a real party! With some real people. And a real DJ. Or DJess. As you wish.
 
 ![DJ Sylvie doing her thing](https://content.rusiczki.net/2004/05/dj_sylvie.jpg)
 

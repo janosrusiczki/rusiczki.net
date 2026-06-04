@@ -15,7 +15,7 @@ The year started out on the negative side, with us being at work (which turned o
 
 <a href="https://content.rusiczki.net/2009/01/me-my-mum-and-dad.jpg"><img class="image" width="500" height="334" style="border: 0pt none ;" src="https://content.rusiczki.net/2009/01/me-my-mum-and-dad-500x334.jpg" alt="Me, my mum and dad"/></a>
 
-Technically the photo above was taken last year, but it marks the worst part of this year and my life actually: <a href="http://www.rusiczki.net/2009/01/26/a-bitter-update/">my mother's stroke</a> that happened right after we returned from that Borsa trip I mentioned above.
+Technically the photo above was taken last year, but it marks the worst part of this year and my life actually: <a href="https://www.rusiczki.net/2009/01/26/a-bitter-update/">my mother's stroke</a> that happened right after we returned from that Borsa trip I mentioned above.
 
 <a href="http://www.flickr.com/photos/janos/3203676465/" title="An overpriced miracle! (1) by rev, on Flickr"><img src="http://farm4.static.flickr.com/3366/3203676465_12f2ac5d8b.jpg" width="500" height="375" alt="An overpriced miracle! (1)" /></a>
 
@@ -37,17 +37,17 @@ Obviously after returning from Austria the local slopes seemed like poor attempt
 
 <a href="http://www.flickr.com/photos/janos/3400469719/" title="Five-O Jib Stars 2009 Afterparty by rev, on Flickr"><img src="http://farm4.static.flickr.com/3434/3400469719_7c76d764a7.jpg" width="500" height="334" alt="Five-O Jib Stars 2009 Afterparty" /></a>
 
-The Five-O Jib Stars 2009 freeski / snowboard contest and the mandatory afterparty ended the winter season officialy and then <a href="http://www.rusiczki.net/2009/04/05/2008-2009-winter-season/">we ended it unoficially</a> one week later at the same place where we opened it 4 months or so before.
+The Five-O Jib Stars 2009 freeski / snowboard contest and the mandatory afterparty ended the winter season officialy and then <a href="https://www.rusiczki.net/2009/04/05/2008-2009-winter-season/">we ended it unoficially</a> one week later at the same place where we opened it 4 months or so before.
 
 <a href="http://www.flickr.com/photos/janos/3452533579/" title="Getting busy by rev, on Flickr"><img src="http://farm4.static.flickr.com/3563/3452533579_79b83cd316.jpg" width="500" height="375" alt="Getting busy" /></a>
 
 <a href="http://www.flickr.com/photos/janos/3496736407/" title="Sunday morning on the field by rev, on Flickr"><img src="http://farm4.static.flickr.com/3626/3496736407_9bc5c01131.jpg" width="500" height="334" alt="Sunday morning on the field" /></a>
 
-I couldn't wait for the real spring though so I could be out with my RC "toys". Had good times with both <a href="http://www.rusiczki.net/2009/04/18/4-x-4/">my car</a> and my helicopter and I remember that I carried my helicopter to work daily due to the fact that I could go around the flying field on my way home and actually fly if the wind was friendly. <a href="http://www.rusiczki.net/2009/05/21/the-helilog-crash-2/">I crashed once again</a> but got back in the air quick because it wasn't that bad of a crash, I had all the parts I needed from the last stock up and I made friends in the local RC community so I got some servos really fast.
+I couldn't wait for the real spring though so I could be out with my RC "toys". Had good times with both <a href="https://www.rusiczki.net/2009/04/18/4-x-4/">my car</a> and my helicopter and I remember that I carried my helicopter to work daily due to the fact that I could go around the flying field on my way home and actually fly if the wind was friendly. <a href="https://www.rusiczki.net/2009/05/21/the-helilog-crash-2/">I crashed once again</a> but got back in the air quick because it wasn't that bad of a crash, I had all the parts I needed from the last stock up and I made friends in the local RC community so I got some servos really fast.
 
 <a href="http://www.flickr.com/photos/ioana/3463590534/" title="János again by Clumsy Bat, on Flickr"><img src="http://farm4.static.flickr.com/3521/3463590534_d2c022fa2d.jpg" width="500" height="334" alt="János again" /></a>
 
-Around this time of the year we started visiting Hungary hard, first <a href="http://www.rusiczki.net/2009/04/22/the-epic-weekend-in-review/">going</a> to <a href="http://www.aquaticum.hu/">Aquaticum</a> in <a href="http://en.wikipedia.org/wiki/Debrecen">Debrecen</a> around my birthday then one month later to Hajduszoboszlo where we spent one day bathing and the next day at an RC helicopter meet which was a real eye opener for me. So many helis - such skills.
+Around this time of the year we started visiting Hungary hard, first <a href="https://www.rusiczki.net/2009/04/22/the-epic-weekend-in-review/">going</a> to <a href="http://www.aquaticum.hu/">Aquaticum</a> in <a href="http://en.wikipedia.org/wiki/Debrecen">Debrecen</a> around my birthday then one month later to Hajduszoboszlo where we spent one day bathing and the next day at an RC helicopter meet which was a real eye opener for me. So many helis - such skills.
 
 <a href="http://www.flickr.com/photos/ioana/3562915023/" title="Happy dog again by Clumsy Bat, on Flickr"><img src="http://farm4.static.flickr.com/3597/3562915023_cc0ae42c5c.jpg" width="500" height="334" alt="Happy dog again" /></a>
 
@@ -69,7 +69,7 @@ Yet another Hungarian trip followed, this time with <a href="http://www.facebook
 
 <a href="http://www.flickr.com/photos/ioana/3629018701/" title="Niu bike, I'm so happy ! by Clumsy Bat, on Flickr"><img src="http://farm4.static.flickr.com/3316/3629018701_4be4db7204.jpg" width="500" height="335" alt="Niu bike, I'm so happy !" /></a>
 
-Then <em>the idea</em> got implemented, <a href="http://www.rusiczki.net/2009/06/17/its-pedaling-time/">bikes happened</a> and the rest is history as they say. Many trips followed and most of them will be remembered as magical. I loved biking back in high school and I pedaled a lot back then and so it was a blast to rediscover those times plus being able to go offroad without the fear of my bike breaking in two. The trips are well documented on <a href="http://www.everytrail.com/profile.php?user_id=25739">EveryTrail</a>, <a href="http://www.bikemap.net/user/kitsched">Bikemap</a> and of course Flickr in various sets.
+Then <em>the idea</em> got implemented, <a href="https://www.rusiczki.net/2009/06/17/its-pedaling-time/">bikes happened</a> and the rest is history as they say. Many trips followed and most of them will be remembered as magical. I loved biking back in high school and I pedaled a lot back then and so it was a blast to rediscover those times plus being able to go offroad without the fear of my bike breaking in two. The trips are well documented on <a href="http://www.everytrail.com/profile.php?user_id=25739">EveryTrail</a>, <a href="http://www.bikemap.net/user/kitsched">Bikemap</a> and of course Flickr in various sets.
 
 <a href="http://www.flickr.com/photos/ioana/3712498307/" title="Budapest by Clumsy Bat, on Flickr"><img src="http://farm4.static.flickr.com/3460/3712498307_a1985feeb8.jpg" width="500" height="334" alt="Budapest" /></a>
 

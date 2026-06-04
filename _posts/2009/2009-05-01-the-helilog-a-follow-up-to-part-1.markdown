@@ -9,7 +9,7 @@ categories:
 ---
 Because I can't really call it part 2.
 
-Yesterday I went to the field [as planned](http://www.rusiczki.net/2009/04/30/the-helilog-part-1/) although during the day we've had sort of a storm... However, it was calm when it was time to go home so I stopped at the flying field. And this time I announced everyone I know from the Baia Mare RC gang right from the morning so I wouldn't be alone.
+Yesterday I went to the field [as planned](https://www.rusiczki.net/2009/04/30/the-helilog-part-1/) although during the day we've had sort of a storm... However, it was calm when it was time to go home so I stopped at the flying field. And this time I announced everyone I know from the Baia Mare RC gang right from the morning so I wouldn't be alone.
 
 As I went to the middle of the field the wind picked up again, but I did a very short hover just to warm up. I'm getting used to hovering in slight wind, hehe. Then landed and waited for Sebi who arrived in a short while. After handing over the helicopter for a short inspection / discovery - it was the first time he saw it - I said that I'll have a short flight to make it worthy for him because he hauled the DSLR with him. Although he protested as he didn't want to be the cause of a crash I hovered for a short while and you can see the results below. :-)
 

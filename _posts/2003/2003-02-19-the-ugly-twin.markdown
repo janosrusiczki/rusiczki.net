@@ -6,4 +6,4 @@ categories:
 - web
 - english
 ---
-<a href="http://www.rusiczki.net.crazy.sytes.net/blog/" title="Hehehe!">This page. Messed up. Badly.</a>
+<a href="https://www.rusiczki.net.crazy.sytes.net/blog/" title="Hehehe!">This page. Messed up. Badly.</a>

@@ -6,7 +6,7 @@ categories:
 - technical
 - english
 ---
-Just my luck. One month after <a href="http://www.rusiczki.net/2008/05/10/the-end-of-a-hosting-era/">I get</a> a dedicated server the data center that's hosting it <a href="http://forums.theplanet.com/index.php?showtopic=90185">goes boom</a>. To be more precise:
+Just my luck. One month after <a href="https://www.rusiczki.net/2008/05/10/the-end-of-a-hosting-era/">I get</a> a dedicated server the data center that's hosting it <a href="http://forums.theplanet.com/index.php?showtopic=90185">goes boom</a>. To be more precise:
 
 <blockquote>Sunday evening at 4:55 in our H1 data center, electrical gear shorted, creating an explosion and fire that knocked down three walls surrounding our electrical equipment room Thankfully, no one was injured. In addition, no customer servers were damaged or lost.</p></blockquote>
 

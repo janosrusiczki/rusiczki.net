@@ -11,4 +11,4 @@ Visiting <a href="http://www.alexbrie.net">Alex's blog</a> to leave a comment on
 
 <img src="https://content.rusiczki.net/2006/11/alex-brie-blogging-since-2003.gif" width="260" height="98" class="image" alt="[alex brie . net] blogging since 2003. beat this!" />
 
-OK. Challenge accepted. <a href="http://www.rusiczki.net/2002/12/20/restart/">Done!</a> :-)
+OK. Challenge accepted. <a href="https://www.rusiczki.net/2002/12/20/restart/">Done!</a> :-)

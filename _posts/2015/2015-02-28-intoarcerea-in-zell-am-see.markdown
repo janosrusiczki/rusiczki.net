@@ -8,7 +8,7 @@ categories:
 image: https://content.rusiczki.net/2014/11/Zell-am-See-panorama-resized-980x377.jpg
 description: Despre concediul de iarnă din Zell am See.
 ---
-Zell am See: Locul unde ne-am petrecut primul concediu de iarnă din străinătate în 2009 și locul unde anul trecut <a title="Then vs. Now" href="http://www.rusiczki.net/2014/08/31/then-vs-now/">în septembrie</a> am inaugurat <a title="Concediu de vară – Cum am ajuns" href="http://www.rusiczki.net/2014/09/08/concediu-de-vara-cum-am-ajuns/">primul nostru concediu de "vară" din străinătate</a>. Și tot acolo ne-am întors în mod neașteptat în această iarnă. Zic neașteptat fiindcă până la un moment dat se părea că nu ne va permite bugetul un concediu de ski, dar apoi la insistența prietenilor și după economisire la sânge timp de o lună am mers totuși. A da, și doar aici am mai găsit loc.
+Zell am See: Locul unde ne-am petrecut primul concediu de iarnă din străinătate în 2009 și locul unde anul trecut <a title="Then vs. Now" href="https://www.rusiczki.net/2014/08/31/then-vs-now/">în septembrie</a> am inaugurat <a title="Concediu de vară – Cum am ajuns" href="https://www.rusiczki.net/2014/09/08/concediu-de-vara-cum-am-ajuns/">primul nostru concediu de "vară" din străinătate</a>. Și tot acolo ne-am întors în mod neașteptat în această iarnă. Zic neașteptat fiindcă până la un moment dat se părea că nu ne va permite bugetul un concediu de ski, dar apoi la insistența prietenilor și după economisire la sânge timp de o lună am mers totuși. A da, și doar aici am mai găsit loc.
 
 [![Zell am See - Panorama](https://content.rusiczki.net/2014/11/Zell-am-See-panorama-resized-980x377.jpg)](https://content.rusiczki.net/2014/11/Zell-am-See-panorama-resized.jpg)
 

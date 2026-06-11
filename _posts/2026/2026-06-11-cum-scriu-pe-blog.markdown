@@ -30,6 +30,6 @@ Procesul actual arată cam așa: la început fac pingpong cu ciorna între Jopli
 
 Nu vă speriați însă! Consider ceea ce generează AI-ul mai degrabă o ciornă și încă editez **mult** textele produse. Uneori rescriu secțiuni întregi. Oricum articolele mele sunt în mare parte povestiri personale, retrospective despre ce am făcut și ce gadgeturi am avut cu detalii pe care doar eu le știu. Niciun LLM nu poate halucina amintirile mele. Și m-aș simți și cu musca pe căciulă dacă v-aș supune la citit texte scrise de AI. Ăla nu ar mai fi blogul meu, ar fi blogul lui Claude îndrumat de János.
 
-Așadar în aproape 24 de ani de blog am schimbat trei motoare (Movable Type, WordPress, Jekyll) și mai multe unelte de scris. Complexitatea procesului a oscilat: simplă, apoi și mai simplă, apoi complicată, apoi complicată dar altfel. Însă esența a rămas aceeași: János scrie despre ce-l preocupă și apasă Publish.
+Așadar în aproape 24 de ani de blog am schimbat trei motoare (Movable Type, WordPress, Jekyll) și mai multe unelte de scris. Complexitatea procesului a oscilat: simplă, apoi și mai simplă, apoi complicată, apoi complicată dar altfel. Însă esența a rămas aceeași: scriu despre ce mă preocupă și apăs Publish.
 
 PS. Și dacă tot "sufăr" de ADD (auto diagnosticat), trebuie să recunosc un lucru: jucăriile noi aduc motivație nouă. Claude a fost jucăria care m-a pus din nou pe scris. După câte se poate observa am publicat mai multe articole în ultimele două luni decât în câțiva ani la un loc. Cât va dura valul, nu știu. Dar atâta timp cât durează, mă bucur de el.

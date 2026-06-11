@@ -88,7 +88,7 @@ I'm on the internet since 2001 and this is one of the worst online shopping expe
 
 **Update, June 2, 2026**: Yesterday I received a comment to this article and today I added a clarification note right at the start of the article. This is the page where I ordered the camera from: www.svbony.com/products/sv605cc-camera and I titled my review initially as "SVBONY Europe Review" because on svbony.com the currency selector only allows me to chose from EUR and GBP and at the bottom of the page it says Europe... Oh and this morning, DHL got the package in Germany and it started moving towards Romania. I'll add a final update when I receive the camera.
 
-<a id="final-update"></a>
+<span id="final-update"></span>
 
 **Update, June 5, 2026 — the camera arrived**: It's here. Last Friday, more than two months after I ordered something that was supposedly "In Stock", the SV605CC finally showed up at my door. I plugged it in, it works, and I have no complaints about the camera itself. But two months for an in-stock item shipping from "Europe" is absurd, and I stand by every word above. The "In Stock" label meant nothing, and neither did any of the tracking numbers they sent me along the way.
 

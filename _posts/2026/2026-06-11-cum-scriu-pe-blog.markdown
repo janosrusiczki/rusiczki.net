@@ -6,7 +6,7 @@ categories:
   - blog history
   - technical
   - română
-description: De la Movable Type și poze descărcate de pe card, prin Wordpress, la Jekyll, Typora, Joplin și un coleg de redacție artificial. Însă acesta a rămas și va fi blogul lui János, nu al lui Claude.
+description: De la Movable Type și poze descărcate de pe card, prin Wordpress, la Jekyll, Typora, Joplin și un coleg de redacție artificial. Nu vă impacientați: acesta este și va rămâne blogul lui János, nu al lui Claude.
 ---
 În [ianuarie 2018](https://www.rusiczki.net/2018/01/13/imagini-aeriene-de-final-de-an/) am scris preț de un paragraf despre cum s-a "complicat" procesul publicării unei poze față de zilele de odinioară. Apoi, în [octombrie 2025](https://www.rusiczki.net/2025/10/13/rip-typepad/), la finalul unui articol nostalgic despre Typepad, am pus o poză cu mine redactând pe iPad și am descris în câteva rânduri cum arăta workflow-ul de la acea vreme. Iar [mai recent](https://www.rusiczki.net/2026/04/13/janos-the-prompt-engineer/) am promis explicit că voi scrie un articol separat despre cum s-a schimbat procesul meu de scriere pe blog. Ei bine, iată-l.
 

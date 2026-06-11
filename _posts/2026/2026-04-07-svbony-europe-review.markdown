@@ -7,7 +7,7 @@ categories:
 - astronomy
 - astrophotography
 - english
-description: Waited a week for my SVBONY order to ship, only to find out that the product I ordered wasn't really in stock. It's on backorder and I'll get it a month late, if I'm lucky.
+description: I ordered an SVBONY camera listed as "In Stock" and it took more than two months to arrive. Here's the full saga, from the fake tracking number to the chip-shortage excuses, and why you shouldn't trust that "In Stock" label.
 ---
 
 Let me start with a clarification: **in this article I'm referring to the svbony.com site**. This is different from SvBony Europe which operates at [svbony.eu](https://svbony.eu/). I have also updated the title of the review accordingly.
@@ -17,6 +17,8 @@ Let me start with a clarification: **in this article I'm referring to the svbony
 A few notes on what happened when I tried to order an SVBONY SV605CC astronomy camera from SVBONY's official European store. Short version: I'm disappointed, and I figure other buyers might want to know what they could be walking into.
 
 *Edit, a few hours later: things got worse while I was writing this. See the [Updates](#updates) at the bottom.*
+
+*Edit, two months later: the camera finally arrived. See the [final update](#final-update) at the bottom.*
 
 ## The purchase
 
@@ -85,3 +87,13 @@ They offered me a refund at one point, blaming chip prices and stricter quality 
 I'm on the internet since 2001 and this is one of the worst online shopping experiences of my life, if not the worst. For a product listed as "In Stock" at the end of March.
 
 **Update, June 2, 2026**: Yesterday I received a comment to this article and today I added a clarification note right at the start of the article. This is the page where I ordered the camera from: www.svbony.com/products/sv605cc-camera and I titled my review initially as "SVBONY Europe Review" because on svbony.com the currency selector only allows me to chose from EUR and GBP and at the bottom of the page it says Europe... Oh and this morning, DHL got the package in Germany and it started moving towards Romania. I'll add a final update when I receive the camera.
+
+<a id="final-update"></a>
+
+**Update, June 5, 2026 — the camera arrived**: It's here. Last Friday, more than two months after I ordered something that was supposedly "In Stock", the SV605CC finally showed up at my door. I plugged it in, it works, and I have no complaints about the camera itself. But two months for an in-stock item shipping from "Europe" is absurd, and I stand by every word above. The "In Stock" label meant nothing, and neither did any of the tracking numbers they sent me along the way.
+
+<div class="photo-grid-2" markdown="1">
+[![SV605CC in box (plus the power supply for cooling it in a box below)](https://content.rusiczki.net/2026/06/20260605-131332-bigthumb.jpg)](https://content.rusiczki.net/2026/06/20260605-131332.jpg "SV605CC in box (plus the power supply for cooling it in a box below)"){:.glightbox}
+
+[![SV605CC astrophotography camera (plus the power supply for cooling it in a box below)](https://content.rusiczki.net/2026/06/20260605-131522-bigthumb.jpg)](https://content.rusiczki.net/2026/06/20260605-131522.jpg "SV605CC astrophotography camera (plus the power supply for cooling it in a box below)"){:.glightbox}
+</div>

@@ -6,7 +6,7 @@ categories:
   - blog history
   - technical
   - română
-description: De la Movable Type și poze descărcate de pe card, prin Wordpress, la Jekyll, Typora, Joplin și un coleg de redacție artificial.
+description: De la Movable Type și poze descărcate de pe card, prin Wordpress, la Jekyll, Typora, Joplin și un coleg de redacție artificial. Însă acesta a rămas și va fi blogul lui János, nu al lui Claude.
 ---
 În [ianuarie 2018](https://www.rusiczki.net/2018/01/13/imagini-aeriene-de-final-de-an/), cu ocazia publicării unor poze făcute cu drona, am scris preț de un paragraf despre cum s-a "complicat" procesul publicării unei poze față de zilele de odinioară. Apoi, în [octombrie 2025](https://www.rusiczki.net/2025/10/13/rip-typepad/), la finalul unui articol nostalgic despre Typepad, am pus o poză cu mine redactând pe iPad și am descris în câteva rânduri cum arăta workflow-ul de la acea vreme. Iar [mai recent](https://www.rusiczki.net/2026/04/13/janos-the-prompt-engineer/) am promis explicit că voi scrie un articol separat despre cum s-a schimbat procesul meu de scriere pe blog. Ei bine, iată-l.
 
@@ -28,8 +28,8 @@ Pasul cu [Joplin](https://joplinapp.org/) a venit mai recent când am căutat un
 
 Procesul actual arată cam așa: la început fac pingpong cu ciorna între Joplin și Typora și de la un punct intervine Claude. Îl rog să structureze articolul când am scris ceva lung și dezorganizat, să verifice date și fapte (prin comparații cu ce am în mail și aici pe blog), să pună evenimentele în ordine cronologică, să corecteze gramatica (că-s ungur) și să încerce să lege lucrurile mai bine. Cam ce face un editor uman, doar că editorul meu e un robot.
 
-Nu vă speriați însă! Consider ceea ce generează AI-ul mai degrabă o ciornă și încă editez **mult** textele produse. Uneori rescriu secțiuni întregi. Oricum articolele mele sunt în mare parte povestiri personale, retrospective despre ce am făcut și ce gadgeturi am avut cu detalii pe care doar eu le știu. Niciun LLM nu poate halucina amintirile mele. Și m-aș simți și cu musca pe căciulă dacă v-aș supune la citit texte scrise de AI. Ăla nu ar mai fi blogul meu, ar fi blogul lui Claude îndrumat de Janos.
+Nu vă speriați însă! Consider ceea ce generează AI-ul mai degrabă o ciornă și încă editez **mult** textele produse. Uneori rescriu secțiuni întregi. Oricum articolele mele sunt în mare parte povestiri personale, retrospective despre ce am făcut și ce gadgeturi am avut cu detalii pe care doar eu le știu. Niciun LLM nu poate halucina amintirile mele. Și m-aș simți și cu musca pe căciulă dacă v-aș supune la citit texte scrise de AI. Ăla nu ar mai fi blogul meu, ar fi blogul lui Claude îndrumat de János.
 
-Așadar în aproape 24 de ani de blog am schimbat trei motoare (Movable Type, WordPress, Jekyll) și mai multe unelte de scris. Complexitatea procesului a oscilat: simplă, apoi și mai simplă, apoi complicată, apoi complicată dar altfel. Însă esența a rămas aceeași: Janos scrie despre ce-l preocupă și apasă Publish.
+Așadar în aproape 24 de ani de blog am schimbat trei motoare (Movable Type, WordPress, Jekyll) și mai multe unelte de scris. Complexitatea procesului a oscilat: simplă, apoi și mai simplă, apoi complicată, apoi complicată dar altfel. Însă esența a rămas aceeași: János scrie despre ce-l preocupă și apasă Publish.
 
 PS. Și dacă tot "sufăr" de ADD (auto diagnosticat), trebuie să recunosc un lucru: jucăriile noi aduc motivație nouă. Claude a fost jucăria care m-a pus din nou pe scris. După câte se poate observa am publicat mai multe articole în ultimele două luni decât în câțiva ani la un loc. Cât va dura valul, nu știu. Dar atâta timp cât durează, mă bucur de el.

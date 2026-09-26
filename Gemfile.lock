@@ -126,7 +126,7 @@ GEM
       nokogiri
     rexml (3.4.4)
     rouge (4.7.0)
-    rubyzip (3.3.0)
+    rubyzip (3.4.0)
     safe_yaml (1.0.5)
     sass-embedded (1.100.0)
       google-protobuf (~> 4.31)

@@ -13,7 +13,7 @@ jobs:
       ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
     steps:
       - name: Checkout sources
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
       - name: Check if posts changed since last successful run
@@ -58,6 +58,7 @@ jobs:
         if: steps.check_posts.outputs.should_index == 'true'
         uses: ruby/setup-ruby@v1
         with:
+          ruby-version: '3.3'
           bundler-cache: true
       - name: Index with Algolia
         if: steps.check_posts.outputs.should_index == 'true'

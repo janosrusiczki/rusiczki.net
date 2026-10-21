@@ -15,13 +15,14 @@ jobs:
       contents: write
     steps:
       - name: Checkout sources
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
+          ruby-version: '3.3'
           bundler-cache: true
 
       - name: Sync from Mastodon (stages media + writes entries)

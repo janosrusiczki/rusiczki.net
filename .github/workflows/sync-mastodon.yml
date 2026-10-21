@@ -15,13 +15,14 @@ jobs:
       contents: write
     steps:
       - name: Checkout sources
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
+          ruby-version: '3.3'
           bundler-cache: true
 
       - name: Sync from Mastodon (stages media + writes entries)
@@ -46,7 +47,7 @@ jobs:
           LC_ALL: C.UTF-8
 
       - name: Deploy full site with rsync
-        uses: burnett01/rsync-deployments@7.0.1
+        uses: burnett01/rsync-deployments@9.0.2
         with:
           switches: -azr --delete --stats --exclude=/microblog/twitter/
           path: _site/
@@ -57,7 +58,7 @@ jobs:
 
       - name: Upload staged Mastodon media to content host
         if: hashFiles('_microblog_media_staging/mastodon/**') != ''
-        uses: burnett01/rsync-deployments@7.0.1
+        uses: burnett01/rsync-deployments@9.0.2
         with:
           switches: -az --stats --chmod=D755,F644
           path: _microblog_media_staging/mastodon/

@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout sources
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
       - name: Set up Ruby, install and cache bundle
         uses: ruby/setup-ruby@v1
         with:
@@ -19,7 +19,7 @@ jobs:
       - name: Test site
         run: bundle exec rake test
       - name: Deploy with rsync
-        uses: burnett01/rsync-deployments@7.0.1
+        uses: burnett01/rsync-deployments@9.0.2
         with:
           switches: -azr --delete --stats --exclude=/microblog/
           path: _site/

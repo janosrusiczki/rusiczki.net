@@ -115,6 +115,16 @@ video {
   padding: 1rem 1.25rem;
 }
 
+.microblog-entry video {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.microblog-entry audio {
+  width: 100%;
+}
+
 .microblog-boost-label {
   font-size: 0.85em;
   color: #9a9a9a;

@@ -19,6 +19,7 @@
 # preserve your commentary above the quoted content rendered as a blockquote.
 
 require 'bundler/setup'
+require 'cgi'
 require 'httparty'
 require 'reverse_markdown'
 require 'json'
@@ -154,13 +155,31 @@ def stage_media(payload, file_prefix)
         next
       end
     end
-    alt = m['description'].to_s.gsub(/\s*\n\s*/, ' ').strip
+    lines << media_markup(m, dest)
+  end
+  [lines, staged, failed]
+end
+
+# Markdown (or raw HTML for video/audio) for one staged attachment. Mastodon
+# attachment types: image, gifv (GIFs converted to mp4), video, audio, unknown.
+def media_markup(attachment, dest)
+  alt      = attachment['description'].to_s.gsub(/\s*\n\s*/, ' ').strip
+  alt_attr = CGI.escapeHTML(alt)
+  url      = "#{PUBLIC_MEDIA_BASE}/#{File.basename(dest)}"
+
+  case attachment['type']
+  when 'video'
+    %(<video controls preload="metadata" playsinline src="#{url}" aria-label="#{alt_attr}"></video>)
+  when 'gifv'
+    %(<video autoplay loop muted playsinline src="#{url}" aria-label="#{alt_attr}"></video>)
+  when 'audio'
+    %(<audio controls preload="metadata" src="#{url}" aria-label="#{alt_attr}"></audio>)
+  else
     display_name, original_name = resize_for_web(dest, MEDIA_STAGING)
     display_url  = "#{PUBLIC_MEDIA_BASE}/#{display_name}"
     original_url = "#{PUBLIC_MEDIA_BASE}/#{original_name}"
-    lines << "[![#{alt}](#{display_url})](#{original_url}){:.glightbox}"
+    "[![#{alt}](#{display_url})](#{original_url}){:.glightbox}"
   end
-  [lines, staged, failed]
 end
 
 written        = 0

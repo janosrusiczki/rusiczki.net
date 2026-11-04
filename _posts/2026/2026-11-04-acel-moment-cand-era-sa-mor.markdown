@@ -30,7 +30,7 @@ Câteva amintiri din spital:
 
 Îmi mai amintesc că am slăbit sub 20 de kilograme, confirmat și pe bilet: "hipodezvoltare staturoponderală".
 
-Și cum era să mor? Păi în toată situația asta, cu mine foarte slăbit, a venit un doctor dăștept foc, m-a pipăit la abdomen și a tras concluzia că am apendicită și că trebuie să fiu operat. Eu îmi aminteam că s-a opus mama, dar citind biletul de externare se pare că mi-au făcut raze și s-a văzut că nu am apendicită. Dacă mă supuneau unei operații în starea aia... Nu cred că aș fi supraviețuit.
+Și cum era să mor? Păi în toată situația asta, cu mine foarte slăbit, a venit un doctor dăștept foc, m-a pipăit la abdomen și a tras concluzia că am apendicită și că trebuie să fiu operat. Eu îmi aminteam că s-a opus mama. Pe bilet scrie doar că "s-a pus problema" unui "abdomen acut chirurgical", dar că a fost exclus după consultul chirurgical și radiografie. Dacă mă supuneau unei operații în starea aia... Nu cred că aș fi supraviețuit.
 
 Se pare că 1 și 8 martie le-am petrecut la spital. Halal Mărțișor și cadou de ziua femeii i-am oferit mamei...
 

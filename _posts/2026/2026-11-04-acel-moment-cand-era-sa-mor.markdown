@@ -5,6 +5,7 @@ date: 2026-11-04 15:11:22 +02:00
 categories:
   - life
   - română
+image: https://content.rusiczki.net/2026/07/bilet-de-iesire-din-spital-1000x765.jpg
 description: "Am găsit într-un dulap biletul meu de ieșire din spital din 1987. Povestea celor nouă zile de la pediatrie, a operației evitate și a doamnei doctor care a scris că externează un copil pentru că este foarte frig pe secție."
 ---
 Nu vă speriați, nu s-a întâmplat azi sau ieri, ci acum patruzeci de ani.

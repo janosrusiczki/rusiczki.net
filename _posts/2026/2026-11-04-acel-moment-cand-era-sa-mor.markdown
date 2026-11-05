@@ -24,8 +24,8 @@ Mama a tot repetat că am fost internat "suspect de meningită" dar pe biletul d
 
 Câteva amintiri din spital:
 
-- Cum stăteam și mă uitam pe geam așteptând-o pe maică-mea - și cu toate că nu am văzut-o niciodată venind tot mă benoclam zilnic. Spatele clădirii pe care o vedeam de la geamul cu gratii a pediatriei de la etajul 11 al spitalului este cea unde în ziua de astăzi are contabila mea biroul.
-- Spitalul era în carantină, am avut mare noroc că maică-mea era asistentă și luând un halat alb pe ea se putea strecura să mă viziteze. A venit și tata odată, tot așa costumat în halat.
+- Cum stăteam și mă uitam pe geam așteptând-o pe maică-mea - și cu toate că nu am văzut-o niciodată venind tot mă benoclam zilnic. Clădirea căreia îi vedeam spatele de la geamul cu gratii al pediatriei, de la etajul 11 al spitalului, este cea în care are în ziua de astăzi contabila mea biroul.
+- Spitalul era în carantină, am avut mare noroc că maică-mea era asistentă și luând un halat alb pe ea se putea strecura să mă viziteze. A venit și tata odată, tot așa costumat în halat. A, și cu toate că aveam [Dacia familiei](https://photos.rusiczki.net/photos/270080029), nu au putut s-o folosească pentru că a fost o iarnă foarte grea, poate cea mai grea din câte îmi amintesc, și mai jos pe strada noastră într-o zonă foarte strâmtă a căzut zăpada de pe două acoperișuri și cum bunii gospodari au dat cu lopata să nu le stea zăpada pe casă s-a format un mic deal de mai mult de un metru înălțime pe drum. Asta m-a făcut să-mi amintesc că nici salvarea nu a putut ajunge la mine. 
 - Pe la sfârșitul perioadei cât am stat în spital a apărut și vecinul meu Neluțu pe acolo și brusc a devenit totul mult mai tolerabil și trecea timpul mai repede.
 
 Îmi mai amintesc că am slăbit sub 20 de kilograme, confirmat și pe bilet: "hipodezvoltare staturoponderală".

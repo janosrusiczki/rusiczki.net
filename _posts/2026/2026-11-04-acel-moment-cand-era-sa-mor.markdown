@@ -10,7 +10,7 @@ description: "În sfârșit s-a făcut lumină în legătură cu singura spitali
 ---
 Nu vă speriați, nu s-a întâmplat azi sau ieri, ci acum patruzeci de ani.
 
-[![bilet-de-iesire-din-spital](https://content.rusiczki.net/2026/07/bilet-de-iesire-din-spital-1000x765.jpg)](https://content.rusiczki.net/2026/07/bilet-de-iesire-din-spital.jpg)
+[![bilet-de-iesire-din-spital](https://content.rusiczki.net/2026/07/bilet-de-iesire-din-spital-1000x765.jpg)](https://content.rusiczki.net/2026/07/bilet-de-iesire-din-spital.jpg){:.glightbox}
 
 Astăzi făceam curățenie prin casa mea din Baia Sprie, căci urma să primesc noua mașină de spălat vase. Și am găsit un soi de sac de genul în care pot să-ți depozitezi hainele vidate, aruncat cât-colo, și m-am gândit să-l pun frumos în dulapul cu haine. Când am deschis dulapul și m-am pus să fac un pic de loc am (re)găsit fișa mea medicală care a fost luată cândva de maică-mea de la fișierul policlinicii, probabil în momentul când s-a trecut la fișele digitale. Când zic fișă mă refer la mai multe coli de hârtie pe care este trecut istoricul meu medical din copilărie și nu numai, practic de la naștere până prin 1992 (ceea ce corespunde cu clasa a șasea sau a șaptea).
 
@@ -38,7 +38,7 @@ De amigdalele problematice am scăpat la limita vârstei când mă mai adormeau 
 
 Ah, tot legat de cât de bolnăvicios am fost în copilărie, știu că aveam pregătite toate cele să mă duc la școală la 6 ani și ceva în '85 dar am făcut otită. Maică-mea mi-a zis des că "în loc să începi școala ție îți curgea zeamă din urechi"... Așa că s-a amânat un an startul. Mi-a făcut mare plăcere să descopăr setul "Am învățat să cos" într-un pupitru și să-i termin toate planșele înainte să ajung la școală. Ce nu mi-a plăcut a fost că a trebuit să repet grupa mare la cămin și uram să stau la cămin pentru că nu se ocupau de noi și mă plictiseam teribil, abia am așteptat să ajung la școală. Unde am fost dezamăgit că nu ne-am apucat să învățăm să scriem imediat ci am început cu bastonașe și cârlige...
 
-Și o ultimă chestie: observați vă rog că nu era lipsită de curaj doamna doctor care a semnat biletul. Să dictezi în 1987, printre ultimii și cei mai grei ani de comunism, că externezi un copil pentru că „este foarte frig pe secție” și apoi să-ți pui parafa, necesita, cum ar zice englezul: *balls of steel*...
+Și o ultimă chestie: observați vă rog că nu era lipsită de curaj doamna doctor care a semnat biletul. Să dictezi în 1987, printre ultimii și cei mai grei ani de comunism, că externezi un copil pentru că "este foarte frig pe secție" și apoi să-ți pui parafa, necesita, cum ar zice englezul: *balls of steel*...
 
 PS. Articolul a fost început în 20 iulie 2026 - tocmai în ziua în care au început *problemele din această vară* - așa că îl public doar acuma.
 

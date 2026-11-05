@@ -24,7 +24,7 @@ Mama a tot repetat că am fost internat "suspect de meningită" dar pe biletul d
 
 Câteva amintiri din spital:
 
-- Cum stăteam și mă uitam pe geam așteptând-o pe maică-mea - și cu toate că nu am văzut-o niciodată venind tot mă benoclam zilnic. Clădirea pe care o vedeam de la geamul cu gratii a pediatriei de la etajul 11 al spitalului este clădirea unde în ziua de astăzi are contabila mea biroul.
+- Cum stăteam și mă uitam pe geam așteptând-o pe maică-mea - și cu toate că nu am văzut-o niciodată venind tot mă benoclam zilnic. Spatele clădirii pe care o vedeam de la geamul cu gratii a pediatriei de la etajul 11 al spitalului este cea unde în ziua de astăzi are contabila mea biroul.
 - Spitalul era în carantină, am avut mare noroc că maică-mea era asistentă și luând un halat alb pe ea se putea strecura să mă viziteze. A venit și tata odată, tot așa costumat în halat.
 - Pe la sfârșitul perioadei cât am stat în spital a apărut și vecinul meu Neluțu pe acolo și brusc a devenit totul mult mai tolerabil și trecea timpul mai repede.
 
